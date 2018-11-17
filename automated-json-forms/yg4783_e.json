@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "27": {
+        "description": "GENERIC FUEL TAX TRANSACTION REPORT - FTG-1",
+        "type": "string"
+      },
+      "28": {
+        "description": "Total Imports from Out-of-Jurisdiction (FTG-1)",
+        "type": "string"
+      },
+      "29": {
+        "description": "IMPORTS FROM OUT-OF-JURISDICTION",
+        "type": "string"
+      },
+      "30": {
+        "description": "SHOW TOTALS CARRIED FORWARD TO \u201cFUEL TAX SUMMARY FORM - FTG-TAX\u201d",
+        "type": "string"
+      },
+      "40": {
+        "description": "Federal Business",
+        "type": "string"
+      },
+      "41": {
+        "description": "Number                   Gasoline",
+        "type": "string"
+      },
+      "42": {
+        "description": "Dyed                      Aviation                  Ethanol                                                     Other                      Other",
+        "type": "string"
+      },
+      "43": {
+        "description": "Imports from out of Canada - Specify Jurisdiction",
+        "type": "string"
+      },
+      "44": {
+        "description": "YG(4783Q)F1 Rev.12/2000",
+        "type": "string"
+      },
+      "45": {
+        "description": "Saskatchewan",
+        "type": "string"
+      },
+      "46": {
+        "description": "Yukon",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

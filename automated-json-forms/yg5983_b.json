@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "98": {
+        "description": "DATE \u2022 DATE :",
+        "type": "string"
+      },
+      "99": {
+        "description": "Legal description",
+        "type": "string"
+      },
+      "100": {
+        "description": "Community subdivision",
+        "type": "string"
+      },
+      "101": {
+        "description": "Address of proposed work",
+        "type": "string"
+      },
+      "102": {
+        "description": "Lieu des travaux projet\u00e9s",
+        "type": "string"
+      },
+      "103": {
+        "description": "Description",
+        "type": "string"
+      },
+      "104": {
+        "description": "Lot",
+        "type": "string"
+      },
+      "105": {
+        "description": "Parcelle    Bloc    Plan    Quad  Groupe",
+        "type": "string"
+      },
+      "126": {
+        "description": "New non-residential bldg.",
+        "type": "string"
+      },
+      "127": {
+        "description": "this permit, if issued and l further agree to conform to all requirements of Building Standards Act and",
+        "type": "string"
+      },
+      "169": {
+        "description": "Staff Name",
+        "type": "string"
+      },
+      "170": {
+        "description": "Plumbing Fee",
+        "type": "string"
+      },
+      "171": {
+        "description": "Droits \u2011 plomberie",
+        "type": "string"
+      },
+      "172": {
+        "description": "Nom de l\u2019employ\u00e9    Date",
+        "type": "boolean"
+      },
+      "175": {
+        "description": "1Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

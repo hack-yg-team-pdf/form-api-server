@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "201": {
+        "description": "canoeing",
+        "type": "boolean"
+      },
+      "205": {
+        "description": "Part 2. Wilderness tourism activity",
+        "type": "boolean"
+      },
+      "210": {
+        "description": "Summer activities",
+        "type": "boolean"
+      },
+      "213": {
+        "description": "hiking/backpacking",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "horseback riding",
+        "type": "boolean"
+      },
+      "223": {
+        "description": "Please indicate the wilderness tourism activity that you intend to provide. (check all that apply)",
+        "type": "boolean"
+      },
+      "377": {
+        "description": "Licence Number",
+        "type": "string"
+      },
+      "378": {
+        "description": "OPERATOR/BUSINESS/COMPANY NAME:",
+        "type": "string"
+      },
+      "379": {
+        "description": "TOWN/CITY:",
+        "type": "string"
+      },
+      "380": {
+        "description": "PROVINCE/TERRITORY/STATE:",
+        "type": "string"
+      },
+      "381": {
+        "description": "COUNTRY:",
+        "type": "string"
+      },
+      "382": {
+        "description": "RESIDENT ADDRESS (STREET ADDRESS):",
+        "type": "string"
+      },
+      "383": {
+        "description": "FAX:",
+        "type": "string"
+      },
+      "384": {
+        "description": "TOWN/CITY:",
+        "type": "string"
+      },
+      "385": {
+        "description": "E-MAIL:",
+        "type": "string"
+      },
+      "386": {
+        "description": "TELEPHONE:",
+        "type": "string"
+      },
+      "387": {
+        "description": "Other",
+        "type": "string"
+      },
+      "388": {
+        "description": "Citizenship",
+        "type": "string"
+      },
+      "389": {
+        "description": "Canadian",
+        "type": "string"
+      },
+      "390": {
+        "description": "If you are not a Canadian citizen or a landed immigrant, do you have a work visa or other papers?",
+        "type": "string"
+      },
+      "391": {
+        "description": "L",
+        "type": "boolean"
+      },
+      "393": {
+        "description": "MAILING ADDRESS (BOX NUMBER/STREET ADDRESS):",
+        "type": "boolean"
+      },
+      "394": {
+        "description": "copy of your business registration.",
+        "type": "string"
+      },
+      "395": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "396": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "397": {
+        "description": "incorporation or registration under the Business Corporation Act. Please check the appropriate box and attach a",
+        "type": "string"
+      },
+      "398": {
+        "description": "Corporate or business information",
+        "type": "string"
+      },
+      "399": {
+        "description": "An operator applying for a licence under the Wilderness Tourism Licensing Act requires proof of Yukon",
+        "type": "boolean"
+      },
+      "400": {
+        "description": "Incorporation under the Business Corporation Act, or",
+        "type": "boolean"
+      },
+      "401": {
+        "description": "Extra-territorial registration under the Business Corporation Act, or",
+        "type": "boolean"
+      },
+      "402": {
+        "description": "Corporate address (if different from above)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

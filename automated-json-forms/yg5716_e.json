@@ -1,0 +1,691 @@
+{
+  "fields": {
+    "properties": {
+      "283": {
+        "description": "Longitude: -",
+        "type": "string"
+      },
+      "284": {
+        "description": "Town/City",
+        "type": "string"
+      },
+      "285": {
+        "description": "2.   Geo-Referenced Coordinates",
+        "type": "string"
+      },
+      "286": {
+        "description": "3.   Surveyed Parcel Description, enter a lot, block and plan number",
+        "type": "string"
+      },
+      "287": {
+        "description": "Renter",
+        "type": "string"
+      },
+      "288": {
+        "description": "User of Commingling Site",
+        "type": "string"
+      },
+      "289": {
+        "description": "o",
+        "type": "string"
+      },
+      "290": {
+        "description": "Owner",
+        "type": "string"
+      },
+      "291": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "292": {
+        "description": "4.   Street Address, if premises is contained in an urban area",
+        "type": "string"
+      },
+      "293": {
+        "description": "Part D. Relationship of Account Applicant to Premises (this is the relationship of the Contact Name in Part A to the",
+        "type": "string"
+      },
+      "294": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "295": {
+        "description": "Prov/Terr",
+        "type": "string"
+      },
+      "296": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "297": {
+        "description": "\u201cMain Ranch\u201d, \u201cGrazing Lease\u201d etc.)",
+        "type": "string"
+      },
+      "298": {
+        "description": "Part F. Premises Contact Information * (Individual responsible for care and control of animals, if different from Part A on this",
+        "type": "string"
+      },
+      "299": {
+        "description": "Lessee",
+        "type": "boolean"
+      },
+      "300": {
+        "description": "Part E. Name or Description of Premises",
+        "type": "string"
+      },
+      "301": {
+        "description": "Lot",
+        "type": "boolean"
+      },
+      "302": {
+        "description": "o",
+        "type": "string"
+      },
+      "303": {
+        "description": "Prov/Terr",
+        "type": "string"
+      },
+      "304": {
+        "description": "Street",
+        "type": "string"
+      },
+      "305": {
+        "description": "Latitude: +",
+        "type": "string"
+      },
+      "306": {
+        "description": "Operator of Commingling Site",
+        "type": "boolean"
+      },
+      "307": {
+        "description": "Part C. Location * (Select only one of the following methods to identify the premises)",
+        "type": "boolean"
+      },
+      "308": {
+        "description": "First Name                                                       Middle Name                                               Last Name",
+        "type": "string"
+      },
+      "309": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "310": {
+        "description": "o",
+        "type": "string"
+      },
+      "311": {
+        "description": "Premises)*",
+        "type": "string"
+      },
+      "312": {
+        "description": "Livestock Share owner",
+        "type": "string"
+      },
+      "313": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "314": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "315": {
+        "description": "Block",
+        "type": "boolean"
+      },
+      "316": {
+        "description": "Street",
+        "type": "string"
+      },
+      "317": {
+        "description": "PID Application)",
+        "type": "string"
+      },
+      "318": {
+        "description": "*Required Information",
+        "type": "string"
+      },
+      "319": {
+        "description": "o",
+        "type": "string"
+      },
+      "320": {
+        "description": "Chicken producers .................  capacity:",
+        "type": "boolean"
+      },
+      "321": {
+        "description": "Hatching egg producers .........  capacity:",
+        "type": "string"
+      },
+      "322": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "323": {
+        "description": "o",
+        "type": "string"
+      },
+      "324": {
+        "description": "Geese in Captivity ..................  capacity:",
+        "type": "boolean"
+      },
+      "325": {
+        "description": "Goats ......................................  capacity:",
+        "type": "string"
+      },
+      "326": {
+        "description": "Part G. Operation* (Check all operations on this premises)",
+        "type": "boolean"
+      },
+      "327": {
+        "description": "o",
+        "type": "string"
+      },
+      "328": {
+        "description": "Ducks in captivity ...................  capacity:",
+        "type": "boolean"
+      },
+      "329": {
+        "description": "o",
+        "type": "string"
+      },
+      "330": {
+        "description": "Doves in captivity ...................  capacity:",
+        "type": "boolean"
+      },
+      "331": {
+        "description": "o",
+        "type": "string"
+      },
+      "332": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "333": {
+        "description": "o",
+        "type": "string"
+      },
+      "334": {
+        "description": "1Rabbits raised for the production of meat",
+        "type": "boolean"
+      },
+      "335": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "336": {
+        "description": "o",
+        "type": "string"
+      },
+      "337": {
+        "description": "Domestic Cervids ...................  capacity:",
+        "type": "boolean"
+      },
+      "338": {
+        "description": "o",
+        "type": "string"
+      },
+      "339": {
+        "description": "Cattle Beef .............................  capacity:",
+        "type": "boolean"
+      },
+      "340": {
+        "description": "o",
+        "type": "string"
+      },
+      "341": {
+        "description": "Bison ......................................  capacity:",
+        "type": "boolean"
+      },
+      "342": {
+        "description": "o",
+        "type": "string"
+      },
+      "343": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "344": {
+        "description": "o",
+        "type": "string"
+      },
+      "345": {
+        "description": "Cattle Dairy ............................  capacity:",
+        "type": "boolean"
+      },
+      "346": {
+        "description": "Grazing Lease ...............................  capacity:",
+        "type": "string"
+      },
+      "347": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "348": {
+        "description": "Yaks ...............................................  capacity:",
+        "type": "string"
+      },
+      "349": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "350": {
+        "description": "Wild Turkeys in captivity ................  capacity:",
+        "type": "string"
+      },
+      "351": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "352": {
+        "description": "Wild Boars .....................................  capacity:",
+        "type": "string"
+      },
+      "353": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "354": {
+        "description": "Turkey producers ...........................  capacity:",
+        "type": "string"
+      },
+      "355": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "356": {
+        "description": "Table egg producers ......................  capacity:",
+        "type": "string"
+      },
+      "357": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "358": {
+        "description": "Swine ............................................   capacity:",
+        "type": "string"
+      },
+      "359": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "360": {
+        "description": "Sheep ............................................  capacity:",
+        "type": "string"
+      },
+      "361": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "362": {
+        "description": "Ratites ...........................................  capacity:",
+        "type": "string"
+      },
+      "363": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "364": {
+        "description": "Rabbits1 .........................................  capacity:",
+        "type": "string"
+      },
+      "365": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "366": {
+        "description": "Quail in captivity ............................  capacity:",
+        "type": "string"
+      },
+      "367": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "368": {
+        "description": "Pullet producers ............................  capacity:",
+        "type": "string"
+      },
+      "369": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "370": {
+        "description": "Poultry in captivity .........................  capacity:",
+        "type": "string"
+      },
+      "371": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "372": {
+        "description": "Pigeons in captivity .......................  capacity:",
+        "type": "string"
+      },
+      "373": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "374": {
+        "description": "Peafowl in captivity ........................  capacity:",
+        "type": "string"
+      },
+      "375": {
+        "description": "Other (specify below) ....................  capacity:",
+        "type": "boolean"
+      },
+      "376": {
+        "description": "Pheasants in captivity ...................  capacity:",
+        "type": "string"
+      },
+      "377": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "378": {
+        "description": "o",
+        "type": "string"
+      },
+      "379": {
+        "description": "Alpacas ...................................  capacity:",
+        "type": "string"
+      },
+      "380": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "383": {
+        "description": "Page 3",
+        "type": "boolean"
+      },
+      "387": {
+        "description": "Fairs and Exhibition",
+        "type": "boolean"
+      },
+      "388": {
+        "description": "Livestock and Poultry",
+        "type": "boolean"
+      },
+      "389": {
+        "description": "Game Farm",
+        "type": "boolean"
+      },
+      "390": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "391": {
+        "description": "Chicken/ Turkey",
+        "type": "boolean"
+      },
+      "392": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "393": {
+        "description": "Community Pasture",
+        "type": "boolean"
+      },
+      "394": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "395": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "396": {
+        "description": "Animal Embryo",
+        "type": "boolean"
+      },
+      "397": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "398": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "399": {
+        "description": "Guinea Fowl in captivity .........  capacity:",
+        "type": "string"
+      },
+      "400": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "401": {
+        "description": "PREMISES IDENTIFICATION (PID) PROGRAM",
+        "type": "boolean"
+      },
+      "402": {
+        "description": "Competition Facilities",
+        "type": "boolean"
+      },
+      "403": {
+        "description": "Assembling Station",
+        "type": "boolean"
+      },
+      "404": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "405": {
+        "description": "Boarding Stable",
+        "type": "boolean"
+      },
+      "406": {
+        "description": "Animal Artificial",
+        "type": "boolean"
+      },
+      "407": {
+        "description": "Farm",
+        "type": "boolean"
+      },
+      "408": {
+        "description": "Part H. Species* (Check all species that are on the premises, and for each species selected, indicate the maximum capacity \u2013 i.e.",
+        "type": "string"
+      },
+      "409": {
+        "description": "the maximum number of animals this premises can accommodate)",
+        "type": "boolean"
+      },
+      "410": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "411": {
+        "description": "Llamas ....................................  capacity:",
+        "type": "string"
+      },
+      "412": {
+        "description": "Mules, Donkeys ......................  capacity:",
+        "type": "boolean"
+      },
+      "413": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "414": {
+        "description": "o",
+        "type": "string"
+      },
+      "415": {
+        "description": "Renderer",
+        "type": "boolean"
+      },
+      "416": {
+        "description": "Horses ....................................  capacity:",
+        "type": "string"
+      },
+      "417": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "418": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "953": {
+        "description": "Mailing Address*",
+        "type": "string"
+      },
+      "954": {
+        "description": "Town / City*",
+        "type": "string"
+      },
+      "955": {
+        "description": "Phone*                                                                  Mobile (cell) phone",
+        "type": "string"
+      },
+      "956": {
+        "description": "Individual responsible for the maintenance of information of this application*",
+        "type": "string"
+      },
+      "957": {
+        "description": "Part A. General Information",
+        "type": "string"
+      },
+      "958": {
+        "description": "Account Contact name,",
+        "type": "string"
+      },
+      "959": {
+        "description": "First Name                                      Middle Name                                        Last Name",
+        "type": "string"
+      },
+      "960": {
+        "description": "New Applicant",
+        "type": "string"
+      },
+      "961": {
+        "description": "(          )",
+        "type": "string"
+      },
+      "962": {
+        "description": "(          )",
+        "type": "string"
+      },
+      "963": {
+        "description": "Fax                                                                        E-mail",
+        "type": "string"
+      },
+      "964": {
+        "description": "Part A of this form, it is not necessary to complete a Schedule A for each premises registered to the account.",
+        "type": "string"
+      },
+      "965": {
+        "description": "*Required Information",
+        "type": "string"
+      },
+      "966": {
+        "description": "Purpose of Application*",
+        "type": "string"
+      },
+      "967": {
+        "description": "Complete this form to set-up a new PID account or update an existing PID account in Yukon Agriculture\u2019s Premises Identification",
+        "type": "string"
+      },
+      "968": {
+        "description": "(          )",
+        "type": "string"
+      },
+      "969": {
+        "description": "Yukon Agriculture Branch",
+        "type": "string"
+      },
+      "970": {
+        "description": "ID Number",
+        "type": "string"
+      },
+      "971": {
+        "description": "CCIA Account ID",
+        "type": "string"
+      },
+      "972": {
+        "description": "Postal Code*",
+        "type": "string"
+      },
+      "973": {
+        "description": "Application registers or updates under the program.  If an Applicant has an existing PID account and is simply updating information in",
+        "type": "string"
+      },
+      "974": {
+        "description": "Program.  This form should be accompanied by a Schedule A \u2013 Premises Information Sheet for Animal Owners \u2013 for each premises an",
+        "type": "string"
+      },
+      "975": {
+        "description": "o",
+        "type": "string"
+      },
+      "976": {
+        "description": "Province*",
+        "type": "string"
+      },
+      "977": {
+        "description": "o",
+        "type": "string"
+      },
+      "978": {
+        "description": "Individual                                                           Trusts",
+        "type": "string"
+      },
+      "979": {
+        "description": "Partnership (Limited Liability Partnership          Non-Profit",
+        "type": "string"
+      },
+      "980": {
+        "description": "For individual applicants, the individual must sign.  For corporations and other entities authorized signatories must sign.",
+        "type": "string"
+      },
+      "981": {
+        "description": "o",
+        "type": "string"
+      },
+      "982": {
+        "description": "or commingling site of which I am either an owner or an operator is complete and correct;",
+        "type": "string"
+      },
+      "983": {
+        "description": "2.   I will provide the necessary updates required by law to ensure that the information related to any premises on which I own animals",
+        "type": "string"
+      },
+      "984": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "985": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "986": {
+        "description": "PREMISES IDENTIFICATION (PID) PROGRAM",
+        "type": "boolean"
+      },
+      "987": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "988": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "989": {
+        "description": "Legal Business Name* (if sole proprietor, name of individual)",
+        "type": "boolean"
+      },
+      "990": {
+        "description": "I certify that:",
+        "type": "string"
+      },
+      "991": {
+        "description": "Print Name                                                         Signature                                              Date (mm/dd/yyyy)",
+        "type": "string"
+      },
+      "992": {
+        "description": "The information contained in or attached to this form is being collected under the authority of the Animal Health Act. The information",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

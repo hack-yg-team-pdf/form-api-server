@@ -1,0 +1,463 @@
+{
+  "fields": {
+    "properties": {
+      "50": {
+        "description": "adreSSe PoStale",
+        "type": "string"
+      },
+      "51": {
+        "description": "Section B \u2013 SuBScriBer",
+        "type": "string"
+      },
+      "52": {
+        "description": "name (SuRname, FiRSt name, initialS)",
+        "type": "string"
+      },
+      "53": {
+        "description": "Partie B \u2013 souscriPteur/souscriPtrice",
+        "type": "string"
+      },
+      "57": {
+        "description": "mailinG aDDReSS",
+        "type": "string"
+      },
+      "58": {
+        "description": "Ville/Village",
+        "type": "string"
+      },
+      "59": {
+        "description": "Partie c \u2013 Personnes \u00c0 charge",
+        "type": "string"
+      },
+      "60": {
+        "description": "m/f",
+        "type": "string"
+      },
+      "61": {
+        "description": "m/F",
+        "type": "string"
+      },
+      "62": {
+        "description": "ReSiDence aDDReSS",
+        "type": "string"
+      },
+      "63": {
+        "description": "citY/town",
+        "type": "string"
+      },
+      "64": {
+        "description": "telePHone numbeR",
+        "type": "string"
+      },
+      "65": {
+        "description": "Sex",
+        "type": "string"
+      },
+      "66": {
+        "description": "Section c \u2013 dependantS",
+        "type": "string"
+      },
+      "67": {
+        "description": "citY/town",
+        "type": "string"
+      },
+      "68": {
+        "description": "biRtH Date",
+        "type": "string"
+      },
+      "69": {
+        "description": "YY",
+        "type": "string"
+      },
+      "70": {
+        "description": "aRRival Date",
+        "type": "string"
+      },
+      "71": {
+        "description": "DD",
+        "type": "string"
+      },
+      "72": {
+        "description": "mm",
+        "type": "string"
+      },
+      "73": {
+        "description": "nom (nom de famille, Pr\u00e9nom, initialeS )",
+        "type": "string"
+      },
+      "74": {
+        "description": "name (SuRname, FiRSt name, initialS)",
+        "type": "string"
+      },
+      "75": {
+        "description": "Social inSuRance numbeR",
+        "type": "string"
+      },
+      "76": {
+        "description": "YY",
+        "type": "string"
+      },
+      "77": {
+        "description": "mm",
+        "type": "string"
+      },
+      "78": {
+        "description": "mm",
+        "type": "string"
+      },
+      "79": {
+        "description": "DD",
+        "type": "string"
+      },
+      "80": {
+        "description": "m/F",
+        "type": "string"
+      },
+      "81": {
+        "description": "banD/DiSc numbeR",
+        "type": "string"
+      },
+      "82": {
+        "description": "DD",
+        "type": "string"
+      },
+      "83": {
+        "description": "Ville/Village",
+        "type": "string"
+      },
+      "84": {
+        "description": "YY",
+        "type": "string"
+      },
+      "85": {
+        "description": "mm",
+        "type": "string"
+      },
+      "86": {
+        "description": "DD",
+        "type": "string"
+      },
+      "87": {
+        "description": "JJ",
+        "type": "string"
+      },
+      "88": {
+        "description": "Social inSuRance numbeR",
+        "type": "string"
+      },
+      "89": {
+        "description": "name (SuRname, FiRSt name, initialS)",
+        "type": "string"
+      },
+      "90": {
+        "description": "no d\u2019aSSurance Sociale",
+        "type": "string"
+      },
+      "91": {
+        "description": "YY",
+        "type": "string"
+      },
+      "92": {
+        "description": "mm",
+        "type": "string"
+      },
+      "93": {
+        "description": "DD",
+        "type": "string"
+      },
+      "94": {
+        "description": "m/F",
+        "type": "string"
+      },
+      "95": {
+        "description": "m/F",
+        "type": "string"
+      },
+      "96": {
+        "description": "YY",
+        "type": "string"
+      },
+      "97": {
+        "description": "mm",
+        "type": "string"
+      },
+      "98": {
+        "description": "DD",
+        "type": "string"
+      },
+      "99": {
+        "description": "mm",
+        "type": "string"
+      },
+      "100": {
+        "description": "name (SuRname, FiRSt name, initialS)",
+        "type": "string"
+      },
+      "101": {
+        "description": "Deletion Date",
+        "type": "string"
+      },
+      "102": {
+        "description": "date de SuPPreSSion   motif",
+        "type": "string"
+      },
+      "103": {
+        "description": "YY",
+        "type": "string"
+      },
+      "104": {
+        "description": "mm",
+        "type": "string"
+      },
+      "105": {
+        "description": "DD",
+        "type": "string"
+      },
+      "106": {
+        "description": "JJ",
+        "type": "string"
+      },
+      "107": {
+        "description": "Sex",
+        "type": "string"
+      },
+      "108": {
+        "description": "f",
+        "type": "string"
+      },
+      "109": {
+        "description": "n",
+        "type": "string"
+      },
+      "110": {
+        "description": "s",
+        "type": "string"
+      },
+      "111": {
+        "description": "YHciP i.D.",
+        "type": "string"
+      },
+      "112": {
+        "description": "YY",
+        "type": "string"
+      },
+      "113": {
+        "description": "mm",
+        "type": "string"
+      },
+      "114": {
+        "description": "DD",
+        "type": "string"
+      },
+      "115": {
+        "description": "YY",
+        "type": "string"
+      },
+      "116": {
+        "description": "mm",
+        "type": "string"
+      },
+      "117": {
+        "description": "DD",
+        "type": "string"
+      },
+      "118": {
+        "description": "m/F",
+        "type": "string"
+      },
+      "119": {
+        "description": "biRtH Date",
+        "type": "string"
+      },
+      "120": {
+        "description": "i",
+        "type": "string"
+      },
+      "121": {
+        "description": "s",
+        "type": "string"
+      },
+      "122": {
+        "description": "YHciP i.D.",
+        "type": "string"
+      },
+      "123": {
+        "description": "c.i. du raSy",
+        "type": "string"
+      },
+      "124": {
+        "description": "YY",
+        "type": "string"
+      },
+      "125": {
+        "description": "aa",
+        "type": "string"
+      },
+      "126": {
+        "description": "mm",
+        "type": "string"
+      },
+      "127": {
+        "description": "YY",
+        "type": "string"
+      },
+      "128": {
+        "description": "mm",
+        "type": "string"
+      },
+      "129": {
+        "description": "DD",
+        "type": "string"
+      },
+      "130": {
+        "description": "JJ",
+        "type": "string"
+      },
+      "131": {
+        "description": "m/F",
+        "type": "string"
+      },
+      "132": {
+        "description": "o",
+        "type": "string"
+      },
+      "133": {
+        "description": "P",
+        "type": "string"
+      },
+      "134": {
+        "description": "s",
+        "type": "string"
+      },
+      "135": {
+        "description": "Partie d \u2013 d\u00e9claration",
+        "type": "string"
+      },
+      "136": {
+        "description": "aa",
+        "type": "string"
+      },
+      "137": {
+        "description": "mm",
+        "type": "string"
+      },
+      "138": {
+        "description": "JJ",
+        "type": "string"
+      },
+      "139": {
+        "description": "YY",
+        "type": "string"
+      },
+      "140": {
+        "description": "mm",
+        "type": "string"
+      },
+      "141": {
+        "description": "DD",
+        "type": "string"
+      },
+      "142": {
+        "description": "JJ",
+        "type": "string"
+      },
+      "143": {
+        "description": "Je d\u00e9clare par la pr\u00e9sente que je suis r\u00e9sident/r\u00e9sidente du yukon. Je suis conscient(e) que",
+        "type": "string"
+      },
+      "144": {
+        "description": "m/F",
+        "type": "string"
+      },
+      "145": {
+        "description": "e",
+        "type": "string"
+      },
+      "146": {
+        "description": "o",
+        "type": "string"
+      },
+      "147": {
+        "description": "n",
+        "type": "string"
+      },
+      "148": {
+        "description": "i hereby declare that i am a resident of the Yukon and i understand that it is an offence to give",
+        "type": "string"
+      },
+      "149": {
+        "description": "mm",
+        "type": "string"
+      },
+      "150": {
+        "description": "motif JuStifiant l\u2019annulation de la Protection du raSy",
+        "type": "string"
+      },
+      "151": {
+        "description": "DD",
+        "type": "string"
+      },
+      "152": {
+        "description": "s",
+        "type": "string"
+      },
+      "153": {
+        "description": "s",
+        "type": "string"
+      },
+      "154": {
+        "description": "false information in this application.",
+        "type": "string"
+      },
+      "155": {
+        "description": "Section d \u2013 declaration",
+        "type": "string"
+      },
+      "156": {
+        "description": "date",
+        "type": "string"
+      },
+      "157": {
+        "description": "Date",
+        "type": "string"
+      },
+      "158": {
+        "description": "JJ",
+        "type": "string"
+      },
+      "159": {
+        "description": "ReaSon FoR cancellation oF YHciP coveRaGe",
+        "type": "string"
+      },
+      "160": {
+        "description": "YY",
+        "type": "string"
+      },
+      "161": {
+        "description": "YY",
+        "type": "string"
+      },
+      "162": {
+        "description": "mm",
+        "type": "string"
+      },
+      "163": {
+        "description": "DD",
+        "type": "string"
+      },
+      "164": {
+        "description": "at 667-5209 or toll free, at 1-800-661-0408, ext. 5209.",
+        "type": "string"
+      },
+      "165": {
+        "description": "notice to clients: information is collected under the authority of the health care insurance Plan act for",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "the purpose of determining program eligibility. queries should be directed to the Registration Receptionist",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

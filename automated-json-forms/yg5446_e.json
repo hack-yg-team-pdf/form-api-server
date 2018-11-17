@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "179": {
+        "description": "B. SENDER INFORMATION",
+        "type": "string"
+      },
+      "180": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "181": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "182": {
+        "description": "Address",
+        "type": "string"
+      },
+      "183": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "184": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "185": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "187": {
+        "description": "Email",
+        "type": "string"
+      },
+      "188": {
+        "description": "Contact Name",
+        "type": "string"
+      },
+      "189": {
+        "description": "C. ATTACHMENTS",
+        "type": "string"
+      },
+      "190": {
+        "description": "Title",
+        "type": "string"
+      },
+      "191": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "192": {
+        "description": "D. COMMENTS",
+        "type": "string"
+      },
+      "195": {
+        "description": "Branch File #:   Date Received:              /         /            Time Received:",
+        "type": "string"
+      },
+      "196": {
+        "description": "Personal information on this form is collected under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "197": {
+        "description": "YG(5446EQ)F1 Rev.06/2017",
+        "type": "string"
+      },
+      "198": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

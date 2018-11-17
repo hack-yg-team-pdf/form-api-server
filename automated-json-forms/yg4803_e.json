@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "properties": {
+      "14": {
+        "description": "Confidentiality:  This information is being collected under the authority of the Wilderness Tourism Licensing Act",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

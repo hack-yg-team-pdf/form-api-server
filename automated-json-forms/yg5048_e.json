@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "82": {
+        "description": "mininG District",
+        "type": "string"
+      },
+      "83": {
+        "description": "Give notice of intention to group the said claims for the performance of work and do hereby apply under the provisions of",
+        "type": "string"
+      },
+      "84": {
+        "description": "section 55 of the quartz mining act for a certificate in form 6.",
+        "type": "string"
+      },
+      "85": {
+        "description": "i (We) hereby certify that the above claims are adjoining as shown on the attached sketch",
+        "type": "string"
+      },
+      "86": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "87": {
+        "description": "this  day of , 20",
+        "type": "string"
+      },
+      "88": {
+        "description": "client i.D. number",
+        "type": "string"
+      },
+      "89": {
+        "description": "Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines and Resources,",
+        "type": "string"
+      },
+      "90": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "91": {
+        "description": "Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190",
+        "type": "string"
+      },
+      "92": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Quartz Mining Act.",
+        "type": "string"
+      },
+      "93": {
+        "description": "YG(5048eQ)f1 rev.01/2012",
+        "type": "string"
+      },
+      "94": {
+        "description": "Applicant(s)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

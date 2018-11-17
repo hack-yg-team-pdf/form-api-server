@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "44": {
+        "description": "8.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "45": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "48": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "790": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "791": {
+        "description": "3.  Prescribed profession which one or more partners practice in Yukon :",
+        "type": "string"
+      },
+      "792": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "793": {
+        "description": "Nom de l\u2019associ\u00e9e qui signe (lorsqu\u2019un associ\u00e9 n\u2019est pas un particulier, inscrire le num\u00e9ro d\u2019enregistrement au",
+        "type": "string"
+      },
+      "794": {
+        "description": "name of each individual who practices the profession on behalf of the partner) :",
+        "type": "string"
+      },
+      "795": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "796": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "797": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "798": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "799": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "800": {
+        "description": "que la convention d\u2019association autorise la pr\u00e9sentation de la pr\u00e9sente demande.",
+        "type": "string"
+      },
+      "801": {
+        "description": "the partnership agreement authorizes the filing of this request.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

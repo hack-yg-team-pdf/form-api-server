@@ -1,0 +1,159 @@
+{
+  "fields": {
+    "properties": {
+      "2322": {
+        "description": "Organization:",
+        "type": "string"
+      },
+      "2325": {
+        "description": "Licence number:",
+        "type": "string"
+      },
+      "2326": {
+        "description": "Member contact info:",
+        "type": "string"
+      },
+      "2327": {
+        "description": "Seller\u2019s name",
+        "type": "string"
+      },
+      "2331": {
+        "description": "Page 1 of 3",
+        "type": "string"
+      },
+      "2332": {
+        "description": "Signature of raffle coordinator:     Date:                       Signature of treasurer date:     Date:",
+        "type": "string"
+      },
+      "2333": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2334": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2335": {
+        "description": "MM/DD",
+        "type": "string"
+      },
+      "2339": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2340": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2341": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2342": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2343": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2344": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2351": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2352": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2353": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2354": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2355": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2359": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2360": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2361": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2362": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2363": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2364": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2371": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2372": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2373": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2374": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2375": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2379": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2380": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2381": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2382": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2383": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "2384": {
+        "description": "MM/ DD",
+        "type": "string"
+      },
+      "2391": {
+        "description": "YG(5759EQ)F3 Rev.08/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

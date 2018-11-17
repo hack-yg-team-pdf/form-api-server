@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "48": {
+        "description": "Contact person",
+        "type": "string"
+      },
+      "50": {
+        "description": "Local authority for recreation",
+        "type": "string"
+      },
+      "52": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "53": {
+        "description": "Describe the need and benefit of the project to your community",
+        "type": "string"
+      },
+      "54": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "55": {
+        "description": "Description of project (attach additional sheet if needed)",
+        "type": "string"
+      },
+      "57": {
+        "description": "Total project cost",
+        "type": "string"
+      },
+      "58": {
+        "description": "Project start date",
+        "type": "string"
+      },
+      "60": {
+        "description": "Email",
+        "type": "string"
+      },
+      "61": {
+        "description": "Position/title",
+        "type": "string"
+      },
+      "62": {
+        "description": "Project end date",
+        "type": "string"
+      },
+      "64": {
+        "description": "Project name",
+        "type": "string"
+      },
+      "68": {
+        "description": "Date:",
+        "type": "boolean"
+      },
+      "70": {
+        "description": "Comments:",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "Application checklist:",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "Include quotes (capital costs, equipment, supplies, contract fees, etc.)",
+        "type": "boolean"
+      },
+      "76": {
+        "description": "Application signed by board member with signing authority",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

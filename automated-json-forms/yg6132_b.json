@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "313": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "314": {
+        "description": "3.  Jurisdiction into which the corporation wishes to continue :",
+        "type": "string"
+      },
+      "315": {
+        "description": "4.  Date shareholders authorized the continuance :",
+        "type": "string"
+      },
+      "316": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "317": {
+        "description": "6.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "318": {
+        "description": "8.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "319": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "320": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "321": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "324": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

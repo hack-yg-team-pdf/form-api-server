@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "234": {
+        "description": "B. LOCATION",
+        "type": "string"
+      },
+      "235": {
+        "description": "Grid Area(s)",
+        "type": "string"
+      },
+      "236": {
+        "description": "Section(s)",
+        "type": "string"
+      },
+      "237": {
+        "description": "C. CONTACT INFORMATION",
+        "type": "string"
+      },
+      "238": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "239": {
+        "description": "Company/Person",
+        "type": "string"
+      },
+      "240": {
+        "description": "Authorized Signature",
+        "type": "string"
+      },
+      "241": {
+        "description": "Title",
+        "type": "string"
+      },
+      "242": {
+        "description": "Name (please print)",
+        "type": "string"
+      },
+      "243": {
+        "description": "D. ATTACHMENTS",
+        "type": "string"
+      },
+      "244": {
+        "description": "Map",
+        "type": "string"
+      },
+      "245": {
+        "description": "included     OR",
+        "type": "string"
+      },
+      "246": {
+        "description": "emailed. Filename:",
+        "type": "string"
+      },
+      "247": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "248": {
+        "description": "Address",
+        "type": "string"
+      },
+      "249": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "251": {
+        "description": "Email",
+        "type": "string"
+      },
+      "252": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "253": {
+        "description": "Request for Posting Form",
+        "type": "string"
+      },
+      "254": {
+        "description": "Indicate if digital geo-referenced file with associated metadata has been:",
+        "type": "string"
+      },
+      "256": {
+        "description": "Record #:",
+        "type": "string"
+      },
+      "263": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "264": {
+        "description": "YG(5330EQ)F1 Rev.06/2017",
+        "type": "string"
+      },
+      "266": {
+        "description": "Date Received:              /         /",
+        "type": "string"
+      },
+      "267": {
+        "description": "Time Received:",
+        "type": "string"
+      },
+      "271": {
+        "description": "Personal information on this form is collected under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "Date Recorded:              /         /",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

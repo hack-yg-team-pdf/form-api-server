@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "133": {
+        "description": "YOUR PROJECT",
+        "type": "string"
+      },
+      "134": {
+        "description": "Mailing Address of Applicant",
+        "type": "string"
+      },
+      "135": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "136": {
+        "description": "and attach all necessary information.",
+        "type": "string"
+      },
+      "138": {
+        "description": "(more space on next page)",
+        "type": "string"
+      },
+      "139": {
+        "description": "Email",
+        "type": "string"
+      },
+      "140": {
+        "description": "Site Name (if applicable)",
+        "type": "string"
+      },
+      "141": {
+        "description": "Site Address/Location",
+        "type": "string"
+      },
+      "142": {
+        "description": "Same as above",
+        "type": "boolean"
+      },
+      "143": {
+        "description": "Summarize the historical significance of this site:",
+        "type": "string"
+      },
+      "144": {
+        "description": "Please read the accompanying guidelines carefully before completing this application. Please fill out completely",
+        "type": "string"
+      },
+      "145": {
+        "description": "Name of Owner",
+        "type": "string"
+      },
+      "147": {
+        "description": "File #",
+        "type": "string"
+      },
+      "150": {
+        "description": "Name of Applicant",
+        "type": "boolean"
+      },
+      "151": {
+        "description": "Mailing Address of Owner",
+        "type": "string"
+      },
+      "153": {
+        "description": "Date Rec\u2019d   YYYY  /  MM  /  DD",
+        "type": "string"
+      },
+      "155": {
+        "description": "Describe proposed work (continue on separate sheets if required):",
+        "type": "string"
+      },
+      "168": {
+        "description": "Recommendations",
+        "type": "string"
+      },
+      "171": {
+        "description": "Estimated total project value (from Appendix A)",
+        "type": "string"
+      },
+      "173": {
+        "description": "Completion date     YYYY  /  MM  /  DD",
+        "type": "boolean"
+      },
+      "178": {
+        "description": "Historic documentation",
+        "type": "string"
+      },
+      "186": {
+        "description": "COST AND SCHEDULING",
+        "type": "string"
+      },
+      "197": {
+        "description": "The following documents are attached:",
+        "type": "string"
+      },
+      "203": {
+        "description": "Plans and specifications",
+        "type": "string"
+      },
+      "206": {
+        "description": "DOCUMENTATION",
+        "type": "boolean"
+      },
+      "210": {
+        "description": "Proposed project start date      YYYY  /  MM  /  DD",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

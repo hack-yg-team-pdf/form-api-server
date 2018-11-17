@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "232": {
+        "description": "On behalf of the ,",
+        "type": "string"
+      },
+      "235": {
+        "description": "I, ,",
+        "type": "string"
+      },
+      "236": {
+        "description": "of",
+        "type": "string"
+      },
+      "237": {
+        "description": "the name of the group printed above, in favor of a transfer to",
+        "type": "string"
+      },
+      "238": {
+        "description": "HEREBY relinquish and abandon forever the sole and exclusive right and privilege of trapping furbearing",
+        "type": "string"
+      },
+      "239": {
+        "description": "animals within the area being the subject of a trapping concession, number  held in",
+        "type": "string"
+      },
+      "240": {
+        "description": "I FURTHER DECLARE that all group member signatures below are the true signatures of those",
+        "type": "string"
+      },
+      "241": {
+        "description": "members and that all group members have agreed to the relinquishment of this concession.",
+        "type": "string"
+      },
+      "242": {
+        "description": "signing in the presence of a notary public or conservation officer. Attach additional pages if more group member",
+        "type": "string"
+      },
+      "243": {
+        "description": "Please note that the group spokesperson is required to sign in the presence of a notary public or conservation officer, but",
+        "type": "string"
+      },
+      "244": {
+        "description": "that group members are not. It is recommended that group member signatures are gathered prior to the spokesperson",
+        "type": "string"
+      },
+      "245": {
+        "description": "signatures are required.",
+        "type": "string"
+      },
+      "246": {
+        "description": "mation, contact the ATIPP Coordinator, Yukon Department of Environment, Box 2703, Whitehorse, Yukon, Y1A 2C6, (867) 667-5652 or 1-800-661-0408 ext. 5652 within Yukon.",
+        "type": "string"
+      },
+      "247": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the administration",
+        "type": "string"
+      },
+      "248": {
+        "description": "and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection of your infor-",
+        "type": "string"
+      },
+      "249": {
+        "description": "YG(6422EQ)F1 Rev.06/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

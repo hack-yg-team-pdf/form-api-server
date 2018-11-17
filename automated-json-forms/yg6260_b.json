@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "73": {
+        "description": "Mailing address \u2022 Adresse postale",
+        "type": "string"
+      },
+      "76": {
+        "description": "Owner",
+        "type": "string"
+      },
+      "77": {
+        "description": "Request  \u2022 Objet de la demande :",
+        "type": "string"
+      },
+      "81": {
+        "description": "Change tank size \u2022 Changement de capacit\u00e9 du r\u00e9servoir",
+        "type": "string"
+      },
+      "82": {
+        "description": "Suspension of service \u2022 Interruption du service",
+        "type": "string"
+      },
+      "84": {
+        "description": "New delivery \u2022 Nouvelle livraison        Tank size \u2022 Capacit\u00e9 du r\u00e9servoir :",
+        "type": "string"
+      },
+      "90": {
+        "description": "Comments \u2022 Commentaires :",
+        "type": "string"
+      },
+      "91": {
+        "description": "Applicant signature",
+        "type": "string"
+      },
+      "92": {
+        "description": "doit \u00eatre approuv\u00e9, accessible et install\u00e9 de fa\u00e7on \u00e0 offrir une lecture pr\u00e9cise du niveau d\u2019eau. Merci de votre collaboration",
+        "type": "string"
+      },
+      "93": {
+        "description": "Nota :  Le service comprend 3 livraisons par semaine (au maximum) durant les heures d\u2019ouverture habituelles. Le r\u00e9servoir",
+        "type": "string"
+      },
+      "94": {
+        "description": "Note:  Service includes a maximum of 3 deliveries per week during normal business hours. Tank must be approved,",
+        "type": "string"
+      },
+      "95": {
+        "description": "Questions or comments: phone 867-667-8945, fax 867-393-6397, email waterdelivery@gov.yk.ca",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "Si vous avez des questions ou des commentaires \u00e0 formuler : Par t\u00e9l\u00e9phone, au 867-667-8945 ou par t\u00e9l\u00e9copieur,",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "168": {
+        "description": "QUARTZ MINING LAND USE REGULATION",
+        "type": "string"
+      },
+      "169": {
+        "description": "NOM(S) DE LA(DES)",
+        "type": "string"
+      },
+      "170": {
+        "description": "CLAIMS FOR RENEWAL \u2022 CONCESSION(S) VIS\u00c9E(S) PAR LE RENOUVELLEMENT",
+        "type": "string"
+      },
+      "171": {
+        "description": "CLAIM OWNER(S) FULL NAME (if different from applicant):",
+        "type": "string"
+      },
+      "172": {
+        "description": "ADRESSE POSTALE DU DEMANDEUR :",
+        "type": "string"
+      },
+      "173": {
+        "description": "NUM\u00c9RO DE T\u00c9L\u00c9COPIEUR DU DEMANDEUR :",
+        "type": "string"
+      },
+      "174": {
+        "description": "APPLICANT\u2019S TELEPHONE NUMBER:",
+        "type": "string"
+      },
+      "175": {
+        "description": "ADDRESSE COURRIEL DU DEMANDEUR :",
+        "type": "string"
+      },
+      "176": {
+        "description": "NUM\u00c9RO DE T\u00c9L\u00c9PHONE DU DEMANDEUR :",
+        "type": "string"
+      },
+      "177": {
+        "description": "APPLICANT\u2019S FAX NUMBER:",
+        "type": "string"
+      },
+      "178": {
+        "description": "APPLICANT\u2019S NAME:",
+        "type": "string"
+      },
+      "179": {
+        "description": "Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "string"
+      },
+      "180": {
+        "description": "YG(5220Q)F1 Rev.08/2012",
+        "type": "string"
+      },
+      "181": {
+        "description": "Applicant Signature \u2022 Signature du demandeur",
+        "type": "string"
+      },
+      "182": {
+        "description": "Date \u2022 Date",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

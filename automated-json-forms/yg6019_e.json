@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "3379": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "3384": {
+        "description": "Registered Business Name                                                    Operating As (if applicable)",
+        "type": "string"
+      },
+      "3385": {
+        "description": "Date Established                                                                    Primary Business Language           English",
+        "type": "string"
+      },
+      "3386": {
+        "description": "French",
+        "type": "string"
+      },
+      "3391": {
+        "description": "Type of Business                                                                      Industry/Sector",
+        "type": "string"
+      },
+      "3392": {
+        "description": "Was this business or part of this business acquired through the Business Nominee Program?           Yes           No",
+        "type": "string"
+      },
+      "3393": {
+        "description": "2A. Mailing Address",
+        "type": "string"
+      },
+      "3398": {
+        "description": "If yes, when? (Please provide exact date)",
+        "type": "string"
+      },
+      "3399": {
+        "description": "City                                                                                          Province/Region",
+        "type": "string"
+      },
+      "3400": {
+        "description": "Postal Code                                                                             Country",
+        "type": "string"
+      },
+      "3401": {
+        "description": "Phone                                 Fax                                 E-mail",
+        "type": "string"
+      },
+      "3402": {
+        "description": "2B. Physical Address if different from Mailing Address",
+        "type": "string"
+      },
+      "3403": {
+        "description": "Address",
+        "type": "string"
+      },
+      "3404": {
+        "description": "City                                                                                          Province/Region",
+        "type": "string"
+      },
+      "3405": {
+        "description": "Postal Code                                                                            Country",
+        "type": "string"
+      },
+      "3406": {
+        "description": "Title                                                                                     Phone                                         Fax",
+        "type": "string"
+      },
+      "3407": {
+        "description": "2C. Employer/Owner",
+        "type": "string"
+      },
+      "3408": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "3409": {
+        "description": "Confidential e-mail",
+        "type": "string"
+      },
+      "3410": {
+        "description": "Immigration status of employer:",
+        "type": "string"
+      },
+      "3411": {
+        "description": "2D. Officer with signing authority for this business",
+        "type": "string"
+      },
+      "3412": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "3413": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "3414": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "3415": {
+        "description": "Title                                                                                     Phone                                         Fax",
+        "type": "string"
+      },
+      "3416": {
+        "description": "Confidential e-mail",
+        "type": "string"
+      },
+      "3417": {
+        "description": "YG(6019EQ)F14 Rev.03/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

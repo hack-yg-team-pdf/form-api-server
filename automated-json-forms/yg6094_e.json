@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "26": {
+        "description": "Fax request to:",
+        "type": "boolean"
+      },
+      "27": {
+        "description": "Daytime contact number:",
+        "type": "string"
+      },
+      "28": {
+        "description": "1.",
+        "type": "string"
+      },
+      "31": {
+        "description": "Date of birth:",
+        "type": "string"
+      },
+      "32": {
+        "description": "Yukon residential address:",
+        "type": "string"
+      },
+      "33": {
+        "description": "(must provide actual street address, i.e. mile, km, or description of residential location)",
+        "type": "string"
+      },
+      "34": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "35": {
+        "description": "Full name:",
+        "type": "string"
+      },
+      "41": {
+        "description": "I hereby make this application to the Yukon Registrar of Motor Vehicles for the issuance of a General Identification card",
+        "type": "string"
+      },
+      "42": {
+        "description": "Client#:",
+        "type": "string"
+      },
+      "43": {
+        "description": "2.",
+        "type": "string"
+      },
+      "44": {
+        "description": "and emailed to Motor.Vehicles@gov.yk.ca",
+        "type": "boolean"
+      },
+      "47": {
+        "description": "Contact email:",
+        "type": "string"
+      },
+      "49": {
+        "description": "Security keyword:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

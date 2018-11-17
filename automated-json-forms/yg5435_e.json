@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "224": {
+        "description": "Address",
+        "type": "string"
+      },
+      "225": {
+        "description": "Contact name",
+        "type": "string"
+      },
+      "226": {
+        "description": "Website",
+        "type": "string"
+      },
+      "227": {
+        "description": "Email",
+        "type": "string"
+      },
+      "228": {
+        "description": "Registered in Yukon",
+        "type": "string"
+      },
+      "229": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "230": {
+        "description": "Total amount requested   $      Total project cost   $",
+        "type": "string"
+      },
+      "235": {
+        "description": "Total expected revenues, including workshop fees, grants, contributions   $",
+        "type": "string"
+      },
+      "236": {
+        "description": "Location/Facility where training will take place",
+        "type": "string"
+      },
+      "237": {
+        "description": "Attach a complete budget for the full cost of the training program, including all sources of funds and revenues.",
+        "type": "string"
+      },
+      "238": {
+        "description": "Attach a description of how the training program meets the stated purpose and objectives of the fund.",
+        "type": "string"
+      },
+      "239": {
+        "description": "Attach a description of how this program will develop the skills and further the film careers of participants.",
+        "type": "string"
+      },
+      "240": {
+        "description": "Attach a description of the mandate of the society.",
+        "type": "string"
+      },
+      "241": {
+        "description": "Attach a full description of the proposed training program.",
+        "type": "string"
+      },
+      "242": {
+        "description": "Date of program (start/end)",
+        "type": "boolean"
+      },
+      "244": {
+        "description": "Anticipated number of attendees",
+        "type": "boolean"
+      },
+      "246": {
+        "description": "Phone",
+        "type": "boolean"
+      },
+      "248": {
+        "description": "In good standing with the Govt of Yukon",
+        "type": "boolean"
+      },
+      "250": {
+        "description": "Name of non-profit",
+        "type": "boolean"
+      },
+      "252": {
+        "description": "Applicant name        Date",
+        "type": "string"
+      },
+      "253": {
+        "description": "Applicant signature",
+        "type": "string"
+      },
+      "254": {
+        "description": "Toll Free in Yukon 1-800-661-0408 ext 5400",
+        "type": "string"
+      },
+      "255": {
+        "description": "Phone: 867-667-5400   Fax: 867-393-7199",
+        "type": "string"
+      },
+      "256": {
+        "description": "Applicant title",
+        "type": "string"
+      },
+      "257": {
+        "description": "Access to Information and Protection of Privacy Act: This information is collected for the purpose of administering an economic development program pursuant to s. 8 and 9",
+        "type": "boolean"
+      },
+      "260": {
+        "description": "of the Economic Development Act, as amended. Personal information on this form is collected under the authority of Section 29(c) of the Access to Information & Protection of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

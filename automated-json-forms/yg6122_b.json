@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "36": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "37": {
+        "description": "7.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "434": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "435": {
+        "description": "3.  New registered office in Yukon / Nouveau bureau enregistr\u00e9 au Yukon :",
+        "type": "string"
+      },
+      "436": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "437": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "438": {
+        "description": "Effective date of change:",
+        "type": "string"
+      },
+      "439": {
+        "description": "Date d\u2019entr\u00e9e en vigueur du changement :",
+        "type": "string"
+      },
+      "440": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "441": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "442": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "443": {
+        "description": "DD/JJ",
+        "type": "string"
+      },
+      "444": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "445": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "446": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "447": {
+        "description": "Effective date of change:",
+        "type": "string"
+      },
+      "448": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "449": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "450": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "451": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "452": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "453": {
+        "description": "5.  Name of person retained to maintain registered and/or records office for the corporation :",
+        "type": "string"
+      },
+      "454": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "455": {
+        "description": "YG(6122Q)F2 03/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

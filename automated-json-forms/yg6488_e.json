@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "371": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "372": {
+        "description": "HOUSEHOLD EQUIPMENT AND SUPPLIES",
+        "type": "boolean"
+      },
+      "374": {
+        "description": "Recipients eligible for household allowance are entitled to up to $500 per calendar year, based on need. Appliances and",
+        "type": "boolean"
+      },
+      "376": {
+        "description": "household items that are included in the cost of rent will not be approved.",
+        "type": "boolean"
+      },
+      "378": {
+        "description": "bathroom linens and",
+        "type": "boolean"
+      },
+      "380": {
+        "description": "electric heater",
+        "type": "boolean"
+      },
+      "382": {
+        "description": "bedroom linens",
+        "type": "boolean"
+      },
+      "384": {
+        "description": "rug",
+        "type": "boolean"
+      },
+      "386": {
+        "description": "radio",
+        "type": "boolean"
+      },
+      "388": {
+        "description": "cleaning utensils and",
+        "type": "boolean"
+      },
+      "390": {
+        "description": "kitchen linens",
+        "type": "boolean"
+      },
+      "392": {
+        "description": "dishes and cutlery",
+        "type": "boolean"
+      },
+      "394": {
+        "description": "cooking equipment",
+        "type": "boolean"
+      },
+      "396": {
+        "description": "FURNITURE",
+        "type": "boolean"
+      },
+      "398": {
+        "description": "INCOME SUPPORT SERVICES",
+        "type": "boolean"
+      },
+      "400": {
+        "description": "HOUSEHOLD ALLOWANCE REQUEST FORM",
+        "type": "boolean"
+      },
+      "404": {
+        "description": "chair",
+        "type": "boolean"
+      },
+      "408": {
+        "description": "book shelves",
+        "type": "boolean"
+      },
+      "412": {
+        "description": "bed \u2013 queen",
+        "type": "boolean"
+      },
+      "416": {
+        "description": "bed \u2013 single",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

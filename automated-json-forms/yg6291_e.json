@@ -1,0 +1,143 @@
+{
+  "fields": {
+    "properties": {
+      "15": {
+        "description": "SUBMIT REPORT",
+        "type": "string"
+      },
+      "16": {
+        "description": "Submitting the CJG Employer Activity Report:",
+        "type": "string"
+      },
+      "17": {
+        "description": "By Fax",
+        "type": "string"
+      },
+      "18": {
+        "description": "CANADA-YUKON JOB GRANT (CJG) \u2013 EMPLOYER ACTIVITY REPORT (UPON COMPLETION OF TRAINING)    |    2",
+        "type": "boolean"
+      },
+      "27": {
+        "description": "Questions? For more information, contact Yukon Education at 1-800-661-0408, local 5131.",
+        "type": "boolean"
+      },
+      "143": {
+        "description": "Course/Training Name",
+        "type": "string"
+      },
+      "144": {
+        "description": "Type of Skills Learned from training (Select all that apply)",
+        "type": "string"
+      },
+      "145": {
+        "description": "Essential Skills",
+        "type": "string"
+      },
+      "146": {
+        "description": "Organization Legal Name",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "EMPLOYER/EMPLOYEE INFORMATION",
+        "type": "boolean"
+      },
+      "149": {
+        "description": "Specialized/Technical/Trade Skills",
+        "type": "boolean"
+      },
+      "150": {
+        "description": "Management Skills",
+        "type": "boolean"
+      },
+      "151": {
+        "description": "EMPLOYMENT RESULTS",
+        "type": "string"
+      },
+      "160": {
+        "description": "Job title upon completion of training",
+        "type": "string"
+      },
+      "161": {
+        "description": "Gross Weekly Wage upon completion of training",
+        "type": "string"
+      },
+      "162": {
+        "description": "** The National Occupational Classification (NOC) website can be found at http://www5.hrsdc.gc.ca/NOC/English/NOC/2011/Welcome.aspx",
+        "type": "string"
+      },
+      "163": {
+        "description": "PARTICIPANT/EMPLOYER SATISFACTION RATE",
+        "type": "string"
+      },
+      "164": {
+        "description": "Participant Level of Satisfaction (Select all that apply):",
+        "type": "string"
+      },
+      "165": {
+        "description": "Unemployed",
+        "type": "boolean"
+      },
+      "166": {
+        "description": "Retained current job",
+        "type": "boolean"
+      },
+      "167": {
+        "description": "Better equipped to do current job",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "Advanced or Promoted",
+        "type": "boolean"
+      },
+      "169": {
+        "description": "Obtained a better job",
+        "type": "boolean"
+      },
+      "170": {
+        "description": "Increased Productivity",
+        "type": "boolean"
+      },
+      "171": {
+        "description": "$",
+        "type": "boolean"
+      },
+      "172": {
+        "description": "Employer Level of Satisfaction (Select all that apply):",
+        "type": "boolean"
+      },
+      "173": {
+        "description": "Training needs met",
+        "type": "boolean"
+      },
+      "174": {
+        "description": "Expectations of the CJG met",
+        "type": "boolean"
+      },
+      "175": {
+        "description": "Able to  hire additional employees",
+        "type": "boolean"
+      },
+      "176": {
+        "description": "Would not have accessed this training had funding NOT been available:",
+        "type": "boolean"
+      },
+      "177": {
+        "description": "Increase in investment in training",
+        "type": "boolean"
+      },
+      "178": {
+        "description": "Skills needs met",
+        "type": "boolean"
+      },
+      "181": {
+        "description": "Productivity has increased",
+        "type": "boolean"
+      },
+      "182": {
+        "description": "Attach proof of payment from trainer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

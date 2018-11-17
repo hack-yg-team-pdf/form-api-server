@@ -1,0 +1,231 @@
+{
+  "fields": {
+    "properties": {
+      "140": {
+        "description": "other (describe):",
+        "type": "string"
+      },
+      "141": {
+        "description": "waste):",
+        "type": "string"
+      },
+      "144": {
+        "description": "5.",
+        "type": "string"
+      },
+      "145": {
+        "description": "c) If known, what is the volume of solid waste collected at this site? (tonnes or m3 per week, month or year)",
+        "type": "string"
+      },
+      "146": {
+        "description": "a) What community(s) or area(s) does this site service?",
+        "type": "string"
+      },
+      "156": {
+        "description": "7. Describe any current or future plans for waste segregation or recycling:",
+        "type": "string"
+      },
+      "157": {
+        "description": "8. Identify the disposal method(s) for solid waste at the site location:",
+        "type": "string"
+      },
+      "158": {
+        "description": "b) What cover material is used?",
+        "type": "string"
+      },
+      "161": {
+        "description": "special wastes (such as waste oil, batteries, paints, antifreeze, household hazardous",
+        "type": "string"
+      },
+      "163": {
+        "description": "b) Are there any precautions or restrictions for burning solid waste (e.g. weather conditions)?",
+        "type": "string"
+      },
+      "164": {
+        "description": "Open burn in pit",
+        "type": "string"
+      },
+      "168": {
+        "description": "a) How often is the solid waste burned?",
+        "type": "string"
+      },
+      "174": {
+        "description": "Page 2 of 4",
+        "type": "string"
+      },
+      "175": {
+        "description": "a) How often is the solid waste covered?",
+        "type": "string"
+      },
+      "187": {
+        "description": "7. Describe, to the extent known, the types of wastes handled or disposed of at this site:",
+        "type": "string"
+      },
+      "188": {
+        "description": "residential",
+        "type": "string"
+      },
+      "189": {
+        "description": "commercial",
+        "type": "string"
+      },
+      "191": {
+        "description": "Bury in trench and cover",
+        "type": "string"
+      },
+      "192": {
+        "description": "d) Is the local Fire Department notified of burns?",
+        "type": "string"
+      },
+      "193": {
+        "description": "c) Is there fire suppression equipment on site?",
+        "type": "string"
+      },
+      "194": {
+        "description": "b) Approximately how many people use this site regularly?",
+        "type": "string"
+      },
+      "195": {
+        "description": "construction/demolition",
+        "type": "string"
+      },
+      "199": {
+        "description": "Other (provide details):",
+        "type": "string"
+      },
+      "222": {
+        "description": "sensitive areas4",
+        "type": "string"
+      },
+      "231": {
+        "description": "contingency (emergency) plan:",
+        "type": "string"
+      },
+      "232": {
+        "description": "attended gate (include hours of operation):",
+        "type": "string"
+      },
+      "233": {
+        "description": "signs (describe):",
+        "type": "string"
+      },
+      "234": {
+        "description": "11. Identify the type(s) of security / wildlife control measures that are in place at this site:",
+        "type": "string"
+      },
+      "235": {
+        "description": "fence",
+        "type": "string"
+      },
+      "237": {
+        "description": "13. Please Attach:",
+        "type": "string"
+      },
+      "244": {
+        "description": "12. List any other Permits or Approvals that have been obtained for this site (e.g. special waste permit, air emissions",
+        "type": "string"
+      },
+      "245": {
+        "description": "permit, relocation permit, land treatment facility permit, land use permit, etc.):",
+        "type": "string"
+      },
+      "247": {
+        "description": "electric fence",
+        "type": "string"
+      },
+      "248": {
+        "description": "to the nearest residences, human activities, adjacent facilities, roads, watercourses, and other environmentally",
+        "type": "string"
+      },
+      "249": {
+        "description": "b) a map or aerial photograph, on a scale of 1:50,000, detailing the size and location of the site, and the distance",
+        "type": "string"
+      },
+      "256": {
+        "description": "that the information provided on this application form is correct and complete to the best of my",
+        "type": "string"
+      },
+      "257": {
+        "description": "No. of attachments",
+        "type": "string"
+      },
+      "265": {
+        "description": "I,  [print name clearly], am the authorized representative of",
+        "type": "string"
+      },
+      "266": {
+        "description": "Signature of Applicant",
+        "type": "string"
+      },
+      "326": {
+        "description": "1. Name and address of applicant",
+        "type": "string"
+      },
+      "329": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "330": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "331": {
+        "description": "Name (person or business) to appear on permit",
+        "type": "string"
+      },
+      "332": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "333": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "334": {
+        "description": "Civic Address",
+        "type": "string"
+      },
+      "335": {
+        "description": "Geographic Coordinates (centre of site in lat/long, UTM (specify zone) or Yukon Albers)",
+        "type": "string"
+      },
+      "336": {
+        "description": "Landowner",
+        "type": "string"
+      },
+      "337": {
+        "description": "Legal Site Description (Lot #, Block, Plan #, Quad/Group)",
+        "type": "string"
+      },
+      "342": {
+        "description": "same as (1) above, or:",
+        "type": "boolean"
+      },
+      "344": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "345": {
+        "description": "Legal business name or government agency/branch/department",
+        "type": "string"
+      },
+      "346": {
+        "description": "Name of person responsible for operating activities at site location",
+        "type": "string"
+      },
+      "347": {
+        "description": "Fax #",
+        "type": "string"
+      },
+      "348": {
+        "description": "4. Name and address of site operator who is directly responsible for management of solid wastes at the site",
+        "type": "string"
+      },
+      "349": {
+        "description": "location:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

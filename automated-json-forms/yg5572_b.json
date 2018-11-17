@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "535": {
+        "description": "Yukon\tNational\tSafety\tCode\tapplication\t\u2022\tCode canadien de s\u00e9curit\u00e9 au Yukon",
+        "type": "string"
+      },
+      "536": {
+        "description": "Address",
+        "type": "string"
+      },
+      "537": {
+        "description": "Name",
+        "type": "string"
+      },
+      "538": {
+        "description": "Postal\tCode",
+        "type": "string"
+      },
+      "541": {
+        "description": "NSC\tNumber",
+        "type": "string"
+      },
+      "542": {
+        "description": "V\u00e9hicules assur\u00e9s",
+        "type": "string"
+      },
+      "543": {
+        "description": "*\t\tMinimum\t$2,000,000\tliability\tcoverage\trequired",
+        "type": "string"
+      },
+      "544": {
+        "description": "Exc\u00e9dent  de  $$",
+        "type": "string"
+      },
+      "545": {
+        "description": "Vehicles Insured",
+        "type": "string"
+      },
+      "546": {
+        "description": "*\t\tMinimum\t$2,000,000\tliability\tcoverage\trequired",
+        "type": "string"
+      },
+      "547": {
+        "description": "$$",
+        "type": "string"
+      },
+      "548": {
+        "description": "Limits",
+        "type": "string"
+      },
+      "549": {
+        "description": "Passenger Hazard",
+        "type": "string"
+      },
+      "550": {
+        "description": "Details",
+        "type": "string"
+      },
+      "551": {
+        "description": "Insurer",
+        "type": "string"
+      },
+      "552": {
+        "description": "Date\t\u2022\tDate",
+        "type": "string"
+      },
+      "553": {
+        "description": "Risque du passager",
+        "type": "string"
+      },
+      "554": {
+        "description": "Signature d\u2019un repr\u00e9sentant autoris\u00e9 de l\u2019assur\u00e9",
+        "type": "string"
+      },
+      "555": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "556": {
+        "description": "I hereby authorize my Insurer to release this information to the Government of Yukon.",
+        "type": "string"
+      },
+      "557": {
+        "description": "Signature\tof\tInsured\u2019s\tauthorized\tofficer",
+        "type": "string"
+      },
+      "558": {
+        "description": "Particularit\u00e9s",
+        "type": "string"
+      },
+      "559": {
+        "description": "T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "560": {
+        "description": "Par la pr\u00e9sente, j\u2019autorise mon assureur \u00e0 d\u00e9voiler les renseignements ci-dessus au gouvernement du Yukon.",
+        "type": "string"
+      },
+      "561": {
+        "description": "15 jours pr\u00e9c\u00e9dant la date \u00e0 laquelle la police est annul\u00e9e, devient p\u00e9rim\u00e9e ou est modifi\u00e9e.",
+        "type": "string"
+      },
+      "562": {
+        "description": "Assureur",
+        "type": "string"
+      },
+      "563": {
+        "description": "To be completed by the Insurer:",
+        "type": "string"
+      },
+      "564": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "565": {
+        "description": "Transport Services Branch",
+        "type": "string"
+      },
+      "566": {
+        "description": "Access to Information and Protection of Privacy Act:  The\tpersonal\tinformation\trequested\ton\tthis",
+        "type": "boolean"
+      },
+      "569": {
+        "description": "form\tis\tcollected\tunder\tthe\tauthority\tof,\tand\tused\tsolely\tfor\tthe\tpurpose\tof\tadministering\tthe\tNational",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

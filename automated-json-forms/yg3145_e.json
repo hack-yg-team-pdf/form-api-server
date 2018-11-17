@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "to be examined in relation to the judgment in this action.",
+        "type": "string"
+      },
+      "40": {
+        "description": "1.",
+        "type": "string"
+      },
+      "41": {
+        "description": "2.",
+        "type": "string"
+      },
+      "42": {
+        "description": "1.",
+        "type": "string"
+      },
+      "43": {
+        "description": "2.",
+        "type": "string"
+      },
+      "44": {
+        "description": "A NOTICE OF EXAMINATION was issued from this court, by which the   was  required",
+        "type": "string"
+      },
+      "45": {
+        "description": "TO  THE  SHERIFF  AND  TO  ALL  PEACE  OFFICERS  OF  YUKON,  AND  TO  THE  KEEPERS  OF  ANY",
+        "type": "string"
+      },
+      "46": {
+        "description": "CORRECTIONAL INSTITUTION IN YUKON:",
+        "type": "string"
+      },
+      "47": {
+        "description": "to attend the sittings of this court on the  day of  , 20  at  a.m./p.m.",
+        "type": "string"
+      },
+      "48": {
+        "description": "(name of party)",
+        "type": "string"
+      },
+      "49": {
+        "description": "of",
+        "type": "string"
+      },
+      "50": {
+        "description": "WHEREAS (State facts relating to failure to attend or refusal to answer questions)",
+        "type": "string"
+      },
+      "51": {
+        "description": "YOU ARE ORDERED, to take the person named above to the",
+        "type": "string"
+      },
+      "52": {
+        "description": "and admit and detain him or her there for  .",
+        "type": "string"
+      },
+      "53": {
+        "description": "(name of correctional institution)",
+        "type": "string"
+      },
+      "54": {
+        "description": "WHEREAS a judge of this court ordered",
+        "type": "string"
+      },
+      "55": {
+        "description": "to be committed,",
+        "type": "string"
+      },
+      "56": {
+        "description": "Dated this  day of, 20",
+        "type": "string"
+      },
+      "57": {
+        "description": "at , Yukon",
+        "type": "string"
+      },
+      "58": {
+        "description": "YG(3145QE)F2 REV. 07/2013",
+        "type": "string"
+      },
+      "59": {
+        "description": "Reference: Section 70 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "60": {
+        "description": "(number of days)",
+        "type": "boolean"
+      },
+      "63": {
+        "description": "(name of party)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

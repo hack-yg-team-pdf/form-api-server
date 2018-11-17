@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "44": {
+        "description": "Mineral Claim",
+        "type": "string"
+      },
+      "45": {
+        "description": "Situated in the   Mining District",
+        "type": "string"
+      },
+      "46": {
+        "description": "Quartz Mining Act.",
+        "type": "string"
+      },
+      "47": {
+        "description": "absolutely the boundaries of the said claim, unless in the",
+        "type": "string"
+      },
+      "48": {
+        "description": "this notice the said survey shall be accepted as defining",
+        "type": "string"
+      },
+      "49": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "50": {
+        "description": "applicant\u2019s Signature",
+        "type": "string"
+      },
+      "51": {
+        "description": "Client i.D. number",
+        "type": "string"
+      },
+      "52": {
+        "description": "Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines",
+        "type": "string"
+      },
+      "53": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Quartz Mining Act.",
+        "type": "string"
+      },
+      "54": {
+        "description": "claim minier",
+        "type": "string"
+      },
+      "55": {
+        "description": "Situ\u00e9 dans le district minier de",
+        "type": "string"
+      },
+      "56": {
+        "description": "sur l\u2019extraction du quartz.",
+        "type": "string"
+      },
+      "57": {
+        "description": "meantime it is protested, as provided in section 75 of the",
+        "type": "string"
+      },
+      "58": {
+        "description": "absolue les limites de ce claim, \u00e0 moins qu\u2019il ne soit protest\u00e9",
+        "type": "string"
+      },
+      "59": {
+        "description": "Dat\u00e9 \u00e0   ,",
+        "type": "string"
+      },
+      "60": {
+        "description": "this  day of  , 20  .",
+        "type": "string"
+      },
+      "61": {
+        "description": "Signature du demandeur",
+        "type": "string"
+      },
+      "62": {
+        "description": "Num\u00e9ro d\u2019identification du client",
+        "type": "string"
+      },
+      "63": {
+        "description": "Les renseignements personnels fournis dans les pr\u00e9sentes sont recueillis en application de la Loi sur l\u2019extraction du quartz exclusivement aux fins de son application.",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "Veuillez adresser toute demande concernant la collecte ou l\u2019utilisation de ces renseignements au bureau du registraire minier, minist\u00e8re de l\u2019\u00c9nergie, des Mines et des",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

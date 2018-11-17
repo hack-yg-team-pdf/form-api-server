@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "77": {
+        "description": "Applicant\u2019s (student\u2019s) name:",
+        "type": "string"
+      },
+      "78": {
+        "description": "Your name:                                                                                                     Social Insurance Number:  /  /",
+        "type": "string"
+      },
+      "79": {
+        "description": "Note: If you live and work in a province or territory other than Yukon for the last 12 consecutive months, your spouse (the applicant) will be",
+        "type": "string"
+      },
+      "80": {
+        "description": "required to apply in the province/territory where you work.",
+        "type": "string"
+      },
+      "81": {
+        "description": "In which territory or province will you be living during your spouse\u2019s study period?",
+        "type": "string"
+      },
+      "82": {
+        "description": "Receiving federal/provincial or territorial permanent disability benefits",
+        "type": "string"
+      },
+      "83": {
+        "description": "During your spouse\u2019s study period, select your status:",
+        "type": "string"
+      },
+      "89": {
+        "description": "Social assistance",
+        "type": "string"
+      },
+      "90": {
+        "description": "Full-time post-secondary student:  Start date:      End date:",
+        "type": "string"
+      },
+      "91": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "92": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "93": {
+        "description": "Employed",
+        "type": "string"
+      },
+      "94": {
+        "description": "Employment insurance",
+        "type": "string"
+      },
+      "98": {
+        "description": "Have you or will you be applying for a Canada Student Loan?",
+        "type": "string"
+      },
+      "101": {
+        "description": "Have you or will you be making Canada Student Loan payments towards your own loan?",
+        "type": "string"
+      },
+      "102": {
+        "description": "We are collecting this personal information to determine and verify the applicant\u2019s eligibility for financial assistance in accordance with the Student Financial Assistance Act",
+        "type": "boolean"
+      },
+      "105": {
+        "description": "(Yukon) the Canada Student Loans Act and the Canada Student Financial Assistance Act. The collection, use and disclosure of your personal information is carried out under",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

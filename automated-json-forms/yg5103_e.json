@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "415": {
+        "description": "Gaming profits can be used for travel to deliver a group\u2019s program. Approved expenditures include: reasonable",
+        "type": "boolean"
+      },
+      "417": {
+        "description": "The following must be attached to the request:",
+        "type": "boolean"
+      },
+      "418": {
+        "description": "Letter of invitation or written approval or sanction list from governing body",
+        "type": "boolean"
+      },
+      "419": {
+        "description": "Organization Name:",
+        "type": "string"
+      },
+      "420": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "421": {
+        "description": "City:",
+        "type": "string"
+      },
+      "422": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "423": {
+        "description": "Lottery Licence Number:",
+        "type": "string"
+      },
+      "424": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "425": {
+        "description": "Destination:",
+        "type": "string"
+      },
+      "426": {
+        "description": "Describe the activity/event:",
+        "type": "string"
+      },
+      "427": {
+        "description": "Number of Participants:",
+        "type": "string"
+      },
+      "428": {
+        "description": "Number of Support Staff:",
+        "type": "string"
+      },
+      "429": {
+        "description": "NOTE: A group may use gaming proceeds to pay for allowable travel expenditures of 1 support person to 3 participants.",
+        "type": "string"
+      },
+      "430": {
+        "description": "YG(5103EQ)F2 Rev.07/2017",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

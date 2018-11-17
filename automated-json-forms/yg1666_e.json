@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "58": {
+        "description": "name AND line 236.",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "Have you included all required documents with your application?",
+        "type": "boolean"
+      },
+      "65": {
+        "description": "Personal information is being collected under the authority of the Pioneer Utility Grant Act and s. 29(a)(c) of the Access to Information and Protection of",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "A certificate of tenancy (only if you rent your residence for all residences rented in 2018).",
+        "type": "boolean"
+      },
+      "67": {
+        "description": "your residence).",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "Privacy Act for the purposes of determining grant eligibility and amount, administering the grant, making payments, and program evaluation. You may",
+        "type": "boolean"
+      },
+      "434": {
+        "description": "Name",
+        "type": "string"
+      },
+      "435": {
+        "description": "FIRST NAME",
+        "type": "string"
+      },
+      "436": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "437": {
+        "description": "TERRITORY/PROVINCE",
+        "type": "string"
+      },
+      "438": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "439": {
+        "description": "LAST NAME",
+        "type": "string"
+      },
+      "440": {
+        "description": "FIRST NAME",
+        "type": "string"
+      },
+      "441": {
+        "description": "INITIAL(S)",
+        "type": "string"
+      },
+      "442": {
+        "description": "Telephone number",
+        "type": "string"
+      },
+      "443": {
+        "description": "Spouse/common-law partner name",
+        "type": "string"
+      },
+      "444": {
+        "description": "PART 2",
+        "type": "string"
+      },
+      "445": {
+        "description": "Rent",
+        "type": "string"
+      },
+      "446": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "447": {
+        "description": "1. Current physical address",
+        "type": "string"
+      },
+      "448": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "452": {
+        "description": "Dates at this residence     From:   2018/",
+        "type": "string"
+      },
+      "453": {
+        "description": "2. Previous physical address",
+        "type": "string"
+      },
+      "454": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "457": {
+        "description": "Dates at this residence      From:",
+        "type": "string"
+      },
+      "458": {
+        "description": "to:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

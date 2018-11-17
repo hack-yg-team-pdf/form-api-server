@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "72": {
+        "description": "Asset value",
+        "type": "string"
+      },
+      "73": {
+        "description": "Description",
+        "type": "string"
+      },
+      "74": {
+        "description": "(e.g. credit card, truck)",
+        "type": "string"
+      },
+      "75": {
+        "description": "FINANCIAL INFORMATION (List all assets & liabilities including loans, vehicles, credit cards, etc.)",
+        "type": "string"
+      },
+      "76": {
+        "description": "TOTAL",
+        "type": "string"
+      },
+      "77": {
+        "description": "Lender / bank",
+        "type": "string"
+      },
+      "109": {
+        "description": "ABC bank",
+        "type": "string"
+      },
+      "110": {
+        "description": "or credit limit",
+        "type": "string"
+      },
+      "111": {
+        "description": "CURRENT HOUSING COSTS",
+        "type": "string"
+      },
+      "112": {
+        "description": "Type",
+        "type": "string"
+      },
+      "113": {
+        "description": "Current mortgage balance",
+        "type": "string"
+      },
+      "114": {
+        "description": "Payment",
+        "type": "string"
+      },
+      "115": {
+        "description": "(balance owing)",
+        "type": "string"
+      },
+      "116": {
+        "description": "*(if unserviced property include costs of water delivery, septic pump out, etc)",
+        "type": "string"
+      },
+      "117": {
+        "description": "Water and other municipal services*",
+        "type": "string"
+      },
+      "240": {
+        "description": "Mortgage payment (Principle, Interest and Taxes)",
+        "type": "string"
+      },
+      "241": {
+        "description": "Property taxes (only if not included above)",
+        "type": "string"
+      },
+      "242": {
+        "description": "payment",
+        "type": "string"
+      },
+      "243": {
+        "description": "Condominium fees",
+        "type": "string"
+      },
+      "253": {
+        "description": "Estimated value of dwelling",
+        "type": "string"
+      },
+      "254": {
+        "description": "Monthly",
+        "type": "string"
+      },
+      "255": {
+        "description": "Heating costs",
+        "type": "string"
+      },
+      "256": {
+        "description": "Pad rental",
+        "type": "string"
+      },
+      "257": {
+        "description": "Electrical costs",
+        "type": "string"
+      },
+      "258": {
+        "description": "12,000",
+        "type": "string"
+      },
+      "288": {
+        "description": "TOTAL",
+        "type": "string"
+      },
+      "289": {
+        "description": "(example) 2012 vehicle",
+        "type": "string"
+      },
+      "290": {
+        "description": "Liability $",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

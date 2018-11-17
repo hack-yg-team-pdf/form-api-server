@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "Start date",
+        "type": "string"
+      },
+      "38": {
+        "description": "Start location",
+        "type": "string"
+      },
+      "39": {
+        "description": "Endroit du d\u00e9part  Endroit de l\u2019arriv\u00e9e",
+        "type": "string"
+      },
+      "40": {
+        "description": "End location",
+        "type": "string"
+      },
+      "41": {
+        "description": "General location",
+        "type": "string"
+      },
+      "42": {
+        "description": "for fishing",
+        "type": "string"
+      },
+      "43": {
+        "description": "Bicycle",
+        "type": "string"
+      },
+      "44": {
+        "description": "Kayak",
+        "type": "string"
+      },
+      "45": {
+        "description": "Raft",
+        "type": "string"
+      },
+      "49": {
+        "description": "ATV",
+        "type": "string"
+      },
+      "50": {
+        "description": "Horse",
+        "type": "string"
+      },
+      "51": {
+        "description": "Motorboat",
+        "type": "string"
+      },
+      "52": {
+        "description": "Canoe",
+        "type": "string"
+      },
+      "53": {
+        "description": "Jetski",
+        "type": "string"
+      },
+      "54": {
+        "description": "Snowmobile",
+        "type": "string"
+      },
+      "55": {
+        "description": "Name of rental company",
+        "type": "string"
+      },
+      "56": {
+        "description": "No de permis",
+        "type": "string"
+      },
+      "57": {
+        "description": "License no.",
+        "type": "string"
+      },
+      "58": {
+        "description": "Please return the forms by October 31 for the summer season",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "Pri\u00e8re de retourner le formulaire au plus tard le 31 octobre pour la saison estivale et le 31",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "24": {
+        "description": "Required Training Materials (Includes books, web access fees, required safety clothing or equipment)*",
+        "type": "string"
+      },
+      "25": {
+        "description": "(Box B minus Box E)",
+        "type": "string"
+      },
+      "26": {
+        "description": "The government-funded Canada Job Grant Contribution is limited to $10,000 per participant.",
+        "type": "string"
+      },
+      "27": {
+        "description": "Total Wages paid during training period                                               C)",
+        "type": "string"
+      },
+      "29": {
+        "description": "TRAINING COST",
+        "type": "string"
+      },
+      "35": {
+        "description": "Maximum Eligible Wage (50% of Box B)                                                                D)",
+        "type": "string"
+      },
+      "40": {
+        "description": "For small businesses, (less than 50 employees), wages paid during the training",
+        "type": "string"
+      },
+      "45": {
+        "description": "Minus Eligible Wage Contribution",
+        "type": "string"
+      },
+      "49": {
+        "description": "FUNDING REQUEST",
+        "type": "string"
+      },
+      "51": {
+        "description": "SUBMIT APPLICATION",
+        "type": "boolean"
+      },
+      "57": {
+        "description": "Questions? For more information, contact Yukon Education at 1-800-661-0408, local 5131.",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "By Mail",
+        "type": "string"
+      },
+      "61": {
+        "description": "Applications will not be accepted by email due to the personal and confidential information contained therein.",
+        "type": "string"
+      },
+      "62": {
+        "description": "Yukon Education/Advanced Education",
+        "type": "string"
+      },
+      "113": {
+        "description": "Organization acting on behalf of employers",
+        "type": "string"
+      },
+      "114": {
+        "description": "EMPLOYER INFORMATION",
+        "type": "boolean"
+      },
+      "116": {
+        "description": "BEFORE YOU BEGIN",
+        "type": "boolean"
+      },
+      "117": {
+        "description": "Agreement No. (For Office Use Only)",
+        "type": "boolean"
+      },
+      "118": {
+        "description": "Selected Crown Corporation",
+        "type": "boolean"
+      },
+      "119": {
+        "description": "Private",
+        "type": "boolean"
+      },
+      "120": {
+        "description": "Sector Type",
+        "type": "string"
+      },
+      "123": {
+        "description": "Business Mailing Address",
+        "type": "string"
+      },
+      "124": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "125": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "126": {
+        "description": "Business Location (if different from mailing)",
+        "type": "string"
+      },
+      "127": {
+        "description": "A) prepare for employment as a",
+        "type": "string"
+      },
+      "128": {
+        "description": "Organization Size",
+        "type": "string"
+      },
+      "129": {
+        "description": "PROJECT DESCRIPTION: OBJECTIVE",
+        "type": "string"
+      },
+      "130": {
+        "description": "this will be a drop down menu",
+        "type": "string"
+      },
+      "131": {
+        "description": "Please describe your project:",
+        "type": "string"
+      },
+      "132": {
+        "description": "START DATE (YYYY-MM-DD)        END DATE (YYYY-MM-DD)",
+        "type": "string"
+      },
+      "133": {
+        "description": "Between",
+        "type": "string"
+      },
+      "134": {
+        "description": "to",
+        "type": "string"
+      },
+      "135": {
+        "description": "training of",
+        "type": "string"
+      },
+      "137": {
+        "description": "NUMBER OF PARTICIPANTS",
+        "type": "string"
+      },
+      "140": {
+        "description": "B) increase",
+        "type": "string"
+      },
+      "141": {
+        "description": "as a",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

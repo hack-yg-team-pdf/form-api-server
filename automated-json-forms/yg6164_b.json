@@ -1,0 +1,151 @@
+{
+  "fields": {
+    "properties": {
+      "73": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "75": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "78": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "80": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "82": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "83": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "85": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "87": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "88": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "89": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "90": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "92": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "93": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "94": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "95": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "96": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "97": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "99": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "100": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "102": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "104": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "106": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "107": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "108": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "109": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "1810": {
+        "description": "1.  The name of the society is / D\u00e9nomination sociale :",
+        "type": "string"
+      },
+      "1811": {
+        "description": "Les activit\u00e9s de la soci\u00e9t\u00e9 seront principalement exerc\u00e9es :",
+        "type": "string"
+      },
+      "1812": {
+        "description": "3.  The operations of the society are to be principally carried on at :",
+        "type": "string"
+      },
+      "1813": {
+        "description": "REGISTERED ADDRESS / ADRESSE ENREGISTR\u00c9E",
+        "type": "string"
+      },
+      "1814": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1815": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1816": {
+        "description": "5.  The fiscal year-end of the society is :",
+        "type": "string"
+      },
+      "1817": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1818": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1819": {
+        "description": "Postal Code / Code  postale",
+        "type": "string"
+      },
+      "1820": {
+        "description": "Postal Code / Code  postale",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

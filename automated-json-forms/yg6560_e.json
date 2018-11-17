@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "47": {
+        "description": "If additional sections are available, is your group willing to do an extra section?",
+        "type": "string"
+      },
+      "48": {
+        "description": "Contact phone number",
+        "type": "string"
+      },
+      "52": {
+        "description": "Email",
+        "type": "string"
+      },
+      "53": {
+        "description": "1st choice",
+        "type": "string"
+      },
+      "55": {
+        "description": "The personal information gathered on this form is collected under the authority of s29(c) of the Access to Information and Protection of Privacy Act and will be used for the",
+        "type": "boolean"
+      },
+      "57": {
+        "description": "Preferred written correspondence by",
+        "type": "string"
+      },
+      "58": {
+        "description": "other proceedings resulting from activities carried out under this agreement. In recognition of this service, Transportation",
+        "type": "string"
+      },
+      "59": {
+        "description": "Group supervisor",
+        "type": "string"
+      },
+      "60": {
+        "description": "purposes of administering any Yukon highway right-of-way under the Highways Act and associated regulations. All collected information will be managed in accordance",
+        "type": "boolean"
+      },
+      "62": {
+        "description": "Mail",
+        "type": "string"
+      },
+      "63": {
+        "description": "CLEAN-UP SECTIONS (see \u201cClean-up Sections\u201d listings \u2013 Whitehorse or Communities)",
+        "type": "string"
+      },
+      "64": {
+        "description": "Email",
+        "type": "string"
+      },
+      "65": {
+        "description": "Mailing address (where notifications and correspondence should be sent)",
+        "type": "string"
+      },
+      "66": {
+        "description": "Preference Section number Week preference",
+        "type": "string"
+      },
+      "68": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "71": {
+        "description": "will be given priority on a first come/first serve basis.",
+        "type": "string"
+      },
+      "74": {
+        "description": "consideration to the preferences identified here, however operational constraints will take precedence and applications",
+        "type": "string"
+      },
+      "75": {
+        "description": "Note: Transportation Maintenance will attempt to schedule the Spring Litter program and area assignment with",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

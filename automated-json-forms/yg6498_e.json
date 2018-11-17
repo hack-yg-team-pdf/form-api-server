@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "497": {
+        "description": "WELL INFORMATION",
+        "type": "string"
+      },
+      "500": {
+        "description": "Name of Licensee",
+        "type": "string"
+      },
+      "501": {
+        "description": "I.D. Code",
+        "type": "string"
+      },
+      "524": {
+        "description": "CASING AND CEMENTING PROGRAM",
+        "type": "string"
+      },
+      "525": {
+        "description": "PLUGGING PROGRAM",
+        "type": "string"
+      },
+      "526": {
+        "description": "Interval (m KB",
+        "type": "string"
+      },
+      "527": {
+        "description": "Felt",
+        "type": "string"
+      },
+      "530": {
+        "description": "Type of Plug",
+        "type": "string"
+      },
+      "531": {
+        "description": "YG(6498EQ)F2 09/2017",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

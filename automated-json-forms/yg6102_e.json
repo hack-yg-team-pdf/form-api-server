@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "65": {
+        "description": "NAME:",
+        "type": "string"
+      },
+      "66": {
+        "description": "DATE OF BIRTH:",
+        "type": "string"
+      },
+      "67": {
+        "description": "ARE YOU FLUENT IN:",
+        "type": "string"
+      },
+      "68": {
+        "description": "EMAIL ADDRESS:",
+        "type": "string"
+      },
+      "69": {
+        "description": "PHONE NUMBER:  (home)                                                                  (cell)",
+        "type": "string"
+      },
+      "70": {
+        "description": "OTHER LANGUAGES:",
+        "type": "string"
+      },
+      "71": {
+        "description": "ENGLISH",
+        "type": "boolean"
+      },
+      "73": {
+        "description": "FRENCH",
+        "type": "boolean"
+      },
+      "74": {
+        "description": "PROOF OF CANADIAN CITIZENSHIP OR PERMANENT RESIDENCE: (copy of Canadian birth certificate, Canadian",
+        "type": "string"
+      },
+      "75": {
+        "description": "WHY DO YOU WANT TO BECOME A MARRIAGE COMMISSIONER IN YUKON (for those applying for three-year term or",
+        "type": "string"
+      },
+      "76": {
+        "description": "INITIAL APPOINTMENT:",
+        "type": "string"
+      },
+      "84": {
+        "description": "Personal information contained on this form is collected under the Marriage Act s.5 and will be used only for the",
+        "type": "boolean"
+      },
+      "87": {
+        "description": "purpose of responding to your request. For further information please contact  the Deputy Registrar\u2019s office at",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

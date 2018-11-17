@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "68": {
+        "description": "sewage holding tank which was installed at:",
+        "type": "string"
+      },
+      "69": {
+        "description": "in accordance with the sewage disposal permit numbered",
+        "type": "string"
+      },
+      "70": {
+        "description": "This is to certify that the items marked as follows were carried out in the above installation:",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "Controls, floats, terminations in the tank are rated for location as per Section 22 of the Canadian Electrical Code,",
+        "type": "boolean"
+      },
+      "74": {
+        "description": "C22.1 for wet and corrosive locations.",
+        "type": "boolean"
+      },
+      "76": {
+        "description": "The 90 per cent level control switch activates a warning light and audible alarm and also automatically shuts down the",
+        "type": "boolean"
+      },
+      "78": {
+        "description": "Level control switches are provided at the 75 per cent and 90 per cent liquid levels in the tank.",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "The 75 per cent level control switch activates a warning light or audible alarm indicating that the tank needs to",
+        "type": "boolean"
+      },
+      "82": {
+        "description": "All electrical systems including warning lights and alarms have been satisfactorily tested.",
+        "type": "boolean"
+      },
+      "84": {
+        "description": "All electrical work was carried out under an electrical permit by a registered Class C electrical contractor (or higher)",
+        "type": "boolean"
+      },
+      "86": {
+        "description": "The electrical components comply with the CSA 22.1-12. Control and junction boxes located outside the building",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "The warning lights and audible alarm are placed in an appropriate location such that they can be readily seen and",
+        "type": "boolean"
+      },
+      "90": {
+        "description": "Signature of electrician:",
+        "type": "string"
+      },
+      "91": {
+        "description": "YG(6325EQ)F1 05/2016",
+        "type": "string"
+      },
+      "92": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "93": {
+        "description": "Phone No.",
+        "type": "string"
+      },
+      "94": {
+        "description": "Date signed:",
+        "type": "string"
+      },
+      "95": {
+        "description": "Print name:",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "If outside, the audible alarm can be heard within a 30 m. radius.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "363": {
+        "description": "(Name and address of the Manufacturer)",
+        "type": "string"
+      },
+      "364": {
+        "description": "(Name and address of the Purchaser)",
+        "type": "string"
+      },
+      "365": {
+        "description": "MAKER\u2019S NAME / MAKER\u2019S NAME                    SIZE / SIZE          C.R.N. / C.R.N.",
+        "type": "string"
+      },
+      "366": {
+        "description": "Output:   B.T.U.",
+        "type": "string"
+      },
+      "367": {
+        "description": "C.R.N. :  Set to relieve at :  lbs.              Capacity :",
+        "type": "string"
+      },
+      "368": {
+        "description": "Trade Mark or Type No. :  Inlet Dia. :  Seat Dia. :",
+        "type": "string"
+      },
+      "369": {
+        "description": "Safety Valve Maker\u2019s Name :   No. of Valves :",
+        "type": "string"
+      },
+      "370": {
+        "description": "EQUIPMENT SUPPLIED",
+        "type": "string"
+      },
+      "371": {
+        "description": "Input   B.T.U.",
+        "type": "string"
+      },
+      "372": {
+        "description": "Boiler Heating Surface:   sq. ft.  If steam processor, capacity: cu. ft",
+        "type": "string"
+      },
+      "373": {
+        "description": "Minimum thickness of Castings:  Grate Area :  sq. feet",
+        "type": "string"
+      },
+      "374": {
+        "description": "(lbs. or B.T.U.) per hour)",
+        "type": "string"
+      },
+      "375": {
+        "description": "Number of Sections including front and back:",
+        "type": "string"
+      },
+      "376": {
+        "description": "Maker\u2019s Series No.:   Mfr\u2019s Serial No.:    C.R.N.:",
+        "type": "string"
+      },
+      "377": {
+        "description": "Fusible Plug",
+        "type": "string"
+      },
+      "378": {
+        "description": "A.S.T.M. or A.S.M.E. Material Specification No.:",
+        "type": "string"
+      },
+      "379": {
+        "description": "Steam Gauge",
+        "type": "string"
+      },
+      "380": {
+        "description": "Location of installation:",
+        "type": "string"
+      },
+      "381": {
+        "description": "Manufactured for:",
+        "type": "string"
+      },
+      "382": {
+        "description": "Feed Water Regulator",
+        "type": "string"
+      },
+      "383": {
+        "description": "Fuel Regulator",
+        "type": "string"
+      },
+      "384": {
+        "description": "Manufactured by:",
+        "type": "string"
+      },
+      "385": {
+        "description": "YG(5399Q)F2 Rev. 09/2007",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

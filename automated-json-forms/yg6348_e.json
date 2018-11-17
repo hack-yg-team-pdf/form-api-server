@@ -1,0 +1,203 @@
+{
+  "fields": {
+    "properties": {
+      "586": {
+        "description": "Poor",
+        "type": "string"
+      },
+      "592": {
+        "description": "2nd",
+        "type": "string"
+      },
+      "597": {
+        "description": "5.3  Were employers flexible when scheduling your interview(s)?",
+        "type": "string"
+      },
+      "598": {
+        "description": "1st",
+        "type": "string"
+      },
+      "599": {
+        "description": "+1hr",
+        "type": "string"
+      },
+      "609": {
+        "description": "5.2  How many STEP interviews did you have?",
+        "type": "string"
+      },
+      "614": {
+        "description": "6.2.2  Overtime?",
+        "type": "string"
+      },
+      "615": {
+        "description": "6.2.1  Per week?",
+        "type": "string"
+      },
+      "616": {
+        "description": "No",
+        "type": "string"
+      },
+      "628": {
+        "description": "If no, please suggest a more suitable wage: $",
+        "type": "string"
+      },
+      "630": {
+        "description": "Page 2 of 4",
+        "type": "string"
+      },
+      "647": {
+        "description": "6.5  Did your position require additional paperwork to be completed prior to starting? (ex: security check, health check,",
+        "type": "string"
+      },
+      "677": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "682": {
+        "description": "6.9  Do you have any concerns about on-the-job safety?",
+        "type": "string"
+      },
+      "685": {
+        "description": "6.10  Have you performed other duties and tasks outside your initial job description?",
+        "type": "string"
+      },
+      "707": {
+        "description": "6.12   What would you change about your working environment?",
+        "type": "string"
+      },
+      "708": {
+        "description": "6.13  What tasks or duties of the position do you not care for?",
+        "type": "string"
+      },
+      "711": {
+        "description": "6.14  Have you worked in this position before?",
+        "type": "string"
+      },
+      "719": {
+        "description": "Wage",
+        "type": "string"
+      },
+      "722": {
+        "description": "If no, why not?",
+        "type": "string"
+      },
+      "739": {
+        "description": "Thank you for completing this survey!",
+        "type": "string"
+      },
+      "1651": {
+        "description": "STEP job title:",
+        "type": "string"
+      },
+      "1652": {
+        "description": "programs officer at 867-667-5927 or the Department of Education\u2019s ATIPP coordinator at 867-667-8326.",
+        "type": "string"
+      },
+      "1653": {
+        "description": "Department/organization name:",
+        "type": "string"
+      },
+      "1654": {
+        "description": "Name of STEP student:",
+        "type": "string"
+      },
+      "1655": {
+        "description": "Name of supervisor:",
+        "type": "string"
+      },
+      "1658": {
+        "description": "2.1  Gender:",
+        "type": "string"
+      },
+      "1664": {
+        "description": "2.2  What is your age?",
+        "type": "boolean"
+      },
+      "1665": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "1666": {
+        "description": "2.3  Do you consider yourself as having a disability?",
+        "type": "boolean"
+      },
+      "1667": {
+        "description": "20-29",
+        "type": "boolean"
+      },
+      "1668": {
+        "description": "Mobility",
+        "type": "boolean"
+      },
+      "1669": {
+        "description": "The Department of Education is collecting this personal information, for statistical purposes and evaluation of the Student",
+        "type": "boolean"
+      },
+      "1670": {
+        "description": "Hearing",
+        "type": "boolean"
+      },
+      "1671": {
+        "description": "Coordination",
+        "type": "string"
+      },
+      "1681": {
+        "description": "3.1  How many years of FULL TIME post-secondary education have you completed?",
+        "type": "string"
+      },
+      "1682": {
+        "description": "3.3  What program were you enrolled in?",
+        "type": "string"
+      },
+      "1683": {
+        "description": "3.4  What city did you live in while attending post-secondary?",
+        "type": "string"
+      },
+      "1689": {
+        "description": "SECTION 4  \u2013  APPLICATION PROCESS",
+        "type": "boolean"
+      },
+      "1690": {
+        "description": "3.5  Did you graduate this academic year?",
+        "type": "boolean"
+      },
+      "1691": {
+        "description": "Friend",
+        "type": "boolean"
+      },
+      "1692": {
+        "description": "If no, will you graduate within the next academic year?",
+        "type": "boolean"
+      },
+      "1693": {
+        "description": "STEP email",
+        "type": "boolean"
+      },
+      "1694": {
+        "description": "Previous employment",
+        "type": "boolean"
+      },
+      "1695": {
+        "description": "4.1  Where did you find information regarding the position you currently hold? (Please check all that apply)",
+        "type": "boolean"
+      },
+      "1696": {
+        "description": "Outreach centre",
+        "type": "boolean"
+      },
+      "1697": {
+        "description": "Other",
+        "type": "string"
+      },
+      "2600": {
+        "description": "Terilee Huff",
+        "type": "boolean"
+      },
+      "2601": {
+        "description": "Department of Education (E-1), 1000 Lewes Blvd., Whitehorse, YT Y1A 3H9",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

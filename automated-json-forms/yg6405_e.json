@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "216": {
+        "description": "MEP File #",
+        "type": "string"
+      },
+      "217": {
+        "description": "RE:  v",
+        "type": "string"
+      },
+      "218": {
+        "description": "CLAIMANT\u2019S NAME                                                                  RESPONDENT\u2019S NAME",
+        "type": "string"
+      },
+      "219": {
+        "description": "REMO File #",
+        "type": "string"
+      },
+      "220": {
+        "description": "I, , am the support recipient (claimant) for the above-noted case. I wish to confirm",
+        "type": "string"
+      },
+      "221": {
+        "description": "Please adjust my file accordingly.",
+        "type": "string"
+      },
+      "222": {
+        "description": "Signature of Support Recipient (Claimant)",
+        "type": "string"
+      },
+      "223": {
+        "description": "receiving directly from the support payor (respondent).",
+        "type": "string"
+      },
+      "224": {
+        "description": "I, , am the support recipient (claimant) for the above-noted case. I confirm that I am",
+        "type": "string"
+      },
+      "225": {
+        "description": "Maintenance Enforcement Program, the program will NOT go back to collect any of the payments I have confirmed",
+        "type": "string"
+      },
+      "226": {
+        "description": "NOT making this statement under duress and fully understand that once I have signed and returned this form to the",
+        "type": "string"
+      },
+      "227": {
+        "description": "Signature of Support Recipient (Claimant)",
+        "type": "string"
+      },
+      "228": {
+        "description": "Date YYYY/MM/DD",
+        "type": "string"
+      },
+      "229": {
+        "description": "Whitehorse",
+        "type": "string"
+      },
+      "230": {
+        "description": "Andrew A. Philipsen Law Centre (first floor)",
+        "type": "string"
+      },
+      "231": {
+        "description": "2134 Second Avenue",
+        "type": "string"
+      },
+      "232": {
+        "description": "Whitehorse, Yukon Y1A 2C6",
+        "type": "string"
+      },
+      "233": {
+        "description": "Maintenance Enforcement Program",
+        "type": "string"
+      },
+      "234": {
+        "description": "Box 2703 (J-3M),",
+        "type": "string"
+      },
+      "235": {
+        "description": "Date YYYY/MM/DD",
+        "type": "string"
+      },
+      "236": {
+        "description": "In person:",
+        "type": "string"
+      },
+      "237": {
+        "description": "Mail:",
+        "type": "string"
+      },
+      "238": {
+        "description": "or toll free at",
+        "type": "string"
+      },
+      "239": {
+        "description": "Office hours:",
+        "type": "string"
+      },
+      "240": {
+        "description": "9 a.m. to 4 p.m., Monday to Friday",
+        "type": "string"
+      },
+      "241": {
+        "description": "Maintenance Enforcement Program",
+        "type": "string"
+      },
+      "242": {
+        "description": "YG(6405EQ)F1 Rev.03/2017",
+        "type": "string"
+      },
+      "243": {
+        "description": "FAX: 867-393-6989",
+        "type": "string"
+      },
+      "244": {
+        "description": "at 867-667-5437",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

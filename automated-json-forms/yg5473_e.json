@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "262": {
+        "description": "Address",
+        "type": "string"
+      },
+      "263": {
+        "description": "Email",
+        "type": "string"
+      },
+      "264": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "265": {
+        "description": "Contact",
+        "type": "string"
+      },
+      "266": {
+        "description": "Project start date",
+        "type": "string"
+      },
+      "267": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "268": {
+        "description": "Project name",
+        "type": "string"
+      },
+      "269": {
+        "description": "Amount requested",
+        "type": "string"
+      },
+      "270": {
+        "description": "$",
+        "type": "string"
+      },
+      "271": {
+        "description": "We understand that all or part of this application may be made available to the public in accordance with the Access to",
+        "type": "string"
+      },
+      "272": {
+        "description": "all other pertinent information necessary to evaluate this application.",
+        "type": "string"
+      },
+      "273": {
+        "description": "scribed in this application, to inspect the bookkeeping and records, to make inquiries and credit checks and to obtain",
+        "type": "string"
+      },
+      "274": {
+        "description": "Project end date",
+        "type": "string"
+      },
+      "275": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "276": {
+        "description": "We agree to allow representatives of the Government of Yukon access to the site and premises of the project de-",
+        "type": "string"
+      },
+      "277": {
+        "description": "Access to Information and Protection of Privacy Act: This information is collected for the purpose of administering an economic development program pursuant to s. 8 and 9",
+        "type": "boolean"
+      },
+      "280": {
+        "description": "of the Economic Development Act, as amended. Personal information on this form is collected under the authority of Section 29(c) of the Access to Information & Protection of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

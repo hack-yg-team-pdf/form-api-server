@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "602": {
+        "description": "Please allow 30 days for processing.",
+        "type": "string"
+      },
+      "605": {
+        "description": "All information requested in this application must be provided.  If application is not complete it will be",
+        "type": "string"
+      },
+      "607": {
+        "description": "3.  Date of birth:  Location",
+        "type": "string"
+      },
+      "608": {
+        "description": "dd/mm/yyyy",
+        "type": "string"
+      },
+      "609": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "610": {
+        "description": "City",
+        "type": "string"
+      },
+      "611": {
+        "description": "Home telephone number",
+        "type": "string"
+      },
+      "612": {
+        "description": "Email address:",
+        "type": "string"
+      },
+      "615": {
+        "description": "Clinic Name",
+        "type": "string"
+      },
+      "616": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "617": {
+        "description": "City",
+        "type": "string"
+      },
+      "618": {
+        "description": "Clinic telephone number",
+        "type": "string"
+      },
+      "623": {
+        "description": "6.  Clinic Address:",
+        "type": "string"
+      },
+      "626": {
+        "description": "Limitations, restrictions or conditions on this licence:       \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "627": {
+        "description": "8.   Place of Graduation:",
+        "type": "string"
+      },
+      "629": {
+        "description": "10. Give addresses of all locations and dates in which you have practised as a dental therapist for the three years preceding",
+        "type": "string"
+      },
+      "630": {
+        "description": "Personal information contained on this form is collected under the Dental Profession Act and will be used for the purpose of administering the Act. For further",
+        "type": "string"
+      },
+      "631": {
+        "description": "information, contact the Director of Professional Licensing and Regulatory Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "632": {
+        "description": "YG(5096EQ)F3 Rev.3/2014",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

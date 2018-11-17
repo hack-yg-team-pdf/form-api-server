@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "46": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      },
+      "485": {
+        "description": "1.  Name of society / D\u00e9nomination sociale de la soci\u00e9t\u00e9 :",
+        "type": "string"
+      },
+      "486": {
+        "description": "3.  The new registered address of the society is / Nouvelle adresse enregistr\u00e9e de la soci\u00e9t\u00e9 :",
+        "type": "string"
+      },
+      "487": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "488": {
+        "description": "Postal Code / Code Postale",
+        "type": "string"
+      },
+      "489": {
+        "description": "Effective date / Date de prise d\u2019effet :",
+        "type": "string"
+      },
+      "490": {
+        "description": "Nouveau lieu au Yukon o\u00f9 la soci\u00e9t\u00e9 exerce principalement ses activit\u00e9s :",
+        "type": "string"
+      },
+      "491": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "492": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "493": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "494": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "495": {
+        "description": "4.  The new place in Yukon where the operations of the society are principally carried on is :",
+        "type": "string"
+      },
+      "496": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "497": {
+        "description": "5.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "498": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "499": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "500": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "501": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

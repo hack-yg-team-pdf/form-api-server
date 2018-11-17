@@ -1,0 +1,227 @@
+{
+  "fields": {
+    "properties": {
+      "389": {
+        "description": "C.  Where is the site located? (For multiple site locations, list on a separate sheet).",
+        "type": "string"
+      },
+      "390": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "391": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "392": {
+        "description": "same as (A) above, or: (For multiple contacts, list on a separate sheet).",
+        "type": "string"
+      },
+      "393": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "394": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "395": {
+        "description": "Geographic Coordinates (centre of site in lat/long, UTM (specify zone) or Yukon Albers)",
+        "type": "string"
+      },
+      "396": {
+        "description": "Legal Address",
+        "type": "string"
+      },
+      "397": {
+        "description": "Street Address (Civic Address)",
+        "type": "string"
+      },
+      "398": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "399": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "400": {
+        "description": "Contact name and position/title",
+        "type": "string"
+      },
+      "401": {
+        "description": "D.  Who owns the land on which the activities are being carried out?",
+        "type": "string"
+      },
+      "402": {
+        "description": "same as (A) above, or: (For multiple site locations, list on a separate sheet).",
+        "type": "string"
+      },
+      "403": {
+        "description": "A.  Name and address of applicant",
+        "type": "boolean"
+      },
+      "406": {
+        "description": "Name",
+        "type": "string"
+      },
+      "407": {
+        "description": "E.",
+        "type": "string"
+      },
+      "408": {
+        "description": "F.   What is the typical number of people directly involved with the commercial aspects of this project that will be",
+        "type": "string"
+      },
+      "409": {
+        "description": "G.   What is the maximum number of people directly involved with the commercial aspects of this project that will",
+        "type": "string"
+      },
+      "410": {
+        "description": "H.   What are the months and dates of operation for this project?",
+        "type": "string"
+      },
+      "411": {
+        "description": "Phone #",
+        "type": "string"
+      },
+      "412": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "413": {
+        "description": "PART 1.0 \u2013 CONTACT AND SITE INFORMATION",
+        "type": "boolean"
+      },
+      "415": {
+        "description": "Phone #",
+        "type": "string"
+      },
+      "416": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "418": {
+        "description": "Burning of solid waste occurs in a trench, pit or barrel while incineration uses equipment where the air intake and combustion",
+        "type": "boolean"
+      },
+      "419": {
+        "description": "Generating, storing or transporting special waste (fill out section 3.0)",
+        "type": "boolean"
+      },
+      "420": {
+        "description": "Operating a storage tank (fill out section 4.0)",
+        "type": "boolean"
+      },
+      "421": {
+        "description": "Disposing of waste oil on site in a waste oil burner (fill out sections 3.0 and 3.1)",
+        "type": "boolean"
+      },
+      "422": {
+        "description": "Transferring solid waste offsite (fill out sections 2.0 and 2.1)",
+        "type": "boolean"
+      },
+      "423": {
+        "description": "I.  Which of the following activities are to be undertaken by the applicant at the site location? Check all that apply.",
+        "type": "boolean"
+      },
+      "429": {
+        "description": "For projects that are assessable under YESAA, applications will be reviewed and held on file until a Decision Document has been issued for",
+        "type": "boolean"
+      },
+      "430": {
+        "description": "Fuel storage area(s); and",
+        "type": "boolean"
+      },
+      "431": {
+        "description": "Waste oil burner/incinerator;",
+        "type": "boolean"
+      },
+      "432": {
+        "description": "Special waste storage area(s);",
+        "type": "boolean"
+      },
+      "433": {
+        "description": "Solid waste burial, burning, and/or incineration area(s);",
+        "type": "boolean"
+      },
+      "434": {
+        "description": "K.  Please Attach:",
+        "type": "boolean"
+      },
+      "435": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "436": {
+        "description": "Water License number",
+        "type": "boolean"
+      },
+      "438": {
+        "description": "Yes: YESAA Project Number or the date the application will be submitted:  OR",
+        "type": "string"
+      },
+      "439": {
+        "description": "J.   Is your project subject to review under the Yukon Environmental & Socio-economic Assessment Act (YESAA)?",
+        "type": "string"
+      },
+      "442": {
+        "description": "Incinerating solid waste on site (fill out sections 2.0 and 2.3)",
+        "type": "boolean"
+      },
+      "443": {
+        "description": "SOLID WASTE",
+        "type": "boolean"
+      },
+      "474": {
+        "description": "Recyclable containers and packaging",
+        "type": "string"
+      },
+      "486": {
+        "description": "Burn",
+        "type": "boolean"
+      },
+      "487": {
+        "description": "B.  What are the types and volumes of solid waste generated or handled at this site, and what will be done with them?",
+        "type": "boolean"
+      },
+      "488": {
+        "description": "Bury",
+        "type": "boolean"
+      },
+      "489": {
+        "description": "Incinerate",
+        "type": "boolean"
+      },
+      "490": {
+        "description": "Construction/demolition waste",
+        "type": "string"
+      },
+      "491": {
+        "description": "Transfer off site",
+        "type": "boolean"
+      },
+      "494": {
+        "description": "Cardboard and other paper-based waste",
+        "type": "string"
+      },
+      "497": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "624": {
+        "description": "Confirm that all storage tanks will be located at least 30 m from the ordinary high water mark of any",
+        "type": "boolean"
+      },
+      "671": {
+        "description": "Solid waste burial, burning, and/or incineration area(s);",
+        "type": "boolean"
+      },
+      "674": {
+        "description": "A spill response plan covering the special waste substances to be transported, if the applicant is going to be",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "43": {
+        "description": "LANDLORD\u2019S NAME (name as shown on the tenancy agreement) (Note: this can be landlord\u2019s agent).",
+        "type": "string"
+      },
+      "44": {
+        "description": "SERVICE ADDRESS (this is also the address where this document will be either given personally or left and mailed for service) Note: If mailed",
+        "type": "string"
+      },
+      "45": {
+        "description": "(registered or regular mail), the notice is considered served 5 days after mailing.",
+        "type": "string"
+      },
+      "46": {
+        "description": "TENANT\u2019S NAME(S) (name(s) as shown on the tenancy agreement).",
+        "type": "string"
+      },
+      "47": {
+        "description": "Rental Unit Address",
+        "type": "string"
+      },
+      "48": {
+        "description": "SIGNATURE of TENANT",
+        "type": "string"
+      },
+      "49": {
+        "description": "DATE TENANCY ENDS (the tenant must be completely moved out no later than 1pm on this date).",
+        "type": "string"
+      },
+      "50": {
+        "description": "of July would represent the 1 month notice period meaning the tenancy would end on July 31].",
+        "type": "string"
+      },
+      "51": {
+        "description": "move-out date does not comply with the RLTA, the effective date is the earliest date that complies with the RLTA.",
+        "type": "boolean"
+      },
+      "54": {
+        "description": "INFORMATION FOR BOTH LANDLORDS AND TENANTS",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

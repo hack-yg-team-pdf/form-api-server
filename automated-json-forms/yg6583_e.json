@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "254": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "257": {
+        "description": "Yukon health care insurance card number",
+        "type": "string"
+      },
+      "258": {
+        "description": "CONSENT",
+        "type": "string"
+      },
+      "259": {
+        "description": "Lung",
+        "type": "string"
+      },
+      "260": {
+        "description": "I hereby consent for the purposes of the Human Tissue Gift Act, to the above donation after my death.",
+        "type": "string"
+      },
+      "261": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "262": {
+        "description": "City",
+        "type": "string"
+      },
+      "263": {
+        "description": "DONATION INFORMATION",
+        "type": "string"
+      },
+      "264": {
+        "description": "Any organ or tissue needed for transplant or transplant research, or",
+        "type": "string"
+      },
+      "265": {
+        "description": "Any organs and tissues needed for transplant only, or",
+        "type": "string"
+      },
+      "270": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "boolean"
+      },
+      "271": {
+        "description": "Any organs/tissues needed for transplant EXCEPT the following:",
+        "type": "boolean"
+      },
+      "272": {
+        "description": "REGISTRANT INFORMATION",
+        "type": "boolean"
+      },
+      "273": {
+        "description": "Postal code",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "Bone",
+        "type": "boolean"
+      },
+      "275": {
+        "description": "Heart",
+        "type": "boolean"
+      },
+      "276": {
+        "description": "Kidneys",
+        "type": "boolean"
+      },
+      "277": {
+        "description": "Cornea",
+        "type": "boolean"
+      },
+      "278": {
+        "description": "Liver",
+        "type": "boolean"
+      },
+      "279": {
+        "description": "I am the parent/guardian of the child listed above. I hereby consent for the purposes of the Human Tissue Gift Act, to",
+        "type": "string"
+      },
+      "280": {
+        "description": "Date",
+        "type": "string"
+      },
+      "281": {
+        "description": "Information contained in this form is collected, used and disclosed in accordance with Yukon\u2019s Health Information Privacy and Management Act and other applicable laws.",
+        "type": "boolean"
+      },
+      "284": {
+        "description": "A written statement of Health and Social Services information practices can viewed at www.hss.gov.yk.ca/healthprivacy.php or by contacting the department\u2019s Privacy",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

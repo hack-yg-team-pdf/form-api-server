@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "28": {
+        "description": "(Volunteer work, community involvement, teamwork)",
+        "type": "string"
+      },
+      "29": {
+        "description": "2.  Name of outstanding young person:",
+        "type": "string"
+      },
+      "30": {
+        "description": "4.  Community of nominee:",
+        "type": "string"
+      },
+      "31": {
+        "description": "YG(6158EQ)F3 Rev.05/2017",
+        "type": "string"
+      },
+      "32": {
+        "description": "3.  Age of nominee as of April 1st of nomination year - must be 15-20 years of age:",
+        "type": "string"
+      },
+      "35": {
+        "description": "6.  How and when has the nominee made positive impacts to their community or other Yukon communities?",
+        "type": "string"
+      },
+      "36": {
+        "description": "Page 3 of 3",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "(Personal achievements, behaviour, attitude)",
+        "type": "string"
+      },
+      "42": {
+        "description": "8.  Are there any other achievements not listed above?",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

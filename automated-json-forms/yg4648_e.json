@@ -1,0 +1,215 @@
+{
+  "fields": {
+    "properties": {
+      "182": {
+        "description": "same as (A) above, or: (For multiple site locations, list on a separate sheet).",
+        "type": "boolean"
+      },
+      "183": {
+        "description": "Geographic Coordinates",
+        "type": "boolean"
+      },
+      "184": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "185": {
+        "description": "Legal Address (Lot #, Block, Plan #, Quad/Group)",
+        "type": "string"
+      },
+      "190": {
+        "description": "K. What is your proposed start date?",
+        "type": "string"
+      },
+      "192": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "193": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "194": {
+        "description": "Name",
+        "type": "string"
+      },
+      "195": {
+        "description": "Street Address (Civic Address)",
+        "type": "string"
+      },
+      "196": {
+        "description": "Name",
+        "type": "string"
+      },
+      "197": {
+        "description": "separate sheet)",
+        "type": "string"
+      },
+      "198": {
+        "description": "C. Who is directly responsible for the management of the storage tank system?",
+        "type": "string"
+      },
+      "199": {
+        "description": "Abandonment of a storage tank system (fill out Part 2.0 and 2.2)",
+        "type": "boolean"
+      },
+      "200": {
+        "description": "Replacement of a storage tank system (fill out Parts 2.0, 2.1 and 2.2)",
+        "type": "boolean"
+      },
+      "201": {
+        "description": "same as (A) above, or:   (For multiple contacts, list on a separate sheet).",
+        "type": "boolean"
+      },
+      "202": {
+        "description": "Operation of a storage tank system (fill out Parts 2.0 and 2.1)",
+        "type": "boolean"
+      },
+      "203": {
+        "description": "Applicants must comply with municipal bylaws and ensure they are aware of any restrictions on activities in zoned areas.",
+        "type": "string"
+      },
+      "204": {
+        "description": "H. Which of the following activities are to be undertaken by the applicant at the site location? Check all that apply.",
+        "type": "boolean"
+      },
+      "205": {
+        "description": "Closure of a storage tank system (fill out Parts 2.0 and 2.2)",
+        "type": "string"
+      },
+      "206": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "207": {
+        "description": "F. If the land is leased, by whom is it leased?",
+        "type": "string"
+      },
+      "208": {
+        "description": "Phone #",
+        "type": "boolean"
+      },
+      "210": {
+        "description": "same as (A) above, or: (For multiple site locations, list on a separate sheet).",
+        "type": "string"
+      },
+      "211": {
+        "description": "D. Where is the site located? (For multiple site locations, list on a separate sheet).",
+        "type": "string"
+      },
+      "213": {
+        "description": "Phone #",
+        "type": "boolean"
+      },
+      "215": {
+        "description": "E. Who owns the land on which the storage tank system is located?",
+        "type": "string"
+      },
+      "216": {
+        "description": "Business name or government agency / branch / department",
+        "type": "string"
+      },
+      "217": {
+        "description": "Removal of a storage tank system (fill out Parts 2.0 and 2.2)",
+        "type": "boolean"
+      },
+      "220": {
+        "description": "is no longer in use including how tanks will be cleaned and disposed of once they are no longer in use.",
+        "type": "string"
+      },
+      "234": {
+        "description": "an emergency. Attach separate sheets if necessary.",
+        "type": "string"
+      },
+      "237": {
+        "description": "Separate Closure and Reclamation Plan Attached; OR",
+        "type": "string"
+      },
+      "252": {
+        "description": "Separate Contingency Plan Attached; OR",
+        "type": "string"
+      },
+      "261": {
+        "description": "the storage tanks or storage tank system, including a description of any equipment proposed to be used in such",
+        "type": "string"
+      },
+      "263": {
+        "description": "C. How will contaminated soil or water be delineated and cleaned up, if any is found? Attach separate sheets if",
+        "type": "string"
+      },
+      "264": {
+        "description": "necessary.",
+        "type": "string"
+      },
+      "268": {
+        "description": "PART 2.0 \u2013 STORAGE TANKS",
+        "type": "boolean"
+      },
+      "270": {
+        "description": "A. Describe any contingency plans to be used in the event of a spill or a fire involving the products contained in",
+        "type": "string"
+      },
+      "272": {
+        "description": "B. Describe the closure and reclamation plans to be implemented once the storage tank or storage tank system",
+        "type": "string"
+      },
+      "405": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "409": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "411": {
+        "description": "Business name or government agency / branch / department",
+        "type": "string"
+      },
+      "413": {
+        "description": "A. Name and address of applicant",
+        "type": "string"
+      },
+      "414": {
+        "description": "The applicant is the person or business in whose name the permit will be issued.",
+        "type": "boolean"
+      },
+      "416": {
+        "description": "other (specify):",
+        "type": "boolean"
+      },
+      "417": {
+        "description": "Email Address",
+        "type": "boolean"
+      },
+      "418": {
+        "description": "Postal Code",
+        "type": "boolean"
+      },
+      "419": {
+        "description": "institutional",
+        "type": "boolean"
+      },
+      "420": {
+        "description": "bulk plant                  mineral exploration",
+        "type": "boolean"
+      },
+      "421": {
+        "description": "industrial",
+        "type": "boolean"
+      },
+      "422": {
+        "description": "mining",
+        "type": "boolean"
+      },
+      "423": {
+        "description": "B. Description of business",
+        "type": "boolean"
+      },
+      "424": {
+        "description": "service station",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

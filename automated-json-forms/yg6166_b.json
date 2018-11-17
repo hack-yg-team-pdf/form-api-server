@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "277": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "278": {
+        "description": "s\u2019est termin\u00e9 le :",
+        "type": "string"
+      },
+      "279": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "280": {
+        "description": "4.  The society therefore claims to be a Category C society as described in section 7 of the",
+        "type": "string"
+      },
+      "281": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "282": {
+        "description": "6.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "283": {
+        "description": "YG(6166Q)F1 03/2015",
+        "type": "string"
+      },
+      "284": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "287": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

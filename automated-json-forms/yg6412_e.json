@@ -1,0 +1,39 @@
+{
+  "fields": {
+    "properties": {
+      "119": {
+        "description": "List of lift axle equipped trailer(s) to be operated under special permit YT-ALTP-",
+        "type": "string"
+      },
+      "193": {
+        "description": "Model/style",
+        "type": "string"
+      },
+      "638": {
+        "description": "I,  , representing",
+        "type": "string"
+      },
+      "639": {
+        "description": "PERMIT NUMBER YT -ALTP-",
+        "type": "string"
+      },
+      "640": {
+        "description": "NAME OF COMPANY OWNER OR LESSEE",
+        "type": "string"
+      },
+      "643": {
+        "description": "MAILING ADDRESS",
+        "type": "string"
+      },
+      "644": {
+        "description": "Hereby make application to the Minister of Highways and Public Works for a special Axle Lift Trailer Permit",
+        "type": "string"
+      },
+      "645": {
+        "description": "PHONE NUMBER",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

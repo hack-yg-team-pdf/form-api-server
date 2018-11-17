@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "50": {
+        "description": "ORDER",
+        "type": "string"
+      },
+      "51": {
+        "description": "Plaintiff(s):",
+        "type": "string"
+      },
+      "52": {
+        "description": "1.",
+        "type": "string"
+      },
+      "53": {
+        "description": "2.",
+        "type": "string"
+      },
+      "54": {
+        "description": "2.",
+        "type": "string"
+      },
+      "55": {
+        "description": ", Yukon )",
+        "type": "string"
+      },
+      "56": {
+        "description": "at",
+        "type": "string"
+      },
+      "57": {
+        "description": ")                                  day, the",
+        "type": "string"
+      },
+      "58": {
+        "description": "JUDGE",
+        "type": "string"
+      },
+      "59": {
+        "description": "BEFORE HIS/HER HONOUR",
+        "type": "string"
+      },
+      "60": {
+        "description": ")",
+        "type": "string"
+      },
+      "61": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "62": {
+        "description": "party\u2019s lawyer for)  and on hearing (name of party or party\u2019s",
+        "type": "string"
+      },
+      "63": {
+        "description": "YG(5773QE) 07/2011",
+        "type": "string"
+      },
+      "64": {
+        "description": "Reference: Section 1 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "65": {
+        "description": "THE APPLICATION OF (name of party)  coming on for hearing",
+        "type": "string"
+      },
+      "66": {
+        "description": "(or for trial) on the  day of , 20 ; and on hearing (name of party or",
+        "type": "string"
+      },
+      "67": {
+        "description": "THIS COURT ORDERS THAT:",
+        "type": "string"
+      },
+      "68": {
+        "description": "1.",
+        "type": "string"
+      },
+      "69": {
+        "description": "2.",
+        "type": "string"
+      },
+      "70": {
+        "description": "3.",
+        "type": "string"
+      },
+      "71": {
+        "description": "4.",
+        "type": "string"
+      },
+      "72": {
+        "description": "Judge, Small Claims Court of Yukon",
+        "type": "boolean"
+      },
+      "75": {
+        "description": "day of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "49": {
+        "description": "with you and have it completed at all your medical appointments, including hospitalization. This will verify",
+        "type": "string"
+      },
+      "50": {
+        "description": "First Name                                                                           Last Name",
+        "type": "string"
+      },
+      "51": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "52": {
+        "description": "Telephone (h)                                                                       (w)",
+        "type": "string"
+      },
+      "55": {
+        "description": "Yukon Health Care Number",
+        "type": "string"
+      },
+      "56": {
+        "description": "Departure Date                                                                    Return Date",
+        "type": "string"
+      },
+      "57": {
+        "description": "I, , hereby declare that I drove from",
+        "type": "string"
+      },
+      "58": {
+        "description": "YYYY/MM/DD                                                                                       YYYY/MM/DD",
+        "type": "string"
+      },
+      "59": {
+        "description": "FIRST NAME                                                          LAST NAME",
+        "type": "string"
+      },
+      "60": {
+        "description": "to  on",
+        "type": "string"
+      },
+      "61": {
+        "description": "I understand that it is an offense to give false information on this declaration, and any offence may be",
+        "type": "string"
+      },
+      "62": {
+        "description": "liable on summary conviction to a fine and/or imprisonment.",
+        "type": "string"
+      },
+      "63": {
+        "description": "for the sole purpose of medical treatment and that I am therefore entitled to",
+        "type": "string"
+      },
+      "64": {
+        "description": "claim for mileage reimbursement for this trip, from the Government of the Yukon.",
+        "type": "string"
+      },
+      "65": {
+        "description": "DATE YYYY/MM/DD",
+        "type": "string"
+      },
+      "66": {
+        "description": "DATE  YYYY/MM/DD",
+        "type": "string"
+      },
+      "67": {
+        "description": "Phone number:",
+        "type": "string"
+      },
+      "68": {
+        "description": "867-667-5209",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "toll free in Yukon: 1-800-661-0408 ext 5209",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

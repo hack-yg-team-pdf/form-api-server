@@ -1,0 +1,235 @@
+{
+  "fields": {
+    "properties": {
+      "207": {
+        "description": "Email",
+        "type": "string"
+      },
+      "208": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "209": {
+        "description": "Chief executive(s)",
+        "type": "string"
+      },
+      "211": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "212": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "213": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "215": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "216": {
+        "description": "Chief executive(s)",
+        "type": "string"
+      },
+      "217": {
+        "description": "Full business address",
+        "type": "string"
+      },
+      "218": {
+        "description": "Email",
+        "type": "string"
+      },
+      "219": {
+        "description": "Full business address",
+        "type": "string"
+      },
+      "220": {
+        "description": "Email",
+        "type": "string"
+      },
+      "221": {
+        "description": "APPLICANT",
+        "type": "string"
+      },
+      "222": {
+        "description": "Parent company name(s)",
+        "type": "string"
+      },
+      "223": {
+        "description": "Full business address",
+        "type": "string"
+      },
+      "224": {
+        "description": "CO-APPLICANT(S)",
+        "type": "string"
+      },
+      "226": {
+        "description": "Parent company name(s)",
+        "type": "string"
+      },
+      "228": {
+        "description": "Chief executive(s)",
+        "type": "string"
+      },
+      "229": {
+        "description": "Chief executive(s)",
+        "type": "string"
+      },
+      "230": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "2253": {
+        "description": "Genre",
+        "type": "string"
+      },
+      "2254": {
+        "description": "Cycle   Episodes #  to #",
+        "type": "string"
+      },
+      "2260": {
+        "description": "Previous title (if applicable)",
+        "type": "string"
+      },
+      "2261": {
+        "description": "Is this the correct program title and applicant name(s) to use for Yukon Media Development",
+        "type": "string"
+      },
+      "2262": {
+        "description": "(YMD) publicity purposes; should the program receive funding?",
+        "type": "string"
+      },
+      "2263": {
+        "description": "Log line (1-2 sentence project description)",
+        "type": "string"
+      },
+      "2264": {
+        "description": "Children\u2019s .......",
+        "type": "string"
+      },
+      "2265": {
+        "description": "Youth .............",
+        "type": "string"
+      },
+      "2266": {
+        "description": "Family",
+        "type": "string"
+      },
+      "2284": {
+        "description": "60 min",
+        "type": "string"
+      },
+      "2285": {
+        "description": "Total broadcast length for series  min",
+        "type": "string"
+      },
+      "2292": {
+        "description": "Format",
+        "type": "string"
+      },
+      "2293": {
+        "description": "Shooting format",
+        "type": "string"
+      },
+      "2294": {
+        "description": "Location(s) of photography",
+        "type": "string"
+      },
+      "2295": {
+        "description": "Principal photography",
+        "type": "string"
+      },
+      "2296": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "2297": {
+        "description": "Pre-production",
+        "type": "string"
+      },
+      "2301": {
+        "description": "Live action",
+        "type": "string"
+      },
+      "2302": {
+        "description": "Double shoot",
+        "type": "string"
+      },
+      "2303": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "2304": {
+        "description": "Schedule",
+        "type": "string"
+      },
+      "2305": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "2306": {
+        "description": "Delivery date to broadcaster",
+        "type": "string"
+      },
+      "2307": {
+        "description": "this information, contact Manager, Yukon Media Development in writing at 303 Alexander Street, or by phone at 667-5400 or toll free at 1-800-661-0408 ext. 5400.",
+        "type": "string"
+      },
+      "2308": {
+        "description": "information are managed in accordance with the ATIPP Act and all or part of this information may be made available to the public. For further information about the collection of",
+        "type": "string"
+      },
+      "2309": {
+        "description": "Program will also be versioned into",
+        "type": "string"
+      },
+      "2314": {
+        "description": "English",
+        "type": "string"
+      },
+      "2316": {
+        "description": "Aboriginal (specify)",
+        "type": "string"
+      },
+      "2319": {
+        "description": "Co-producing partner  %",
+        "type": "string"
+      },
+      "2320": {
+        "description": "Percentage of participation from: Yukon  %",
+        "type": "string"
+      },
+      "2321": {
+        "description": "Co-producing partner  %",
+        "type": "string"
+      },
+      "2322": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "2323": {
+        "description": "No",
+        "type": "string"
+      },
+      "2324": {
+        "description": "of Privacy (ATIPP) Act for the purpose of carrying out a program and/or providing financial assistance to the applicant. The collection, use, and disclosure of your personal",
+        "type": "string"
+      },
+      "2325": {
+        "description": "Access to Information and Protection of Privacy Act: This information is collected for the purpose of administering an economic development program pursuant to s. 8 and 9",
+        "type": "string"
+      },
+      "2326": {
+        "description": "of the Economic Development Act, as amended. Personal information on this form is collected under the authority of Section 29(c) of the Access to Information and Protection",
+        "type": "string"
+      },
+      "2327": {
+        "description": "International treaty co-production",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

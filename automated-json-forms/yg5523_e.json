@@ -1,0 +1,359 @@
+{
+  "fields": {
+    "properties": {
+      "181": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "182": {
+        "description": "No",
+        "type": "string"
+      },
+      "183": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "184": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "185": {
+        "description": "If no, please explain.",
+        "type": "boolean"
+      },
+      "188": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "189": {
+        "description": "8.",
+        "type": "boolean"
+      },
+      "192": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "193": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "194": {
+        "description": "If yes, please comment:",
+        "type": "boolean"
+      },
+      "201": {
+        "description": "No",
+        "type": "string"
+      },
+      "202": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "205": {
+        "description": "\u2750",
+        "type": "boolean"
+      },
+      "208": {
+        "description": "In your experience, does your volunteer assignment match the position description?",
+        "type": "string"
+      },
+      "209": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "210": {
+        "description": "If yes, please comment:",
+        "type": "string"
+      },
+      "211": {
+        "description": "5. Was the orientation information sufficient to enable you to begin your duties?",
+        "type": "boolean"
+      },
+      "212": {
+        "description": "Page 2",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "7.",
+        "type": "string"
+      },
+      "225": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "226": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "228": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "229": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "230": {
+        "description": "N/A",
+        "type": "string"
+      },
+      "231": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "235": {
+        "description": "No",
+        "type": "string"
+      },
+      "242": {
+        "description": "If applicable for your volunteer position, were the supplies available for you to do your assignment?",
+        "type": "boolean"
+      },
+      "243": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "246": {
+        "description": "If no, can you identify what information would have been useful to you?",
+        "type": "boolean"
+      },
+      "247": {
+        "description": "\u2750",
+        "type": "boolean"
+      },
+      "250": {
+        "description": "If no, please explain.",
+        "type": "string"
+      },
+      "251": {
+        "description": "6.   Are staff courteous and helpful?",
+        "type": "string"
+      },
+      "259": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "260": {
+        "description": "If yes, please comment:",
+        "type": "string"
+      },
+      "261": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "262": {
+        "description": "No",
+        "type": "string"
+      },
+      "264": {
+        "description": "10. How important is it to you that we offer educational opportunities?",
+        "type": "boolean"
+      },
+      "265": {
+        "description": "Comments:",
+        "type": "string"
+      },
+      "278": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "279": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "287": {
+        "description": "Page 3",
+        "type": "string"
+      },
+      "293": {
+        "description": "Please explain:",
+        "type": "string"
+      },
+      "294": {
+        "description": "11. Do you think that you are provided with sufficient feedback by staff you work with?",
+        "type": "string"
+      },
+      "300": {
+        "description": "1         2        3         4         5",
+        "type": "boolean"
+      },
+      "303": {
+        "description": "(Please circle.) 1 = not important and 5 = very important)",
+        "type": "boolean"
+      },
+      "306": {
+        "description": "No",
+        "type": "string"
+      },
+      "307": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "312": {
+        "description": "If no, please give us some suggestions of what you would like the event to look like:",
+        "type": "string"
+      },
+      "313": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "314": {
+        "description": "13. What do you like about volunteering with us?",
+        "type": "boolean"
+      },
+      "315": {
+        "description": "12. Have you been involved in the Volunteer Appreciation Event?",
+        "type": "string"
+      },
+      "339": {
+        "description": "Volunteer Name (optional)",
+        "type": "string"
+      },
+      "375": {
+        "description": "Date",
+        "type": "string"
+      },
+      "980": {
+        "description": "more than 2 years \u2013 3 years or less",
+        "type": "boolean"
+      },
+      "982": {
+        "description": "As part of the regular review of Yukon Continuing Care, we are distributing this survey to ask you for your help",
+        "type": "boolean"
+      },
+      "983": {
+        "description": "more than 1 year \u2013 2 years or less",
+        "type": "boolean"
+      },
+      "984": {
+        "description": "over 10 years",
+        "type": "boolean"
+      },
+      "985": {
+        "description": "more than six months \u2013 1 year or less",
+        "type": "boolean"
+      },
+      "986": {
+        "description": "more than 5 years \u2013 10 years or less",
+        "type": "boolean"
+      },
+      "987": {
+        "description": "less than six months",
+        "type": "boolean"
+      },
+      "988": {
+        "description": "more than 3 years \u2013 4 years or less",
+        "type": "boolean"
+      },
+      "989": {
+        "description": "1.  How long have you been a volunteer for Copper Ridge Place/Macaulay Lodge/Thomson Centre?",
+        "type": "boolean"
+      },
+      "990": {
+        "description": "\u2750",
+        "type": "boolean"
+      },
+      "991": {
+        "description": "\u2750",
+        "type": "boolean"
+      },
+      "992": {
+        "description": "\u2750",
+        "type": "boolean"
+      },
+      "993": {
+        "description": "\u2750",
+        "type": "boolean"
+      },
+      "994": {
+        "description": "Friends",
+        "type": "string"
+      },
+      "998": {
+        "description": "Rewarding",
+        "type": "boolean"
+      },
+      "999": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "1000": {
+        "description": "Social contact",
+        "type": "boolean"
+      },
+      "1001": {
+        "description": "Had time available",
+        "type": "boolean"
+      },
+      "1002": {
+        "description": "Personal satisfaction",
+        "type": "boolean"
+      },
+      "1003": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "1004": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "1005": {
+        "description": "4.",
+        "type": "boolean"
+      },
+      "1006": {
+        "description": "Interesting",
+        "type": "boolean"
+      },
+      "1007": {
+        "description": "To gain experience             please specify:",
+        "type": "boolean"
+      },
+      "1008": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "1009": {
+        "description": "Challenging",
+        "type": "string"
+      },
+      "1010": {
+        "description": "3.  What are the main reasons that you decided to volunteer?",
+        "type": "string"
+      },
+      "1011": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "1012": {
+        "description": "\u2750",
+        "type": "string"
+      },
+      "1013": {
+        "description": "Comments:",
+        "type": "string"
+      },
+      "1014": {
+        "description": "2.  How did you become aware of the Volunteer Services Program?",
+        "type": "string"
+      },
+      "1015": {
+        "description": "Page 1",
+        "type": "string"
+      },
+      "1016": {
+        "description": "Please return the completed survey by email, mail or in person to the Coordinator of Volunteer Services.",
+        "type": "string"
+      },
+      "1017": {
+        "description": "Volunteers are very important to us.  We appreciate your input!",
+        "type": "string"
+      },
+      "1018": {
+        "description": "YG(5523Q)F4 Rev.02/2014",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

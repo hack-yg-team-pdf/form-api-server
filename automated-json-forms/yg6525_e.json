@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "232": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "233": {
+        "description": "YHCIP N\u00ba",
+        "type": "string"
+      },
+      "234": {
+        "description": "Male",
+        "type": "string"
+      },
+      "235": {
+        "description": "Female",
+        "type": "string"
+      },
+      "236": {
+        "description": "Contact Person",
+        "type": "string"
+      },
+      "237": {
+        "description": "002",
+        "type": "string"
+      },
+      "240": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "241": {
+        "description": "Address",
+        "type": "string"
+      },
+      "242": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "246": {
+        "description": "Telephone N\u00ba",
+        "type": "string"
+      },
+      "247": {
+        "description": "Previous MD or Clinic",
+        "type": "string"
+      },
+      "248": {
+        "description": "Telephone N\u00ba",
+        "type": "string"
+      },
+      "249": {
+        "description": "Counsellors or other programs",
+        "type": "string"
+      },
+      "250": {
+        "description": "Telephone N\u00ba",
+        "type": "string"
+      },
+      "251": {
+        "description": "Any Other Contact Person",
+        "type": "string"
+      },
+      "252": {
+        "description": "Telephone N\u00ba",
+        "type": "string"
+      },
+      "253": {
+        "description": "Current Medications",
+        "type": "string"
+      },
+      "254": {
+        "description": "Reason for Referral",
+        "type": "string"
+      },
+      "255": {
+        "description": "Department of Health and Social Services, ATIPP Coordinator, #1 Hospital Road, Whitehorse, Yukon, telephone: (867) 667-5919.",
+        "type": "string"
+      },
+      "256": {
+        "description": "Email:  rcc@gov.yk.ca  \u2022  Fax: (867) 668-2565",
+        "type": "string"
+      },
+      "257": {
+        "description": "Previous Counselling or Mental Health History and Treatment",
+        "type": "string"
+      },
+      "258": {
+        "description": "Substance Use History and Treatment",
+        "type": "string"
+      },
+      "259": {
+        "description": "Medical Concerns or Other Important Information",
+        "type": "string"
+      },
+      "260": {
+        "description": "Please send the completed referral form to Referred Care Clinic - Yukon",
+        "type": "string"
+      },
+      "261": {
+        "description": "Mail:  Box 2703 \u2013 H-2RCC, Whitehorse, YT   Y1A 2C6",
+        "type": "string"
+      },
+      "262": {
+        "description": "The information on this form is collected for the purposes of providing treatment and care to individuals, for the function of providing related support and social services, for",
+        "type": "boolean"
+      },
+      "265": {
+        "description": "the administration of the Health Care Insurance Plan Act (including payment for Insured health and related services), and for program monitoring and evaluation. This collec-",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

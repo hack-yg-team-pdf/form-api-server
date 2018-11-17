@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "TO the TENANT or LANDLORD (full names as shown on the tenancy agreement).",
+        "type": "string"
+      },
+      "42": {
+        "description": "RENTAL UNIT ADDRESS (this is also the address where this document will be either given personally or left for and mailed to the tenant for",
+        "type": "string"
+      },
+      "43": {
+        "description": "service) Note: If mailed (registered or regular mail), the notice is considered served 5 days after mailing.",
+        "type": "string"
+      },
+      "44": {
+        "description": "SERVICE ADDRESS (if different from above)",
+        "type": "string"
+      },
+      "45": {
+        "description": "Possession and reasonable compensation.",
+        "type": "string"
+      },
+      "46": {
+        "description": "REASON(S) (Note: to utilize the fast-track 14 day notice of \u201ceviction\u201d a significant breach under the Act or tenancy agreement must be",
+        "type": "string"
+      },
+      "47": {
+        "description": "specified) (please attach additional page if needed).",
+        "type": "string"
+      },
+      "48": {
+        "description": "DATE TENANCY ENDS (the tenant must be completely moved out no later than 1pm on this date).",
+        "type": "string"
+      },
+      "49": {
+        "description": "SIGNATURE of TENANT or LANDLORD",
+        "type": "string"
+      },
+      "50": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "51": {
+        "description": "Note: the move out date cannot be less than 14 full days from the date the written notice is served.",
+        "type": "string"
+      },
+      "52": {
+        "description": "move-out date does not comply with the RLTA, the effective date is the earliest date that complies with the RLTA.",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "INFORMATION FOR BOTH LANDLORDS AND TENANTS",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

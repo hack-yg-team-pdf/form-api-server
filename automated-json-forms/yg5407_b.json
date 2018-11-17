@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "54": {
+        "description": "Phone Number:",
+        "type": "string"
+      },
+      "55": {
+        "description": "Entrepreneur qui effectue l\u2019installation (ou la modification) :",
+        "type": "string"
+      },
+      "56": {
+        "description": "Adresse du site :",
+        "type": "string"
+      },
+      "59": {
+        "description": "1.",
+        "type": "string"
+      },
+      "60": {
+        "description": "2.",
+        "type": "string"
+      },
+      "61": {
+        "description": "3.",
+        "type": "string"
+      },
+      "62": {
+        "description": "4.",
+        "type": "string"
+      },
+      "65": {
+        "description": "Je soussign\u00e9(e),  , d\u00e9clare que les renseignements contenus dans la pr\u00e9sente sont",
+        "type": "string"
+      },
+      "66": {
+        "description": "Date :              Certificat no",
+        "type": "string"
+      },
+      "67": {
+        "description": "Certificate No.",
+        "type": "string"
+      },
+      "68": {
+        "description": "Signature:",
+        "type": "string"
+      },
+      "69": {
+        "description": "Signature :   Poste/titre:",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "Position/Title:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

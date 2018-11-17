@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "71": {
+        "description": "HIGH PERFORMANCE \u2013 OFFICIALS",
+        "type": "string"
+      },
+      "72": {
+        "description": "Name of YSGB:",
+        "type": "string"
+      },
+      "73": {
+        "description": "Date on which applicant become Yukon resident:     Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "74": {
+        "description": "CERTIFICATIONS",
+        "type": "string"
+      },
+      "75": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "76": {
+        "description": "What is the highest level of certification offered in your sport?",
+        "type": "string"
+      },
+      "77": {
+        "description": "Level of certification",
+        "type": "string"
+      },
+      "78": {
+        "description": "1.",
+        "type": "string"
+      },
+      "79": {
+        "description": "Are you presently officiating high performance competitions?",
+        "type": "string"
+      },
+      "80": {
+        "description": "2.",
+        "type": "string"
+      },
+      "81": {
+        "description": "What are your officiating goals?",
+        "type": "string"
+      },
+      "82": {
+        "description": "3.",
+        "type": "string"
+      },
+      "83": {
+        "description": "LEADERSHIP DEVELOPMENT OPPORTUNITY",
+        "type": "string"
+      },
+      "84": {
+        "description": "4.",
+        "type": "string"
+      },
+      "85": {
+        "description": "Location:",
+        "type": "string"
+      },
+      "86": {
+        "description": "5.",
+        "type": "string"
+      },
+      "87": {
+        "description": "Course duration:",
+        "type": "string"
+      },
+      "88": {
+        "description": "Dates:",
+        "type": "string"
+      },
+      "89": {
+        "description": "National officiating course or upgrading?",
+        "type": "string"
+      },
+      "90": {
+        "description": "Yes           No",
+        "type": "string"
+      },
+      "94": {
+        "description": "Describe in detail the course or opportunity that you are applying for:",
+        "type": "string"
+      },
+      "95": {
+        "description": "Yes           No",
+        "type": "string"
+      },
+      "96": {
+        "description": "Page 3 of 6",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

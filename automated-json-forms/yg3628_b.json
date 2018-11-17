@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Municipality",
+        "type": "string"
+      },
+      "33": {
+        "description": "Polling division",
+        "type": "string"
+      },
+      "34": {
+        "description": "of",
+        "type": "string"
+      },
+      "35": {
+        "description": "Address",
+        "type": "string"
+      },
+      "36": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "39": {
+        "description": "Returning officer or deputy returning officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "69": {
+        "description": "e",
+        "type": "string"
+      },
+      "70": {
+        "description": "t",
+        "type": "string"
+      },
+      "71": {
+        "description": "YEAR",
+        "type": "string"
+      },
+      "72": {
+        "description": "MONTH",
+        "type": "string"
+      },
+      "73": {
+        "description": "Residence of",
+        "type": "string"
+      },
+      "74": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "75": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "76": {
+        "description": "TOWN/CITY",
+        "type": "string"
+      },
+      "77": {
+        "description": "TERRITORY/PROVINCE",
+        "type": "string"
+      },
+      "78": {
+        "description": "Contact Phone number        Email",
+        "type": "string"
+      },
+      "79": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "80": {
+        "description": "form if you have been away for educational, medical, or employment reasons.",
+        "type": "string"
+      },
+      "81": {
+        "description": "(Canada). If you are a Yukon resident but do not meet the criteria above you will be required to complete the Residency Exemption Application",
+        "type": "string"
+      },
+      "82": {
+        "description": "*For the purposes of this application, \u201cpermanent resident\u201d means the same as landed immigrant and is further defined in the Immigration Act",
+        "type": "string"
+      },
+      "83": {
+        "description": "during the past 12 months.",
+        "type": "string"
+      },
+      "84": {
+        "description": "(if different than above)",
+        "type": "string"
+      },
+      "85": {
+        "description": "NUMBER AND STREET",
+        "type": "string"
+      },
+      "86": {
+        "description": "HEREINAFTER called the \u201capplicant\u201d:",
+        "type": "string"
+      },
+      "87": {
+        "description": "a period of at least 12 months, and I have been physically present in Yukon for at least 185 days",
+        "type": "string"
+      },
+      "88": {
+        "description": "I am a non-resident Canadian citizen and have resided within 150 km of the concession for which I",
+        "type": "string"
+      },
+      "89": {
+        "description": "am applying for not less than 1 year immediately prior to the date of this declaration.",
+        "type": "string"
+      },
+      "90": {
+        "description": "Location        Year",
+        "type": "string"
+      },
+      "91": {
+        "description": "I have completed the Yukon Trapper Education Workshop or equivalent training.",
+        "type": "string"
+      },
+      "92": {
+        "description": "(Mandatory if younger than 65, or if older than 65 and not previously licensed.)",
+        "type": "string"
+      },
+      "93": {
+        "description": "I am a Canadian citizen or permanent resident whose principal residence has been in Yukon for",
+        "type": "string"
+      },
+      "94": {
+        "description": "The applicant provides  bearing number  as",
+        "type": "string"
+      },
+      "97": {
+        "description": "OR",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "proof of their identity and the names of two references for residency verification purposes.",
+        "type": "string"
+      },
+      "99": {
+        "description": "Reference #1",
+        "type": "string"
+      },
+      "100": {
+        "description": "Reference #2",
+        "type": "string"
+      },
+      "101": {
+        "description": "Only complete this section if you are applying for a trapping concession. If applying for a trapping concession, you",
+        "type": "string"
+      },
+      "102": {
+        "description": "Name / phone #",
+        "type": "string"
+      },
+      "103": {
+        "description": "must also complete Form B - Application for a Yukon Trapping Concession.",
+        "type": "string"
+      },
+      "104": {
+        "description": "Name / phone #",
+        "type": "string"
+      },
+      "105": {
+        "description": "I have completed the Yukon Hunter Education Course or equivalent training.",
+        "type": "string"
+      },
+      "106": {
+        "description": "SECTION C: CONCESSION APPLICATION INFORMATION",
+        "type": "boolean"
+      },
+      "107": {
+        "description": "(Mandatory if born on or after April 1, 1987.)",
+        "type": "boolean"
+      },
+      "108": {
+        "description": "Referral comments",
+        "type": "boolean"
+      },
+      "111": {
+        "description": "Authorized signature",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

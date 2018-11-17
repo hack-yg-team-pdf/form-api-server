@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "502": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "503": {
+        "description": "Permit number",
+        "type": "string"
+      },
+      "504": {
+        "description": "Operating unit/block",
+        "type": "string"
+      },
+      "507": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "509": {
+        "description": "Green",
+        "type": "string"
+      },
+      "511": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "513": {
+        "description": "Green",
+        "type": "string"
+      },
+      "515": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "517": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "519": {
+        "description": "Green",
+        "type": "string"
+      },
+      "521": {
+        "description": "Green",
+        "type": "string"
+      },
+      "522": {
+        "description": "Fuel wood",
+        "type": "string"
+      },
+      "523": {
+        "description": "Green",
+        "type": "string"
+      },
+      "524": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "525": {
+        "description": "Deciduous",
+        "type": "string"
+      },
+      "527": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "529": {
+        "description": "Green",
+        "type": "string"
+      },
+      "531": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "533": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "534": {
+        "description": "Green",
+        "type": "string"
+      },
+      "537": {
+        "description": "Coniferous",
+        "type": "string"
+      },
+      "538": {
+        "description": "Green",
+        "type": "string"
+      },
+      "541": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "542": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "543": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "544": {
+        "description": "Deciduous",
+        "type": "string"
+      },
+      "545": {
+        "description": "I hereby certify that the harvested volumes provided on this Forest Resources Harvest Report are true.",
+        "type": "string"
+      },
+      "546": {
+        "description": "Coniferous",
+        "type": "string"
+      },
+      "549": {
+        "description": "Green",
+        "type": "string"
+      },
+      "551": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "553": {
+        "description": "Dead",
+        "type": "string"
+      },
+      "555": {
+        "description": "Green",
+        "type": "string"
+      },
+      "557": {
+        "description": "Green",
+        "type": "string"
+      },
+      "559": {
+        "description": "Name:     Signature:     Date:",
+        "type": "string"
+      },
+      "561": {
+        "description": "Deciduous",
+        "type": "string"
+      },
+      "562": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "563": {
+        "description": "District:    Received signature:    Date:",
+        "type": "string"
+      },
+      "564": {
+        "description": "Saw log",
+        "type": "string"
+      },
+      "565": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "112": {
+        "description": "Amount requested from Yukon Historic Resources Fund $",
+        "type": "string"
+      },
+      "113": {
+        "description": "$",
+        "type": "string"
+      },
+      "114": {
+        "description": "Name of Contact:      Signature:",
+        "type": "string"
+      },
+      "115": {
+        "description": "$",
+        "type": "string"
+      },
+      "116": {
+        "description": "$",
+        "type": "string"
+      },
+      "117": {
+        "description": "$",
+        "type": "string"
+      },
+      "118": {
+        "description": "$",
+        "type": "string"
+      },
+      "119": {
+        "description": "$",
+        "type": "string"
+      },
+      "120": {
+        "description": "$",
+        "type": "string"
+      },
+      "121": {
+        "description": "TOTAL EXPENSES $",
+        "type": "string"
+      },
+      "123": {
+        "description": "$",
+        "type": "string"
+      },
+      "124": {
+        "description": "$",
+        "type": "string"
+      },
+      "125": {
+        "description": "$",
+        "type": "string"
+      },
+      "126": {
+        "description": "PLEASE NOTE THAT THE APPLICATION DEADLINE IS 5PM, MARCH 15",
+        "type": "string"
+      },
+      "136": {
+        "description": "$",
+        "type": "string"
+      },
+      "137": {
+        "description": "$",
+        "type": "string"
+      },
+      "138": {
+        "description": "$",
+        "type": "string"
+      },
+      "139": {
+        "description": "$",
+        "type": "string"
+      },
+      "140": {
+        "description": "Name of Organization:",
+        "type": "string"
+      },
+      "146": {
+        "description": "$",
+        "type": "string"
+      },
+      "155": {
+        "description": "TOTAL REVENUE $",
+        "type": "string"
+      },
+      "156": {
+        "description": "$",
+        "type": "string"
+      },
+      "157": {
+        "description": "$",
+        "type": "string"
+      },
+      "158": {
+        "description": "$",
+        "type": "string"
+      },
+      "160": {
+        "description": "$",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

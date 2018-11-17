@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "44": {
+        "description": "1.",
+        "type": "string"
+      },
+      "45": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "46": {
+        "description": "1.",
+        "type": "string"
+      },
+      "47": {
+        "description": "2.",
+        "type": "string"
+      },
+      "48": {
+        "description": "TO (name of party)",
+        "type": "string"
+      },
+      "49": {
+        "description": "The (name of party)  recovered judgment against you in this court for the",
+        "type": "string"
+      },
+      "50": {
+        "description": "amount of $    and costs in the amount of $   and the judgment remains",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

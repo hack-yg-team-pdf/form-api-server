@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "56": {
+        "description": "PUBLIC TRANSIT REGISTRATION FORM",
+        "type": "string"
+      },
+      "57": {
+        "description": "STUDENT:",
+        "type": "string"
+      },
+      "58": {
+        "description": "Last Name:                                                                               First Name:",
+        "type": "string"
+      },
+      "69": {
+        "description": "Vanier",
+        "type": "string"
+      },
+      "70": {
+        "description": "HOME ADDRESS:",
+        "type": "string"
+      },
+      "71": {
+        "description": "House/Apt/Lot #:                                        Street/Road:",
+        "type": "string"
+      },
+      "72": {
+        "description": "Parent(s)/Guardian(s) Name, Phone Number (Daytime) and Email Address",
+        "type": "string"
+      },
+      "73": {
+        "description": "CONSENT: A parent\u2019s or guardian\u2019s signature is required below for all students. This confirms consent for the student",
+        "type": "string"
+      },
+      "74": {
+        "description": "Parent(s)/Guardian Name:",
+        "type": "string"
+      },
+      "75": {
+        "description": "Parent(s)/Guardian Signature:                                                                                                    Date:",
+        "type": "string"
+      },
+      "76": {
+        "description": "Personal information on this form is being collected under the authority of the Education Act for the purpose of",
+        "type": "boolean"
+      },
+      "79": {
+        "description": "administering Yukon Education school busing services and providing student transportation. Information collected on this",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

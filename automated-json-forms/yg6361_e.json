@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "45": {
+        "description": "File No",
+        "type": "string"
+      },
+      "46": {
+        "description": "PLAINTIFF (VICTIM):",
+        "type": "string"
+      },
+      "47": {
+        "description": "DEFENDANT (OFFENDER):",
+        "type": "string"
+      },
+      "48": {
+        "description": "AT",
+        "type": "string"
+      },
+      "49": {
+        "description": "BEFORE HIS/HER HONOUR",
+        "type": "string"
+      },
+      "50": {
+        "description": ")",
+        "type": "string"
+      },
+      "51": {
+        "description": ", the",
+        "type": "string"
+      },
+      "52": {
+        "description": ")    of",
+        "type": "string"
+      },
+      "53": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "54": {
+        "description": "(d) the Defendant did not pay restitution in accordance with the Probation Order or Conditional Sentence Order; and",
+        "type": "string"
+      },
+      "55": {
+        "description": "(b) the amount of restitution outstanding as of this date is ,",
+        "type": "string"
+      },
+      "56": {
+        "description": "(b) this is an order without notice, pursuant to Section 37(2) of the Small Claims Court Regulations;",
+        "type": "string"
+      },
+      "57": {
+        "description": "by the Defendant to the Plaintiff on ; and",
+        "type": "string"
+      },
+      "58": {
+        "description": "1. Condition  of the Probation Order or Conditional Sentence Order granting restitution in the amount",
+        "type": "string"
+      },
+      "59": {
+        "description": "of  is hereby converted to a civil judgment in the outstanding amount of  payable",
+        "type": "string"
+      },
+      "60": {
+        "description": "2. The requirement that the parties sign this order shall be waived.",
+        "type": "string"
+      },
+      "61": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "62": {
+        "description": "Reference : Section 37 Small Claims Court Regulations",
+        "type": "boolean"
+      },
+      "65": {
+        "description": "Judge, Small Claims Court of Yukon",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

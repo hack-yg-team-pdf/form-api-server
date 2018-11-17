@@ -1,0 +1,151 @@
+{
+  "fields": {
+    "properties": {
+      "407": {
+        "description": "Project Manager & Project/Contract Title:",
+        "type": "string"
+      },
+      "408": {
+        "description": "Phone: (867)",
+        "type": "string"
+      },
+      "409": {
+        "description": "Government of Yukon, Department of",
+        "type": "string"
+      },
+      "410": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "411": {
+        "description": "This certificate is requested by and issued to:",
+        "type": "string"
+      },
+      "412": {
+        "description": "Part 1",
+        "type": "string"
+      },
+      "413": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "414": {
+        "description": "Box 2703",
+        "type": "string"
+      },
+      "417": {
+        "description": "Adresse :",
+        "type": "string"
+      },
+      "418": {
+        "description": "Code postal :",
+        "type": "string"
+      },
+      "419": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "420": {
+        "description": "Responsabilit\u00e9 civile exploitation ou",
+        "type": "string"
+      },
+      "421": {
+        "description": "Automobile Liability (owned/leased",
+        "type": "string"
+      },
+      "422": {
+        "description": "Details:",
+        "type": "string"
+      },
+      "423": {
+        "description": "ou exc\u00e9dentaire",
+        "type": "string"
+      },
+      "424": {
+        "description": "Pr\u00e9cisez :",
+        "type": "string"
+      },
+      "425": {
+        "description": "Contract identified above.",
+        "type": "string"
+      },
+      "426": {
+        "description": "(v\u00e9hicules lou\u00e9s ou achet\u00e9s)",
+        "type": "string"
+      },
+      "427": {
+        "description": "Details:",
+        "type": "string"
+      },
+      "428": {
+        "description": "This certificate of Insurance certifies that policies of insurance described herein are in force",
+        "type": "string"
+      },
+      "429": {
+        "description": "vehicles)",
+        "type": "string"
+      },
+      "430": {
+        "description": "Pr\u00e9cisez :",
+        "type": "string"
+      },
+      "431": {
+        "description": "and effective as of the date of this certificate andcomply with the insurance requirements of the",
+        "type": "string"
+      },
+      "432": {
+        "description": "Minimum $2,000,000",
+        "type": "string"
+      },
+      "433": {
+        "description": "$$",
+        "type": "string"
+      },
+      "434": {
+        "description": "Professional Liability",
+        "type": "string"
+      },
+      "435": {
+        "description": "Le pr\u00e9sent certificat d\u2019assurance atteste que les polices d\u2019assurance d\u00e9crites ci-dessus sont en",
+        "type": "string"
+      },
+      "436": {
+        "description": "vigueur \u00e0 la date indiqu\u00e9e sur le pr\u00e9sent certificat et r\u00e9pondent aux exigences du contrat sus-",
+        "type": "string"
+      },
+      "437": {
+        "description": "Each claim",
+        "type": "string"
+      },
+      "438": {
+        "description": "Property",
+        "type": "string"
+      },
+      "439": {
+        "description": "YG(5963Q)F1 02/2014",
+        "type": "string"
+      },
+      "440": {
+        "description": "Biens",
+        "type": "string"
+      },
+      "441": {
+        "description": "Other",
+        "type": "string"
+      },
+      "442": {
+        "description": "$$",
+        "type": "string"
+      },
+      "443": {
+        "description": "Autre",
+        "type": "string"
+      },
+      "444": {
+        "description": "mentionn\u00e9 en mati\u00e8re d\u2019assurance.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

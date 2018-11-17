@@ -1,0 +1,143 @@
+{
+  "fields": {
+    "properties": {
+      "36": {
+        "description": "sans frais au Yukon 1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "37": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will be",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "39": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "40": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "42": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "43": {
+        "description": "D",
+        "type": "string"
+      },
+      "44": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "50": {
+        "description": "used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "54": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "55": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "62": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "63": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "64": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "65": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "66": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "67": {
+        "description": "B",
+        "type": "string"
+      },
+      "68": {
+        "description": "C",
+        "type": "string"
+      },
+      "69": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "70": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "71": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "72": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "73": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "862": {
+        "description": "Partnership and Business Names Act (Section 82) Form 6",
+        "type": "string"
+      },
+      "863": {
+        "description": "4.  Effective date of change :",
+        "type": "string"
+      },
+      "864": {
+        "description": "(joindre une nouvelle formule 4 en ne remplissant que les portions modifies \u2013 laisser vides les portions inchang\u00e9es)",
+        "type": "string"
+      },
+      "865": {
+        "description": "3.  The declaration of partnership filed on this date is amended as",
+        "type": "string"
+      },
+      "866": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "867": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "868": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "869": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "870": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "871": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "872": {
+        "description": "Signature of partner or individual signing for the partner",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

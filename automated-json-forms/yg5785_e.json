@@ -1,0 +1,199 @@
+{
+  "fields": {
+    "properties": {
+      "44": {
+        "description": "Date/Time:",
+        "type": "string"
+      },
+      "45": {
+        "description": "\uf072 Yes  \uf072 No",
+        "type": "string"
+      },
+      "46": {
+        "description": "Name (print):",
+        "type": "string"
+      },
+      "48": {
+        "description": "Name (print):",
+        "type": "string"
+      },
+      "49": {
+        "description": "Manager, Quality/Risk and Clinical Practice:",
+        "type": "string"
+      },
+      "50": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "51": {
+        "description": "Program Manager:",
+        "type": "string"
+      },
+      "52": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "54": {
+        "description": "Date of Incident:",
+        "type": "string"
+      },
+      "55": {
+        "description": "Time:",
+        "type": "string"
+      },
+      "56": {
+        "description": "Other Staff Witness:",
+        "type": "string"
+      },
+      "57": {
+        "description": "Volunteer:",
+        "type": "string"
+      },
+      "58": {
+        "description": "B.  Description of Incident: (Include location, observed details, action taken, witnesses & outcome.)",
+        "type": "string"
+      },
+      "67": {
+        "description": "Client/Resident:",
+        "type": "string"
+      },
+      "68": {
+        "description": "Visitor:",
+        "type": "string"
+      },
+      "69": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "70": {
+        "description": "Staff Name (print):",
+        "type": "string"
+      },
+      "78": {
+        "description": "Date/Time:",
+        "type": "string"
+      },
+      "85": {
+        "description": "Report initiated by:",
+        "type": "string"
+      },
+      "86": {
+        "description": "Initials:",
+        "type": "string"
+      },
+      "87": {
+        "description": "Time of incident:",
+        "type": "string"
+      },
+      "88": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "91": {
+        "description": "Name (print):",
+        "type": "string"
+      },
+      "281": {
+        "description": "YHIP:",
+        "type": "string"
+      },
+      "282": {
+        "description": "Client name:",
+        "type": "string"
+      },
+      "283": {
+        "description": "Resident Label",
+        "type": "string"
+      },
+      "284": {
+        "description": "Health and Social Services",
+        "type": "boolean"
+      },
+      "286": {
+        "description": "\uf072  Wrong person",
+        "type": "boolean"
+      },
+      "288": {
+        "description": "\uf072  Wrong medication",
+        "type": "boolean"
+      },
+      "290": {
+        "description": "\uf072  Medication(s) found in client/resident room",
+        "type": "boolean"
+      },
+      "292": {
+        "description": "\uf072  Automatic stop date not followed",
+        "type": "boolean"
+      },
+      "294": {
+        "description": "\uf072  MAR signed as given and medication still in medication cart/WOW (Workstation on Wheels)",
+        "type": "boolean"
+      },
+      "296": {
+        "description": "\uf072  Extra Dose(s)",
+        "type": "boolean"
+      },
+      "298": {
+        "description": "Continuing Care",
+        "type": "boolean"
+      },
+      "300": {
+        "description": "\uf072  Omission(s)",
+        "type": "boolean"
+      },
+      "302": {
+        "description": "MEDICATION INCIDENT REPORT (PLEASE PRINT LEGIBLY)",
+        "type": "boolean"
+      },
+      "304": {
+        "description": "\uf072  Incomplete/Documentation:",
+        "type": "boolean"
+      },
+      "306": {
+        "description": "\uf072  Wrong Time",
+        "type": "boolean"
+      },
+      "308": {
+        "description": "\uf072  Wrong Route",
+        "type": "boolean"
+      },
+      "310": {
+        "description": "\uf072  Processing Error",
+        "type": "boolean"
+      },
+      "312": {
+        "description": "\uf072  Missing signatures on MAR",
+        "type": "boolean"
+      },
+      "314": {
+        "description": "\uf072  Narcotic Control Sheet missing signature(s)",
+        "type": "boolean"
+      },
+      "316": {
+        "description": "\uf072  Missing medications",
+        "type": "boolean"
+      },
+      "324": {
+        "description": "\uf072  Missing controlled medications",
+        "type": "boolean"
+      },
+      "326": {
+        "description": "\uf072  Illegible documentation",
+        "type": "boolean"
+      },
+      "328": {
+        "description": "\uf072  Pharmacy error",
+        "type": "boolean"
+      },
+      "330": {
+        "description": "\uf072  Near miss",
+        "type": "boolean"
+      },
+      "332": {
+        "description": "YG(5785Q)F1 Rev.07/2013",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

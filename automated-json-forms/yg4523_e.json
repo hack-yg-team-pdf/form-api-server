@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "117": {
+        "description": "Plaintiff(s) (name):",
+        "type": "string"
+      },
+      "118": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "119": {
+        "description": "2.",
+        "type": "string"
+      },
+      "122": {
+        "description": "1.",
+        "type": "string"
+      },
+      "123": {
+        "description": "Check one box:",
+        "type": "string"
+      },
+      "124": {
+        "description": "2.",
+        "type": "string"
+      },
+      "129": {
+        "description": "I admit responsibility for $  and wish to arrange terms of payment, and I disagree with the balance of the claim.",
+        "type": "string"
+      },
+      "131": {
+        "description": "I disagree with the claim made by the plaintiff.",
+        "type": "string"
+      },
+      "133": {
+        "description": "I disagree with the counterclaim made by .",
+        "type": "string"
+      },
+      "136": {
+        "description": "I do not dispute the counterclaim.",
+        "type": "string"
+      },
+      "138": {
+        "description": "I disagree with the third party claim made by",
+        "type": "string"
+      },
+      "141": {
+        "description": "I do not dispute the third party claim.",
+        "type": "string"
+      },
+      "143": {
+        "description": "REPLY TO NOTICE TO ALLEGED PARTNER (firm name of partnership)",
+        "type": "string"
+      },
+      "145": {
+        "description": "I deny that I was a partner in  at the material time.",
+        "type": "string"
+      },
+      "146": {
+        "description": "Defendant\u2019s/Third Party\u2019s/Alleged Partner\u2019s address for service of further documents is:",
+        "type": "string"
+      },
+      "147": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "148": {
+        "description": "Physical address:",
+        "type": "string"
+      },
+      "149": {
+        "description": "(optional) e-mail:  (optional) fax:",
+        "type": "string"
+      },
+      "150": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "151": {
+        "description": "YG(4523QE)F1 Rev.05/2017",
+        "type": "string"
+      },
+      "152": {
+        "description": "Reference: Sections 7, 12, 13, 17, 26 and 31 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "153": {
+        "description": "Print Name",
+        "type": "boolean"
+      },
+      "156": {
+        "description": "Signature of Defendant/Third Party/Alleged Partner",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

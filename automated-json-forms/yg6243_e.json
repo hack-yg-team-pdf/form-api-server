@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "264": {
+        "description": "Date of request:",
+        "type": "string"
+      },
+      "265": {
+        "description": "You may be eligible for the Rental Housing Allowance for Families Program if you meet the following eligibility requirements:",
+        "type": "boolean"
+      },
+      "267": {
+        "description": "You are a Yukon resident. (You have lived in Yukon for at least 90 days.)",
+        "type": "boolean"
+      },
+      "268": {
+        "description": "You are currently renting or looking to rent a modest private market rental home or apartment.",
+        "type": "boolean"
+      },
+      "269": {
+        "description": "You have at least one dependent in the home as defined by the Canada Revenue Agency (please see definition in the",
+        "type": "boolean"
+      },
+      "270": {
+        "description": "2-bedroom $53,500 \u2013 $100,130",
+        "type": "boolean"
+      },
+      "271": {
+        "description": "You are paying more than 30% of gross household income on total housing expenses (rent and utilities).",
+        "type": "boolean"
+      },
+      "272": {
+        "description": "3-bedroom $74,500 \u2013 $100,130",
+        "type": "boolean"
+      },
+      "273": {
+        "description": "(If you have arrears, you must pay them in full before you will be approved for this program).",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "1. Personal information",
+        "type": "boolean"
+      },
+      "275": {
+        "description": "Applicant 1",
+        "type": "boolean"
+      },
+      "276": {
+        "description": "Date of birth:",
+        "type": "string"
+      },
+      "277": {
+        "description": "Last name:",
+        "type": "string"
+      },
+      "278": {
+        "description": "First name:",
+        "type": "string"
+      },
+      "281": {
+        "description": "Date of birth:",
+        "type": "string"
+      },
+      "282": {
+        "description": "Last name:",
+        "type": "string"
+      },
+      "283": {
+        "description": "Applicant 2",
+        "type": "string"
+      },
+      "293": {
+        "description": "YG(6243EQ)F3 Rev.07/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

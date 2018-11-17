@@ -1,0 +1,279 @@
+{
+  "fields": {
+    "properties": {
+      "105": {
+        "description": "Date Specimen Collected:",
+        "type": "string"
+      },
+      "109": {
+        "description": "Dosage:",
+        "type": "string"
+      },
+      "110": {
+        "description": "Route:",
+        "type": "string"
+      },
+      "111": {
+        "description": "Length of Time:",
+        "type": "string"
+      },
+      "113": {
+        "description": "\uf072  Yes  \uf072  No",
+        "type": "string"
+      },
+      "114": {
+        "description": "Treatment:",
+        "type": "string"
+      },
+      "125": {
+        "description": "Name of Antibiotic:",
+        "type": "string"
+      },
+      "167": {
+        "description": "Specimen Results:",
+        "type": "string"
+      },
+      "168": {
+        "description": "Diagnosis:",
+        "type": "string"
+      },
+      "447": {
+        "description": "YHIP:",
+        "type": "string"
+      },
+      "448": {
+        "description": "Client name:",
+        "type": "string"
+      },
+      "449": {
+        "description": "Resident Label",
+        "type": "string"
+      },
+      "463": {
+        "description": "Date symptoms noted:",
+        "type": "string"
+      },
+      "464": {
+        "description": "Antibiotic Hx:",
+        "type": "string"
+      },
+      "465": {
+        "description": "(in the past 3 months \u2014 name, dosage, length of tx)",
+        "type": "string"
+      },
+      "466": {
+        "description": "Systemic:",
+        "type": "boolean"
+      },
+      "468": {
+        "description": "\uf072  Worsening in mental or functional status",
+        "type": "boolean"
+      },
+      "470": {
+        "description": "\uf072  New hypothermia",
+        "type": "boolean"
+      },
+      "472": {
+        "description": "\uf072  Fever self-reported",
+        "type": "boolean"
+      },
+      "474": {
+        "description": "from baseline",
+        "type": "boolean"
+      },
+      "476": {
+        "description": "\uf072  Abdominal pain",
+        "type": "boolean"
+      },
+      "478": {
+        "description": "\uf072  Headache",
+        "type": "boolean"
+      },
+      "480": {
+        "description": "\uf072  Dizziness",
+        "type": "boolean"
+      },
+      "482": {
+        "description": "\uf072  Fatigue, arthralgia, myalgia (r/t infectious event)",
+        "type": "boolean"
+      },
+      "484": {
+        "description": "Respiratory Tract Infection (RTI):",
+        "type": "boolean"
+      },
+      "486": {
+        "description": "\uf072  Change in sputum",
+        "type": "boolean"
+      },
+      "488": {
+        "description": "\uf072  Abnormal CXR",
+        "type": "boolean"
+      },
+      "490": {
+        "description": "\uf072  Chest pain",
+        "type": "boolean"
+      },
+      "492": {
+        "description": "\uf072  Hemoptysis",
+        "type": "boolean"
+      },
+      "494": {
+        "description": "\uf072  Shortness of breath (new onset)",
+        "type": "boolean"
+      },
+      "496": {
+        "description": "\uf072  Dry cough (new onset)",
+        "type": "boolean"
+      },
+      "498": {
+        "description": "Gastroenteritis:",
+        "type": "boolean"
+      },
+      "500": {
+        "description": "\uf072  2 or more episodes of diarrhea in 24 hr \u2014",
+        "type": "boolean"
+      },
+      "502": {
+        "description": "above normal for Res",
+        "type": "boolean"
+      },
+      "504": {
+        "description": "\uf072  2 or more episodes of vomiting in 24 hr period",
+        "type": "boolean"
+      },
+      "506": {
+        "description": "YG(5784Q)F2 Rev.07/2013",
+        "type": "string"
+      },
+      "507": {
+        "description": "INFECTION CONTROL REPORT (PLEASE PRINT LEGIBLY)",
+        "type": "boolean"
+      },
+      "509": {
+        "description": "\uf072  Gross heamaturia",
+        "type": "boolean"
+      },
+      "511": {
+        "description": "\uf072  Suprapubic/flank pain",
+        "type": "boolean"
+      },
+      "513": {
+        "description": "\uf072  Frequency",
+        "type": "boolean"
+      },
+      "515": {
+        "description": "\uf072  Urgency",
+        "type": "boolean"
+      },
+      "517": {
+        "description": "\uf072  No indwelling catheter",
+        "type": "boolean"
+      },
+      "519": {
+        "description": "\uf072  New/worse incontinence",
+        "type": "boolean"
+      },
+      "521": {
+        "description": "\uf072  Indwelling Catheter",
+        "type": "boolean"
+      },
+      "523": {
+        "description": "Skin infection:",
+        "type": "boolean"
+      },
+      "525": {
+        "description": "Type:",
+        "type": "string"
+      },
+      "526": {
+        "description": "Insertion Date:",
+        "type": "string"
+      },
+      "527": {
+        "description": "Location:",
+        "type": "string"
+      },
+      "528": {
+        "description": "\uf072  Drainage",
+        "type": "string"
+      },
+      "529": {
+        "description": "\uf072  Rash",
+        "type": "boolean"
+      },
+      "531": {
+        "description": "\uf072  Wound/Cellulitis/Soft Tissue",
+        "type": "boolean"
+      },
+      "533": {
+        "description": "\uf072  Surgical Wound",
+        "type": "boolean"
+      },
+      "535": {
+        "description": "\uf072  Redness",
+        "type": "boolean"
+      },
+      "537": {
+        "description": "\uf072  Pain",
+        "type": "boolean"
+      },
+      "539": {
+        "description": "\uf072  Itchy",
+        "type": "boolean"
+      },
+      "541": {
+        "description": "\uf072  Heat",
+        "type": "boolean"
+      },
+      "543": {
+        "description": "Description:",
+        "type": "boolean"
+      },
+      "545": {
+        "description": "Description:",
+        "type": "string"
+      },
+      "546": {
+        "description": "Eye/Ear/Nose/Mouth:",
+        "type": "boolean"
+      },
+      "548": {
+        "description": "\uf072  Unilateral/bilateral eye discharge",
+        "type": "string"
+      },
+      "549": {
+        "description": "Describe:",
+        "type": "boolean"
+      },
+      "551": {
+        "description": "\uf072  Tenderness",
+        "type": "boolean"
+      },
+      "553": {
+        "description": "\uf072  Ear discharge",
+        "type": "boolean"
+      },
+      "555": {
+        "description": "\uf072  Nasal obstruction/discharge",
+        "type": "boolean"
+      },
+      "557": {
+        "description": "\uf072  Sore throat",
+        "type": "boolean"
+      },
+      "559": {
+        "description": "\uf072  Tonsillar swelling or exudate",
+        "type": "boolean"
+      },
+      "561": {
+        "description": "\uf072  Tender/swollen cervical lymph nodes",
+        "type": "boolean"
+      },
+      "563": {
+        "description": "\uf072  Unilateral/bilateral conjunctiva redness",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

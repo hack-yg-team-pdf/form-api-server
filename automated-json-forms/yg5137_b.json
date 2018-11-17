@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "18": {
+        "description": "Please make your cheque payable to Government of Yukon, or,",
+        "type": "string"
+      },
+      "19": {
+        "description": "Veuillez faire votre ch\u00e8que \u00e0 l\u2019ordre du gouvernement du Yukon, ou fournir les renseignements demand\u00e9s ci-dessous remplissez",
+        "type": "string"
+      },
+      "20": {
+        "description": "Si vous avez des questions, veuillez communiquer avec les Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires : par t\u00e9l\u00e9phone, au 867-667-5111;",
+        "type": "boolean"
+      },
+      "23": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609 or e-mail PLRA@gov.yk.ca for inquiries.",
+        "type": "boolean"
+      },
+      "385": {
+        "description": "3.  Address:",
+        "type": "string"
+      },
+      "388": {
+        "description": "Nom commercial :",
+        "type": "string"
+      },
+      "389": {
+        "description": "Nom :",
+        "type": "string"
+      },
+      "390": {
+        "description": "Province/Territory \u2022 Province/territoire",
+        "type": "string"
+      },
+      "391": {
+        "description": "City \u2022 Ville",
+        "type": "string"
+      },
+      "392": {
+        "description": "T\u00e9l\u00e9phone :",
+        "type": "string"
+      },
+      "393": {
+        "description": "Phone Number:",
+        "type": "string"
+      },
+      "396": {
+        "description": "b)  within the past year declared bankruptcy, or made a voluntary assignment in bankruptcy?  If yes, give particulars and provide a copy of the",
+        "type": "string"
+      },
+      "397": {
+        "description": "a)  within the past year been the subject of any civil action in any jurisdiction in any part of the world alleging fraud, including an application for an",
+        "type": "string"
+      },
+      "398": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "399": {
+        "description": ", this                        day of                                                                 , 20       .",
+        "type": "string"
+      },
+      "400": {
+        "description": "Fait \u00e0  , ce  jour de/d\u2019    20  .",
+        "type": "string"
+      },
+      "401": {
+        "description": "avec le responsable des Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires",
+        "type": "string"
+      },
+      "402": {
+        "description": "5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

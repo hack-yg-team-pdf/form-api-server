@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "57": {
+        "description": "I",
+        "type": "string"
+      },
+      "58": {
+        "description": "1. In consideration of lottery licence number",
+        "type": "string"
+      },
+      "59": {
+        "description": "of",
+        "type": "string"
+      },
+      "60": {
+        "description": "(accountant name)",
+        "type": "string"
+      },
+      "61": {
+        "description": "accountant will clearly outline all of the approved use of proceeds and the expenditures for these",
+        "type": "string"
+      },
+      "62": {
+        "description": "(accountant full address)",
+        "type": "string"
+      },
+      "63": {
+        "description": "I understand financial reports must be submitted as stipulated in this licence. The report by the",
+        "type": "string"
+      },
+      "64": {
+        "description": "Signed in witness whereof, at the City of Whitehorse, in Yukon, this  day of ,",
+        "type": "string"
+      },
+      "65": {
+        "description": "20.",
+        "type": "string"
+      },
+      "66": {
+        "description": "Signature Licensee  (Print Name)",
+        "type": "string"
+      },
+      "67": {
+        "description": "Signature Accountant   (Print Name)",
+        "type": "string"
+      },
+      "68": {
+        "description": "Personal information contained on this form is collected under the Lottery Licensing Act and will be used for the purpose of administering the Act. For",
+        "type": "string"
+      },
+      "69": {
+        "description": "further information, contact the Registrar of Lotteries at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "hereby choose",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

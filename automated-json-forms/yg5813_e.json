@@ -1,0 +1,227 @@
+{
+  "fields": {
+    "properties": {
+      "125": {
+        "description": "Based on this result, is a public communications strategy required?",
+        "type": "string"
+      },
+      "126": {
+        "description": "Comments / Notes:",
+        "type": "string"
+      },
+      "127": {
+        "description": "the animal develop clinical signs consistent with rabies.  Date:",
+        "type": "string"
+      },
+      "128": {
+        "description": "the animal died.  Date:",
+        "type": "boolean"
+      },
+      "129": {
+        "description": "3)",
+        "type": "string"
+      },
+      "130": {
+        "description": "1)",
+        "type": "string"
+      },
+      "131": {
+        "description": "From:",
+        "type": "string"
+      },
+      "132": {
+        "description": "To:",
+        "type": "string"
+      },
+      "133": {
+        "description": "6 month quarantine period",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "additional notes and/or documents attached",
+        "type": "boolean"
+      },
+      "138": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "139": {
+        "description": "Animal Management",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "additional notes and/or documents attached",
+        "type": "boolean"
+      },
+      "142": {
+        "description": "the animal tested  positive for rabies.  Date:",
+        "type": "string"
+      },
+      "143": {
+        "description": "the animal tested  negative for rabies.",
+        "type": "boolean"
+      },
+      "146": {
+        "description": "Was an animal management strategy implemented (determined by the Chief Veterinary O(cid:31)cer)?",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "150": {
+        "description": "If an animal management strategy was implemented, what was the result? (check one)",
+        "type": "boolean"
+      },
+      "151": {
+        "description": "10 day observation period",
+        "type": "boolean"
+      },
+      "152": {
+        "description": "Rabies Risk Investigation Form B",
+        "type": "string"
+      },
+      "154": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "155": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "157": {
+        "description": "YYYY-MM-DD",
+        "type": "string"
+      },
+      "163": {
+        "description": "Comments / Notes:",
+        "type": "string"
+      },
+      "164": {
+        "description": "additional notes and/or documents attached",
+        "type": "boolean"
+      },
+      "167": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "the animal is alive and did not develop clinical signs consistent with rabies.",
+        "type": "boolean"
+      },
+      "169": {
+        "description": "5)",
+        "type": "string"
+      },
+      "170": {
+        "description": "Date sample was sent for testing:",
+        "type": "string"
+      },
+      "171": {
+        "description": "additional notes and/or documents attached",
+        "type": "boolean"
+      },
+      "172": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "173": {
+        "description": "YYYY-MM-DD",
+        "type": "string"
+      },
+      "174": {
+        "description": "Comments / Notes:",
+        "type": "string"
+      },
+      "175": {
+        "description": "If a sample from the animal was collected and sent for rabies testing, what was the result?",
+        "type": "boolean"
+      },
+      "177": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "178": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "285": {
+        "description": "Type of animal involved:",
+        "type": "string"
+      },
+      "286": {
+        "description": "Client name:",
+        "type": "string"
+      },
+      "287": {
+        "description": "Date Reported:",
+        "type": "string"
+      },
+      "288": {
+        "description": "First",
+        "type": "string"
+      },
+      "289": {
+        "description": "Where did the exposure occur?",
+        "type": "string"
+      },
+      "293": {
+        "description": "If a domestic animal was involved, can recent contact with wildlife be ruled out?",
+        "type": "string"
+      },
+      "294": {
+        "description": "Gather information for incomplete questions on Form A.  Record information on Form A.",
+        "type": "boolean"
+      },
+      "295": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "296": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "297": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "298": {
+        "description": "Will the animal be euthanized as a risk to public safety",
+        "type": "string"
+      },
+      "299": {
+        "description": "Phone #:",
+        "type": "string"
+      },
+      "302": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "303": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "304": {
+        "description": "YYYY-MM-DD",
+        "type": "boolean"
+      },
+      "305": {
+        "description": "Name of Health O(cid:31)cer conducting follow-up:",
+        "type": "string"
+      },
+      "306": {
+        "description": "additional notes and/or documents attached",
+        "type": "boolean"
+      },
+      "307": {
+        "description": "Scan the completed Form A and B, and e-mail them to the Medical Officer of Health, the Chief Veterinary Officer,",
+        "type": "string"
+      },
+      "308": {
+        "description": "Date:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

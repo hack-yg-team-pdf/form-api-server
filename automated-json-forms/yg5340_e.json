@@ -1,0 +1,143 @@
+{
+  "fields": {
+    "properties": {
+      "249": {
+        "description": "Objectives/Donations",
+        "type": "string"
+      },
+      "258": {
+        "description": "BALANCE (subtract line 12 from 11)",
+        "type": "string"
+      },
+      "268": {
+        "description": "Date",
+        "type": "string"
+      },
+      "273": {
+        "description": "(see terms and conditions)",
+        "type": "string"
+      },
+      "277": {
+        "description": "Supplementary financial reports are required at regular intervals until all proceeds are disbursed.",
+        "type": "string"
+      },
+      "279": {
+        "description": "Amount",
+        "type": "string"
+      },
+      "281": {
+        "description": "TOTAL (12) $",
+        "type": "string"
+      },
+      "282": {
+        "description": "If balance remains, supply details of dates, amounts, and religious or charitable purposes to which it will be applied.",
+        "type": "string"
+      },
+      "500": {
+        "description": "Licence No.",
+        "type": "string"
+      },
+      "503": {
+        "description": "Address",
+        "type": "string"
+      },
+      "504": {
+        "description": "TOTAL DEPOSITS",
+        "type": "string"
+      },
+      "505": {
+        "description": "Exchange on U.S.A. Funds",
+        "type": "string"
+      },
+      "506": {
+        "description": "Name of Organization      Casino Held Date(s)",
+        "type": "string"
+      },
+      "507": {
+        "description": "Number of Games:",
+        "type": "string"
+      },
+      "508": {
+        "description": "Blackjack",
+        "type": "string"
+      },
+      "509": {
+        "description": "Roulette",
+        "type": "string"
+      },
+      "510": {
+        "description": "Financial Summary (include all receipts, deposit slips, etc.)",
+        "type": "string"
+      },
+      "511": {
+        "description": "(1) $",
+        "type": "string"
+      },
+      "512": {
+        "description": "(2) $",
+        "type": "string"
+      },
+      "513": {
+        "description": "(3) $",
+        "type": "string"
+      },
+      "514": {
+        "description": "(4) $",
+        "type": "string"
+      },
+      "515": {
+        "description": "(6) $",
+        "type": "string"
+      },
+      "516": {
+        "description": "(7) $",
+        "type": "string"
+      },
+      "517": {
+        "description": "Net Proceeds",
+        "type": "string"
+      },
+      "518": {
+        "description": "$",
+        "type": "string"
+      },
+      "519": {
+        "description": "$",
+        "type": "string"
+      },
+      "520": {
+        "description": "$",
+        "type": "string"
+      },
+      "521": {
+        "description": "$",
+        "type": "string"
+      },
+      "522": {
+        "description": "$",
+        "type": "string"
+      },
+      "523": {
+        "description": "Proceeds (subtract line 8 from line 7)",
+        "type": "string"
+      },
+      "524": {
+        "description": "(8) $",
+        "type": "string"
+      },
+      "525": {
+        "description": "(9) $",
+        "type": "string"
+      },
+      "526": {
+        "description": "(10) $",
+        "type": "string"
+      },
+      "527": {
+        "description": "Net Proceeds (profit) (add lines 9 and 10)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

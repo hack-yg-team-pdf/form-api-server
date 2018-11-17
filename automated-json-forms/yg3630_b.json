@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "of",
+        "type": "string"
+      },
+      "33": {
+        "description": "do swear (or solemnly affirm) that:",
+        "type": "string"
+      },
+      "34": {
+        "description": "of",
+        "type": "string"
+      },
+      "35": {
+        "description": "Name",
+        "type": "string"
+      },
+      "36": {
+        "description": "b) the election of members of council was",
+        "type": "string"
+      },
+      "37": {
+        "description": "c) the submission was",
+        "type": "string"
+      },
+      "38": {
+        "description": "Number",
+        "type": "string"
+      },
+      "39": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "42": {
+        "description": "Notary public, returning officer or designated municipal officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

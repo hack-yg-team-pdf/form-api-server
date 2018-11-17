@@ -1,0 +1,227 @@
+{
+  "fields": {
+    "properties": {
+      "52": {
+        "description": "Thank you for your assistance in helping us track rare species in the Yukon!",
+        "type": "boolean"
+      },
+      "53": {
+        "description": "Return specimen to sender after verification",
+        "type": "boolean"
+      },
+      "54": {
+        "description": "If submitting a specimen for verification, please check",
+        "type": "string"
+      },
+      "55": {
+        "description": "List files included with your submission: (e.g. paper",
+        "type": "string"
+      },
+      "61": {
+        "description": "Please submit this form and any associated files",
+        "type": "string"
+      },
+      "62": {
+        "description": "(paper or digital) to:",
+        "type": "string"
+      },
+      "66": {
+        "description": "communities, dominant species, associated species, other rare species, substrate, soils, slope, aspect, moisture,",
+        "type": "string"
+      },
+      "67": {
+        "description": "Potential Threats/Conservation Concerns: (include any observations on threats to the population or habitat, current",
+        "type": "string"
+      },
+      "68": {
+        "description": "Search effort (approx. time at site):                                                            (minutes, hours or days)",
+        "type": "string"
+      },
+      "75": {
+        "description": "open",
+        "type": "string"
+      },
+      "76": {
+        "description": "Light:  Position:  Moisture:",
+        "type": "string"
+      },
+      "78": {
+        "description": "Abundance",
+        "type": "string"
+      },
+      "79": {
+        "description": "1000-10,000",
+        "type": "string"
+      },
+      "80": {
+        "description": "Description of What Was Observed: (include information on numbers observed, numbers estimated (and basis for",
+        "type": "string"
+      },
+      "82": {
+        "description": "often dominant",
+        "type": "string"
+      },
+      "87": {
+        "description": "estimate), population density, abundance, area of occupancy (and how measured), phenology at time of visit, etc.)",
+        "type": "string"
+      },
+      "89": {
+        "description": "inundated",
+        "type": "string"
+      },
+      "90": {
+        "description": "partial  upper slope  saturated (wet-mesic)",
+        "type": "string"
+      },
+      "95": {
+        "description": "Abundant \u2013 in all habitat where expected,",
+        "type": "string"
+      },
+      "96": {
+        "description": "500-1000",
+        "type": "string"
+      },
+      "99": {
+        "description": "maps, digital photos, shapefiles, waypoints, trackfiles, etc.)",
+        "type": "string"
+      },
+      "100": {
+        "description": "one of the following:",
+        "type": "string"
+      },
+      "103": {
+        "description": "Date of Observation (yyyy/mm/dd):",
+        "type": "string"
+      },
+      "105": {
+        "description": "filtered  mid slope  moist (mesic)",
+        "type": "string"
+      },
+      "212": {
+        "description": "Scientific Name:",
+        "type": "string"
+      },
+      "213": {
+        "description": "Common Name:",
+        "type": "string"
+      },
+      "214": {
+        "description": "ID\u2019d by:                                                                                       ID verified by:",
+        "type": "string"
+      },
+      "215": {
+        "description": "OBSERVER INFORMATION                                                   COLLECTOR INFORMATION",
+        "type": "string"
+      },
+      "219": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "220": {
+        "description": "Name(s):",
+        "type": "string"
+      },
+      "221": {
+        "description": "General location description:",
+        "type": "string"
+      },
+      "222": {
+        "description": "Phone/Fax:",
+        "type": "string"
+      },
+      "223": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "224": {
+        "description": "Site Name:                                                                                                          NTS mapsheet #",
+        "type": "string"
+      },
+      "229": {
+        "description": "Name of Herbarium where deposited:",
+        "type": "string"
+      },
+      "230": {
+        "description": "Collection #:",
+        "type": "string"
+      },
+      "233": {
+        "description": "or in the GPS\u2019s settings. WGS84 is recommended for GPS)",
+        "type": "string"
+      },
+      "234": {
+        "description": "Coordinate source:",
+        "type": "string"
+      },
+      "235": {
+        "description": "Elevation (include units):",
+        "type": "string"
+      },
+      "236": {
+        "description": "Location captured as a POINT",
+        "type": "string"
+      },
+      "237": {
+        "description": "Latitude:",
+        "type": "string"
+      },
+      "238": {
+        "description": "Longitude:",
+        "type": "string"
+      },
+      "239": {
+        "description": "(datum is found below contour interval scale on NTS mapsheets and/",
+        "type": "string"
+      },
+      "240": {
+        "description": "Map Datum used: NAD27 / NAD83 / WGS84 / Other",
+        "type": "string"
+      },
+      "241": {
+        "description": "UTM Zone:",
+        "type": "string"
+      },
+      "242": {
+        "description": "UTM Easting:                             Northing:",
+        "type": "string"
+      },
+      "243": {
+        "description": "Location captured as an AREA (Polygon) (submit digital file or hardcopy map, sketch, etc.)",
+        "type": "string"
+      },
+      "245": {
+        "description": "NTS map scale:",
+        "type": "string"
+      },
+      "247": {
+        "description": "Other (describe):",
+        "type": "string"
+      },
+      "250": {
+        "description": "Google Earth",
+        "type": "string"
+      },
+      "251": {
+        "description": "GPS accuracy:",
+        "type": "string"
+      },
+      "257": {
+        "description": "GPS trackfile accuracy:                                                   trackfile ID:",
+        "type": "string"
+      },
+      "258": {
+        "description": "Paper map with sketch (attach hard copy)",
+        "type": "string"
+      },
+      "261": {
+        "description": "Was the full extent of the population mapped?",
+        "type": "string"
+      },
+      "262": {
+        "description": "Yes",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

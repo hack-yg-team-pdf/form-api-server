@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "123": {
+        "description": "Name of minor:",
+        "type": "string"
+      },
+      "124": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "125": {
+        "description": "Date of birth:",
+        "type": "string"
+      },
+      "126": {
+        "description": "deliver liquor to a customer in a Food Primary Premises (not to open, pour or mix liquor)",
+        "type": "string"
+      },
+      "127": {
+        "description": "(only during the part of the performance in which they are participating)",
+        "type": "string"
+      },
+      "128": {
+        "description": "enter a liquor primary premises for purposes related to the person\u2019s employment",
+        "type": "string"
+      },
+      "129": {
+        "description": "I am the parent of the above-mentioned minor, who is at least 16 years of age, and give my consent for him/her to:",
+        "type": "boolean"
+      },
+      "131": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "boolean"
+      },
+      "133": {
+        "description": "enter a liquor primary premises for the purpose of providing entertainment to customers of the premises",
+        "type": "boolean"
+      },
+      "135": {
+        "description": "Name of parent",
+        "type": "string"
+      },
+      "136": {
+        "description": "Parent contact phone #",
+        "type": "string"
+      },
+      "137": {
+        "description": "This information is being collected under the authority of sections: 8(4), and 12(1) to 12(7) of the Yukon Liquor Regulations; for the purpose of administration.",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "Our legal authority for this collection is the Liquor Act, R.S.Y. 2002, c.140 and the Liquor Regulations, OIC 1977/37. For further information direct inquiries to",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

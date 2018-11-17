@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "38": {
+        "description": "1.",
+        "type": "string"
+      },
+      "39": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "40": {
+        "description": "1.",
+        "type": "string"
+      },
+      "41": {
+        "description": "2.",
+        "type": "string"
+      },
+      "42": {
+        "description": "OR",
+        "type": "string"
+      },
+      "43": {
+        "description": "OR",
+        "type": "string"
+      },
+      "44": {
+        "description": "The defendant withdraws the third party claim made against the third party:",
+        "type": "string"
+      },
+      "45": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "46": {
+        "description": "Print name",
+        "type": "string"
+      },
+      "47": {
+        "description": "Signature",
+        "type": "boolean"
+      },
+      "50": {
+        "description": "Reference: Section 45 Small Claims Court Regulations",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

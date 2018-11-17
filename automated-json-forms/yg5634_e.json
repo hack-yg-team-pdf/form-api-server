@@ -1,0 +1,171 @@
+{
+  "fields": {
+    "properties": {
+      "62": {
+        "description": "This information is being collected under the authority of section 13(1) of the Contaminated Sites Regulation. For further information contact the",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "Event (including date and location):",
+        "type": "string"
+      },
+      "67": {
+        "description": "7. What is the volume of contaminated soil to be relocated?  m3",
+        "type": "string"
+      },
+      "68": {
+        "description": "Contaminant type(s) and quantity:",
+        "type": "string"
+      },
+      "72": {
+        "description": "Signature of applicant",
+        "type": "string"
+      },
+      "76": {
+        "description": "Environmental Programs Branch at (867) 667-5683 or toll free at 1-800-661-0408 extension 5683.",
+        "type": "boolean"
+      },
+      "79": {
+        "description": "I, , am the authorized representative",
+        "type": "string"
+      },
+      "83": {
+        "description": "The written approval of the landowner of the removal location, approving the removal of contaminated material",
+        "type": "string"
+      },
+      "84": {
+        "description": "15. Attach the following information to your application (ALL APPLICANTS):",
+        "type": "string"
+      },
+      "85": {
+        "description": "8. What is the volume of contaminated water to be relocated?  litres",
+        "type": "string"
+      },
+      "87": {
+        "description": "10. What was the cause of the contamination? Provide a detailed description.",
+        "type": "string"
+      },
+      "88": {
+        "description": "12. List any special waste permits in place at the removal location.",
+        "type": "string"
+      },
+      "91": {
+        "description": "of , and I certify that the information",
+        "type": "string"
+      },
+      "92": {
+        "description": "no contaminants are dispersed to the environment en route.",
+        "type": "string"
+      },
+      "504": {
+        "description": "CONTACT NAME AND POSITION TITLE",
+        "type": "string"
+      },
+      "507": {
+        "description": "BUSINESS NAME OR GOVERNMENT AGENCY/BRANCH/DEPARTMENT",
+        "type": "string"
+      },
+      "508": {
+        "description": "MAILING ADDRESS",
+        "type": "string"
+      },
+      "509": {
+        "description": "FAX #",
+        "type": "string"
+      },
+      "510": {
+        "description": "EMAIL ADDRESS",
+        "type": "string"
+      },
+      "511": {
+        "description": "NAME (PERSON OR BUSINESS) TO APPEAR ON PERMIT",
+        "type": "string"
+      },
+      "512": {
+        "description": "2. Who is directly responsible for relocating the contaminated material?",
+        "type": "string"
+      },
+      "513": {
+        "description": "same as (1) above, or:",
+        "type": "string"
+      },
+      "514": {
+        "description": "The applicant is the person filling out this application, and whose name is to appear on the permit. This may be the",
+        "type": "boolean"
+      },
+      "516": {
+        "description": "CONTACT NAME AND POSITION TITLE",
+        "type": "string"
+      },
+      "517": {
+        "description": "BUSINESS NAME OR GOVERNMENT AGENCY/BRANCH/DEPARTMENT",
+        "type": "string"
+      },
+      "518": {
+        "description": "MAILING ADDRESS",
+        "type": "string"
+      },
+      "519": {
+        "description": "FAX #",
+        "type": "string"
+      },
+      "520": {
+        "description": "EMAIL ADDRESS",
+        "type": "string"
+      },
+      "521": {
+        "description": "3. Location and owner of the site from which contaminated material will be removed:",
+        "type": "string"
+      },
+      "522": {
+        "description": "same as (1) above, or:",
+        "type": "string"
+      },
+      "523": {
+        "description": "PHONE #",
+        "type": "boolean"
+      },
+      "524": {
+        "description": "LANDOWNER",
+        "type": "string"
+      },
+      "525": {
+        "description": "SITE LOCATION AND LEGAL ADDRESS",
+        "type": "string"
+      },
+      "526": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "527": {
+        "description": "GEOGRAPHIC COORDINATES (LOCATION OF MATERIAL TO BE REMOVED IN LAT/LONG, UTM (SPECIFY ZONE) OR YUKON ALBERS)",
+        "type": "string"
+      },
+      "528": {
+        "description": "4. Location and owner of the site receiving the contaminated material:",
+        "type": "string"
+      },
+      "529": {
+        "description": "same as (1) above, or:",
+        "type": "boolean"
+      },
+      "530": {
+        "description": "LANDOWNER OR LAND TREATMENT FACILITY OPERATOR",
+        "type": "string"
+      },
+      "531": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "532": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "533": {
+        "description": "SITE LOCATION AND LEGAL ADDRESS",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

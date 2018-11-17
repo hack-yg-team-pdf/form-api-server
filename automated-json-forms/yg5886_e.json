@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "Continue on separate sheets as required",
+        "type": "string"
+      },
+      "39": {
+        "description": "Instructions for Submitting the Application:",
+        "type": "string"
+      },
+      "40": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "41": {
+        "description": "(Attach separate sheet if additional space is required)",
+        "type": "string"
+      },
+      "42": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "43": {
+        "description": "Manager, Heritage Resources at 867-393-6456.",
+        "type": "string"
+      },
+      "47": {
+        "description": "a) Project Supervisor:",
+        "type": "string"
+      },
+      "48": {
+        "description": "4. Previous permits awarded applicant",
+        "type": "string"
+      },
+      "49": {
+        "description": "Place:",
+        "type": "string"
+      },
+      "52": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "53": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "54": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "55": {
+        "description": "5. Personnel (please attached curriculum vitae for all principal researchers and supervisory personnel).",
+        "type": "string"
+      },
+      "56": {
+        "description": "I certify that I am familiar with the provisions of the relevant Yukon legislation, and that I will abide with",
+        "type": "boolean"
+      },
+      "57": {
+        "description": "2. Suggested deposition of artifacts, materials, samples that may be collected",
+        "type": "string"
+      },
+      "58": {
+        "description": "3. Sponsoring agencies",
+        "type": "string"
+      },
+      "59": {
+        "description": "the terms and conditions listed on the first page of this application and on the permit.",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "The application may be submitted by email \u2014 click on \u201cSave\u201d to save the completed form as a PDF",
+        "type": "string"
+      },
+      "61": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "62": {
+        "description": "and submit by email to: Jeff.Hunston@gov.yk.ca. Printed forms may be faxed to Jeff Hunston,",
+        "type": "string"
+      },
+      "63": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "64": {
+        "description": "(Signature of Applicant)",
+        "type": "string"
+      },
+      "67": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "68": {
+        "description": "b) Party/crew members: Number",
+        "type": "string"
+      },
+      "211": {
+        "description": "hereby apply for a Class 2 permit to carry out archaeological investigations in the Yukon as outlined in",
+        "type": "string"
+      },
+      "212": {
+        "description": "representing",
+        "type": "string"
+      },
+      "213": {
+        "description": "(Email)",
+        "type": "string"
+      },
+      "214": {
+        "description": "(Telephone Number)",
+        "type": "string"
+      },
+      "215": {
+        "description": "(Address)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

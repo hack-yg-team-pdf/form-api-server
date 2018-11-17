@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "511": {
+        "description": "Miss \u2022 Mlle",
+        "type": "string"
+      },
+      "512": {
+        "description": "Other \u2022 Autre",
+        "type": "string"
+      },
+      "513": {
+        "description": "Courriel :",
+        "type": "string"
+      },
+      "514": {
+        "description": "E-mail:",
+        "type": "string"
+      },
+      "515": {
+        "description": "Name: \u2022 Nom :",
+        "type": "string"
+      },
+      "520": {
+        "description": "Mailing Address:",
+        "type": "string"
+      },
+      "521": {
+        "description": "No. & Street \u2022 N\u00b0 et rue",
+        "type": "string"
+      },
+      "524": {
+        "description": "Name used if educated or employed under a different name: \u2022 Nom utilis\u00e9 au moment des \u00e9tudes ou dans un emploi ant\u00e9rieur :",
+        "type": "string"
+      },
+      "527": {
+        "description": "Surname \u2022 Nom de famille",
+        "type": "string"
+      },
+      "528": {
+        "description": "TEACHER EDUCATION (Official Transcripts Required)",
+        "type": "string"
+      },
+      "529": {
+        "description": "First \u2022 Pr\u00e9nom usuel",
+        "type": "string"
+      },
+      "530": {
+        "description": "CERTIFICATION STATUS: (Official Statement of Standing Required)",
+        "type": "string"
+      },
+      "532": {
+        "description": "Issuing authority",
+        "type": "string"
+      },
+      "536": {
+        "description": "PERMIS D'ENSEIGNER (Veuillez envoyer la d\u00e9claration officielle de votre statut d'enseignant1.)",
+        "type": "string"
+      },
+      "538": {
+        "description": "D\u00e9livr\u00e9 par",
+        "type": "string"
+      },
+      "542": {
+        "description": "Teaching Certificate(s) held",
+        "type": "string"
+      },
+      "548": {
+        "description": "Permis d'enseigner obtenu(s)",
+        "type": "string"
+      },
+      "555": {
+        "description": "TEACHING EXPERIENCE: (Begin with most recent) (Include practicum of six weeks or more in duration and indicate with a (P) )",
+        "type": "string"
+      },
+      "556": {
+        "description": "EXP\u00c9RIENCE DE L\u2019ENSEIGNEMENT (Commencez par la plus r\u00e9cente. Inscrivez les stages d\u2019au moins six semaines et identifiez-les avec un \u00ab S \u00bb.)",
+        "type": "string"
+      },
+      "558": {
+        "description": "Location \u2022 Endroit",
+        "type": "string"
+      },
+      "559": {
+        "description": "1Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "string"
+      },
+      "561": {
+        "description": "Dates \u2022 Dates",
+        "type": "string"
+      },
+      "562": {
+        "description": "YG(4345Q)F3 Rev. 11/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "properties": {
+      "58": {
+        "description": "AND, I make this solemn declaration conscientiously believing it to be true and knowing that it is of the",
+        "type": "string"
+      },
+      "59": {
+        "description": "in the Province/Territory of  )",
+        "type": "string"
+      },
+      "63": {
+        "description": "NOTARY PUBLIC, JUSTICE OF THE PEACE OR",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "this  day of , 20        )",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

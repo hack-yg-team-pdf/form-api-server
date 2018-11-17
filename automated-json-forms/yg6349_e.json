@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "199": {
+        "description": "2",
+        "type": "string"
+      },
+      "208": {
+        "description": "10.  Please rate the student\u2019s pay scale in terms of fairness and adequacy:",
+        "type": "string"
+      },
+      "214": {
+        "description": "5",
+        "type": "string"
+      },
+      "217": {
+        "description": "2",
+        "type": "string"
+      },
+      "222": {
+        "description": "Has this student worked for your department/company before?",
+        "type": "string"
+      },
+      "224": {
+        "description": "How many hours does your student typically work per week?",
+        "type": "string"
+      },
+      "230": {
+        "description": "2",
+        "type": "string"
+      },
+      "241": {
+        "description": "12.  Would this position have been offered without the STEP subsidy?",
+        "type": "string"
+      },
+      "242": {
+        "description": "If no, why not?",
+        "type": "string"
+      },
+      "250": {
+        "description": "Suggestions/problems/additional comments:",
+        "type": "string"
+      },
+      "784": {
+        "description": "STEP job title:",
+        "type": "string"
+      },
+      "785": {
+        "description": "programs officer at 867-667-5927 or the Department of Education\u2019s ATIPP coordinator at 867-667-8326.",
+        "type": "string"
+      },
+      "786": {
+        "description": "Department/organization name:",
+        "type": "string"
+      },
+      "787": {
+        "description": "Name of STEP student:",
+        "type": "string"
+      },
+      "788": {
+        "description": "SECTION 1  \u2013  CONFIDENTIALITY",
+        "type": "string"
+      },
+      "791": {
+        "description": "1.   Where did you learn about STEP?",
+        "type": "string"
+      },
+      "800": {
+        "description": "For this current year, please rate the difficulty you had in filling this position:",
+        "type": "string"
+      },
+      "803": {
+        "description": "No",
+        "type": "string"
+      },
+      "804": {
+        "description": "4.",
+        "type": "string"
+      },
+      "810": {
+        "description": "On a scale of 1-5 (1 being not satisfied and 5 being very satisfied), please rate your satisfaction with the following:",
+        "type": "string"
+      },
+      "816": {
+        "description": "2",
+        "type": "string"
+      },
+      "822": {
+        "description": "Paperwork (Ex. application, claim forms, etc)",
+        "type": "string"
+      },
+      "852": {
+        "description": "Please submit to:",
+        "type": "boolean"
+      },
+      "853": {
+        "description": "The deadline to submit employer applications for next summer\u2019s STEP positions will be the first Friday in November.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

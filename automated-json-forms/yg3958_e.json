@@ -1,0 +1,179 @@
+{
+  "fields": {
+    "properties": {
+      "373": {
+        "description": "First name  Last name",
+        "type": "string"
+      },
+      "374": {
+        "description": "Name and address of business",
+        "type": "string"
+      },
+      "375": {
+        "description": "Income information for the period (must be at least three months)      from  to",
+        "type": "string"
+      },
+      "376": {
+        "description": "INCOME",
+        "type": "string"
+      },
+      "377": {
+        "description": "$",
+        "type": "string"
+      },
+      "378": {
+        "description": "Owner draws",
+        "type": "string"
+      },
+      "379": {
+        "description": "Sales",
+        "type": "string"
+      },
+      "380": {
+        "description": "$",
+        "type": "string"
+      },
+      "381": {
+        "description": "$",
+        "type": "string"
+      },
+      "382": {
+        "description": "income",
+        "type": "string"
+      },
+      "383": {
+        "description": "NET INCOME CALCULATION",
+        "type": "string"
+      },
+      "384": {
+        "description": "Accounting and/or",
+        "type": "string"
+      },
+      "385": {
+        "description": "$",
+        "type": "string"
+      },
+      "386": {
+        "description": "$",
+        "type": "string"
+      },
+      "387": {
+        "description": "$",
+        "type": "string"
+      },
+      "388": {
+        "description": "$",
+        "type": "string"
+      },
+      "389": {
+        "description": "Gross wages \u2013 employees",
+        "type": "string"
+      },
+      "390": {
+        "description": "Maintenance and repairs",
+        "type": "string"
+      },
+      "391": {
+        "description": "$",
+        "type": "string"
+      },
+      "392": {
+        "description": "$",
+        "type": "string"
+      },
+      "393": {
+        "description": "$",
+        "type": "string"
+      },
+      "394": {
+        "description": "$",
+        "type": "string"
+      },
+      "395": {
+        "description": "$",
+        "type": "string"
+      },
+      "396": {
+        "description": "$",
+        "type": "string"
+      },
+      "397": {
+        "description": "$",
+        "type": "string"
+      },
+      "398": {
+        "description": "$",
+        "type": "string"
+      },
+      "399": {
+        "description": "$",
+        "type": "string"
+      },
+      "400": {
+        "description": "$",
+        "type": "string"
+      },
+      "401": {
+        "description": "$",
+        "type": "string"
+      },
+      "402": {
+        "description": "$",
+        "type": "string"
+      },
+      "403": {
+        "description": "Other expenses (specify)",
+        "type": "string"
+      },
+      "404": {
+        "description": "$",
+        "type": "string"
+      },
+      "405": {
+        "description": "$",
+        "type": "string"
+      },
+      "406": {
+        "description": "Rent on business property",
+        "type": "string"
+      },
+      "407": {
+        "description": "Information is being collected under the authority of the Child Care Act for the purpose of determining eligibility for programs offered by Child Care",
+        "type": "string"
+      },
+      "408": {
+        "description": "Whitehorse, Yukon Y1A 2C6.",
+        "type": "string"
+      },
+      "409": {
+        "description": "I CERTIFY that the above information is accurate and presents fairly my self-employed income and expenses.",
+        "type": "string"
+      },
+      "410": {
+        "description": "Services. Queries should be directed to the Child Care Services Unit, at 667-3492 or toll free 1-800-661-0408, or in writing at H-12, Box 2703,",
+        "type": "string"
+      },
+      "411": {
+        "description": "- $",
+        "type": "string"
+      },
+      "414": {
+        "description": "LESS total",
+        "type": "string"
+      },
+      "415": {
+        "description": "NET",
+        "type": "string"
+      },
+      "416": {
+        "description": "*Signature of accountant",
+        "type": "boolean"
+      },
+      "419": {
+        "description": "*Only needed if gross income exceeds $75,000 for the year.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

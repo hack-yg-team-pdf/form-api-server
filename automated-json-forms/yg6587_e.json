@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "263": {
+        "description": "Name of student",
+        "type": "string"
+      },
+      "266": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "267": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "268": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "269": {
+        "description": "Academic completion/choice of summer school courses (check one course only):",
+        "type": "string"
+      },
+      "270": {
+        "description": "Pre-Calculus 12",
+        "type": "string"
+      },
+      "286": {
+        "description": "Payment (course fee: $180):",
+        "type": "string"
+      },
+      "287": {
+        "description": "Comments:",
+        "type": "string"
+      },
+      "288": {
+        "description": "The information on this form is being collected under the authority of the Education Act for the purpose of enrolling students in summer coursework. To inquire about the",
+        "type": "boolean"
+      },
+      "291": {
+        "description": "collection of this personal information, please contact the Administrative Assistant to Superintendents, 1000 Lewes Blvd., Box 2703, Whitehorse, Yukon, Y1A 2C6 or call",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

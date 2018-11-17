@@ -1,0 +1,227 @@
+{
+  "fields": {
+    "properties": {
+      "460": {
+        "description": "Recipients receiving Gas Tax funding are required to use only this form for progress claims. Be sure to include (and attach) all supporting documentation, receipts and photos. TO BE USED ONLY WHEN",
+        "type": "string"
+      },
+      "461": {
+        "description": "MULTIPE PAYMENTS WILL BE APPLIED. IF ONLY ONE REIMBURSEMENT IS APPLIED THEN USE THE FINAL PROJECT REPORT",
+        "type": "string"
+      },
+      "462": {
+        "description": "Project title",
+        "type": "string"
+      },
+      "463": {
+        "description": "Project number",
+        "type": "string"
+      },
+      "464": {
+        "description": "TPA number:  T000",
+        "type": "string"
+      },
+      "465": {
+        "description": "show what your anticipated next reporting period",
+        "type": "string"
+      },
+      "466": {
+        "description": "provided. Projected estimates are to be provided to",
+        "type": "string"
+      },
+      "467": {
+        "description": "For reimbursed payments; the actual cost must be",
+        "type": "string"
+      },
+      "468": {
+        "description": "Reporting period",
+        "type": "string"
+      },
+      "469": {
+        "description": "Reporting period",
+        "type": "string"
+      },
+      "470": {
+        "description": "\uf06f Projected    \uf06f Actual",
+        "type": "string"
+      },
+      "471": {
+        "description": "Project start date  Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "472": {
+        "description": "From: Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "473": {
+        "description": "to: Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "474": {
+        "description": "CASH FLOW PROJECTIONS / FINANCIAL REPORTING",
+        "type": "string"
+      },
+      "475": {
+        "description": "looks like.",
+        "type": "string"
+      },
+      "476": {
+        "description": "TOTAL REVENUE $",
+        "type": "string"
+      },
+      "481": {
+        "description": "From: Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "482": {
+        "description": "to: Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "483": {
+        "description": "$",
+        "type": "string"
+      },
+      "484": {
+        "description": "\uf06f Projected    \uf06f Actual",
+        "type": "string"
+      },
+      "485": {
+        "description": "No",
+        "type": "string"
+      },
+      "486": {
+        "description": "have more reporting periods, attach separately with the spreadsheet provided.",
+        "type": "string"
+      },
+      "491": {
+        "description": "From: Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "492": {
+        "description": "\uf06f Projected    \uf06f Actual",
+        "type": "string"
+      },
+      "493": {
+        "description": "$",
+        "type": "string"
+      },
+      "494": {
+        "description": "$",
+        "type": "string"
+      },
+      "495": {
+        "description": "$",
+        "type": "string"
+      },
+      "496": {
+        "description": "Note: If your list of expenditures is greater than the space provided OR you                            Attached separately?",
+        "type": "string"
+      },
+      "501": {
+        "description": "From: Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "502": {
+        "description": "to: Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "503": {
+        "description": "to: Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "504": {
+        "description": "$",
+        "type": "string"
+      },
+      "505": {
+        "description": "$",
+        "type": "string"
+      },
+      "506": {
+        "description": "Are the project costs likely to be greater than the original application?",
+        "type": "string"
+      },
+      "511": {
+        "description": "Revenue (funding sources)",
+        "type": "string"
+      },
+      "512": {
+        "description": "Expenditures (list expenditures / identify project phase)",
+        "type": "string"
+      },
+      "513": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "514": {
+        "description": "Agreement and will be used for the purpose of administering the Gas Tax Fund. For further information, contact the Gas Tax Fund Administrator at (867) 336-0469, toll free within Yukon 1-800-661-0408, ext.5111.",
+        "type": "string"
+      },
+      "515": {
+        "description": "$",
+        "type": "string"
+      },
+      "518": {
+        "description": "TOTAL EXPENDITURES $",
+        "type": "string"
+      },
+      "519": {
+        "description": "No",
+        "type": "string"
+      },
+      "520": {
+        "description": "the Canada/Yukon Gas Tax Administrative Agreement. I acknowledge that all claims made under this program are subject to all audit and records are being maintained as defined in Section 10 Schedule A of the",
+        "type": "string"
+      },
+      "521": {
+        "description": "funding Agreement.The information contained on this form is collected under Section 161 of the Keeping Canada\u2019s Economy and Jobs Growing Act, S.C. 2011, C.24 and the Canada-Yukon Gas Tax Administration",
+        "type": "string"
+      },
+      "522": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "523": {
+        "description": "Percentage of the project that is complete:                                       %",
+        "type": "string"
+      },
+      "524": {
+        "description": "Have there been any changes to the scope or the timing of the project?",
+        "type": "string"
+      },
+      "525": {
+        "description": "RECIPIENT CERTIFY / AUTHORIZED SIGNATURES",
+        "type": "string"
+      },
+      "526": {
+        "description": "All Claims \u2013 I certify that costs stated above have been incurred and paid and are attributable to this project, are eligible and net of tax and any other rebates/grants and are in accordance with the provisions of",
+        "type": "string"
+      },
+      "527": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "528": {
+        "description": "Name and position:",
+        "type": "string"
+      },
+      "529": {
+        "description": "YG(6602EQ)F1 10/2018",
+        "type": "string"
+      },
+      "530": {
+        "description": "Signature:",
+        "type": "string"
+      },
+      "531": {
+        "description": "Date  Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "532": {
+        "description": "No",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

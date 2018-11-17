@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "2707": {
+        "description": "Name of Applicant:",
+        "type": "string"
+      },
+      "2708": {
+        "description": "Permanent Address: Phone:Fax:",
+        "type": "string"
+      },
+      "2709": {
+        "description": "Field Address: Phone:Fax:",
+        "type": "string"
+      },
+      "2710": {
+        "description": "Alternate contact number:   E-mail address:",
+        "type": "string"
+      },
+      "2711": {
+        "description": "To Whom Should the Approval be Issued?",
+        "type": "string"
+      },
+      "2712": {
+        "description": "clarity but not reduced.",
+        "type": "string"
+      },
+      "2713": {
+        "description": "greater than 81\u20442 X 11 inches (standard letter sized paper). Do not tape map portions together.  Maps areas may be enlarged (by photocopy) for",
+        "type": "string"
+      },
+      "2714": {
+        "description": "Address and Contact Number, if different than above:",
+        "type": "string"
+      },
+      "2715": {
+        "description": "known to be subject to the rights or interests of other parties; and, 3) existing and proposed access routes.  Attached maps should be no",
+        "type": "string"
+      },
+      "2716": {
+        "description": "all locations or areas where proposed activities will take place within 30 meters of a water body or water course; 2) lands in the area that are",
+        "type": "string"
+      },
+      "2717": {
+        "description": "PART A:  LOCATION OF OPERATION",
+        "type": "string"
+      },
+      "2718": {
+        "description": "REQUIREMENT: Attach map(s) of the area to your application (NTS 1:50,000) including: 1)  the location and extent of the program, including",
+        "type": "string"
+      },
+      "2719": {
+        "description": "NTS Map Number(s)  (1:50,000 scale ):    or  UTM Map Number(s):",
+        "type": "string"
+      },
+      "2720": {
+        "description": "Coordinates of Area:        circle one \u203a      NTS (\u00b0 / \u2019 / \u201d )  or   UTM   system          Quadrant:",
+        "type": "string"
+      },
+      "2721": {
+        "description": "Range of Latitude: most northerly point:   to most southerly point:",
+        "type": "string"
+      },
+      "2722": {
+        "description": "Range of Longitude: most westerly point:    to most easterly point:",
+        "type": "string"
+      },
+      "2723": {
+        "description": "Property Name:    Nearest Community:",
+        "type": "string"
+      },
+      "2724": {
+        "description": "(Attach additional page for other claims where necessary)",
+        "type": "string"
+      },
+      "2725": {
+        "description": "Registered Owner of Claims:",
+        "type": "string"
+      },
+      "2726": {
+        "description": "YG(5068Q) F11 09/2007",
+        "type": "string"
+      },
+      "2727": {
+        "description": "Mining Lands  may decide not to include in a permit all the claims which are listed on this page.  It is important to review your Mining Land Use Approval",
+        "type": "string"
+      },
+      "2728": {
+        "description": "Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources,",
+        "type": "string"
+      },
+      "2729": {
+        "description": "Department of Energy, Mines and Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "string"
+      },
+      "2730": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Placer Mining Act.",
+        "type": "string"
+      },
+      "2731": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "2732": {
+        "description": "Note:  A written copy of any claim or access agreements  with third parties must be included with the application.",
+        "type": "string"
+      },
+      "2733": {
+        "description": "and relevant reason(s) for this decision.",
+        "type": "string"
+      },
+      "2734": {
+        "description": "Attach additional page(s) if necessary.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

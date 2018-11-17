@@ -1,0 +1,39 @@
+{
+  "fields": {
+    "properties": {
+      "107": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "123": {
+        "description": "YG(6647EQ)F3 10/2018",
+        "type": "string"
+      },
+      "596": {
+        "description": "Supporting documentation checklist (More information is found on the application website.)",
+        "type": "boolean"
+      },
+      "598": {
+        "description": "Copies of 2 pieces of government-issued ID.",
+        "type": "boolean"
+      },
+      "599": {
+        "description": "If you are an international graduate, proof of eligibility to work in Canada.",
+        "type": "boolean"
+      },
+      "600": {
+        "description": "Notarized copy of your LPN program diploma.",
+        "type": "boolean"
+      },
+      "601": {
+        "description": "Verification of registration form. (Required if you are licensed in another jurisdiction. The form must be sent to",
+        "type": "boolean"
+      },
+      "602": {
+        "description": "A letter from the organization using your teaching or research services, indicating the purpose and length of your",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

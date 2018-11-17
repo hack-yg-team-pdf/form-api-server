@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "241": {
+        "description": "0  0  2  \u2013             \u2013",
+        "type": "string"
+      },
+      "242": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "243": {
+        "description": "Reason for absence:",
+        "type": "string"
+      },
+      "244": {
+        "description": "Signature:",
+        "type": "string"
+      },
+      "245": {
+        "description": "Leave date:",
+        "type": "string"
+      },
+      "246": {
+        "description": "YYYY-MM-DD",
+        "type": "string"
+      },
+      "247": {
+        "description": "Return date:",
+        "type": "string"
+      },
+      "248": {
+        "description": "YYYY-MM-DD",
+        "type": "string"
+      },
+      "249": {
+        "description": "NOTE: YOU MUST PUT A YUKON ADDRESS AND RETURN DATE.",
+        "type": "string"
+      },
+      "250": {
+        "description": "In person:",
+        "type": "string"
+      },
+      "251": {
+        "description": "4th Floor, Financial Plaza,",
+        "type": "string"
+      },
+      "252": {
+        "description": "Mail:",
+        "type": "string"
+      },
+      "253": {
+        "description": "PO Box 2703 Whitehorse, Yukon Y1A 2C6",
+        "type": "string"
+      },
+      "254": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "255": {
+        "description": "Insured Health Services H-2",
+        "type": "string"
+      },
+      "256": {
+        "description": "867-393-6486",
+        "type": "string"
+      },
+      "257": {
+        "description": "Yukon address:",
+        "type": "string"
+      },
+      "258": {
+        "description": "Please fill out this form if you will be away from",
+        "type": "string"
+      },
+      "259": {
+        "description": "Yukon phone number:",
+        "type": "string"
+      },
+      "260": {
+        "description": "Email address:",
+        "type": "string"
+      },
+      "261": {
+        "description": "PO Box or Street Address",
+        "type": "string"
+      },
+      "262": {
+        "description": "City",
+        "type": "string"
+      },
+      "263": {
+        "description": "FOR OFFICE STAFF ONLY",
+        "type": "string"
+      },
+      "264": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "265": {
+        "description": "Received by:",
+        "type": "string"
+      },
+      "266": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "267": {
+        "description": "Return date:",
+        "type": "string"
+      },
+      "268": {
+        "description": "When you return to Yukon, please present in person",
+        "type": "boolean"
+      },
+      "271": {
+        "description": "FOR OFFICE STAFF ONLY",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

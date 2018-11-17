@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "181": {
+        "description": "B. REGISTRATION",
+        "type": "string"
+      },
+      "182": {
+        "description": "Submit one notice per registration number.",
+        "type": "string"
+      },
+      "183": {
+        "description": "C. ATTACHMENTS",
+        "type": "string"
+      },
+      "184": {
+        "description": "Registration number of the security notice being postponed",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "E. DISCLAIMER",
+        "type": "string"
+      },
+      "187": {
+        "description": "If there is any conflict or inconsistency between this form or the Guidelines and a provision of the Oil and Gas Act or",
+        "type": "string"
+      },
+      "188": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "189": {
+        "description": "Branch File #     Registration #:",
+        "type": "string"
+      },
+      "190": {
+        "description": "Date Received:              /         /              Time Received:",
+        "type": "string"
+      },
+      "191": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "192": {
+        "description": "This Statutory Notice is issued pursuant to the Oil and Gas Act and the Oil and Gas Disposition Regulations. Personal information on this form is collected",
+        "type": "string"
+      },
+      "193": {
+        "description": "under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "194": {
+        "description": "YG(5521EQ)F1 Rev.06/2017",
+        "type": "boolean"
+      },
+      "197": {
+        "description": "Date:              /         /",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

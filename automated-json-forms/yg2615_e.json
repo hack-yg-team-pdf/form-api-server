@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "272": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "275": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "276": {
+        "description": "Day phone",
+        "type": "string"
+      },
+      "277": {
+        "description": "School/community affiliation",
+        "type": "string"
+      },
+      "278": {
+        "description": "NOMINATOR(S)",
+        "type": "string"
+      },
+      "279": {
+        "description": "Name",
+        "type": "string"
+      },
+      "280": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "281": {
+        "description": "Day phone",
+        "type": "string"
+      },
+      "282": {
+        "description": "Email",
+        "type": "string"
+      },
+      "283": {
+        "description": "School/community affiliation",
+        "type": "string"
+      },
+      "284": {
+        "description": "YG(2615EQ)F2 Rev.03/2018",
+        "type": "string"
+      },
+      "285": {
+        "description": "Page 1 of 2",
+        "type": "string"
+      },
+      "286": {
+        "description": "Attention: Lynn Williams",
+        "type": "boolean"
+      },
+      "289": {
+        "description": "Public Schools Branch, Yukon Education",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

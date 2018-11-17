@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "43": {
+        "description": "------------------------------------------------------------------------------",
+        "type": "string"
+      },
+      "46": {
+        "description": "a) Project Supervisor:",
+        "type": "string"
+      },
+      "47": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "48": {
+        "description": "4. Personnel (please attached curriculum vitae for all principal researchers and supervisory personnel).",
+        "type": "string"
+      },
+      "49": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "50": {
+        "description": "3. Previous permits awarded applicant",
+        "type": "string"
+      },
+      "51": {
+        "description": "(Signature of Applicant)",
+        "type": "string"
+      },
+      "52": {
+        "description": "Manager, Heritage Resources at 867-393-6456.",
+        "type": "string"
+      },
+      "53": {
+        "description": "Place:",
+        "type": "string"
+      },
+      "59": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "60": {
+        "description": "b) Party/crew members: Number",
+        "type": "string"
+      },
+      "61": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "62": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "63": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "64": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "65": {
+        "description": "the terms and conditions listed on the first page of this application and on the permit.",
+        "type": "boolean"
+      },
+      "67": {
+        "description": "2. Sponsoring agencies",
+        "type": "string"
+      },
+      "68": {
+        "description": "(Attach separate sheet if additional space is required)",
+        "type": "string"
+      },
+      "69": {
+        "description": "and submit by email to: Jeff.Hunston@gov.yk.ca. Printed forms may be faxed to Jeff Hunston,",
+        "type": "string"
+      },
+      "70": {
+        "description": "The application may be submitted by email \u2014 click on \u201cSave\u201d to save the completed form as a PDF",
+        "type": "string"
+      },
+      "71": {
+        "description": "I certify that I am familiar with the provisions of the relevant Yukon legislation, and that I will abide with",
+        "type": "boolean"
+      },
+      "76": {
+        "description": "Instructions for Submitting the Application:",
+        "type": "string"
+      },
+      "208": {
+        "description": "2. Permit conditions take precedence over any contractual arrangements entered into by the permit",
+        "type": "string"
+      },
+      "209": {
+        "description": "1. Permits are valid only in the calendar year in which issued. Applications for extension should be",
+        "type": "string"
+      },
+      "210": {
+        "description": "archaeological research permit. For further information, contact/direct inquiries to the Manager,",
+        "type": "string"
+      },
+      "211": {
+        "description": "Heritage Resources Unit (867) 667-5363.",
+        "type": "string"
+      },
+      "212": {
+        "description": "Box 2703, Whitehorse, Yukon  Y1A 2C6",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

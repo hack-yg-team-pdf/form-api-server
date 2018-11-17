@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "870": {
+        "description": "Date of birth (YYYY-MM-DD):",
+        "type": "string"
+      },
+      "871": {
+        "description": "Passport #:   Country:    Date of expiry:",
+        "type": "string"
+      },
+      "872": {
+        "description": "Email:                                                                                                       Phone number:",
+        "type": "string"
+      },
+      "873": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "874": {
+        "description": "YYYY-MM-DD",
+        "type": "string"
+      },
+      "875": {
+        "description": "Gender:         Male         Female",
+        "type": "string"
+      },
+      "876": {
+        "description": "Gender  Relationship to you  DOB YYYY-MM-DD   Passport #",
+        "type": "string"
+      },
+      "877": {
+        "description": "Dependents",
+        "type": "string"
+      },
+      "878": {
+        "description": "Name",
+        "type": "string"
+      },
+      "882": {
+        "description": "Only original applications with original signatures that are filled out correctly, completely and legibly will be assessed. Ultimate",
+        "type": "string"
+      },
+      "883": {
+        "description": "approval for work permits and permanent residence is the responsibility of the IRCC. The Yukon government does not intervene",
+        "type": "string"
+      },
+      "884": {
+        "description": "on or appeal IRCC decisions.",
+        "type": "string"
+      },
+      "885": {
+        "description": "YG(6382EQ)F5 Rev.09/2017",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

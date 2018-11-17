@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "272": {
+        "description": "Name of child                                                                                                                                date of birth (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "273": {
+        "description": "My child    born on",
+        "type": "string"
+      },
+      "276": {
+        "description": "born at    in    #",
+        "type": "string"
+      },
+      "277": {
+        "description": "Hospital                                                                          territory/province                                                             Yukon health care number",
+        "type": "string"
+      },
+      "278": {
+        "description": "has been diagnosed with the following birth defect(s):",
+        "type": "string"
+      },
+      "279": {
+        "description": "(d)   q",
+        "type": "string"
+      },
+      "280": {
+        "description": "information can help in identifying birth defect trends and in early identification of environmental exposures that can have an effect on",
+        "type": "boolean"
+      },
+      "282": {
+        "description": "With the consent of a parent or guardian, CASY is collecting information on all Yukon babies found to have a birth defect. This",
+        "type": "boolean"
+      },
+      "283": {
+        "description": "If you wish, a pamphlet which explains CASY in more detail will be given to you, along with a copy of this consent.",
+        "type": "boolean"
+      },
+      "284": {
+        "description": "(c)   q",
+        "type": "boolean"
+      },
+      "285": {
+        "description": "sources. *",
+        "type": "string"
+      },
+      "286": {
+        "description": "(b)   q",
+        "type": "boolean"
+      },
+      "287": {
+        "description": "Please answer (a), (b), (c) and (d) below:",
+        "type": "boolean"
+      },
+      "288": {
+        "description": "Initials",
+        "type": "string"
+      },
+      "289": {
+        "description": "Signature of parent or guardian                                                                                                                               Date signed (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "290": {
+        "description": "Name of parent or guardian                                                                                                                                       Relationship to child",
+        "type": "string"
+      },
+      "291": {
+        "description": "I have explained the nature and consequences of this consent to the person named above, and provided them with pertinent information and answered their questions:",
+        "type": "string"
+      },
+      "292": {
+        "description": "Signature of witness                                                                                                                                        Date signed (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "293": {
+        "description": "* Please note you may withdraw your consent at any time by sending CASY a signed letter or signed e-mail letting us know that you are withdrawing your consent.",
+        "type": "string"
+      },
+      "294": {
+        "description": "Name of witness",
+        "type": "string"
+      },
+      "295": {
+        "description": "Phone: (867) 667-8563 / Fax (867) 667-8349",
+        "type": "string"
+      },
+      "296": {
+        "description": "birth defects in Yukon. Any questions regarding this can be directed to:",
+        "type": "string"
+      },
+      "297": {
+        "description": "305 Jarvis Street (HP305), Whitehorse, Yukon, Y1A 2H3",
+        "type": "string"
+      },
+      "298": {
+        "description": "Information is collected under the authority of the Public Health and Safety Act Sections 2.1(1) and",
+        "type": "boolean"
+      },
+      "301": {
+        "description": "CONTACT INFORMATION",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

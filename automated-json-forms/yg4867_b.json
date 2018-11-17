@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "properties": {
+      "144": {
+        "description": "Name",
+        "type": "string"
+      },
+      "145": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "Returning officer or deputy returning officer \u2022 Directeur du scrutin ou scrutateur",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

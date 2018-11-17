@@ -1,0 +1,191 @@
+{
+  "fields": {
+    "properties": {
+      "73": {
+        "description": "FINANCIAL INFORMATION",
+        "type": "string"
+      },
+      "74": {
+        "description": "Business type:",
+        "type": "string"
+      },
+      "75": {
+        "description": "Territory",
+        "type": "string"
+      },
+      "77": {
+        "description": "BUSINESS INFORMATION",
+        "type": "string"
+      },
+      "78": {
+        "description": "Address",
+        "type": "string"
+      },
+      "80": {
+        "description": "Phone 2",
+        "type": "string"
+      },
+      "83": {
+        "description": "City",
+        "type": "string"
+      },
+      "84": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "85": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "86": {
+        "description": "% Ownership",
+        "type": "string"
+      },
+      "87": {
+        "description": "City",
+        "type": "string"
+      },
+      "88": {
+        "description": "Business address",
+        "type": "string"
+      },
+      "89": {
+        "description": "Name(s) of owner(s)",
+        "type": "string"
+      },
+      "91": {
+        "description": "Phone 1",
+        "type": "string"
+      },
+      "92": {
+        "description": "Business established   Y Y Y Y/ M M",
+        "type": "string"
+      },
+      "95": {
+        "description": "Territory",
+        "type": "string"
+      },
+      "96": {
+        "description": "$",
+        "type": "string"
+      },
+      "98": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "100": {
+        "description": "Land",
+        "type": "string"
+      },
+      "102": {
+        "description": "Email",
+        "type": "string"
+      },
+      "104": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "105": {
+        "description": "Mailing address (if different from above)",
+        "type": "string"
+      },
+      "106": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "111": {
+        "description": "LOAN SECURITY (COLLATERAL)",
+        "type": "string"
+      },
+      "116": {
+        "description": "Website (if applicable)",
+        "type": "string"
+      },
+      "117": {
+        "description": "Expected financing",
+        "type": "string"
+      },
+      "125": {
+        "description": "Total financing",
+        "type": "string"
+      },
+      "132": {
+        "description": "Other financing (specify)",
+        "type": "string"
+      },
+      "133": {
+        "description": "Current value $",
+        "type": "string"
+      },
+      "135": {
+        "description": "YG(6589EQ)F3 05/2018",
+        "type": "string"
+      },
+      "137": {
+        "description": "Equity $",
+        "type": "string"
+      },
+      "139": {
+        "description": "Amount owed $",
+        "type": "string"
+      },
+      "142": {
+        "description": "Description",
+        "type": "string"
+      },
+      "145": {
+        "description": "Land/buildings",
+        "type": "string"
+      },
+      "147": {
+        "description": "Project costs",
+        "type": "string"
+      },
+      "157": {
+        "description": "Investment from owner",
+        "type": "string"
+      },
+      "158": {
+        "description": "Total costs",
+        "type": "string"
+      },
+      "160": {
+        "description": "Address",
+        "type": "string"
+      },
+      "161": {
+        "description": "Other",
+        "type": "string"
+      },
+      "554": {
+        "description": "DEVELOPER BUILD LOAN PROGRAM",
+        "type": "boolean"
+      },
+      "556": {
+        "description": "Confirmation of bank ineligibility for construction financing",
+        "type": "boolean"
+      },
+      "557": {
+        "description": "Evidence of good standing with Corporate Affairs and WCHSB",
+        "type": "boolean"
+      },
+      "558": {
+        "description": "Loan application checklist:",
+        "type": "boolean"
+      },
+      "559": {
+        "description": "(conditional on financing), or lease agreement",
+        "type": "boolean"
+      },
+      "560": {
+        "description": "Evidence of contribution to project (5% of total budget)",
+        "type": "boolean"
+      },
+      "561": {
+        "description": "Project details (description, budget, timelines)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

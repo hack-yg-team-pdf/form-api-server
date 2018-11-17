@@ -1,0 +1,219 @@
+{
+  "fields": {
+    "properties": {
+      "28": {
+        "description": "Signature:                                                                                                                      Date:",
+        "type": "string"
+      },
+      "32": {
+        "description": "or www.rto.yk.ca",
+        "type": "string"
+      },
+      "36": {
+        "description": "application dismissed, having any findings in your favour overturned and/or being fined or charged under the Residential",
+        "type": "string"
+      },
+      "38": {
+        "description": "with completed exhibit list) [Note: All exhibit documents must clearly indicate their exhibit number].",
+        "type": "string"
+      },
+      "39": {
+        "description": "307 Black Street, Whitehorse, Yukon or contact the office if unable to submit personally.",
+        "type": "string"
+      },
+      "42": {
+        "description": "Landlord and Tenant Act.",
+        "type": "string"
+      },
+      "45": {
+        "description": "and when the issue arose or the event occurred. When the dispute includes a request for a monetary order, you must",
+        "type": "string"
+      },
+      "47": {
+        "description": "3.  Submit your application in person along with the $50 application fee at: Residential Tenancies Office,",
+        "type": "string"
+      },
+      "50": {
+        "description": "By signing this Application for Dispute Resolution I: 1) Declare that the information provided is correct and complete; 2)",
+        "type": "string"
+      },
+      "51": {
+        "description": "Print Name:",
+        "type": "string"
+      },
+      "52": {
+        "description": "have paid the application fee or obtained a fee waiver.",
+        "type": "string"
+      },
+      "53": {
+        "description": "2.  FULL PARTICULARS - Indicate and explain ALL issues that apply to your request and attach all evidence (along",
+        "type": "string"
+      },
+      "54": {
+        "description": "Understand that the information provided is subject to Yukon\u2019s Access to Information and Protection of Privacy legislation.",
+        "type": "string"
+      },
+      "55": {
+        "description": "Whitehorse, YT  Y1A 2N1",
+        "type": "string"
+      },
+      "56": {
+        "description": "include a detailed calculation of the claim amount. If necessary, attach a separate sheet (signed).",
+        "type": "string"
+      },
+      "58": {
+        "description": "4.  Do not give a copy of your application to the respondent until the Residential Tenancies Office accepts it and you",
+        "type": "string"
+      },
+      "59": {
+        "description": "1.  Complete all information",
+        "type": "string"
+      },
+      "62": {
+        "description": "TO FILE THIS APPLICATION:",
+        "type": "string"
+      },
+      "63": {
+        "description": "1-800-661-0408 ext 5944 (toll free)",
+        "type": "string"
+      },
+      "67": {
+        "description": "Note: Making a false declaration can have serious negative consequences, including, but not limited to: having your",
+        "type": "string"
+      },
+      "68": {
+        "description": "Residential Tenancies Office",
+        "type": "string"
+      },
+      "70": {
+        "description": "Describe ALL relevant issue(s). Include any dates, times, people or other information that states who, what, where",
+        "type": "string"
+      },
+      "83": {
+        "description": "Page 3 of 3",
+        "type": "boolean"
+      },
+      "197": {
+        "description": "Daytime Telephone Number                                                   Email",
+        "type": "string"
+      },
+      "198": {
+        "description": "Jeopardized health or safety of other tenants/occupants or neighbours",
+        "type": "string"
+      },
+      "199": {
+        "description": "Indicate if the applicant is the       landlord or        tenant",
+        "type": "string"
+      },
+      "200": {
+        "description": "Unit/Site #                              Street Name",
+        "type": "string"
+      },
+      "201": {
+        "description": "RESPONDENT",
+        "type": "string"
+      },
+      "206": {
+        "description": "Daytime Telephone Number                                                   Email",
+        "type": "string"
+      },
+      "207": {
+        "description": "Indicate if the respondent is the       landlord or        tenant",
+        "type": "string"
+      },
+      "208": {
+        "description": "First Name                                                                               Last Name",
+        "type": "string"
+      },
+      "209": {
+        "description": "Unpaid Utilities",
+        "type": "string"
+      },
+      "210": {
+        "description": "ADDRESS OF RENTAL UNIT (OR THE MOBILE HOME SITE)",
+        "type": "string"
+      },
+      "211": {
+        "description": "City                                                                               Yukon    Postal Code",
+        "type": "string"
+      },
+      "212": {
+        "description": "NATURE OF THE DISPUTE  (PLEASE CHECK APPLICABLE CATEGORY)",
+        "type": "string"
+      },
+      "213": {
+        "description": "Other (please provide details)",
+        "type": "string"
+      },
+      "214": {
+        "description": "Rent reduction for loss of value/use of rental property",
+        "type": "string"
+      },
+      "215": {
+        "description": "Respondent Address (address for service of documents or notices \u2013 where materials can be given personally or mailed)",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "First Name                                                                               Last Name",
+        "type": "boolean"
+      },
+      "219": {
+        "description": "Applicant Address (address for service of documents or notices \u2013 where materials can be given personally or mailed)",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "APPLICANT",
+        "type": "boolean"
+      },
+      "223": {
+        "description": "Put Landlord\u2019s property at risk (ie: fire hazard, offensive or illegal activity)",
+        "type": "boolean"
+      },
+      "225": {
+        "description": "Breach of Tenancy Agreement",
+        "type": "boolean"
+      },
+      "227": {
+        "description": "Significant Interference/Unreasonable disturbance",
+        "type": "boolean"
+      },
+      "229": {
+        "description": "Landlord request an order of possession without holding a hearing (emergency application)",
+        "type": "boolean"
+      },
+      "231": {
+        "description": "Overholding Tenant",
+        "type": "boolean"
+      },
+      "233": {
+        "description": "Request for an order of possession",
+        "type": "boolean"
+      },
+      "235": {
+        "description": "Dispute the 14 day notice",
+        "type": "boolean"
+      },
+      "237": {
+        "description": "Incorrect amount of Notice to Terminate Tenancy",
+        "type": "boolean"
+      },
+      "239": {
+        "description": "Repairs not completed",
+        "type": "boolean"
+      },
+      "241": {
+        "description": "Rental Increase not in compliance with RLTA",
+        "type": "boolean"
+      },
+      "243": {
+        "description": "Security deposit",
+        "type": "boolean"
+      },
+      "245": {
+        "description": "Unpaid Rent",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

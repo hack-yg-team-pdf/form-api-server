@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "24": {
+        "description": "Operator/business/company",
+        "type": "string"
+      },
+      "25": {
+        "description": "Exploitant/exploitante/entreprise  No de permis",
+        "type": "string"
+      },
+      "27": {
+        "description": "operator confidentiality, and reflects governments obligations under",
+        "type": "string"
+      },
+      "28": {
+        "description": "the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "29": {
+        "description": "exploitante ainsi que les obligations du gouvernement en vertu de la Loi",
+        "type": "string"
+      },
+      "30": {
+        "description": "ext. 5648. Data will be collected and used in a way that ensures",
+        "type": "string"
+      },
+      "31": {
+        "description": "purposes. For further information direct inquiries to Registrar,",
+        "type": "string"
+      },
+      "32": {
+        "description": "only for the purpose of research, statistical and enforcement",
+        "type": "string"
+      },
+      "33": {
+        "description": "et utilis\u00e9es de mani\u00e8re \u00e0 respecter la confidentialit\u00e9 de l\u2019exploitant/",
+        "type": "string"
+      },
+      "34": {
+        "description": "Wilderness Tourism Licensing (867) 667-5648, or 1-800-661-0508",
+        "type": "string"
+      },
+      "35": {
+        "description": "667-5648 ou au 1-800-661-0408, poste 5648. Les donn\u00e9es sont recueillies",
+        "type": "string"
+      },
+      "36": {
+        "description": "Confidentiality:  This information is being collected under the",
+        "type": "string"
+      },
+      "37": {
+        "description": "authority of the Wilderness Tourism Licensing Act and will be used",
+        "type": "string"
+      },
+      "38": {
+        "description": "communiquez avec le registraire du tourisme en milieu sauvage, au (867)",
+        "type": "string"
+      },
+      "39": {
+        "description": "d\u2019ex\u00e9cution de la Loi. Pour obtenir de plus amples renseignements,",
+        "type": "string"
+      },
+      "40": {
+        "description": "seront utilis\u00e9s qu\u2019\u00e0 des fins de recherche, de compilation de statistiques et",
+        "type": "string"
+      },
+      "41": {
+        "description": "YG(4804)NC2 Rev.05/2002",
+        "type": "string"
+      },
+      "42": {
+        "description": "White copy: Environment Yukon",
+        "type": "string"
+      },
+      "43": {
+        "description": "Confidentialit\u00e9 : Ces renseignements sont recueillis en vertu de la Loi",
+        "type": "string"
+      },
+      "44": {
+        "description": "concernant l\u2019autorisation d\u2019activit\u00e9s touristiques en milieu sauvage et ils ne",
+        "type": "string"
+      },
+      "45": {
+        "description": "Copie blanche : Environnement Yukon",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

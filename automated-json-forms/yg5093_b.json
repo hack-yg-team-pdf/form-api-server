@@ -1,0 +1,179 @@
+{
+  "fields": {
+    "properties": {
+      "133": {
+        "description": "(b) \u00e9t\u00e9 d\u00e9clar\u00e9 coupable d\u2019une infraction \u00e0 la pr\u00e9sente Loi ou \u00e0 toute loi",
+        "type": "string"
+      },
+      "134": {
+        "description": "If yes, give date and details of offence",
+        "type": "string"
+      },
+      "137": {
+        "description": "(e) been refused a surety bond?                               \u2610No            \u2610Yes",
+        "type": "string"
+      },
+      "138": {
+        "description": "bankrupt during the period of his/her involvement?",
+        "type": "string"
+      },
+      "144": {
+        "description": "dirigeant ou d\u2019administrateur d\u2019une personne morale ou d\u2019associ\u00e9 d\u2019une",
+        "type": "string"
+      },
+      "151": {
+        "description": "(a) been convicted of an offence under the Criminal Code (Canada)?",
+        "type": "string"
+      },
+      "153": {
+        "description": "3. Le demandeur a-t-il :",
+        "type": "string"
+      },
+      "161": {
+        "description": "3. Has the applicant:",
+        "type": "string"
+      },
+      "173": {
+        "description": "Sworn before me                                                                                                                              at the City of",
+        "type": "string"
+      },
+      "175": {
+        "description": "this                                                                                                               day of                                                                                          , 20",
+        "type": "string"
+      },
+      "178": {
+        "description": "ce\tjour\tde,\t20",
+        "type": "string"
+      },
+      "180": {
+        "description": "in the Province/Territory",
+        "type": "string"
+      },
+      "181": {
+        "description": "dans la province/le territoire de",
+        "type": "string"
+      },
+      "188": {
+        "description": "Applicant",
+        "type": "string"
+      },
+      "195": {
+        "description": "demandeurt",
+        "type": "string"
+      },
+      "197": {
+        "description": "Please make your cheque payable to Government of Yukon, or complete payment information form YG5924 at: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "198": {
+        "description": "for",
+        "type": "string"
+      },
+      "199": {
+        "description": "Par  pour",
+        "type": "string"
+      },
+      "200": {
+        "description": "Veuillez\tlibeller\tvotre\tch\u00e8que\tau\tnom\tdu\tgouvernement\tdu\tYukon\tou\tfournir\tles\tinformations\tdemand\u00e9es\tci-dessous\tremplissez",
+        "type": "string"
+      },
+      "202": {
+        "description": "By",
+        "type": "string"
+      },
+      "205": {
+        "description": "Agency",
+        "type": "string"
+      },
+      "206": {
+        "description": "agence",
+        "type": "string"
+      },
+      "209": {
+        "description": "Dated at                                                    this                                                          day of                                      ,20",
+        "type": "string"
+      },
+      "213": {
+        "description": "Je\tcomprends\tqu\u2019afin\tde\tcompl\u00e9ter\tet\tde\tv\u00e9rifier\tles\tren-",
+        "type": "boolean"
+      },
+      "216": {
+        "description": "Signature of Collection Agent Employee \u2022 Signature\tde\tl\u2019employ\u00e9\td\u2019une\tagence\tde\trecouvrement",
+        "type": "boolean"
+      },
+      "1330": {
+        "description": "(c). Telephone Number:",
+        "type": "string"
+      },
+      "1331": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "1332": {
+        "description": "2. Has the applicant:",
+        "type": "string"
+      },
+      "1333": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "1334": {
+        "description": "(b) Business Name and Address:",
+        "type": "string"
+      },
+      "1335": {
+        "description": "If yes, give particulars",
+        "type": "string"
+      },
+      "1339": {
+        "description": "(d) been refused registration or a licence mentioned in 2(b) or (c) above,",
+        "type": "string"
+      },
+      "1341": {
+        "description": "(c) been registered or licensed in any other capacity in Yukon or any",
+        "type": "string"
+      },
+      "1343": {
+        "description": "(a) been registered in any capacity, under the Consumers Protection Act",
+        "type": "string"
+      },
+      "1344": {
+        "description": "(c) Num\u00e9ro de t\u00e9l\u00e9phone :",
+        "type": "string"
+      },
+      "1345": {
+        "description": "2. Le demandeur a-t-il :",
+        "type": "string"
+      },
+      "1346": {
+        "description": "Ville",
+        "type": "string"
+      },
+      "1347": {
+        "description": "Province/territoire",
+        "type": "string"
+      },
+      "1348": {
+        "description": "(b) Nom et adresse de l\u2019entreprise :",
+        "type": "string"
+      },
+      "1349": {
+        "description": "1. (a)Nom du demandeur :",
+        "type": "string"
+      },
+      "1356": {
+        "description": "Si oui, pr\u00e9cisez",
+        "type": "string"
+      },
+      "1360": {
+        "description": "Si oui, pr\u00e9cisez",
+        "type": "string"
+      },
+      "1364": {
+        "description": "Si oui, pr\u00e9cisez",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

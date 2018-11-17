@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "311": {
+        "description": "Name",
+        "type": "string"
+      },
+      "312": {
+        "description": "LAST                                                 FIRST                                       MIDDLE INT.",
+        "type": "string"
+      },
+      "313": {
+        "description": "Date of birth Name",
+        "type": "string"
+      },
+      "314": {
+        "description": "e",
+        "type": "string"
+      },
+      "315": {
+        "description": "t",
+        "type": "string"
+      },
+      "316": {
+        "description": "YEAR",
+        "type": "string"
+      },
+      "317": {
+        "description": "MONTH",
+        "type": "string"
+      },
+      "318": {
+        "description": "in accordance with Section 69 of the Wildlife Act for trapping concession area #",
+        "type": "string"
+      },
+      "319": {
+        "description": "HEREINAFTER called the \u201capplicant\u201d:",
+        "type": "string"
+      },
+      "320": {
+        "description": "The applicant hereby makes application for the issuance of a seasonal trapping permit",
+        "type": "string"
+      },
+      "321": {
+        "description": "I am enrolled under one of the Yukon First Nation Final Agreements",
+        "type": "string"
+      },
+      "322": {
+        "description": "SECTION A: APPLICANT INFORMATION",
+        "type": "boolean"
+      },
+      "324": {
+        "description": "I currently hold a Yukon Trapping Concession (area # ) in good standing",
+        "type": "boolean"
+      },
+      "325": {
+        "description": "I am an Aboriginal person who is a beneficiary of a transboundary agreement as defined in the",
+        "type": "boolean"
+      },
+      "326": {
+        "description": "First Nation",
+        "type": "string"
+      },
+      "327": {
+        "description": "(e.g., number of years",
+        "type": "string"
+      },
+      "328": {
+        "description": "(e.g., traps,",
+        "type": "string"
+      },
+      "329": {
+        "description": "(i.e., what are your",
+        "type": "string"
+      },
+      "330": {
+        "description": "(e.g., family history in",
+        "type": "string"
+      },
+      "331": {
+        "description": "Referral comments",
+        "type": "boolean"
+      },
+      "334": {
+        "description": "Authorized signature",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

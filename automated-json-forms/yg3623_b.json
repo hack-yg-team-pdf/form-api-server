@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "214": {
+        "description": "of",
+        "type": "string"
+      },
+      "217": {
+        "description": "that nominations for the position(s) of",
+        "type": "string"
+      },
+      "218": {
+        "description": "Mayor and/or",
+        "type": "string"
+      },
+      "219": {
+        "description": "Day of week and date",
+        "type": "string"
+      },
+      "220": {
+        "description": "Place",
+        "type": "string"
+      },
+      "221": {
+        "description": "before the close of nominations at noon on",
+        "type": "string"
+      },
+      "222": {
+        "description": "Day of week and date",
+        "type": "string"
+      },
+      "223": {
+        "description": "Day of week and date",
+        "type": "string"
+      },
+      "224": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "227": {
+        "description": "Given under my hand this               day of                                                      at                                          in the Yukon Territory.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

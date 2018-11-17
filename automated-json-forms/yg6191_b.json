@@ -1,0 +1,171 @@
+{
+  "fields": {
+    "properties": {
+      "44": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "46": {
+        "description": "D\u00e9nomination sociale si un commanditaire n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "54": {
+        "description": "A",
+        "type": "string"
+      },
+      "57": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "58": {
+        "description": "B",
+        "type": "string"
+      },
+      "59": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "65": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "66": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "67": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "68": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "70": {
+        "description": "D\u00e9nomination sociale si un commanditaire n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "71": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "72": {
+        "description": "Last name and first name of the individual signing for the general partner",
+        "type": "string"
+      },
+      "73": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "74": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "75": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "76": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "77": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "78": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "79": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "82": {
+        "description": "Signature / Signature",
+        "type": "string"
+      },
+      "84": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "88": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "89": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "90": {
+        "description": "Last name and first name of the individual signing for the general partner",
+        "type": "string"
+      },
+      "104": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "110": {
+        "description": "sans frais au Yukon 1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "129": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "132": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "1567": {
+        "description": "registered under section 87 of the Partnership and Business Names Act) :",
+        "type": "string"
+      },
+      "1568": {
+        "description": "1.  Name of limited partnership / D\u00e9nomination sociale de la soci\u00e9t\u00e9 en commandite :",
+        "type": "string"
+      },
+      "1569": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "1570": {
+        "description": "5.  Registered office in home jurisdiction / Bureau enregistr\u00e9 dans l\u2019autorit\u00e9 l\u00e9gislative comp\u00e9tente :",
+        "type": "string"
+      },
+      "1571": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "1574": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1575": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1576": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1578": {
+        "description": "6.  Was the limited partnership previously registered in Yukon?",
+        "type": "string"
+      },
+      "1583": {
+        "description": "7.  The general nature of the business carried on or intended to be carried on in Yukon :",
+        "type": "string"
+      },
+      "1584": {
+        "description": "Nature g\u00e9n\u00e9rale des activit\u00e9s exerc\u00e9es ou envisag\u00e9es au Yukon :",
+        "type": "string"
+      },
+      "1585": {
+        "description": "YG(6191Q)F3 04/2013",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

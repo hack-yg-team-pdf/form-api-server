@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "122": {
+        "description": "(the \u201clicensee\u201d)",
+        "type": "string"
+      },
+      "123": {
+        "description": "4.  This guarantee is to remain in force concurrently with the Licence and",
+        "type": "string"
+      },
+      "124": {
+        "description": "3.  The Guarantor\u2019s liability as a guarantor hereunder shall continue",
+        "type": "string"
+      },
+      "125": {
+        "description": "under the laws of Canada, hereinafter called the Guarantor, hereby",
+        "type": "string"
+      },
+      "126": {
+        "description": "guarantees to provide the Licensee with credit sufficient for the payment of the",
+        "type": "string"
+      },
+      "127": {
+        "description": "Whitehorse, in Yukon, this  day of , 20.",
+        "type": "string"
+      },
+      "128": {
+        "description": "Signature of Guarantor\u2019s Representative",
+        "type": "string"
+      },
+      "129": {
+        "description": "Print Name",
+        "type": "string"
+      },
+      "130": {
+        "description": "YG(5713Q)F1 08/2010",
+        "type": "string"
+      },
+      "131": {
+        "description": "1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "132": {
+        "description": "Signature of Representative from Organization",
+        "type": "boolean"
+      },
+      "135": {
+        "description": "Personal information contained on this form is collected under the Lottery Licensing Act and will be used for the purpose",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

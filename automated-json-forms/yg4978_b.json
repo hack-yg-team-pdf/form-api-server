@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "337": {
+        "description": "APPLICATION FOR PERSONALIZED LICENCE PLATE",
+        "type": "boolean"
+      },
+      "339": {
+        "description": "Vintage auto $125 + GST \u2022 V\u00e9hicule d\u2019\u00e9poque 125 $ + TPS",
+        "type": "boolean"
+      },
+      "340": {
+        "description": "Skidoo / ATV \u2022 Motoneige / VTT",
+        "type": "boolean"
+      },
+      "342": {
+        "description": "DEMANDE DE PLAQUE D\u2019IMMATRICULATION PERSONNALIS\u00c9E",
+        "type": "boolean"
+      },
+      "343": {
+        "description": "Voiture ancienne (attestation n\u00e9cessaire) 25 $",
+        "type": "boolean"
+      },
+      "344": {
+        "description": "Antique auto (declaration form required) $25",
+        "type": "boolean"
+      },
+      "346": {
+        "description": "Gift \u2022 Cadeau",
+        "type": "boolean"
+      },
+      "347": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "348": {
+        "description": "Fee: Receipt number",
+        "type": "string"
+      },
+      "349": {
+        "description": "Adresse postale",
+        "type": "string"
+      },
+      "350": {
+        "description": "Requested by",
+        "type": "string"
+      },
+      "351": {
+        "description": "T\u00e9l\u00e9phone     Courriel",
+        "type": "string"
+      },
+      "352": {
+        "description": "Email",
+        "type": "string"
+      },
+      "353": {
+        "description": "Propri\u00e9taire inscrit        Demandeur1",
+        "type": "string"
+      },
+      "356": {
+        "description": "2",
+        "type": "string"
+      },
+      "357": {
+        "description": "Explanation of slogan:",
+        "type": "string"
+      },
+      "358": {
+        "description": "Explication du slogan :",
+        "type": "string"
+      },
+      "359": {
+        "description": "We request that the personalized licence plate be forwarded to the Motor Vehicles office in",
+        "type": "string"
+      },
+      "360": {
+        "description": "for pick up. \u2022 Veuillez exp\u00e9dier la plaque d\u2019immatriculation",
+        "type": "string"
+      },
+      "361": {
+        "description": "personnalis\u00e9e au Bureau des v\u00e9hicules de  o\u00f9 je passerai la prendre.",
+        "type": "string"
+      },
+      "362": {
+        "description": "or \u2022 ou",
+        "type": "string"
+      },
+      "363": {
+        "description": "forward to mailing address above. \u2022 La faire parvenir \u00e0 l\u2019adresse postale mentionn\u00e9e plus haut.",
+        "type": "string"
+      },
+      "364": {
+        "description": "YG(4978Q)F1 Rev.02/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

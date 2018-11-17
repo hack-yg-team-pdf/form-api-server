@@ -1,0 +1,195 @@
+{
+  "fields": {
+    "properties": {
+      "108": {
+        "description": "separate sheet).",
+        "type": "string"
+      },
+      "109": {
+        "description": "10. If an aircraft is proposed to be used, provide:",
+        "type": "string"
+      },
+      "112": {
+        "description": "-ownership of the aircraft:",
+        "type": "string"
+      },
+      "119": {
+        "description": "or area to which the pesticide will be applied (attach maps of the proposed area).  Please include the legal",
+        "type": "string"
+      },
+      "120": {
+        "description": "Note: If the applicant is not the owner of the property where the uses or application of pesticides will occur, the written consent of the owner is",
+        "type": "string"
+      },
+      "123": {
+        "description": "11. Describe the facilities, equipment and site(s) for mixing and loading of pesticides.",
+        "type": "string"
+      },
+      "129": {
+        "description": "9. If the location is within municipal boundaries, what is the zoning of that land? (For multiple site locations, list on a",
+        "type": "string"
+      },
+      "131": {
+        "description": "4. Describe the pests that are to be controlled by the application of pesticide",
+        "type": "string"
+      },
+      "138": {
+        "description": "watercraft or vehicle to be used if applicable.",
+        "type": "string"
+      },
+      "140": {
+        "description": "(centre of site in lat/long, UTM (specify zone) or Yukon Albers).",
+        "type": "string"
+      },
+      "142": {
+        "description": "required.  Please attach a separate sheet for this purpose.",
+        "type": "string"
+      },
+      "143": {
+        "description": "6. Describe the procedures and equipment to be used in the use or application, including a description of aircraft,",
+        "type": "string"
+      },
+      "144": {
+        "description": "- the pilot\u2019s qualifications for and experience in the application of pesticides from aircraft:",
+        "type": "string"
+      },
+      "145": {
+        "description": "- the pilot\u2019s name and flight crew licence number issued under the Aeronautics Act (Canada):",
+        "type": "string"
+      },
+      "146": {
+        "description": "8. Provide information regarding land ownership for the area subject to the application of pesticides.",
+        "type": "string"
+      },
+      "148": {
+        "description": "5. List the approved common or trade name(s) of the pesticide(s) that the applicant seeks authorization to use:",
+        "type": "string"
+      },
+      "151": {
+        "description": "7. Describe the location where the pesticide is to be applied, including a description of the extent of the property",
+        "type": "string"
+      },
+      "156": {
+        "description": "address (Lot #, Block, Plan #, Quad/Group) and civic address of the property(ies) and Geographic Coordinates",
+        "type": "string"
+      },
+      "157": {
+        "description": "Applicants must comply with municipal bylaws and ensure they are aware of any restrictions on activities in zoned areas.",
+        "type": "string"
+      },
+      "262": {
+        "description": "Signature of Applicant",
+        "type": "string"
+      },
+      "271": {
+        "description": "No. of attachments",
+        "type": "string"
+      },
+      "272": {
+        "description": "knowledge.",
+        "type": "string"
+      },
+      "273": {
+        "description": "that the information provided on this application form is correct and complete to the best of my",
+        "type": "string"
+      },
+      "363": {
+        "description": "1. Name and address of applicant",
+        "type": "string"
+      },
+      "366": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "367": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "368": {
+        "description": "Fax #",
+        "type": "string"
+      },
+      "369": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "370": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "371": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "372": {
+        "description": "Name (person or business) to appear on permit",
+        "type": "string"
+      },
+      "373": {
+        "description": "NOTE:  All use or application of pesticides specified in Pesticide Use or Pesticide Service Permits must be",
+        "type": "boolean"
+      },
+      "375": {
+        "description": "same as (1) above, or:",
+        "type": "string"
+      },
+      "376": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "377": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "378": {
+        "description": "Fax #",
+        "type": "string"
+      },
+      "379": {
+        "description": "2. Who is directly responsible for the activities requiring a permit?",
+        "type": "string"
+      },
+      "380": {
+        "description": "performed by a certified pesticide applicator.",
+        "type": "boolean"
+      },
+      "381": {
+        "description": "Email Address",
+        "type": "boolean"
+      },
+      "382": {
+        "description": "Phone #",
+        "type": "boolean"
+      },
+      "383": {
+        "description": "landscaping",
+        "type": "boolean"
+      },
+      "384": {
+        "description": "other (specify):",
+        "type": "boolean"
+      },
+      "385": {
+        "description": "fish and wildlife control",
+        "type": "boolean"
+      },
+      "386": {
+        "description": "biting insect control",
+        "type": "boolean"
+      },
+      "387": {
+        "description": "forestry",
+        "type": "boolean"
+      },
+      "388": {
+        "description": "3. Check the type(s) of pesticide use or application to be undertaken.",
+        "type": "boolean"
+      },
+      "389": {
+        "description": "greenhouse/agriculture",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

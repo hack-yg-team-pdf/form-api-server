@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "91": {
+        "description": "Make of vehicle",
+        "type": "string"
+      },
+      "94": {
+        "description": "Year of vehicle",
+        "type": "string"
+      },
+      "95": {
+        "description": "Serial number",
+        "type": "string"
+      },
+      "96": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "boolean"
+      },
+      "99": {
+        "description": "Date",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

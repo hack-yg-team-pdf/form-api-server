@@ -1,0 +1,239 @@
+{
+  "fields": {
+    "properties": {
+      "267": {
+        "description": "12,000",
+        "type": "string"
+      },
+      "268": {
+        "description": "Lender / bank Asset value $",
+        "type": "string"
+      },
+      "269": {
+        "description": "TOTAL",
+        "type": "string"
+      },
+      "271": {
+        "description": "ABC bank",
+        "type": "string"
+      },
+      "272": {
+        "description": "payment $",
+        "type": "string"
+      },
+      "273": {
+        "description": "(e.g. credit card, truck)",
+        "type": "string"
+      },
+      "274": {
+        "description": "Monthly",
+        "type": "string"
+      },
+      "275": {
+        "description": "Liability $",
+        "type": "string"
+      },
+      "276": {
+        "description": "Description",
+        "type": "string"
+      },
+      "277": {
+        "description": "FINANCIAL INFORMATION (List all assets & liabilities including loans, vehicles, credit cards, lines of credit, etc.)",
+        "type": "string"
+      },
+      "278": {
+        "description": "TOTAL",
+        "type": "string"
+      },
+      "279": {
+        "description": "(balance owing)",
+        "type": "string"
+      },
+      "280": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "281": {
+        "description": "If yes, which one(s)?",
+        "type": "string"
+      },
+      "285": {
+        "description": "(example) 2012 vehicle",
+        "type": "string"
+      },
+      "287": {
+        "description": "FINANCING FOR HOME OWNERSHIP OPTION",
+        "type": "string"
+      },
+      "288": {
+        "description": "Required down payment is a minimum 2.5% of the purchase price for the home you are wanting to purchase plus",
+        "type": "string"
+      },
+      "290": {
+        "description": "Credit limit $",
+        "type": "string"
+      },
+      "292": {
+        "description": "Total savings to date for home ownership options $",
+        "type": "string"
+      },
+      "297": {
+        "description": "350",
+        "type": "string"
+      },
+      "298": {
+        "description": "Have you been to a financial institution to apply for a mortgage?",
+        "type": "string"
+      },
+      "300": {
+        "description": "No",
+        "type": "string"
+      },
+      "301": {
+        "description": "If financing was not obtainable, why? Please attach Bank Decline Letter.",
+        "type": "string"
+      },
+      "304": {
+        "description": "Page 2 of 4",
+        "type": "string"
+      },
+      "310": {
+        "description": "4,000",
+        "type": "string"
+      },
+      "311": {
+        "description": "approximately $3,500 for closing costs.",
+        "type": "string"
+      },
+      "998": {
+        "description": "GENERAL INFORMATION",
+        "type": "string"
+      },
+      "999": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "1000": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "1001": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "1002": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "1003": {
+        "description": "Who and how should we contact to discuss your application?",
+        "type": "string"
+      },
+      "1004": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "1005": {
+        "description": "Co-applicant",
+        "type": "string"
+      },
+      "1006": {
+        "description": "How long in the Yukon?",
+        "type": "string"
+      },
+      "1007": {
+        "description": "Applicant",
+        "type": "string"
+      },
+      "1012": {
+        "description": "Daytime contact number",
+        "type": "string"
+      },
+      "1013": {
+        "description": "Alternate phone number",
+        "type": "string"
+      },
+      "1014": {
+        "description": "Email",
+        "type": "string"
+      },
+      "1015": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "1016": {
+        "description": "How long at present address?",
+        "type": "string"
+      },
+      "1017": {
+        "description": "City",
+        "type": "string"
+      },
+      "1018": {
+        "description": "Home phone",
+        "type": "string"
+      },
+      "1019": {
+        "description": "Applicant\u2019s employer",
+        "type": "string"
+      },
+      "1020": {
+        "description": "EMPLOYMENT INFORMATION  (Written Verification of Employment form for each applicant is required)",
+        "type": "string"
+      },
+      "1021": {
+        "description": "APPLICANT",
+        "type": "string"
+      },
+      "1022": {
+        "description": "Applicant\u2019s position/job title",
+        "type": "string"
+      },
+      "1023": {
+        "description": "Work phone",
+        "type": "string"
+      },
+      "1024": {
+        "description": "Previous employer (If less than 1 year)",
+        "type": "string"
+      },
+      "1025": {
+        "description": "Length of employment",
+        "type": "string"
+      },
+      "1026": {
+        "description": "CO-APPLICANT",
+        "type": "string"
+      },
+      "1027": {
+        "description": "Length of employment",
+        "type": "string"
+      },
+      "1028": {
+        "description": "Co-applicant\u2019s position/job title",
+        "type": "string"
+      },
+      "1029": {
+        "description": "Work phone",
+        "type": "string"
+      },
+      "1030": {
+        "description": "Previous employer (If less than 1 year)",
+        "type": "string"
+      },
+      "1031": {
+        "description": "Length of employment",
+        "type": "string"
+      },
+      "1032": {
+        "description": "YG(6308EQ)F4 Rev.03/2018",
+        "type": "string"
+      },
+      "1033": {
+        "description": "Length of employment",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

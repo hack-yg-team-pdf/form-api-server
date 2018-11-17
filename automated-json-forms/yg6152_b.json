@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "301": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "302": {
+        "description": "3.  Current attorney for service / Fond\u00e9 de pouvoir aux fins de signification actuel :",
+        "type": "string"
+      },
+      "303": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "304": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "305": {
+        "description": "Nouvelle Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "306": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "307": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "308": {
+        "description": "Effective date of new addresses:",
+        "type": "string"
+      },
+      "309": {
+        "description": "Nouvelle Adresse postale",
+        "type": "string"
+      },
+      "310": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "311": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "312": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "313": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "314": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "315": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "318": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

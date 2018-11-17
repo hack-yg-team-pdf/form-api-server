@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "64": {
+        "description": "Permit number \u2022 Num\u00e9ro du permis",
+        "type": "string"
+      },
+      "65": {
+        "description": "Phone \u2022 T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "66": {
+        "description": "TIRE SURCHARGE REMITTANCE CALCULATION \u2022 CALCUL DU VERSEMENT DE LA CONSIGNE SUR LES PNEUS",
+        "type": "string"
+      },
+      "72": {
+        "description": "Year \u2022 Ann\u00e9e :",
+        "type": "string"
+      },
+      "73": {
+        "description": "B",
+        "type": "string"
+      },
+      "74": {
+        "description": "5.00",
+        "type": "string"
+      },
+      "75": {
+        "description": "C",
+        "type": "string"
+      },
+      "78": {
+        "description": "E",
+        "type": "string"
+      },
+      "79": {
+        "description": "BALANCE DUE / CREDIT CARRIED FORWARD (C - D - E)",
+        "type": "string"
+      },
+      "80": {
+        "description": "455-201010-0402",
+        "type": "string"
+      },
+      "81": {
+        "description": "Signature         Date:",
+        "type": "string"
+      },
+      "82": {
+        "description": "YG(5151Q)F1 Rev.07/2018",
+        "type": "string"
+      },
+      "83": {
+        "description": "Nam \u2022 Nom        Title \u2022 Titre",
+        "type": "string"
+      },
+      "84": {
+        "description": "PRINT \u2022 EN LETTRES D\u00c9TACH\u00c9ES",
+        "type": "boolean"
+      },
+      "87": {
+        "description": "YYYY/MM/DD \u2022 AAA/MM/JJ",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

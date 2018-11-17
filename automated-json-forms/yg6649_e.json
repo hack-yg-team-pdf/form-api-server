@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "121": {
+        "description": "Province/territory",
+        "type": "string"
+      },
+      "134": {
+        "description": "jurisdiction listed.)",
+        "type": "string"
+      },
+      "148": {
+        "description": "YG(6649EQ)F3 10/2018",
+        "type": "string"
+      },
+      "151": {
+        "description": "State the jurisdictions you are registered in as a LPN. (Ensure a verification of registration is obtained for each",
+        "type": "string"
+      },
+      "176": {
+        "description": "Country",
+        "type": "string"
+      },
+      "179": {
+        "description": "Registration",
+        "type": "string"
+      },
+      "686": {
+        "description": "Copies of 2 pieces of government-issued ID.",
+        "type": "boolean"
+      },
+      "688": {
+        "description": "If you are an international graduate, proof of eligibility to work in Canada.",
+        "type": "boolean"
+      },
+      "689": {
+        "description": "Notarized copies of diplomas for additional education you received since you were last licensed in Yukon.",
+        "type": "boolean"
+      },
+      "690": {
+        "description": "Apply for reinstatement of your licence if you want to work again in Yukon. For convenience, a brief checklist of required",
+        "type": "boolean"
+      },
+      "691": {
+        "description": "Criminal record check including vulnerable sector check every 5 years. (Attached or sent to Professional Licensing and",
+        "type": "boolean"
+      },
+      "692": {
+        "description": "Verification of registration form. (Required if you are licensed in another jurisdiction. The form must be sent to PLRA",
+        "type": "boolean"
+      },
+      "693": {
+        "description": "Verification of employment form. (Submit if eligibility requires continuing competency.)",
+        "type": "boolean"
+      },
+      "694": {
+        "description": "Continuing education form. (Submit if eligibility requires continuing competency.)",
+        "type": "boolean"
+      },
+      "695": {
+        "description": "Payment information form.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "Signature / Signature",
+        "type": "string"
+      },
+      "48": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "51": {
+        "description": "Titre du particulier qui signe pour la soci\u00e9t\u00e9 extra-territoriale :",
+        "type": "string"
+      },
+      "54": {
+        "description": "8.  Title of individual signing for the extra-territorial corporation :",
+        "type": "string"
+      },
+      "60": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "D\u00e9nomination sociale de la soci\u00e9t\u00e9 de personnes dont le fond\u00e9 de pouvoir et le fond\u00e9 de pouvoir suppl\u00e9ant sont",
+        "type": "string"
+      },
+      "62": {
+        "description": "7.  Name of individual signing for the extra-territorial corporation :",
+        "type": "string"
+      },
+      "63": {
+        "description": "Les nominations de fond\u00e9s de pouvoir ou de fond\u00e9 de pouvoir suppl\u00e9ants ant\u00e9rieures \u00e0 la date de la",
+        "type": "string"
+      },
+      "634": {
+        "description": "2. Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "635": {
+        "description": "3. Attorney for service / Fond\u00e9 de pouvoir aux fins de signification :",
+        "type": "string"
+      },
+      "636": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "637": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "638": {
+        "description": "Effective date of appointment :",
+        "type": "string"
+      },
+      "639": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "640": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "641": {
+        "description": "Date d\u2019entr\u00e9e en vigueur de la nomination :",
+        "type": "string"
+      },
+      "642": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "643": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "644": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "645": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "646": {
+        "description": "J\u2019accepte d\u2019agir \u00e0 titre de fond\u00e9 de pouvoir aux fins de signification pour la soci\u00e9t\u00e9 extra-territoriale.",
+        "type": "string"
+      },
+      "647": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "648": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "649": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "650": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

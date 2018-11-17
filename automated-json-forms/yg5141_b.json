@@ -1,0 +1,211 @@
+{
+  "fields": {
+    "properties": {
+      "50": {
+        "description": "3.\tLicence\tfee\tof\t$",
+        "type": "string"
+      },
+      "52": {
+        "description": "Document \u00e9tablissant qu\u2019une assurance responsabilit\u00e9 de  $ a \u00e9t\u00e9 souscrite (minimum de 100 000 $).",
+        "type": "string"
+      },
+      "58": {
+        "description": "The following items are attached:",
+        "type": "string"
+      },
+      "68": {
+        "description": "this                                                                      day of",
+        "type": "string"
+      },
+      "69": {
+        "description": "exer\u00e7ant ses activit\u00e9s \u00e0",
+        "type": "string"
+      },
+      "70": {
+        "description": "licence under the provisions of the Private Investigators and",
+        "type": "string"
+      },
+      "71": {
+        "description": "I/We",
+        "type": "string"
+      },
+      "74": {
+        "description": "impediment which would affect the granting of the said",
+        "type": "string"
+      },
+      "77": {
+        "description": "Je/nous",
+        "type": "string"
+      },
+      "78": {
+        "description": "carrying on the business at",
+        "type": "string"
+      },
+      "79": {
+        "description": "Sworn before me at",
+        "type": "string"
+      },
+      "84": {
+        "description": "D\u00e9clare/d\u00e9clarons ce qui suit :",
+        "type": "string"
+      },
+      "85": {
+        "description": "Make oath and say as follows:",
+        "type": "string"
+      },
+      "86": {
+        "description": "20",
+        "type": "string"
+      },
+      "87": {
+        "description": "ce que la licence demand\u00e9e soit d\u00e9livr\u00e9e en vertu de la Loi\tsur",
+        "type": "string"
+      },
+      "89": {
+        "description": "in",
+        "type": "string"
+      },
+      "91": {
+        "description": "sont exacts et que, \u00e0 ma/notre connaissance, rien ne s\u2019oppose \u00e0",
+        "type": "string"
+      },
+      "92": {
+        "description": "Signature\t\u2022 Signature",
+        "type": "string"
+      },
+      "657": {
+        "description": "Total\t=",
+        "type": "string"
+      },
+      "658": {
+        "description": "First\tAgency\tLicence\t\t$50.00\t\u2022\tPremi\u00e8re licence de l\u2019agence 50 $",
+        "type": "string"
+      },
+      "659": {
+        "description": "Licences subs\u00e9quentes de l\u2019agence             x 25 $     =",
+        "type": "string"
+      },
+      "660": {
+        "description": "Subsequent\tAgency\tLicences\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t$25.00\t=",
+        "type": "string"
+      },
+      "661": {
+        "description": "FEES \u2022 DROITS",
+        "type": "string"
+      },
+      "664": {
+        "description": "Avez-vous d\u00e9j\u00e0 \u00e9t\u00e9 d\u00e9clar\u00e9 coupable d\u2019une infraction au Code criminel du Canada ou en vertu de la\tLoi\tr\u00e9glementant\tcertaines\tdrogues\tet\tautres",
+        "type": "string"
+      },
+      "665": {
+        "description": "Street\t\u2022\tRue",
+        "type": "string"
+      },
+      "666": {
+        "description": "Town/City \u2022 Ville/Localit\u00e9",
+        "type": "string"
+      },
+      "667": {
+        "description": "Postal Code \u2022 Code postal",
+        "type": "string"
+      },
+      "668": {
+        "description": "Poste occup\u00e9 dans l\u2019entreprise :",
+        "type": "string"
+      },
+      "669": {
+        "description": "10.\tHave\tyou\tever\tbeen\tfound\tguilty\tor\tconvicted\tof\tan\toffence\tunder\tthe\tCriminal\tCode\t(Canada)\tor\tthe\tControlled\tDrugs\tand\tSubstance\tAct\t(Canada)?",
+        "type": "string"
+      },
+      "670": {
+        "description": "Please\tprovide\tdetails.\tIf\ta\tpardon\thas\tbeen\tgranted,\tattach\tthis\tto\tthe\tapplication:",
+        "type": "string"
+      },
+      "671": {
+        "description": "Adresse compl\u00e8te :",
+        "type": "string"
+      },
+      "672": {
+        "description": "Date de naissance :",
+        "type": "string"
+      },
+      "673": {
+        "description": "Nom du demandeur1 :",
+        "type": "string"
+      },
+      "674": {
+        "description": "7. Birthdate:",
+        "type": "string"
+      },
+      "675": {
+        "description": "8. Full Address:",
+        "type": "string"
+      },
+      "676": {
+        "description": "Adresse de la succursale de l\u2019entreprise (bureau au Yukon) :",
+        "type": "string"
+      },
+      "677": {
+        "description": "4. Telephone Number:",
+        "type": "string"
+      },
+      "678": {
+        "description": "Num\u00e9ro de t\u00e9l\u00e9phone :",
+        "type": "string"
+      },
+      "679": {
+        "description": "5.\tBranch\tOffice\tAddress\t(operating\toffice,\tYukon):",
+        "type": "string"
+      },
+      "680": {
+        "description": "3.\tPrincipal\tOffice\tLocation:",
+        "type": "string"
+      },
+      "683": {
+        "description": "Type                                                                                                          Province",
+        "type": "string"
+      },
+      "684": {
+        "description": "Give details if similar licence is currently held:",
+        "type": "string"
+      },
+      "685": {
+        "description": "Donnez des pr\u00e9cisions si vous \u00eates actuellement titulaire d\u2019une licence semblable :",
+        "type": "string"
+      },
+      "686": {
+        "description": "Position in Company:",
+        "type": "string"
+      },
+      "687": {
+        "description": "Nom complet :    Date de naissance :",
+        "type": "string"
+      },
+      "688": {
+        "description": "3. Full Name:                                                                                                                      Birthdate:",
+        "type": "string"
+      },
+      "689": {
+        "description": "Poste occup\u00e9 dans l\u2019entreprise :",
+        "type": "string"
+      },
+      "690": {
+        "description": "Position in Company:",
+        "type": "string"
+      },
+      "691": {
+        "description": "Nom complet :      Date de naissance :",
+        "type": "string"
+      },
+      "692": {
+        "description": "Poste occup\u00e9 dans l\u2019entreprise :",
+        "type": "string"
+      },
+      "693": {
+        "description": "2. Full Name:                                                                                                                      Birthdate:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

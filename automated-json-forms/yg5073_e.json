@@ -1,0 +1,371 @@
+{
+  "fields": {
+    "properties": {
+      "225": {
+        "description": "Deep Trench",
+        "type": "boolean"
+      },
+      "226": {
+        "description": "Depths of all elements indicated",
+        "type": "boolean"
+      },
+      "227": {
+        "description": "Page 2 of 5",
+        "type": "string"
+      },
+      "231": {
+        "description": "Recent maintenance:",
+        "type": "string"
+      },
+      "232": {
+        "description": "Date:   Name of service:",
+        "type": "string"
+      },
+      "239": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "240": {
+        "description": "Other (describe)",
+        "type": "string"
+      },
+      "241": {
+        "description": "Provide a sketch of the in-ground soil absorption system, including distances. The following elements must be included:",
+        "type": "boolean"
+      },
+      "242": {
+        "description": "All runs/trenches (location and length)",
+        "type": "boolean"
+      },
+      "257": {
+        "description": "If 2 or more septic tanks are being used, provide details",
+        "type": "string"
+      },
+      "258": {
+        "description": "Total Volume     Working Volume, does not include siphon / pump chamber",
+        "type": "string"
+      },
+      "259": {
+        "description": "Other, describe",
+        "type": "string"
+      },
+      "260": {
+        "description": "If a pump-up system is installed, provide the make and model of the pump:",
+        "type": "string"
+      },
+      "261": {
+        "description": "For Septic Tanks, means of discharging sewage:",
+        "type": "string"
+      },
+      "262": {
+        "description": "No",
+        "type": "string"
+      },
+      "268": {
+        "description": "Provide a line drawing on the previous page, or attach separately, which includes the location of the (check box when",
+        "type": "string"
+      },
+      "270": {
+        "description": "Full System Layout (check one: all measurements are in",
+        "type": "string"
+      },
+      "271": {
+        "description": "feet; or",
+        "type": "boolean"
+      },
+      "272": {
+        "description": "completed):",
+        "type": "string"
+      },
+      "273": {
+        "description": "Lot Dimensions    x",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "water wells;",
+        "type": "boolean"
+      },
+      "275": {
+        "description": "pre-existing or abandoned sewage disposal",
+        "type": "boolean"
+      },
+      "276": {
+        "description": "locations of test holes used for soils investigation(s)",
+        "type": "boolean"
+      },
+      "277": {
+        "description": "water bodies (rivers, streams, lakes, ponds),",
+        "type": "boolean"
+      },
+      "278": {
+        "description": "soil absorption system (absorption bed or trenches);",
+        "type": "boolean"
+      },
+      "279": {
+        "description": "including seasonal high water mark;",
+        "type": "boolean"
+      },
+      "280": {
+        "description": "septic tank;",
+        "type": "boolean"
+      },
+      "281": {
+        "description": "systems; and",
+        "type": "boolean"
+      },
+      "282": {
+        "description": "building(s) which this sewage disposal system",
+        "type": "boolean"
+      },
+      "283": {
+        "description": "will be connected to;",
+        "type": "boolean"
+      },
+      "284": {
+        "description": "and percolation test(s);",
+        "type": "boolean"
+      },
+      "285": {
+        "description": "lot boundaries;",
+        "type": "boolean"
+      },
+      "286": {
+        "description": "water wells and water bodies.",
+        "type": "boolean"
+      },
+      "287": {
+        "description": "Photographic Evidence",
+        "type": "boolean"
+      },
+      "288": {
+        "description": "Photograph showing the entire area of the installed system; include reference points in the photos (background",
+        "type": "boolean"
+      },
+      "289": {
+        "description": "should show a building or other landmark);",
+        "type": "boolean"
+      },
+      "290": {
+        "description": "Photographs of any water body or water wells on property (showing approximate location of system in relation",
+        "type": "boolean"
+      },
+      "293": {
+        "description": "or natural water body",
+        "type": "string"
+      },
+      "294": {
+        "description": "Distance from in-ground soil absorption system to any well (including neighbours):",
+        "type": "string"
+      },
+      "296": {
+        "description": "Not encountered",
+        "type": "string"
+      },
+      "298": {
+        "description": "Was there any indication of a high water table encountered in the test hole?",
+        "type": "string"
+      },
+      "299": {
+        "description": "or natural water body",
+        "type": "string"
+      },
+      "300": {
+        "description": "Set-back Distances (check one: all measurements are in",
+        "type": "string"
+      },
+      "303": {
+        "description": "Declarations",
+        "type": "boolean"
+      },
+      "304": {
+        "description": "All sewage disposal systems or drinking water supplies on the property are shown on the layout diagram on page 3.",
+        "type": "boolean"
+      },
+      "305": {
+        "description": "The set-back distances listed above have been measured and are accurate.",
+        "type": "boolean"
+      },
+      "306": {
+        "description": "All required photographic evidence described above has been collected and attached to this application.",
+        "type": "boolean"
+      },
+      "307": {
+        "description": "associated liability) to notify Environmental Health Services at any sign of failure of the system, including those",
+        "type": "boolean"
+      },
+      "308": {
+        "description": "In accordance with the requirements of the Public Health and Safety Act, Sewage Disposal Systems Regulation, I hereby",
+        "type": "boolean"
+      },
+      "309": {
+        "description": "The sewage disposal system has not shown any signs of failure including, but not limited to: any signs of breakout,",
+        "type": "boolean"
+      },
+      "310": {
+        "description": "I understand that upon failure of the system, replacement will be required to meet the current standard, as described",
+        "type": "boolean"
+      },
+      "311": {
+        "description": "Signature of Owner",
+        "type": "string"
+      },
+      "312": {
+        "description": "Environmental Health Services #2 Hospital Road, Whitehorse, YT  Y1A 3H8",
+        "type": "boolean"
+      },
+      "315": {
+        "description": "Name of Owner (please print)",
+        "type": "string"
+      },
+      "316": {
+        "description": "Phone: 867.667.8391 or 1.800.661.0408 ext. 8391;  Fax: 867.667.8322",
+        "type": "boolean"
+      },
+      "445": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "449": {
+        "description": "E-mail    Fax",
+        "type": "string"
+      },
+      "450": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "451": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "452": {
+        "description": "Property Owner\u2019s Name (if different than applicant\u2019s)",
+        "type": "string"
+      },
+      "453": {
+        "description": "Installer\u2019s Name    Telephone",
+        "type": "string"
+      },
+      "454": {
+        "description": "Business Name",
+        "type": "string"
+      },
+      "455": {
+        "description": "E-mail",
+        "type": "string"
+      },
+      "456": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "457": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "458": {
+        "description": "Municipal Address (if known)",
+        "type": "string"
+      },
+      "459": {
+        "description": "Type of premises",
+        "type": "string"
+      },
+      "460": {
+        "description": "Other, describe",
+        "type": "string"
+      },
+      "461": {
+        "description": "Business, describe",
+        "type": "string"
+      },
+      "462": {
+        "description": "Residence, number of bedrooms",
+        "type": "string"
+      },
+      "463": {
+        "description": "Work Camp, capacity",
+        "type": "string"
+      },
+      "464": {
+        "description": "Estimated Daily Sewage Flow (for residences, 570 L (125 imp. gal) per bedroom)",
+        "type": "string"
+      },
+      "465": {
+        "description": "Legal Description  Lot #              Plan #     Subdivision",
+        "type": "string"
+      },
+      "466": {
+        "description": "inside; or",
+        "type": "string"
+      },
+      "469": {
+        "description": "Water Source",
+        "type": "string"
+      },
+      "471": {
+        "description": "Water Holding Tank,",
+        "type": "string"
+      },
+      "473": {
+        "description": "Surface Water",
+        "type": "string"
+      },
+      "475": {
+        "description": "Other, describe (e.g., spring)",
+        "type": "string"
+      },
+      "476": {
+        "description": "Soil Absorption System",
+        "type": "string"
+      },
+      "477": {
+        "description": "Mailing Address & Postal Code",
+        "type": "boolean"
+      },
+      "478": {
+        "description": "buried",
+        "type": "boolean"
+      },
+      "479": {
+        "description": "The purpose of this application is to collect information about Sewage Disposal Systems installed without a permit before",
+        "type": "boolean"
+      },
+      "480": {
+        "description": "1999. If the information provided below, in addition to the required photographic evidence, is sufficient to demonstrate that",
+        "type": "boolean"
+      },
+      "481": {
+        "description": "Well",
+        "type": "boolean"
+      },
+      "482": {
+        "description": "the Sewage Disposal System does not cause a nuisance as described in section 14 of the Sewage Disposal Systems",
+        "type": "boolean"
+      },
+      "483": {
+        "description": "Type of System (check all that are applicable)",
+        "type": "boolean"
+      },
+      "484": {
+        "description": "Regulation, the health officer may grant you Permission to Retain the system. Any systems installed without a permit after",
+        "type": "boolean"
+      },
+      "485": {
+        "description": "Applicant\u2019s Name    Telephone",
+        "type": "boolean"
+      },
+      "486": {
+        "description": "Septic Tank",
+        "type": "boolean"
+      },
+      "487": {
+        "description": "Sewage Holding Tank",
+        "type": "string"
+      },
+      "488": {
+        "description": "Date of installation of this sewage disposal system",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

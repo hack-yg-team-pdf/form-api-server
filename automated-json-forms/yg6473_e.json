@@ -1,0 +1,355 @@
+{
+  "fields": {
+    "properties": {
+      "243": {
+        "description": "4",
+        "type": "string"
+      },
+      "247": {
+        "description": "DATE OF VISIT",
+        "type": "string"
+      },
+      "249": {
+        "description": "DOCTOR\u2019S NAME AND SPECIALTY",
+        "type": "string"
+      },
+      "250": {
+        "description": "DATE OF VISIT",
+        "type": "string"
+      },
+      "253": {
+        "description": "1",
+        "type": "string"
+      },
+      "254": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "256": {
+        "description": "3",
+        "type": "string"
+      },
+      "261": {
+        "description": "HAVE YOU PAID THE",
+        "type": "string"
+      },
+      "263": {
+        "description": "DATE OF VISIT",
+        "type": "string"
+      },
+      "264": {
+        "description": "5",
+        "type": "string"
+      },
+      "267": {
+        "description": "TYPE OF VISIT",
+        "type": "string"
+      },
+      "272": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "273": {
+        "description": "Y Y Y Y  /  M M  /  D D",
+        "type": "string"
+      },
+      "275": {
+        "description": "DATE OF VISIT",
+        "type": "string"
+      },
+      "276": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "281": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "283": {
+        "description": "HAVE YOU PAID THE",
+        "type": "string"
+      },
+      "286": {
+        "description": "6",
+        "type": "string"
+      },
+      "288": {
+        "description": "TYPE OF VISIT",
+        "type": "string"
+      },
+      "289": {
+        "description": "Y Y Y Y  /  M M  /  D D",
+        "type": "string"
+      },
+      "295": {
+        "description": "AMOUNT PAID \u2013 enclose proof",
+        "type": "string"
+      },
+      "296": {
+        "description": "LABORATORY TESTS (if applicable)",
+        "type": "string"
+      },
+      "297": {
+        "description": "DURATION OF ANAESTHESIA (if applicable)      Hrs  Mins       OR       From  to",
+        "type": "string"
+      },
+      "298": {
+        "description": "$",
+        "type": "string"
+      },
+      "299": {
+        "description": "COUNTRY AND CURRENCY",
+        "type": "string"
+      },
+      "300": {
+        "description": "AMOUNT PAID \u2013 enclose proof",
+        "type": "string"
+      },
+      "301": {
+        "description": "TREATMENT / PROCEDURE",
+        "type": "string"
+      },
+      "302": {
+        "description": "$",
+        "type": "string"
+      },
+      "303": {
+        "description": "6pm\u201311pm",
+        "type": "string"
+      },
+      "304": {
+        "description": "PHYSICIAN INFORMATION FOR EACH ENCOUNTER \u2013 enclose proof of PYMT",
+        "type": "string"
+      },
+      "306": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "307": {
+        "description": "Y Y Y Y  /  M M  /  D D",
+        "type": "string"
+      },
+      "310": {
+        "description": "HAVE YOU PAID THE",
+        "type": "string"
+      },
+      "312": {
+        "description": "TYPE OF VISIT",
+        "type": "string"
+      },
+      "313": {
+        "description": "Y Y Y Y  /  M M  /  D D",
+        "type": "string"
+      },
+      "314": {
+        "description": "DATE OF VISIT",
+        "type": "string"
+      },
+      "327": {
+        "description": "HAVE YOU PAID THE",
+        "type": "string"
+      },
+      "328": {
+        "description": "HAVE YOU PAID THE",
+        "type": "string"
+      },
+      "329": {
+        "description": "Y Y Y Y  /  M M  /  D D",
+        "type": "string"
+      },
+      "330": {
+        "description": "TYPE OF VISIT",
+        "type": "string"
+      },
+      "331": {
+        "description": "Office",
+        "type": "string"
+      },
+      "333": {
+        "description": "COUNTRY AND CURRENCY",
+        "type": "string"
+      },
+      "334": {
+        "description": "DATE OF VISIT",
+        "type": "string"
+      },
+      "335": {
+        "description": "TYPE OF VISIT",
+        "type": "string"
+      },
+      "338": {
+        "description": "HAVE YOU PAID THE",
+        "type": "string"
+      },
+      "339": {
+        "description": "2",
+        "type": "string"
+      },
+      "342": {
+        "description": "SECTION D \u2013 GENERAL INFORMATION",
+        "type": "string"
+      },
+      "343": {
+        "description": "EMERGENCY OUT-OF-COUNTRY MEDICAL TREATMENT",
+        "type": "string"
+      },
+      "345": {
+        "description": "When an eligible Yukon resident is temporarily absent from the territory and must use emergency medical services",
+        "type": "string"
+      },
+      "346": {
+        "description": "DATE OF DISCHARGE",
+        "type": "string"
+      },
+      "347": {
+        "description": "DATE OF ADMISSION",
+        "type": "string"
+      },
+      "348": {
+        "description": "NAME OF HOSPITAL",
+        "type": "string"
+      },
+      "350": {
+        "description": "MAILING ADDRESS OF HOSPITAL",
+        "type": "string"
+      },
+      "351": {
+        "description": "If you require further information, contact Department of Insured Health at:",
+        "type": "boolean"
+      },
+      "352": {
+        "description": "867-667-5209",
+        "type": "boolean"
+      },
+      "359": {
+        "description": "beneficiary\u2019s responsibility.",
+        "type": "string"
+      },
+      "360": {
+        "description": "Y Y Y Y  /  M M  /  D D",
+        "type": "string"
+      },
+      "1072": {
+        "description": "BIRTHDATE",
+        "type": "string"
+      },
+      "1073": {
+        "description": "(home/cell)",
+        "type": "string"
+      },
+      "1076": {
+        "description": "EMAIL ADDRESS",
+        "type": "string"
+      },
+      "1077": {
+        "description": "RELEASE OF INFORMATION",
+        "type": "string"
+      },
+      "1078": {
+        "description": "DO YOU HAVE PRIVATE OR TRAVEL INSURANCE?",
+        "type": "string"
+      },
+      "1079": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "1080": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "1081": {
+        "description": "PROV/TERR",
+        "type": "string"
+      },
+      "1082": {
+        "description": "IF YES, NAME OF COMPANY",
+        "type": "string"
+      },
+      "1083": {
+        "description": "Business trip",
+        "type": "string"
+      },
+      "1084": {
+        "description": "Other (specify):",
+        "type": "string"
+      },
+      "1085": {
+        "description": "Y Y Y Y   /   M M   /   D D",
+        "type": "string"
+      },
+      "1086": {
+        "description": "RETURN DATE TO YUKON",
+        "type": "string"
+      },
+      "1087": {
+        "description": "MAILING ADDRESS",
+        "type": "boolean"
+      },
+      "1089": {
+        "description": "REASON FOR ABSENCE FROM YUKON",
+        "type": "boolean"
+      },
+      "1090": {
+        "description": "Vacation",
+        "type": "boolean"
+      },
+      "1091": {
+        "description": "PHONE NUMBER",
+        "type": "boolean"
+      },
+      "1092": {
+        "description": "(day)",
+        "type": "boolean"
+      },
+      "1093": {
+        "description": "Moved",
+        "type": "boolean"
+      },
+      "1094": {
+        "description": "Student",
+        "type": "string"
+      },
+      "1095": {
+        "description": "DEPARTURE DATE FROM YUKON",
+        "type": "string"
+      },
+      "1096": {
+        "description": "Y Y Y Y   /   M M   /   D D",
+        "type": "string"
+      },
+      "1097": {
+        "description": "I, the patient named above, hereby authorize Out-of-Country Claims, Department of Insured Health, to obtain information",
+        "type": "string"
+      },
+      "1098": {
+        "description": "Obtain medical care",
+        "type": "string"
+      },
+      "1099": {
+        "description": "I, the patient named above, hereby authorize Out-of-Country Claims, Department of Insured Health, to obtain information",
+        "type": "string"
+      },
+      "1100": {
+        "description": "to/from the above named travel insurance or extended health benefits company.",
+        "type": "string"
+      },
+      "1103": {
+        "description": "necessary for the processing of my claim from the Hospital and/or Doctor who provided care.",
+        "type": "string"
+      },
+      "1104": {
+        "description": "DATE SIGNED",
+        "type": "string"
+      },
+      "1105": {
+        "description": "RELATIONSHIP TO PATIENT",
+        "type": "string"
+      },
+      "1106": {
+        "description": "Y Y Y Y   /   M M   /   D D",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

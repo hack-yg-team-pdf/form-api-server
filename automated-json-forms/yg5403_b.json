@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "Certificate Issued",
+        "type": "string"
+      },
+      "42": {
+        "description": "Expiry Date",
+        "type": "string"
+      },
+      "46": {
+        "description": "No",
+        "type": "string"
+      },
+      "47": {
+        "description": "Licence Type",
+        "type": "string"
+      },
+      "49": {
+        "description": "If no, comments:",
+        "type": "string"
+      },
+      "51": {
+        "description": "Approved by Elevator Inspector   Approuv\u00e9 par l'inspecteur des ascenseurs",
+        "type": "boolean"
+      },
+      "53": {
+        "description": "Certificat d\u00e9livr\u00e9",
+        "type": "string"
+      },
+      "54": {
+        "description": "Statut",
+        "type": "string"
+      },
+      "57": {
+        "description": "Registration #",
+        "type": "string"
+      },
+      "58": {
+        "description": "Num\u00e9ro d'enregistrement",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "Date       Nom de l'entreprise",
+        "type": "string"
+      },
+      "135": {
+        "description": "Company Name",
+        "type": "string"
+      },
+      "136": {
+        "description": "Name of Applicant",
+        "type": "string"
+      },
+      "137": {
+        "description": "Courriel",
+        "type": "string"
+      },
+      "138": {
+        "description": "E-mail",
+        "type": "string"
+      },
+      "139": {
+        "description": "T\u00e9l\u00e9phone    Cellulaire    T\u00e9l\u00e9copieur",
+        "type": "string"
+      },
+      "140": {
+        "description": "Phone Number                                         Cell Number                                               Fax Number",
+        "type": "string"
+      },
+      "141": {
+        "description": "Adresse postale",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

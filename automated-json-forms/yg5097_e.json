@@ -1,0 +1,39 @@
+{
+  "fields": {
+    "properties": {
+      "608": {
+        "description": "4.  Home address of applicant:",
+        "type": "string"
+      },
+      "629": {
+        "description": "attendance and degrees or diplomas received:",
+        "type": "string"
+      },
+      "630": {
+        "description": "Institution:                         Location:                          Date of entering:              Date of Graduation:                Degree obtained:",
+        "type": "string"
+      },
+      "631": {
+        "description": "10.   Year you achieved certification with the National Dental Examining Board of Canada:",
+        "type": "string"
+      },
+      "632": {
+        "description": "Personal information contained on this form is collected under the Dental Profession Act and will be used for the purpose of administering the Act. For further",
+        "type": "string"
+      },
+      "633": {
+        "description": "information, contact the Director of Professional Licensing and Regulatory Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "634": {
+        "description": "yyyy",
+        "type": "string"
+      },
+      "635": {
+        "description": "YG(5097EQ)F3 Rev.3/2014",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "1907": {
+        "description": "Trade school physical address \u2022 Adresse municipale de l\u2019\u00e9cole de m\u00e9tier",
+        "type": "string"
+      },
+      "1908": {
+        "description": "Mailing address (if different from above) \u2022 Adresse postale (si diff\u00e9rente de celle ci-dessus) Postal code \u2022 Code postal",
+        "type": "string"
+      },
+      "1909": {
+        "description": "Phone \u2022 T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "1910": {
+        "description": "Postal code \u2022 Code postal",
+        "type": "string"
+      },
+      "1911": {
+        "description": "Email \u2022 Courriel",
+        "type": "string"
+      },
+      "1914": {
+        "description": "Website \u2022 Site Web",
+        "type": "string"
+      },
+      "1915": {
+        "description": "Business classification \u2022 Type d\u2019entreprise",
+        "type": "string"
+      },
+      "1916": {
+        "description": "Legal business name \u2022 Raison sociale de l\u2019entreprise",
+        "type": "string"
+      },
+      "1917": {
+        "description": "Sole proprietorship \u2022 Entreprise \u00e0 propri\u00e9taire unique",
+        "type": "string"
+      },
+      "1918": {
+        "description": "Corporation \u2022 Soci\u00e9t\u00e9 par actions",
+        "type": "string"
+      },
+      "1925": {
+        "description": "Partnership \u2022 Soci\u00e9t\u00e9 de personnes",
+        "type": "string"
+      },
+      "1926": {
+        "description": "YG(6625Q)F5 08/2018",
+        "type": "string"
+      },
+      "1927": {
+        "description": "1Le pr\u00e9sent document a \u00e9t\u00e9 r\u00e9dig\u00e9 sans distinction de genre.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "506": {
+        "description": "pictures as available.",
+        "type": "boolean"
+      },
+      "510": {
+        "description": "D.  Describe plans to decommission the burial pit when it reaches capacity, including the type and amount of",
+        "type": "string"
+      },
+      "511": {
+        "description": "material that will be used to cover the buried waste. All burial pits must be decommissioned in accordance with",
+        "type": "string"
+      },
+      "512": {
+        "description": "guidelines developed by the Environmental Programs Branch.",
+        "type": "string"
+      },
+      "514": {
+        "description": "Make/model #:",
+        "type": "string"
+      },
+      "515": {
+        "description": "PART 2.3 \u2013 BURIAL OF SOLID WASTE ON SITE",
+        "type": "boolean"
+      },
+      "516": {
+        "description": "PART 3.0 \u2013 SPECIAL WASTE",
+        "type": "string"
+      },
+      "520": {
+        "description": "C.  What will be done with the ash generated from incinerating?",
+        "type": "boolean"
+      },
+      "521": {
+        "description": "B.  Provide the following information for the incinerator, if known:",
+        "type": "string"
+      },
+      "522": {
+        "description": "Manufacturer:",
+        "type": "string"
+      },
+      "523": {
+        "description": "Please include, as an attachment, the manufacturer\u2019s specifications for the incinerator, including diagrams and/or",
+        "type": "boolean"
+      },
+      "525": {
+        "description": "Buried onsite: please fill out part 2.3 of this form as well.",
+        "type": "string"
+      },
+      "527": {
+        "description": "A.  Confirm that the proposed solid waste or ash burial site will meet the following setbacks:",
+        "type": "boolean"
+      },
+      "528": {
+        "description": "100 m from the high water mark of any waterway",
+        "type": "boolean"
+      },
+      "543": {
+        "description": "treated onsite",
+        "type": "boolean"
+      },
+      "552": {
+        "description": "Waste gasoline",
+        "type": "string"
+      },
+      "553": {
+        "description": "Transported offsite",
+        "type": "boolean"
+      },
+      "566": {
+        "description": "Waste antifreeze",
+        "type": "string"
+      },
+      "567": {
+        "description": "applicant",
+        "type": "boolean"
+      },
+      "576": {
+        "description": "monthly basis, and whether they will be disposed of or treated on site, or transported to another location.",
+        "type": "boolean"
+      },
+      "577": {
+        "description": "Waste solvents",
+        "type": "string"
+      },
+      "578": {
+        "description": "different person",
+        "type": "boolean"
+      },
+      "582": {
+        "description": "offsite by a",
+        "type": "boolean"
+      },
+      "584": {
+        "description": "Waste diesel fuel",
+        "type": "string"
+      },
+      "585": {
+        "description": "by the permit",
+        "type": "boolean"
+      },
+      "591": {
+        "description": "Disposed or",
+        "type": "boolean"
+      },
+      "592": {
+        "description": "Transported",
+        "type": "boolean"
+      },
+      "594": {
+        "description": "B.  List the types of special wastes that are expected to be generated at the site, the amount generated on a",
+        "type": "boolean"
+      },
+      "595": {
+        "description": "or company",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

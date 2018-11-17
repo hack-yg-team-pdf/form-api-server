@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "59": {
+        "description": "NAME:",
+        "type": "string"
+      },
+      "60": {
+        "description": "NO DE PERMIS:",
+        "type": "string"
+      },
+      "61": {
+        "description": "ADDRESS:",
+        "type": "string"
+      },
+      "62": {
+        "description": "Completion be issued at this time.",
+        "type": "string"
+      },
+      "63": {
+        "description": "Notification \u274f Class 3/4 Operating Plan and of Part",
+        "type": "string"
+      },
+      "64": {
+        "description": "thereunder. I am requesting that a Certificate of",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "II of the Placer Mining Act and the Regulation made",
+        "type": "boolean"
+      },
+      "67": {
+        "description": "demande donc que me soit remise maintenant",
+        "type": "string"
+      },
+      "68": {
+        "description": "une attestation d\u2019ach\u00e8vement des activit\u00e9s.",
+        "type": "boolean"
+      },
+      "69": {
+        "description": "l\u2019extraction de l\u2019or et du r\u00e8glement y aff\u00e9rent. Je",
+        "type": "boolean"
+      },
+      "70": {
+        "description": "Date \u2022 Date",
+        "type": "string"
+      },
+      "71": {
+        "description": "Signed \u2022 Signature",
+        "type": "boolean"
+      },
+      "74": {
+        "description": "Je, ,",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "162": {
+        "description": "Please complete this form to identify the issues with dogs in your community. When we receive the completed form by",
+        "type": "string"
+      },
+      "163": {
+        "description": "Name of Government",
+        "type": "string"
+      },
+      "164": {
+        "description": "Community",
+        "type": "string"
+      },
+      "165": {
+        "description": "Official to Contact",
+        "type": "string"
+      },
+      "166": {
+        "description": "Position of Official",
+        "type": "string"
+      },
+      "167": {
+        "description": "Contact Phone #",
+        "type": "string"
+      },
+      "179": {
+        "description": "those with bylaws) to assist with dog control issues, but will not infringe on or replace local authority at any time.",
+        "type": "string"
+      },
+      "336": {
+        "description": "Note that the Animal Protection Officer and this program have no mandate to directly address nuisance issues related to dogs in",
+        "type": "boolean"
+      },
+      "337": {
+        "description": "communities (noise, defecation, limits on number of animals, etc).  The Animal Protection Officer does not enforce existing bylaws of",
+        "type": "boolean"
+      },
+      "362": {
+        "description": "Email address",
+        "type": "boolean"
+      },
+      "399": {
+        "description": "email (animalhealth@gov.yk.ca) or by fax to 867-393-6263, the Yukon Animal Protection Officer will respond to you to",
+        "type": "boolean"
+      },
+      "401": {
+        "description": "Issue or Concern (check all that apply)",
+        "type": "boolean"
+      },
+      "402": {
+        "description": "People are concerned about the welfare of dogs owned by specific individuals",
+        "type": "boolean"
+      },
+      "403": {
+        "description": "Dogs in community show signs of illness or starvation",
+        "type": "boolean"
+      },
+      "434": {
+        "description": "There is no local veterinary care and community would like to have better service",
+        "type": "boolean"
+      },
+      "443": {
+        "description": "Dogs in heat and male dogs are fighting over them and endangering people",
+        "type": "boolean"
+      },
+      "444": {
+        "description": "Loose wandering dogs in community are fighting with or injuring other pets",
+        "type": "boolean"
+      },
+      "445": {
+        "description": "Dogs or puppies are not being cared for and need to be removed to new homes",
+        "type": "boolean"
+      },
+      "446": {
+        "description": "Too many puppies in the community, more than there are homes for",
+        "type": "boolean"
+      },
+      "447": {
+        "description": "Adult dogs in packs threatening people, aggressive dogs wandering in community",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

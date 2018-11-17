@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "52": {
+        "description": ",I",
+        "type": "string"
+      },
+      "53": {
+        "description": "Je,  domicili\u00e9 au",
+        "type": "string"
+      },
+      "54": {
+        "description": "PROVINCE                           CLASS AND CERTIFICATE NUMBER                           FILE NUMBER",
+        "type": "string"
+      },
+      "55": {
+        "description": "I have had experience as a Welder with the following companies:",
+        "type": "string"
+      },
+      "56": {
+        "description": "This section to be completed only by out of Territory Welders.",
+        "type": "string"
+      },
+      "57": {
+        "description": "C.",
+        "type": "string"
+      },
+      "58": {
+        "description": "Seuls les soudeurs qui viennent de l'ext\u00e9rieur du territoire doivent remplir cette section.",
+        "type": "string"
+      },
+      "59": {
+        "description": "for/durant",
+        "type": "string"
+      },
+      "60": {
+        "description": "of/de",
+        "type": "string"
+      },
+      "61": {
+        "description": "of/de",
+        "type": "string"
+      },
+      "62": {
+        "description": "month/mois",
+        "type": "string"
+      },
+      "63": {
+        "description": "Cellulaire :",
+        "type": "string"
+      },
+      "64": {
+        "description": "of/de",
+        "type": "string"
+      },
+      "65": {
+        "description": "for/durant",
+        "type": "string"
+      },
+      "66": {
+        "description": "T\u00e9l\u00e9phone :",
+        "type": "string"
+      },
+      "67": {
+        "description": "Approved for Examination",
+        "type": "string"
+      },
+      "68": {
+        "description": "for/durant",
+        "type": "string"
+      },
+      "69": {
+        "description": "COMMENTAIRES DE L'INSPECTEUR :",
+        "type": "string"
+      },
+      "70": {
+        "description": "Examen autoris\u00e9",
+        "type": "string"
+      },
+      "71": {
+        "description": "Nota : Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "string"
+      },
+      "72": {
+        "description": "Cell Number:",
+        "type": "string"
+      },
+      "73": {
+        "description": "Phone Number:",
+        "type": "string"
+      },
+      "74": {
+        "description": "INSPECTORS REMARKS:",
+        "type": "string"
+      },
+      "75": {
+        "description": "Date :",
+        "type": "string"
+      },
+      "76": {
+        "description": "Refus\u00e9",
+        "type": "string"
+      },
+      "77": {
+        "description": "Declined",
+        "type": "string"
+      },
+      "80": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "82": {
+        "description": "Inspector (cid:127) Inspecteur",
+        "type": "string"
+      },
+      "83": {
+        "description": "YG(5402Q)F1 Rev.04/2011",
+        "type": "boolean"
+      },
+      "86": {
+        "description": "Signature of Applicant (cid:127) Signature du demandeur",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

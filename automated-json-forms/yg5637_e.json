@@ -1,0 +1,375 @@
+{
+  "fields": {
+    "properties": {
+      "190": {
+        "description": "intended activity on their property.",
+        "type": "boolean"
+      },
+      "194": {
+        "description": "Heating",
+        "type": "boolean"
+      },
+      "195": {
+        "description": "Manufacturing asphalt",
+        "type": "boolean"
+      },
+      "196": {
+        "description": "5. Is the land leased? If so, by whom?",
+        "type": "boolean"
+      },
+      "199": {
+        "description": "Use of fuel with sulphur content in excess of 1.1% for:",
+        "type": "boolean"
+      },
+      "200": {
+        "description": "contaminated soil where the air intake and combustion temperatures may be controlled.",
+        "type": "boolean"
+      },
+      "201": {
+        "description": "Open burning refers to the combustion of material without control of the combustion air or without a stack or",
+        "type": "boolean"
+      },
+      "202": {
+        "description": "4. Who owns the land on which the source of air emissions will be located?",
+        "type": "boolean"
+      },
+      "203": {
+        "description": "Applicants not owning the land on which the source is to be located must include with this application a letter from the landowner authorizing the",
+        "type": "string"
+      },
+      "204": {
+        "description": "6. If the land is within municipal boundaries, describe the zoning of that land (For multiple site locations, list on a",
+        "type": "boolean"
+      },
+      "205": {
+        "description": "separate sheet).",
+        "type": "boolean"
+      },
+      "206": {
+        "description": "Burning of waste by:",
+        "type": "boolean"
+      },
+      "207": {
+        "description": "an adverse effect.",
+        "type": "boolean"
+      },
+      "208": {
+        "description": "Open burning of more than 5 kg/day of solid waste",
+        "type": "boolean"
+      },
+      "209": {
+        "description": "Note:",
+        "type": "boolean"
+      },
+      "210": {
+        "description": "Quarrying, crushing and screening of stone, clay, shale, coal or minerals in an active excavation area covering an",
+        "type": "boolean"
+      },
+      "211": {
+        "description": "same as (1) above, or: (For multiple site locations, list on a separate sheet)",
+        "type": "boolean"
+      },
+      "212": {
+        "description": "Storage or handling of solid, liquid or gaseous materials or substances in a manner that causes or may cause",
+        "type": "boolean"
+      },
+      "213": {
+        "description": "intended activity on their property.",
+        "type": "boolean"
+      },
+      "214": {
+        "description": "soil standard or the matrix numerical soil standard in Schedules 1 and 2 of the Contaminates",
+        "type": "boolean"
+      },
+      "215": {
+        "description": "Demolition of a structure by burning",
+        "type": "boolean"
+      },
+      "216": {
+        "description": "Production/ Exploration of oil and/or natural gas resulting in release of combustion products from flaring or burning",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "Incinerating means combustion in an incinerator, which is equipment used for the burning of waste or",
+        "type": "boolean"
+      },
+      "219": {
+        "description": "Applicants not owning the land on which the source is to be located must include with this application a letter from the landowner authorizing the",
+        "type": "string"
+      },
+      "220": {
+        "description": "Combustion in industrial process",
+        "type": "boolean"
+      },
+      "222": {
+        "description": "conducted for the potential emissions.",
+        "type": "string"
+      },
+      "223": {
+        "description": "10. Provide (as an attachment) a set of plans/drawings of the facility clearly showing the layout of the following",
+        "type": "string"
+      },
+      "224": {
+        "description": "disposal of special waste",
+        "type": "boolean"
+      },
+      "225": {
+        "description": "operation of a commercial dump",
+        "type": "string"
+      },
+      "226": {
+        "description": "Adding scrubber systems",
+        "type": "string"
+      },
+      "227": {
+        "description": "11. Provide (as an attachment) a map or aerial photograph, on a scale of 1:50,000 detailing the location of the",
+        "type": "boolean"
+      },
+      "228": {
+        "description": "Other:",
+        "type": "boolean"
+      },
+      "229": {
+        "description": "Special Waste Regulations",
+        "type": "boolean"
+      },
+      "234": {
+        "description": "Other Regulation:",
+        "type": "boolean"
+      },
+      "235": {
+        "description": "PART 3 - OTHER PERMITS/APPROVALS",
+        "type": "boolean"
+      },
+      "239": {
+        "description": "operation of a solid waste disposal site",
+        "type": "boolean"
+      },
+      "241": {
+        "description": "available, provide results of any stack tests or dispersion modelling that has been",
+        "type": "string"
+      },
+      "243": {
+        "description": "Increasing air flow",
+        "type": "boolean"
+      },
+      "244": {
+        "description": "12. Identify which of the following measures (if any) will be taken to reduce the amount of air emissions",
+        "type": "string"
+      },
+      "245": {
+        "description": "other:",
+        "type": "boolean"
+      },
+      "246": {
+        "description": "\u2022  Directional arrow showing North and the prevailing wind direction(s), and",
+        "type": "string"
+      },
+      "247": {
+        "description": "\u2022  Stack heights,",
+        "type": "string"
+      },
+      "248": {
+        "description": "other:",
+        "type": "boolean"
+      },
+      "249": {
+        "description": "Sorting feedstock (for incinerators and/or burning vessels)",
+        "type": "string"
+      },
+      "250": {
+        "description": "Page 3 of 4",
+        "type": "string"
+      },
+      "251": {
+        "description": "Provide manufacturer\u2019s specifications (as an attachment) for any emissions control equipment to be used, if available.",
+        "type": "boolean"
+      },
+      "252": {
+        "description": "9. Describe the type and quantity of the contaminants that may be released into the air. If",
+        "type": "string"
+      },
+      "253": {
+        "description": "7. Have you applied for another permit(s) under Yukon\u2019s Environment Act regulations:",
+        "type": "boolean"
+      },
+      "254": {
+        "description": "\u2022  The location of relevant process equipment,",
+        "type": "string"
+      },
+      "255": {
+        "description": "\u2022  The point or points of discharge to the atmosphere,",
+        "type": "string"
+      },
+      "256": {
+        "description": "Controlling the combustion temperature",
+        "type": "boolean"
+      },
+      "257": {
+        "description": "Yes: YESAA Project Number:",
+        "type": "string"
+      },
+      "261": {
+        "description": "8. Is your project subject to review under the Yukon Environmental & Socio-economic Assessment Act (YESAA)?",
+        "type": "string"
+      },
+      "262": {
+        "description": "facility, homes, buildings, roads and other adjacent facilities within a five kilometre radius of the source(s).",
+        "type": "boolean"
+      },
+      "264": {
+        "description": "\u2022  Building dimensions,",
+        "type": "string"
+      },
+      "265": {
+        "description": "released from the facility and/or the concentrations of contaminants in the air emissions.",
+        "type": "string"
+      },
+      "266": {
+        "description": "Burning cleaner fuels (i.e. natural gas instead of oil)",
+        "type": "string"
+      },
+      "270": {
+        "description": "as they apply:",
+        "type": "string"
+      },
+      "271": {
+        "description": "13. Provide a description of any measures to be taken to mitigate the effects of the release of air contaminants",
+        "type": "string"
+      },
+      "272": {
+        "description": "produce emissions.",
+        "type": "string"
+      },
+      "273": {
+        "description": "16. List staff certified to observe opacity (if any):",
+        "type": "string"
+      },
+      "278": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "284": {
+        "description": "knowledge.",
+        "type": "string"
+      },
+      "285": {
+        "description": "that the information provided on this application form is correct and complete to the best of my",
+        "type": "string"
+      },
+      "296": {
+        "description": "frequency, action levels and responses, and any other relevant information.",
+        "type": "string"
+      },
+      "297": {
+        "description": "Name of Staff",
+        "type": "string"
+      },
+      "300": {
+        "description": "contaminants into the air at the point(s) of release. Include information on contaminants monitored, monitoring",
+        "type": "string"
+      },
+      "301": {
+        "description": "15. Attach the manufacturer\u2019s specifications for any equipment which has the potential to",
+        "type": "string"
+      },
+      "303": {
+        "description": "All attachments and site-specific information comprise part of this application.",
+        "type": "string"
+      },
+      "304": {
+        "description": "Signature of Applicant",
+        "type": "string"
+      },
+      "305": {
+        "description": "I,  [print name clearly], am the authorized representative of",
+        "type": "string"
+      },
+      "306": {
+        "description": "[business person responsible for source or activity], and I certify",
+        "type": "string"
+      },
+      "309": {
+        "description": "This information is being collected under the authority of Section 11 of the Air Emissions Regulation. For further",
+        "type": "string"
+      },
+      "310": {
+        "description": "information, contact the Environmental Programs Branch at (867) 667-5683 or toll free at 1-800-661-0408",
+        "type": "string"
+      },
+      "311": {
+        "description": "14. Provide a description of any equipment or devices the applicant intends to use to monitor the release of",
+        "type": "string"
+      },
+      "312": {
+        "description": "on the surrounding environment such as only burning solid waste when the wind direction will move smoke away",
+        "type": "string"
+      },
+      "313": {
+        "description": "Training Institution",
+        "type": "string"
+      },
+      "314": {
+        "description": "Date Last Trained",
+        "type": "string"
+      },
+      "315": {
+        "description": "Page 4 of 4",
+        "type": "boolean"
+      },
+      "316": {
+        "description": "extension 5683.",
+        "type": "string"
+      },
+      "317": {
+        "description": "No. of attachments",
+        "type": "string"
+      },
+      "363": {
+        "description": "1. Name and address of applicant",
+        "type": "string"
+      },
+      "367": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "369": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "371": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "372": {
+        "description": "Name (person or business) to appear on permit",
+        "type": "string"
+      },
+      "373": {
+        "description": "same as (1) above, or: (For multiple site locations, list on a separate sheet)",
+        "type": "boolean"
+      },
+      "375": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "377": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "379": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "381": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "383": {
+        "description": "same as (1) above, or: (For multiple site locations, list on a separate sheet)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "52": {
+        "description": "DATE:",
+        "type": "string"
+      },
+      "53": {
+        "description": "Adresse :",
+        "type": "string"
+      },
+      "54": {
+        "description": "Phone Number:",
+        "type": "string"
+      },
+      "55": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "56": {
+        "description": "Nom :",
+        "type": "string"
+      },
+      "61": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "62": {
+        "description": "Please provide your name, address, and phone number so that we can contact you about your suggestion.",
+        "type": "string"
+      },
+      "63": {
+        "description": "How often do you purchase this similar product?",
+        "type": "string"
+      },
+      "64": {
+        "description": "What similar product(s) do you currently purchase from our stores?",
+        "type": "string"
+      },
+      "65": {
+        "description": "If we stock this product, how often do you intend to purchase it?",
+        "type": "string"
+      },
+      "66": {
+        "description": "Would occasional offerings of this product suffice or do you want to be able to buy this frequently?",
+        "type": "string"
+      },
+      "67": {
+        "description": "Format :    \u00c9tiquette jointe :              OUI               NON",
+        "type": "string"
+      },
+      "68": {
+        "description": "Type :   Code du produit :",
+        "type": "string"
+      },
+      "69": {
+        "description": "Product Name:",
+        "type": "string"
+      },
+      "70": {
+        "description": "Nom du produit :",
+        "type": "boolean"
+      },
+      "73": {
+        "description": "Type:                                                                                                          Product Code",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

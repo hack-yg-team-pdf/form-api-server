@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "74": {
+        "description": "1. Name of Applicant:                                                                                                                                          Licence Number:",
+        "type": "string"
+      },
+      "75": {
+        "description": "Nom du demandeur1:  Num\u00e9ro de licence :",
+        "type": "string"
+      },
+      "76": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "77": {
+        "description": "Province/Territory \u2022 Province/territoire",
+        "type": "string"
+      },
+      "78": {
+        "description": "Postal code \u2022 Code postal",
+        "type": "string"
+      },
+      "79": {
+        "description": "2.  Representing:",
+        "type": "string"
+      },
+      "80": {
+        "description": "3. Business telephone:                                                                Residence telephone:",
+        "type": "string"
+      },
+      "81": {
+        "description": "T\u00e9l\u00e9phone au bureau : T\u00e9l\u00e9phone \u00e0 la maison :",
+        "type": "string"
+      },
+      "82": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "83": {
+        "description": "Est-ce que vous ou l\u2019un des administrateurs, associ\u00e9s ou dirigeants de l\u2019entreprise, de la soci\u00e9t\u00e9 de personnes ou de la soci\u00e9t\u00e9 par actions, selon le",
+        "type": "string"
+      },
+      "84": {
+        "description": "\u00e9t\u00e9 impliqu\u00e9 dans une proc\u00e9dure de faillite ou des proc\u00e9dures devant un tribunal civil dans quelque r\u00e9gion administrative que ce soit? Si oui,",
+        "type": "string"
+      },
+      "85": {
+        "description": "\u2022  \u2022",
+        "type": "string"
+      },
+      "86": {
+        "description": "DECLARATION OF APPLICANT \u2022 D\u00c9CLARATION DU DEMANDEUR",
+        "type": "string"
+      },
+      "87": {
+        "description": "Signature of Applicant \u2022 Signature du demandeur",
+        "type": "string"
+      },
+      "88": {
+        "description": "I hereby certify that the foregoing statements are true and correct to the best of my knowledge. I hereby undertake to notify the Yukon Superintendent",
+        "type": "string"
+      },
+      "89": {
+        "description": "of Insurance in writing of any material change. Je certifie que les renseignements fournis ci-dessus sont, \u00e0 ma connaissance, vrais et exacts. Si des",
+        "type": "string"
+      },
+      "90": {
+        "description": "changements devaient \u00eatre apport\u00e9s \u00e0 mon dossier, je m\u2019engage \u00e0 en informer par \u00e9crit le surintendant des assurances.",
+        "type": "string"
+      },
+      "91": {
+        "description": "Dated at ,                                                                                                        this                         day of                                                            , 20",
+        "type": "string"
+      },
+      "95": {
+        "description": "Fees:                      Resident",
+        "type": "boolean"
+      },
+      "96": {
+        "description": "\u2610   Autres associ\u00e9s / employ\u00e9s 20 $",
+        "type": "boolean"
+      },
+      "97": {
+        "description": "\u2610   Autres associ\u00e9s / employ\u00e9s 10 $",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "First\tPartner\tor\tDesignated\tOfficer\t$150.00",
+        "type": "boolean"
+      },
+      "99": {
+        "description": "\u2610   Premier associ\u00e9 ou agent d\u00e9sign\u00e9 75 $",
+        "type": "string"
+      },
+      "100": {
+        "description": "\u2610   Non-r\u00e9sident",
+        "type": "string"
+      },
+      "101": {
+        "description": "1Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "boolean"
+      },
+      "104": {
+        "description": "Les renseignements personnels fournis dans les pr\u00e9sentes sont recueillis en vertu de la Loi sur les",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

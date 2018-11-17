@@ -1,0 +1,231 @@
+{
+  "fields": {
+    "properties": {
+      "121": {
+        "description": "outside:",
+        "type": "string"
+      },
+      "125": {
+        "description": "(b)\t Bank Account Number:",
+        "type": "string"
+      },
+      "126": {
+        "description": ")",
+        "type": "string"
+      },
+      "127": {
+        "description": "to / \u00e0",
+        "type": "string"
+      },
+      "128": {
+        "description": "Wheels of Fortune:",
+        "type": "string"
+      },
+      "129": {
+        "description": "Heures d\u2019exploitation Date",
+        "type": "string"
+      },
+      "133": {
+        "description": "inside:",
+        "type": "string"
+      },
+      "134": {
+        "description": ")",
+        "type": "string"
+      },
+      "135": {
+        "description": "to / \u00e0",
+        "type": "string"
+      },
+      "136": {
+        "description": ")",
+        "type": "string"
+      },
+      "137": {
+        "description": "7.\t Other proposed expenditures in connection with casino:",
+        "type": "string"
+      },
+      "138": {
+        "description": "Unalterable betting limits:",
+        "type": "string"
+      },
+      "140": {
+        "description": ")",
+        "type": "string"
+      },
+      "144": {
+        "description": "Mises maximales fixes :",
+        "type": "string"
+      },
+      "145": {
+        "description": "\u00e0 l\u2019int\u00e9rieur :",
+        "type": "string"
+      },
+      "148": {
+        "description": "(a)\t Name and address of financial institution (bank):",
+        "type": "string"
+      },
+      "150": {
+        "description": "jusqu\u2019\u00e0 un maximum de :",
+        "type": "string"
+      },
+      "153": {
+        "description": "* If any proceeds are to be used for travel, please attach completed travel form.",
+        "type": "string"
+      },
+      "155": {
+        "description": "Roulette:",
+        "type": "string"
+      },
+      "160": {
+        "description": "Date",
+        "type": "string"
+      },
+      "161": {
+        "description": "Blackjack :",
+        "type": "string"
+      },
+      "164": {
+        "description": "Num\u00e9ro du compte de banque :",
+        "type": "string"
+      },
+      "166": {
+        "description": "to/\u00e0",
+        "type": "string"
+      },
+      "169": {
+        "description": "Nombre de jeux:",
+        "type": "string"
+      },
+      "171": {
+        "description": "Num\u00e9ro de t\u00e9l\u00e9copieur",
+        "type": "string"
+      },
+      "172": {
+        "description": "Please\tcontact\tProfessional\tLicensing\tand\tRegulatory\tAffairs\tat\t867-667-5111\tor\tfax\t867-667-3609\tor\te-mail\tPLRA@gov.yk.ca\tfor\tinquiries.",
+        "type": "boolean"
+      },
+      "177": {
+        "description": "Joignez \u00e0 la demande les documents suivants :",
+        "type": "string"
+      },
+      "178": {
+        "description": "Fax\tnumber",
+        "type": "string"
+      },
+      "179": {
+        "description": "Residence\tPhone\t\t\t\t\t\t\t\t\t\t\t\t\tBusiness\tPhone\tFax\tnumber\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFax\tNumber",
+        "type": "string"
+      },
+      "180": {
+        "description": "Tr\u00e9sorier - EN LETTRES MOUL\u00c9ES S.V.P.",
+        "type": "string"
+      },
+      "183": {
+        "description": "T\u00e9l\u00e9phone au bureau",
+        "type": "string"
+      },
+      "185": {
+        "description": "T\u00e9l\u00e9phone \u00e0 domicile",
+        "type": "string"
+      },
+      "186": {
+        "description": "Residence\tPhone",
+        "type": "string"
+      },
+      "189": {
+        "description": "T\u00e9l\u00e9phone \u00e0 domicile       T\u00e9l\u00e9phone au bureau",
+        "type": "boolean"
+      },
+      "191": {
+        "description": "Address\t\u2022\tAdresse",
+        "type": "string"
+      },
+      "192": {
+        "description": "Application\tmust\tbe\taccompanied\tby:",
+        "type": "string"
+      },
+      "193": {
+        "description": "President\t\u2022\tPLEASE\tPRINT",
+        "type": "string"
+      },
+      "194": {
+        "description": "Business\tPhone",
+        "type": "string"
+      },
+      "198": {
+        "description": "3.",
+        "type": "boolean"
+      },
+      "199": {
+        "description": "Mail\tLicence\tto",
+        "type": "boolean"
+      },
+      "205": {
+        "description": "\u2610Copy\tof\tmotion\tauthorizing\tapplication\t\u2022\tCopie de la motion autorisant la demande",
+        "type": "boolean"
+      },
+      "206": {
+        "description": "1.",
+        "type": "boolean"
+      },
+      "207": {
+        "description": "Address",
+        "type": "string"
+      },
+      "213": {
+        "description": "Name",
+        "type": "string"
+      },
+      "214": {
+        "description": "Si vous avez des questions, veuillez communiquer avec les Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires : par t\u00e9l\u00e9phone, au 867-667-5111;",
+        "type": "boolean"
+      },
+      "884": {
+        "description": "1.\t Organizations\u2019s\tname\tand\taddress",
+        "type": "string"
+      },
+      "885": {
+        "description": "Num\u00e9ro d\u2019enregistrement   En r\u00e8gle jusqu\u2019en",
+        "type": "string"
+      },
+      "886": {
+        "description": "registraire des soci\u00e9t\u00e9s.",
+        "type": "string"
+      },
+      "887": {
+        "description": "Number\tof\tmembers",
+        "type": "string"
+      },
+      "888": {
+        "description": "*\tNOTE:\tAll\tapplicants\tmust\tbe\tincorporated\tunder\tthe\tSocieties\tAct\tand\tmust\tbe\tin\tgood\tstanding\twith\tthe\tRegistrar\tof\tSocieties.",
+        "type": "string"
+      },
+      "889": {
+        "description": "* NOTA : Tous les requ\u00e9rants doivent \u00eatre constitu\u00e9s en soci\u00e9t\u00e9 en vertu de la Loi\tsur\tles\tsoci\u00e9t\u00e9s et doivent \u00eatre en r\u00e8gle avec le",
+        "type": "string"
+      },
+      "890": {
+        "description": "D\u00e9crivez bri\u00e8vement les activit\u00e9s et les ant\u00e9c\u00e9dents de l\u2019organisme.",
+        "type": "string"
+      },
+      "891": {
+        "description": "Nom et adresse de l\u2019endroit o\u00f9 le casino aura lieu (si l\u2019endroit n\u2019appartient pas \u00e0 l\u2019organisme, fournissez une copie de l\u2019entente de",
+        "type": "string"
+      },
+      "892": {
+        "description": "Rate\tper\tday:",
+        "type": "string"
+      },
+      "893": {
+        "description": "5.\t Gaming\tEquipment",
+        "type": "string"
+      },
+      "894": {
+        "description": "Nom du propri\u00e9taire de l\u2019\u00e9quipement (si diff\u00e9rent du fournisseur) :",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

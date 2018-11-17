@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "Municipality",
+        "type": "string"
+      },
+      "42": {
+        "description": "Number of ballot papers received",
+        "type": "string"
+      },
+      "43": {
+        "description": "Ballots counted as valid \u2022 Bulletins valides",
+        "type": "string"
+      },
+      "44": {
+        "description": "Ballots counted as valid to which objection has been made",
+        "type": "string"
+      },
+      "45": {
+        "description": "Bulletins valides faisant l\u2019objet d\u2019une opposition",
+        "type": "string"
+      },
+      "46": {
+        "description": "Ballots rejected \u2022 Bulletins rejet\u00e9s",
+        "type": "string"
+      },
+      "47": {
+        "description": "Ballot papers unused or spoiled \u2022 Bulletins inutilis\u00e9s ou d\u00e9t\u00e9rior\u00e9s",
+        "type": "string"
+      },
+      "48": {
+        "description": "TOTAL",
+        "type": "string"
+      },
+      "49": {
+        "description": "Given under my hand this               day of                                                      at                                          in the Yukon Territory.",
+        "type": "string"
+      },
+      "50": {
+        "description": "Donn\u00e9 sous mon seing ce  jour de/d\u2019  20, \u00e0  (Yukon).",
+        "type": "string"
+      },
+      "51": {
+        "description": "Directeur du scrutin ou scrutateur",
+        "type": "string"
+      },
+      "52": {
+        "description": "X",
+        "type": "string"
+      },
+      "53": {
+        "description": "Returning officer or deputy returning officer",
+        "type": "string"
+      },
+      "54": {
+        "description": "Le pr\u00e9sent document a \u00e9t\u00e9 r\u00e9dig\u00e9 sans distinction de genre.",
+        "type": "string"
+      },
+      "55": {
+        "description": "YG(4443Q)F1 Rev.07/2018",
+        "type": "string"
+      },
+      "57": {
+        "description": "(  )",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

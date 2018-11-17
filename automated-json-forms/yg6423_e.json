@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "83": {
+        "description": "Dated this  day of  , 20  .",
+        "type": "string"
+      },
+      "84": {
+        "description": "and applicants for or the holders of the trapping concession for trapping concession area # .",
+        "type": "string"
+      },
+      "85": {
+        "description": "We, the undersigned, are the members of the  trapping group,",
+        "type": "string"
+      },
+      "86": {
+        "description": "We declare that all individuals listed as group members below were added to this list with the consent of all other members.",
+        "type": "string"
+      },
+      "87": {
+        "description": "NAME OF GROUP",
+        "type": "string"
+      },
+      "88": {
+        "description": "on behalf of the group, including registration renewal and providing requests for any assistant trapper licences. The",
+        "type": "string"
+      },
+      "89": {
+        "description": "be responsible for all correspondence and administration regarding trapping concession area #",
+        "type": "string"
+      },
+      "90": {
+        "description": "SPOKESPERSON",
+        "type": "string"
+      },
+      "91": {
+        "description": "Email address",
+        "type": "string"
+      },
+      "92": {
+        "description": "Phone #       Date of birth",
+        "type": "string"
+      },
+      "93": {
+        "description": "DECLARATION: As spokesperson, I declare that all of the group member signatures below were collected from the actual group",
+        "type": "string"
+      },
+      "94": {
+        "description": "members on the date indicated, and that all group members were added to this list with the consent of all other members.",
+        "type": "string"
+      },
+      "95": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the administration",
+        "type": "string"
+      },
+      "96": {
+        "description": "mation, contact the ATIPP Coordinator, Yukon Department of Environment, Box 2703, Whitehorse, Yukon, Y1A 2C6, (867) 667-5652 or 1-800-661-0408 ext. 5652 within Yukon.",
+        "type": "string"
+      },
+      "97": {
+        "description": "and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection of your infor-",
+        "type": "string"
+      },
+      "98": {
+        "description": "YG(6423EQ)F1 Rev.10/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

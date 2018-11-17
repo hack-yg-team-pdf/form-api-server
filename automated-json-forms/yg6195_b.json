@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "39": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "42": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "45": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "46": {
+        "description": "Signature of partner or individual signing for the partner",
+        "type": "string"
+      },
+      "47": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "48": {
+        "description": "D",
+        "type": "string"
+      },
+      "52": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "56": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "57": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "930": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "931": {
+        "description": "3.  Date of dissolution / Date de dissolution :",
+        "type": "string"
+      },
+      "932": {
+        "description": "d\u2019enregistrement au Yukon et le nom et le titre de chaque particulier qui signe au nom de l\u2019associ\u00e9:",
+        "type": "string"
+      },
+      "933": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "934": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "935": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "936": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "937": {
+        "description": "A",
+        "type": "string"
+      },
+      "938": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "939": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "940": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "941": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "942": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "943": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "944": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "945": {
+        "description": "Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "946": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "947": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "948": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "949": {
+        "description": "C",
+        "type": "string"
+      },
+      "950": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "My child  has already passed the hearing screening at the",
+        "type": "string"
+      },
+      "42": {
+        "description": "I consent to my child  having a hearing screening at his/her school.",
+        "type": "string"
+      },
+      "43": {
+        "description": "Parent/guardian phone number:     Name of child\u2019s teacher:",
+        "type": "string"
+      },
+      "44": {
+        "description": "Phone: 867-667-5913 \u2022 Fax: 867-667-5922",
+        "type": "string"
+      },
+      "45": {
+        "description": "Hearing Services",
+        "type": "string"
+      },
+      "46": {
+        "description": "Information contained in this form is collected, used and disclosed in accordance with Yukon\u2019s Health Information Privacy and Management Act and",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "other applicable laws. A written statement of Health and Social Services information practices can viewed at www.hss.gov.yk.ca/healthprivacy.php or",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

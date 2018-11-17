@@ -1,0 +1,39 @@
+{
+  "fields": {
+    "properties": {
+      "957": {
+        "description": "Present Employment:",
+        "type": "string"
+      },
+      "958": {
+        "description": "Emploi actuel :",
+        "type": "string"
+      },
+      "959": {
+        "description": "within\tYukon\t1-800-661-0408,\text.\t5111.",
+        "type": "string"
+      },
+      "960": {
+        "description": "YG(5123Q)F4 Rev. 11/2013",
+        "type": "string"
+      },
+      "961": {
+        "description": "Personal information contained on this form is collected under the Insurance",
+        "type": "string"
+      },
+      "962": {
+        "description": "Act and will be used for the purpose of administering the Act. For further in-",
+        "type": "string"
+      },
+      "963": {
+        "description": "formation, contact the Superintendent of Insurance at (867) 667-5111, toll free",
+        "type": "string"
+      },
+      "964": {
+        "description": "communiquant avec la directrice des Services aux consommateurs au",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

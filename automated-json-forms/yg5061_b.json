@@ -1,0 +1,247 @@
+{
+  "fields": {
+    "properties": {
+      "77": {
+        "description": "\u00e9ch\u00e9ant)",
+        "type": "string"
+      },
+      "79": {
+        "description": "5.\t Certified\tcopy\tof\tlicence\tfrom\tthe\tjurisdictions\tI\tam",
+        "type": "string"
+      },
+      "80": {
+        "description": "o\u00f9 je suis actuellement autoris\u00e9 \u00e0 exercer",
+        "type": "string"
+      },
+      "81": {
+        "description": "I,",
+        "type": "string"
+      },
+      "82": {
+        "description": "m\u2019autorisant \u00e0 r\u00e9sider et \u00e0 travailler au Canada",
+        "type": "string"
+      },
+      "85": {
+        "description": "Nom au long en lettres d\u00e9tach\u00e9es",
+        "type": "string"
+      },
+      "86": {
+        "description": "Yukon conform\u00e9ment \u00e0 la Loi sur les pharmaciens.",
+        "type": "string"
+      },
+      "93": {
+        "description": "Please\tmake\tyour\tcheque\tpayable\tto\tGovernment\tof\tYukon,\tor,\tcomplete\tpayment\tinformation\tform",
+        "type": "string"
+      },
+      "94": {
+        "description": "7.\t A\tcertified\tcopy\tof\tthe\tdocument(s)\twhich\tlegally\tentitle",
+        "type": "string"
+      },
+      "95": {
+        "description": "Yukon\tin\taccordance\twith\tthe\tPharmacists Act.",
+        "type": "string"
+      },
+      "96": {
+        "description": "Signature\tof\tApplicant\t\u2022\tSignature du demandeur",
+        "type": "string"
+      },
+      "97": {
+        "description": "7.  Copie certif\u00e9e conforme de tous les documents",
+        "type": "string"
+      },
+      "99": {
+        "description": "Je soussign\u00e9,",
+        "type": "string"
+      },
+      "102": {
+        "description": "le formulaire d\u2019informations de paiement YG5924 \u00e0: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "103": {
+        "description": "have\tmost\trecently\tpractised.",
+        "type": "string"
+      },
+      "104": {
+        "description": "Print name in full",
+        "type": "string"
+      },
+      "105": {
+        "description": "hereby\tmake\tapplication\tfor\tregistration\tand\tlicensure\twith",
+        "type": "string"
+      },
+      "106": {
+        "description": "registre et m\u2019accorde une licence m\u2019autorisant \u00e0 exercer au",
+        "type": "string"
+      },
+      "107": {
+        "description": "6.  Lettre attestant que je suis en r\u00e8gle dans la r\u00e8gion admin-",
+        "type": "string"
+      },
+      "108": {
+        "description": "demande par les pr\u00e9sentes qu\u2019on insecrive mon nom au",
+        "type": "string"
+      },
+      "109": {
+        "description": "istrative o\u00fa j\u2019\u00e9tais en exercice tout r\u00e9cemment",
+        "type": "string"
+      },
+      "110": {
+        "description": "autorit\u00e9s responsables dans les r\u00e9gions administratives",
+        "type": "string"
+      },
+      "111": {
+        "description": ",",
+        "type": "string"
+      },
+      "112": {
+        "description": "me\tto\treside\tand\twork\tin\tCanada.",
+        "type": "string"
+      },
+      "115": {
+        "description": "6.\t A\tletter\tof\tstanding\tfrom\tthe\tprovince\tin\twhich\tI",
+        "type": "string"
+      },
+      "116": {
+        "description": "with\tYukon,\tI",
+        "type": "string"
+      },
+      "117": {
+        "description": "Declared before me at",
+        "type": "string"
+      },
+      "118": {
+        "description": "this",
+        "type": "string"
+      },
+      "119": {
+        "description": "territory\tof",
+        "type": "string"
+      },
+      "124": {
+        "description": "Applicant\t\u2022\tPLEASE\tPRINT",
+        "type": "string"
+      },
+      "125": {
+        "description": "in the province/",
+        "type": "string"
+      },
+      "126": {
+        "description": "of",
+        "type": "string"
+      },
+      "130": {
+        "description": "Signature\tof\tNotary\tPublic\t\u2022\tSignature du notaire public",
+        "type": "string"
+      },
+      "131": {
+        "description": "Signature\tof\tApplicant\t\u2022\tSignature du demandeur",
+        "type": "string"
+      },
+      "132": {
+        "description": "ce  jour de   20",
+        "type": "string"
+      },
+      "134": {
+        "description": "territoire :",
+        "type": "string"
+      },
+      "135": {
+        "description": "in",
+        "type": "string"
+      },
+      "136": {
+        "description": "de  province/",
+        "type": "string"
+      },
+      "137": {
+        "description": "au Yukon, je",
+        "type": "string"
+      },
+      "140": {
+        "description": "Nom du notaire public (EN LETTRES D\u00c9TACH\u00c9ES)",
+        "type": "boolean"
+      },
+      "142": {
+        "description": "Nom du demandeur (EN LETTRES D\u00c9TACH\u00c9ES)",
+        "type": "boolean"
+      },
+      "761": {
+        "description": "1.  Name of applicant:",
+        "type": "string"
+      },
+      "762": {
+        "description": "2.  Maiden name (if applicable):",
+        "type": "string"
+      },
+      "763": {
+        "description": "Date de naissance  Lieu de naissance",
+        "type": "string"
+      },
+      "764": {
+        "description": "Nom commercial :",
+        "type": "string"
+      },
+      "765": {
+        "description": "4.  Business name",
+        "type": "string"
+      },
+      "767": {
+        "description": "6.\t Mailing\tAddress",
+        "type": "string"
+      },
+      "768": {
+        "description": "Province/Territory\t\u2022\tProvince/Territoire                      Postal\tcode\t\u2022\tCode postal                    Business\ttelephone\tnumber\t\u2022\tNum\u00e9ro de t\u00e9l\u00e9phone au bureau",
+        "type": "string"
+      },
+      "769": {
+        "description": "Addresse postale :",
+        "type": "string"
+      },
+      "771": {
+        "description": "7.",
+        "type": "string"
+      },
+      "772": {
+        "description": "Province/Territory\t\u2022\tProvince/Territoire                      Postal\tcode\t\u2022\tCode postal                    Business\ttelephone\tnumber\t\u2022\tNum\u00e9ro de t\u00e9l\u00e9phone au bureau",
+        "type": "string"
+      },
+      "773": {
+        "description": "Je compte exercer \u00e0",
+        "type": "string"
+      },
+      "774": {
+        "description": "I expect to practice in",
+        "type": "string"
+      },
+      "775": {
+        "description": "starting on",
+        "type": "string"
+      },
+      "779": {
+        "description": "Dans l\u2019affirmative, indiquez la r\u00e9gion administrative.",
+        "type": "string"
+      },
+      "780": {
+        "description": "10.\t (a)\t Have\tyou\tever\tbeen\tthe\tsubject\tof\tan\tinquiry?",
+        "type": "string"
+      },
+      "781": {
+        "description": "(b)\t If\tyes,\tstate\tfacts",
+        "type": "string"
+      },
+      "782": {
+        "description": "Avez-vous d\u00e9j\u00e0 fait l\u2019objet d\u2019une enqu\u00eate?                                                                                      \u2610Yes/Oui        \u2610No/Non",
+        "type": "string"
+      },
+      "785": {
+        "description": "11.\t (a)\t Have\tyou\tever\tbeen\tconvicted\tor\tindicted\tfor\tany\tcrime?",
+        "type": "string"
+      },
+      "788": {
+        "description": "Dans l\u2019affirmative, expliquez.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

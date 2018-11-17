@@ -1,0 +1,231 @@
+{
+  "fields": {
+    "properties": {
+      "94": {
+        "description": "social priorities.",
+        "type": "string"
+      },
+      "98": {
+        "description": "Position Title",
+        "type": "boolean"
+      },
+      "99": {
+        "description": "Occupational/Skills Shortages",
+        "type": "boolean"
+      },
+      "101": {
+        "description": "Number of full time employees Business License #",
+        "type": "boolean"
+      },
+      "102": {
+        "description": "Name of Supervisor/Contact",
+        "type": "string"
+      },
+      "103": {
+        "description": "Employer Type:",
+        "type": "string"
+      },
+      "107": {
+        "description": "No      (If Yes, attach Union concurrence with this application)",
+        "type": "boolean"
+      },
+      "108": {
+        "description": "Business/Organization licensed in Yukon",
+        "type": "string"
+      },
+      "109": {
+        "description": "YG(6531EQ)F6 02/2018",
+        "type": "string"
+      },
+      "110": {
+        "description": "SECTION ONE \u2013 EMPLOYER INFORMATION",
+        "type": "string"
+      },
+      "111": {
+        "description": "SECTION TWO \u2013 POSITION INFORMATION",
+        "type": "string"
+      },
+      "114": {
+        "description": "Environment",
+        "type": "boolean"
+      },
+      "116": {
+        "description": "Please choose one (or more) of the following social priorities and describe how the position will address the chosen",
+        "type": "string"
+      },
+      "117": {
+        "description": "Physical address (if different than mailing address)",
+        "type": "string"
+      },
+      "118": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "120": {
+        "description": "Territory",
+        "type": "string"
+      },
+      "121": {
+        "description": "Society License #",
+        "type": "boolean"
+      },
+      "124": {
+        "description": "Y Y Y Y/ M M",
+        "type": "string"
+      },
+      "126": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "127": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "128": {
+        "description": "Is there a union at the worksite?",
+        "type": "string"
+      },
+      "130": {
+        "description": "Youth at Risk",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "Non Profit",
+        "type": "string"
+      },
+      "142": {
+        "description": "Workers Compensation #",
+        "type": "string"
+      },
+      "144": {
+        "description": "Literacy",
+        "type": "boolean"
+      },
+      "145": {
+        "description": "Main service of your business",
+        "type": "string"
+      },
+      "146": {
+        "description": "Community Benefit",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "DO NOT include/attach a multi-page job description, as it will not be considered a part of the application.",
+        "type": "string"
+      },
+      "148": {
+        "description": "How will the position be supervised?",
+        "type": "string"
+      },
+      "149": {
+        "description": "Page 4 of 6",
+        "type": "string"
+      },
+      "150": {
+        "description": "What knowledge and skills will be learned on the job?",
+        "type": "string"
+      },
+      "151": {
+        "description": "Could this position be offered without funding?  If no, please explain.",
+        "type": "string"
+      },
+      "152": {
+        "description": "Will the position supervise other employees? If yes, please explain.",
+        "type": "string"
+      },
+      "153": {
+        "description": "Will any training be provided? Please describe.",
+        "type": "string"
+      },
+      "154": {
+        "description": "SECTION TWO (continued)",
+        "type": "boolean"
+      },
+      "157": {
+        "description": "Some high school",
+        "type": "boolean"
+      },
+      "158": {
+        "description": "High school graduate",
+        "type": "boolean"
+      },
+      "161": {
+        "description": "Some university/college",
+        "type": "boolean"
+      },
+      "162": {
+        "description": "and a confirmation that the employer is in good standing with assessments.",
+        "type": "string"
+      },
+      "163": {
+        "description": "TOTAL WEEKS",
+        "type": "string"
+      },
+      "164": {
+        "description": "HOURLY",
+        "type": "string"
+      },
+      "165": {
+        "description": "In accordance with Section 24(3) of the Yukon\u2019s Access to Information and Privacy Act, the applicant permits the release",
+        "type": "string"
+      },
+      "166": {
+        "description": "Approved Positions & Calculations",
+        "type": "string"
+      },
+      "167": {
+        "description": "Employment Programs Officer, Advanced Education Branch, Department of Education",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "TOTAL SUBSIDY",
+        "type": "string"
+      },
+      "170": {
+        "description": "HOURS/WEEKS",
+        "type": "string"
+      },
+      "171": {
+        "description": "purposes of administration of the program. Under the provisions of Section 29 of the Yukon Access to Information and",
+        "type": "string"
+      },
+      "172": {
+        "description": "Please submit completed application package to:",
+        "type": "boolean"
+      },
+      "173": {
+        "description": "Subsidy Request",
+        "type": "string"
+      },
+      "174": {
+        "description": "TOTAL HOURS",
+        "type": "string"
+      },
+      "175": {
+        "description": "of the information supplied in this application MAY be shared with other departments within Yukon Government for",
+        "type": "string"
+      },
+      "178": {
+        "description": "about the collection, retention or use of this information can be directed to the Director of Training Programs, Department",
+        "type": "string"
+      },
+      "180": {
+        "description": "safety orders against the employer for the past two years, (2) a record of injuries of workers for the past two years (3)",
+        "type": "string"
+      },
+      "181": {
+        "description": "SECTION THREE \u2013 AGREEMENT",
+        "type": "string"
+      },
+      "183": {
+        "description": "DEPARTMENT OF EDUCATION USE ONLY",
+        "type": "string"
+      },
+      "184": {
+        "description": "Protection of Privacy Act individuals have the right to protection of and access to their personal information. Questions",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

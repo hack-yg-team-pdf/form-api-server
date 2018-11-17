@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "54": {
+        "description": "Mailing Address (if different from above)",
+        "type": "string"
+      },
+      "55": {
+        "description": "RESPONDENT",
+        "type": "string"
+      },
+      "56": {
+        "description": "Gender:",
+        "type": "string"
+      },
+      "57": {
+        "description": "Street Address",
+        "type": "string"
+      },
+      "62": {
+        "description": "City",
+        "type": "string"
+      },
+      "63": {
+        "description": "Work Phone",
+        "type": "string"
+      },
+      "64": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "65": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "66": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "67": {
+        "description": "Home Phone",
+        "type": "string"
+      },
+      "68": {
+        "description": "Cell Phone",
+        "type": "string"
+      },
+      "69": {
+        "description": "Respondent responsibilities",
+        "type": "string"
+      },
+      "70": {
+        "description": "inform the Child Support Administrative Recalculation Service if any of the information provided changes, including",
+        "type": "string"
+      },
+      "71": {
+        "description": "contact details of involved parties.",
+        "type": "string"
+      },
+      "72": {
+        "description": "Date completed (YYYY-MM-DD)",
+        "type": "string"
+      },
+      "73": {
+        "description": "2134 2nd Avenue, Whitehorse, YT",
+        "type": "string"
+      },
+      "74": {
+        "description": "Funded by Justice Canada",
+        "type": "boolean"
+      },
+      "77": {
+        "description": "By mail:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

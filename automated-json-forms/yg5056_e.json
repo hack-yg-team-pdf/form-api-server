@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "200": {
+        "description": "Please make your cheque payable to Government of Yukon, or complete payment information",
+        "type": "string"
+      },
+      "203": {
+        "description": "4. If you are licensed in another jurisdiction please provide a letter of standing from this jurisdiction.",
+        "type": "string"
+      },
+      "204": {
+        "description": "Month",
+        "type": "string"
+      },
+      "210": {
+        "description": "Dated at , this  day of  20",
+        "type": "string"
+      },
+      "228": {
+        "description": "Section 2: \u201ccontinuing professional education\u201d means self-learning programs, lectures, seminars, study clubs, or courses about the practice of dentistry\u201d",
+        "type": "string"
+      },
+      "229": {
+        "description": "Dental Profession Regulations: Total CE hours:",
+        "type": "string"
+      },
+      "230": {
+        "description": "Date:  Signature:",
+        "type": "string"
+      },
+      "246": {
+        "description": "YG(5056EQ)F2 Rev.10/2014",
+        "type": "string"
+      },
+      "258": {
+        "description": "dd/mm/yyyy",
+        "type": "string"
+      },
+      "290": {
+        "description": "Section 7 1(a): \u201ccompleted at least 60 hours of continuing professional education\u201d in the three years immediately preceding their application for renewal",
+        "type": "string"
+      },
+      "637": {
+        "description": "returned or rejected.  Appropriate annual licence fee must be enclosed.",
+        "type": "string"
+      },
+      "640": {
+        "description": "All information requested in this application must be provided.  If application is not complete it will be",
+        "type": "string"
+      },
+      "642": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "643": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "645": {
+        "description": "I am practising in:",
+        "type": "string"
+      },
+      "647": {
+        "description": "4.   Clinic Address:   Mail to Clinic (cid:31)",
+        "type": "string"
+      },
+      "648": {
+        "description": "Email address:   Date of Birth:",
+        "type": "boolean"
+      },
+      "650": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "653": {
+        "description": "If yes, where?",
+        "type": "string"
+      },
+      "656": {
+        "description": "6.  Additional Training acquired during the past licensing year.",
+        "type": "string"
+      },
+      "657": {
+        "description": "Hours",
+        "type": "string"
+      },
+      "658": {
+        "description": "Hours",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

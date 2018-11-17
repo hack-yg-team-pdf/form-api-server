@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "69": {
+        "description": "Permit Holder\u2019s Name",
+        "type": "string"
+      },
+      "70": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "71": {
+        "description": "Telephone   E-Mail Address",
+        "type": "string"
+      },
+      "72": {
+        "description": "Legal Description Lot #   Subdivision   Plan #   Community",
+        "type": "string"
+      },
+      "73": {
+        "description": "Municipal Address (if known)",
+        "type": "string"
+      },
+      "74": {
+        "description": "Permit Number",
+        "type": "string"
+      },
+      "75": {
+        "description": "Telephone   E-Mail Address",
+        "type": "string"
+      },
+      "76": {
+        "description": "Manufacturer\u2019s installation requirements have been met, which includes those for:",
+        "type": "string"
+      },
+      "77": {
+        "description": "Installer\u2019s Declaration",
+        "type": "string"
+      },
+      "78": {
+        "description": "Backfill, soil depth over tank?",
+        "type": "string"
+      },
+      "79": {
+        "description": "Ballasting (applicable for tanks installed in a wet excavation); and",
+        "type": "string"
+      },
+      "80": {
+        "description": "Bedding material, type used?",
+        "type": "string"
+      },
+      "81": {
+        "description": "Date",
+        "type": "string"
+      },
+      "82": {
+        "description": "Complete this form and return to Environmental Health Services within 30 days of installation of the sewage disposal",
+        "type": "boolean"
+      },
+      "84": {
+        "description": "Septic and sewage holding tanks may have specific requirements for installation in order to maintain their CSA",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "YG(5742Q) Rev. 05/2016",
+        "type": "string"
+      },
+      "86": {
+        "description": "certification.  Under the Sewage Disposal Systems Regulation septic and sewage holding tanks must be CSA certified.",
+        "type": "boolean"
+      },
+      "87": {
+        "description": "Product suppliers should be able to provide these requirements.",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "Excavation, dimensions meet requirements;",
+        "type": "boolean"
+      },
+      "90": {
+        "description": "system.  Failure to do so may result in delays in issuing Approval to Use.",
+        "type": "boolean"
+      },
+      "91": {
+        "description": "Condition of excavation:",
+        "type": "boolean"
+      },
+      "92": {
+        "description": "Visual Inspection: No evidence of physical damage to the septic or sewage holding tank and tank is anchored",
+        "type": "boolean"
+      },
+      "93": {
+        "description": "Dry: groundwater is not anticipated to reach the tank; or",
+        "type": "boolean"
+      },
+      "94": {
+        "description": "Signature of Installer",
+        "type": "string"
+      },
+      "95": {
+        "description": "accordingly (e.g., holes, cracks).",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "Wet: groundwater is anticipated, or the area is subject to flooding.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

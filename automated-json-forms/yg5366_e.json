@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "181": {
+        "description": "Parish:      Pastor:",
+        "type": "string"
+      },
+      "184": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "185": {
+        "description": "Phone number:       Email:",
+        "type": "string"
+      },
+      "186": {
+        "description": "Very well",
+        "type": "string"
+      },
+      "187": {
+        "description": "1. How well do you know this person?",
+        "type": "string"
+      },
+      "188": {
+        "description": "2. How long have you known this person?",
+        "type": "string"
+      },
+      "189": {
+        "description": "Well",
+        "type": "string"
+      },
+      "195": {
+        "description": "Is this person registered in your parish?",
+        "type": "string"
+      },
+      "200": {
+        "description": "6. Will this person be a role model of Catholic witness to students and staff in a Catholic School?  Please elaborate.",
+        "type": "string"
+      },
+      "201": {
+        "description": "Current Roman Catholic Pastor\u2019s Signature:   Date:",
+        "type": "string"
+      },
+      "202": {
+        "description": "If current pastor\u2019s signature is not available, why not?",
+        "type": "string"
+      },
+      "203": {
+        "description": "No",
+        "type": "string"
+      },
+      "204": {
+        "description": "This information is required as part of the application process for teaching in the Catholic Schools of Whitehorse.  This document should be sent directly to",
+        "type": "boolean"
+      },
+      "207": {
+        "description": "Teacher Recruitment, P.O. Box 2703, Whitehorse YT Y1A 2C6  or Fax:  1.867.667.5435 or email teacher.recruitment@gov.yk.ca.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

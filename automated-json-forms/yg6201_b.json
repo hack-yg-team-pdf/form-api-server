@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "41": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "48": {
+        "description": "7.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "792": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "793": {
+        "description": "(joindre une nouvelle formule 12 en ne remplissant que les portions modifies",
+        "type": "string"
+      },
+      "794": {
+        "description": "date est modifi\u00e9e de la fa\u00e7on pr\u00e9vue dans la demande ci-jointe :",
+        "type": "string"
+      },
+      "795": {
+        "description": "particulier qui signe pour l\u2019associ\u00e9) :",
+        "type": "string"
+      },
+      "796": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "797": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "798": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "799": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "800": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "801": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "102": {
+        "description": "Hair colour",
+        "type": "string"
+      },
+      "114": {
+        "description": "Motor Vehicles (cars, boats, recreational vehicles, etc.)",
+        "type": "string"
+      },
+      "117": {
+        "description": "FINANCIAL INFORMATION",
+        "type": "string"
+      },
+      "120": {
+        "description": "Make/Model/Year",
+        "type": "string"
+      },
+      "121": {
+        "description": "Colour",
+        "type": "string"
+      },
+      "124": {
+        "description": "Real Estate (houses, cabins/cottages, investment property, land, etc.)",
+        "type": "string"
+      },
+      "125": {
+        "description": "Address",
+        "type": "string"
+      },
+      "129": {
+        "description": "Banking/Investments (bank accounts, retirement savings, term deposits, stocks, bonds, pensions, etc.)",
+        "type": "string"
+      },
+      "133": {
+        "description": "Type of account/investment Account number",
+        "type": "string"
+      },
+      "137": {
+        "description": "Name and address of financial institution Other descriptive info",
+        "type": "string"
+      },
+      "141": {
+        "description": "Other sources of income or assets (hobby income, insurance disability, etc.)",
+        "type": "string"
+      },
+      "145": {
+        "description": "Height",
+        "type": "string"
+      },
+      "149": {
+        "description": "Additional information (to help MEP contact the respondent)",
+        "type": "string"
+      },
+      "153": {
+        "description": "Physical description",
+        "type": "string"
+      },
+      "157": {
+        "description": "Weight",
+        "type": "string"
+      },
+      "161": {
+        "description": "Glasses",
+        "type": "string"
+      },
+      "165": {
+        "description": "Distinguishing features (tattoos, moles, scars, etc.)",
+        "type": "string"
+      },
+      "169": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "172": {
+        "description": "Eye colour",
+        "type": "string"
+      },
+      "174": {
+        "description": "No",
+        "type": "string"
+      },
+      "966": {
+        "description": "YT MEP File #",
+        "type": "string"
+      },
+      "967": {
+        "description": "ISO File #",
+        "type": "string"
+      },
+      "972": {
+        "description": "Relationship to children",
+        "type": "string"
+      },
+      "1010": {
+        "description": "Email address",
+        "type": "string"
+      },
+      "1011": {
+        "description": "Common Law",
+        "type": "string"
+      },
+      "1016": {
+        "description": "Single",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

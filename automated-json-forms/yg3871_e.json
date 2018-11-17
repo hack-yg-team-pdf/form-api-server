@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "306": {
+        "description": "Last name    First name",
+        "type": "string"
+      },
+      "309": {
+        "description": "For the period from    to    (period cannot exceed two months)",
+        "type": "string"
+      },
+      "316": {
+        "description": "Information is being collected under the authority of the Child Care Act for the purpose of determining eligibility for programs offered by Child Care Services. Queries should be directed to the",
+        "type": "string"
+      },
+      "317": {
+        "description": "Supervisor, Child Care Services Unit at the contact information below.",
+        "type": "string"
+      },
+      "318": {
+        "description": "Box 2703, Whitehorse, Yukon Y1A 2C6",
+        "type": "string"
+      },
+      "319": {
+        "description": "Government of Yukon",
+        "type": "string"
+      },
+      "320": {
+        "description": "Whitehorse, Yukon",
+        "type": "string"
+      },
+      "321": {
+        "description": "Phone/Email:",
+        "type": "string"
+      },
+      "322": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "323": {
+        "description": "Child Care Services, Health and Social Services (H-12)",
+        "type": "string"
+      },
+      "324": {
+        "description": "Physical address:",
+        "type": "string"
+      },
+      "325": {
+        "description": "Child Care Services",
+        "type": "string"
+      },
+      "326": {
+        "description": "667-3492 or 1-800-661-0408 ext. 3492",
+        "type": "string"
+      },
+      "327": {
+        "description": "9010 Quartz Road",
+        "type": "string"
+      },
+      "328": {
+        "description": "YG(3871EQ)F1 Rev.05/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

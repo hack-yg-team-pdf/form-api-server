@@ -1,0 +1,211 @@
+{
+  "fields": {
+    "properties": {
+      "136": {
+        "description": "fine craft",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "Materials:",
+        "type": "string"
+      },
+      "141": {
+        "description": "Title of work submitted:",
+        "type": "string"
+      },
+      "142": {
+        "description": "mixed media",
+        "type": "boolean"
+      },
+      "144": {
+        "description": "fibre art",
+        "type": "boolean"
+      },
+      "146": {
+        "description": "Dimensions: (H x W x D):",
+        "type": "string"
+      },
+      "149": {
+        "description": "Creation date:",
+        "type": "string"
+      },
+      "157": {
+        "description": "sculpture",
+        "type": "boolean"
+      },
+      "158": {
+        "description": "carving",
+        "type": "boolean"
+      },
+      "159": {
+        "description": "Category:",
+        "type": "string"
+      },
+      "161": {
+        "description": "sculpture",
+        "type": "boolean"
+      },
+      "163": {
+        "description": "fine craft",
+        "type": "boolean"
+      },
+      "167": {
+        "description": "other",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "Framed",
+        "type": "boolean"
+      },
+      "169": {
+        "description": "beadwork",
+        "type": "string"
+      },
+      "171": {
+        "description": "carving",
+        "type": "boolean"
+      },
+      "173": {
+        "description": "Dimensions: (H x W x D):",
+        "type": "string"
+      },
+      "175": {
+        "description": "Materials:",
+        "type": "string"
+      },
+      "176": {
+        "description": "Price:",
+        "type": "string"
+      },
+      "177": {
+        "description": "Creation date:",
+        "type": "string"
+      },
+      "178": {
+        "description": "Title of work submitted:",
+        "type": "string"
+      },
+      "180": {
+        "description": "other",
+        "type": "boolean"
+      },
+      "181": {
+        "description": "mixed media",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "ceramics",
+        "type": "boolean"
+      },
+      "189": {
+        "description": "Price:",
+        "type": "string"
+      },
+      "193": {
+        "description": "beadwork",
+        "type": "boolean"
+      },
+      "194": {
+        "description": "fibre art",
+        "type": "boolean"
+      },
+      "196": {
+        "description": "Category:",
+        "type": "string"
+      },
+      "198": {
+        "description": "ceramics",
+        "type": "boolean"
+      },
+      "636": {
+        "description": "Artist Name:",
+        "type": "string"
+      },
+      "637": {
+        "description": "Telephone:  E-mail:",
+        "type": "string"
+      },
+      "638": {
+        "description": "ARTIST ELIGIBILITY",
+        "type": "string"
+      },
+      "639": {
+        "description": "Please indicate your eligibility by checking one of the following:",
+        "type": "string"
+      },
+      "640": {
+        "description": "Yukon artist \u2013 an artist with 12 months residence on the closing date of the call for submissions.",
+        "type": "string"
+      },
+      "641": {
+        "description": "A resident is an individual who has, as their primary place of living, a Yukon address.",
+        "type": "string"
+      },
+      "648": {
+        "description": "DESCRIPTION OF ARTWORK",
+        "type": "string"
+      },
+      "649": {
+        "description": "Title of work submitted:",
+        "type": "string"
+      },
+      "650": {
+        "description": "Creation date:",
+        "type": "string"
+      },
+      "651": {
+        "description": "Materials:",
+        "type": "string"
+      },
+      "652": {
+        "description": "Dimensions: (H x W x D):",
+        "type": "string"
+      },
+      "657": {
+        "description": "Price:",
+        "type": "string"
+      },
+      "662": {
+        "description": "Category:",
+        "type": "string"
+      },
+      "663": {
+        "description": "beadwork",
+        "type": "boolean"
+      },
+      "665": {
+        "description": "sculpture",
+        "type": "boolean"
+      },
+      "667": {
+        "description": "carving",
+        "type": "boolean"
+      },
+      "669": {
+        "description": "other",
+        "type": "boolean"
+      },
+      "671": {
+        "description": "ceramics",
+        "type": "boolean"
+      },
+      "673": {
+        "description": "fibre art",
+        "type": "boolean"
+      },
+      "675": {
+        "description": "fine craft",
+        "type": "boolean"
+      },
+      "677": {
+        "description": "mixed media",
+        "type": "boolean"
+      },
+      "679": {
+        "description": "YG(5536)F3 Rev.11/2017",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

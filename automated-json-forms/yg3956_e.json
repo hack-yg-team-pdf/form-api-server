@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "217": {
+        "description": "First name",
+        "type": "string"
+      },
+      "218": {
+        "description": "Present gross (before deductions) salary (complete most appropriate space)",
+        "type": "string"
+      },
+      "219": {
+        "description": "Weekly",
+        "type": "string"
+      },
+      "220": {
+        "description": "Bi-weekly",
+        "type": "string"
+      },
+      "221": {
+        "description": "Commissions  $",
+        "type": "string"
+      },
+      "222": {
+        "description": "$",
+        "type": "string"
+      },
+      "223": {
+        "description": "$",
+        "type": "string"
+      },
+      "224": {
+        "description": "Please specify for \u201cother\u201d",
+        "type": "string"
+      },
+      "225": {
+        "description": "Monthly",
+        "type": "string"
+      },
+      "226": {
+        "description": "Deductions from present gross salary",
+        "type": "string"
+      },
+      "227": {
+        "description": "$",
+        "type": "string"
+      },
+      "228": {
+        "description": "$",
+        "type": "string"
+      },
+      "229": {
+        "description": "Income Tax  $",
+        "type": "string"
+      },
+      "230": {
+        "description": "Union Dues  $",
+        "type": "string"
+      },
+      "231": {
+        "description": "$",
+        "type": "string"
+      },
+      "232": {
+        "description": "Employment",
+        "type": "string"
+      },
+      "233": {
+        "description": "Other",
+        "type": "string"
+      },
+      "234": {
+        "description": "Pension",
+        "type": "string"
+      },
+      "235": {
+        "description": "Insurance  $",
+        "type": "string"
+      },
+      "236": {
+        "description": "$",
+        "type": "string"
+      },
+      "237": {
+        "description": "Please specify for \u201cother\u201d",
+        "type": "string"
+      },
+      "238": {
+        "description": "Business/Organization name",
+        "type": "string"
+      },
+      "239": {
+        "description": "First name                                                    Last name                                                     Title",
+        "type": "string"
+      },
+      "240": {
+        "description": "Telephone number",
+        "type": "string"
+      },
+      "241": {
+        "description": "Signature of employer",
+        "type": "string"
+      },
+      "244": {
+        "description": "(certifies that the above information is correct)",
+        "type": "string"
+      },
+      "245": {
+        "description": "Information is collected under the authority of the Child Care Act for the purpose of determining eligibility for programs",
+        "type": "string"
+      },
+      "246": {
+        "description": "offered by Child Care Services. Queries should be directed to the Supervisor, Child Care Services Unit, Health and Social",
+        "type": "boolean"
+      },
+      "249": {
+        "description": "Services at 867-667-3492, or toll free-1-800-661-0408, or in writing at H-12, Box 2703, Whitehorse, Yukon Y1A 2C6.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

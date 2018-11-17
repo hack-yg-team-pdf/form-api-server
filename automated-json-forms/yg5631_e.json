@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "80": {
+        "description": "IF APPROPRIATE, CHECK THE TYPE OF EQUIPMENT THAT YOU INSTALL / SERVICE:",
+        "type": "string"
+      },
+      "81": {
+        "description": "IF APPROPRIATE, CHECK THE TYPE OF SUBSTANCES THAT YOU PURCHASE AND/OR POSSESS:",
+        "type": "string"
+      },
+      "82": {
+        "description": "fire\textinguishing\tequipment\tcontaining\thalon",
+        "type": "string"
+      },
+      "83": {
+        "description": "other:",
+        "type": "string"
+      },
+      "84": {
+        "description": "Company Phone and Fax:",
+        "type": "string"
+      },
+      "85": {
+        "description": "Home Email Address:",
+        "type": "string"
+      },
+      "86": {
+        "description": "motor vehicle air conditioning substances",
+        "type": "string"
+      },
+      "87": {
+        "description": "commercial air conditioning or refrigeration substances",
+        "type": "string"
+      },
+      "88": {
+        "description": "Home Phone and Fax:",
+        "type": "string"
+      },
+      "89": {
+        "description": "Home Address:",
+        "type": "string"
+      },
+      "90": {
+        "description": "Ozone Depleting Substances",
+        "type": "boolean"
+      },
+      "92": {
+        "description": "& Other Halocarbons Regulations",
+        "type": "boolean"
+      },
+      "93": {
+        "description": "ODS/OH PERMIT APPLICATION",
+        "type": "boolean"
+      },
+      "94": {
+        "description": "other:",
+        "type": "boolean"
+      },
+      "95": {
+        "description": "residential air conditioning or refrigeration substances",
+        "type": "boolean"
+      },
+      "96": {
+        "description": "Work Email Address:",
+        "type": "string"
+      },
+      "97": {
+        "description": "Geographic Coordinates (Company location in lat/long, UTM (specify zone) or Yukon Albers):",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "Company Address (Legal):",
+        "type": "boolean"
+      },
+      "99": {
+        "description": "Company Address (Civic):",
+        "type": "boolean"
+      },
+      "100": {
+        "description": "other halocarbons (OH)",
+        "type": "boolean"
+      },
+      "101": {
+        "description": "Name (clearly printed):",
+        "type": "string"
+      },
+      "102": {
+        "description": "Company:",
+        "type": "boolean"
+      },
+      "103": {
+        "description": "certificate\t#:\t\t\tdate(s)\tof\ttraining:",
+        "type": "string"
+      },
+      "104": {
+        "description": "Educational or Professional Institute:",
+        "type": "string"
+      },
+      "105": {
+        "description": "other:",
+        "type": "boolean"
+      },
+      "106": {
+        "description": "HRAI\tenvironmental\ttraining:\tcertificate\t#\t\t\tdate\tof\ttraining:",
+        "type": "string"
+      },
+      "107": {
+        "description": "RSES\tenvironmental\ttraining:\tcertificate\t#\t\tdate\tof\ttraining:",
+        "type": "string"
+      },
+      "108": {
+        "description": "residential air conditioning or refrigeration equipment containing ozone depleting substances (ODS) or",
+        "type": "boolean"
+      },
+      "109": {
+        "description": "Name of course:",
+        "type": "string"
+      },
+      "110": {
+        "description": "commercial air conditioning or refrigeration equipment containing ODS or OH",
+        "type": "boolean"
+      },
+      "111": {
+        "description": "Signature of Applicant",
+        "type": "string"
+      },
+      "112": {
+        "description": "Programs\tBranch\tat\t867-667-5683\tor\ttoll\tfree\tat\t1-800-661-0408\textension\t5683.",
+        "type": "string"
+      },
+      "113": {
+        "description": "RELATED ENVIRONMENTAL AWARENESS TRAINING:",
+        "type": "string"
+      },
+      "114": {
+        "description": "required by these regulations and/or disclosed to the public. For further information, contact the Environmental",
+        "type": "string"
+      },
+      "115": {
+        "description": "This information is being collected under the authority of s.6 of the Ozone Depleting Substances & Other Halocarbons",
+        "type": "string"
+      },
+      "116": {
+        "description": "Regulations pursuant to the Environment Act. Permits and related documents may be included on a public register as",
+        "type": "string"
+      },
+      "117": {
+        "description": "YG(5631E)E1 Rev. 03/2016",
+        "type": "string"
+      },
+      "118": {
+        "description": "motor vehicle air conditioning equipment",
+        "type": "boolean"
+      },
+      "121": {
+        "description": "Date",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

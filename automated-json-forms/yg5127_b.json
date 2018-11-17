@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "286": {
+        "description": "1.  Name of applicant                                                                                                                                License Number:",
+        "type": "string"
+      },
+      "287": {
+        "description": "Nom du demandeur   Num\u00e9ro de licence :",
+        "type": "string"
+      },
+      "288": {
+        "description": "2.  Business Name",
+        "type": "string"
+      },
+      "289": {
+        "description": "Adresse commerciale",
+        "type": "string"
+      },
+      "290": {
+        "description": "Province/Territory \u2022 Province/territoire",
+        "type": "string"
+      },
+      "291": {
+        "description": "Postal code \u2022 Code postal",
+        "type": "string"
+      },
+      "292": {
+        "description": "4.  Telephone Number",
+        "type": "string"
+      },
+      "297": {
+        "description": "day of                                         , 20",
+        "type": "string"
+      },
+      "298": {
+        "description": "Dated at                                                                                         , this",
+        "type": "string"
+      },
+      "299": {
+        "description": "Signature of Applicant \u2022 Signature du demandeur",
+        "type": "string"
+      },
+      "300": {
+        "description": "Non-Resident: $50.",
+        "type": "string"
+      },
+      "301": {
+        "description": "Renewal Fee:",
+        "type": "string"
+      },
+      "304": {
+        "description": "Veuillez libeller votre ch\u00e8que au nom du gouvernement du Yukon ou fournir les informations demand\u00e9es ci-dessous remplissez",
+        "type": "string"
+      },
+      "305": {
+        "description": "or complete payment information form YG5924 at: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "306": {
+        "description": "Personal information contained on this form is collected under the Funeral Director\u2019s Act",
+        "type": "boolean"
+      },
+      "309": {
+        "description": "Les renseignements personnels demand\u00e8s dans les pr\u00e9sentes sont recueillis en vertu de la",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "44": {
+        "description": "I, of",
+        "type": "string"
+      },
+      "45": {
+        "description": "in",
+        "type": "string"
+      },
+      "46": {
+        "description": "do herby APPOINT:",
+        "type": "string"
+      },
+      "47": {
+        "description": "of",
+        "type": "string"
+      },
+      "48": {
+        "description": "to be my Attorney to:",
+        "type": "string"
+      },
+      "49": {
+        "description": "This power of Attorney for the                                                                    Mining District to expire on:",
+        "type": "string"
+      },
+      "50": {
+        "description": "or every act and thing whatsoever requisite and necessary to be done for this purpose as I might or could do if personally",
+        "type": "string"
+      },
+      "51": {
+        "description": "HEREBY GIVING AND GRANTING unto my said Attorney full power and authority to do and perform any and all",
+        "type": "string"
+      },
+      "52": {
+        "description": "present and acting in my own behalf.",
+        "type": "string"
+      },
+      "53": {
+        "description": "IN WITNESS WHEREOF",
+        "type": "string"
+      },
+      "54": {
+        "description": "have hereunto set my hand and seal at",
+        "type": "string"
+      },
+      "55": {
+        "description": "SIGNED, SEALED and DELIVERED by the appointer in the presence of:",
+        "type": "string"
+      },
+      "56": {
+        "description": "Witness to Signature of Appointer",
+        "type": "string"
+      },
+      "57": {
+        "description": "Appointer",
+        "type": "string"
+      },
+      "58": {
+        "description": "I, , ,",
+        "type": "string"
+      },
+      "59": {
+        "description": "of",
+        "type": "string"
+      },
+      "60": {
+        "description": "make oath and say THAT:",
+        "type": "string"
+      },
+      "61": {
+        "description": "OR",
+        "type": "string"
+      },
+      "62": {
+        "description": "Sworn before me at  this   day of   20  .",
+        "type": "string"
+      },
+      "63": {
+        "description": "at 1-800-661-0408 extension 3190.",
+        "type": "string"
+      },
+      "64": {
+        "description": "YG(5045Q)F1 Rev. 05/2016",
+        "type": "string"
+      },
+      "65": {
+        "description": "Witness",
+        "type": "string"
+      },
+      "66": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "boolean"
+      },
+      "69": {
+        "description": "This information is being collected under the authority of the Quartz Mining Act and Placer Mining Act. For further",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

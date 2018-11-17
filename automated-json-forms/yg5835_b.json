@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "51": {
+        "description": "Veuillez \u00eatre avis\u00e9 que  domicili\u00e9 \u00e0",
+        "type": "string"
+      },
+      "52": {
+        "description": "of",
+        "type": "string"
+      },
+      "53": {
+        "description": "is hereby authorized to act as a salesperson for",
+        "type": "string"
+      },
+      "54": {
+        "description": "and duly authorized to carry on business in Yukon.",
+        "type": "string"
+      },
+      "55": {
+        "description": "Name \u2022 PLEASE PRINT",
+        "type": "string"
+      },
+      "56": {
+        "description": "Whitehorse, YT Y1A 2N1",
+        "type": "string"
+      },
+      "57": {
+        "description": "Official or Representative Capacity",
+        "type": "string"
+      },
+      "58": {
+        "description": "Please return your documents and fees to:",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "Veuillez faire parvenir votre dossier accompagn\u00e9 des droits",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

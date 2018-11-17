@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "34": {
+        "description": "AVIATION",
+        "type": "string"
+      },
+      "35": {
+        "description": "3.   Imports from Out-of-Jurisdiction (FTG-1)",
+        "type": "string"
+      },
+      "36": {
+        "description": "10. Distributor and Vendor Exempt Sales (YTG-5)",
+        "type": "string"
+      },
+      "37": {
+        "description": "(Attach Schedules)",
+        "type": "string"
+      },
+      "38": {
+        "description": "Collectors - A person designated by a jurisdiction for purposes of collecting tax.",
+        "type": "string"
+      },
+      "39": {
+        "description": "Tax - Includes a security paid in advance of a taxable sale.",
+        "type": "string"
+      },
+      "40": {
+        "description": "Adjustments &/or Tax Credits(line 14) - Financial adjustments credits allowed subsequent to the incidence of tax. (See also province instructions)",
+        "type": "string"
+      },
+      "41": {
+        "description": "15. Deduct Commissions",
+        "type": "string"
+      },
+      "42": {
+        "description": "GASOLINE",
+        "type": "string"
+      },
+      "43": {
+        "description": "DYED",
+        "type": "string"
+      },
+      "44": {
+        "description": "4.   Acquisitions within Jurisdiction from Licensed Collectors (FTG-2)",
+        "type": "string"
+      },
+      "45": {
+        "description": "COLLECTOR NAME                              FEDERAL BUSINESS NUMBER",
+        "type": "string"
+      },
+      "46": {
+        "description": "Volumes - All volumes must be reported at either ambient temperature or corrected to 15 degrees C.",
+        "type": "string"
+      },
+      "47": {
+        "description": "Rebrands - Allowable charges in product classification. (No net change in volume)",
+        "type": "string"
+      },
+      "48": {
+        "description": "2.   Refined or manufactured within Jurisdiction",
+        "type": "string"
+      },
+      "49": {
+        "description": "9.   Dispositions within Jurisdiction to Licensed Collectors (FTG-4)",
+        "type": "string"
+      },
+      "50": {
+        "description": "13.   TOTAL TAX BEFORE ADJUSTMENTS",
+        "type": "string"
+      },
+      "51": {
+        "description": "14. Adjustments &/or Tax Credits          (Attach Schedules)",
+        "type": "string"
+      },
+      "52": {
+        "description": "(Attach Schedules)",
+        "type": "string"
+      },
+      "53": {
+        "description": "Volume Adjustments(line 11) - Allowable volume adjustments prior to incidence of tax.",
+        "type": "string"
+      },
+      "54": {
+        "description": "Dyed Gasoline - Gasoline that has been marked or coloured for tax purposes.",
+        "type": "string"
+      },
+      "55": {
+        "description": "7.     TOTAL ACCOUNTABLE VOLUMES",
+        "type": "string"
+      },
+      "56": {
+        "description": "8.   Exports Out-of-Jurisdiction (FTG-3)",
+        "type": "string"
+      },
+      "57": {
+        "description": "11. Volume Adjustments (Attach details)",
+        "type": "string"
+      },
+      "58": {
+        "description": "12.   TOTAL TAXABLE VOLUMES",
+        "type": "string"
+      },
+      "59": {
+        "description": "16. Deduct Shrinkage",
+        "type": "string"
+      },
+      "60": {
+        "description": "17.   NET TAX PAYABLE",
+        "type": "string"
+      },
+      "61": {
+        "description": "YG(4777Q)F1 Rev. 07/2007",
+        "type": "string"
+      },
+      "62": {
+        "description": "1.   Opening Untaxed Inventory",
+        "type": "string"
+      },
+      "63": {
+        "description": "6.   Subtract: Closing Untaxed Inventory",
+        "type": "string"
+      },
+      "64": {
+        "description": "Definitions & Instructions:",
+        "type": "string"
+      },
+      "65": {
+        "description": "SUBTRACT:",
+        "type": "string"
+      },
+      "66": {
+        "description": "Tax Rate",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

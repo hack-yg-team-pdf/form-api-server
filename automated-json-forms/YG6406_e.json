@@ -1,0 +1,559 @@
+{
+  "fields": {
+    "properties": {
+      "132": {
+        "description": "$",
+        "type": "string"
+      },
+      "135": {
+        "description": "$",
+        "type": "string"
+      },
+      "149": {
+        "description": "$",
+        "type": "string"
+      },
+      "150": {
+        "description": "$",
+        "type": "string"
+      },
+      "151": {
+        "description": "$",
+        "type": "string"
+      },
+      "153": {
+        "description": "Food",
+        "type": "string"
+      },
+      "155": {
+        "description": "Dental specialist",
+        "type": "string"
+      },
+      "160": {
+        "description": "DAY                                       MONTH                                      YEAR",
+        "type": "string"
+      },
+      "161": {
+        "description": "Medical insurance",
+        "type": "string"
+      },
+      "169": {
+        "description": "$",
+        "type": "string"
+      },
+      "170": {
+        "description": "Dental costs",
+        "type": "string"
+      },
+      "174": {
+        "description": "Bus/Taxi",
+        "type": "string"
+      },
+      "193": {
+        "description": "$",
+        "type": "string"
+      },
+      "196": {
+        "description": "Total House-",
+        "type": "string"
+      },
+      "197": {
+        "description": "MEDICAL AND DENTAL (if additional to Medical Plan payroll deductions)",
+        "type": "string"
+      },
+      "205": {
+        "description": "Other (therapy, vitamins)",
+        "type": "string"
+      },
+      "215": {
+        "description": "Total",
+        "type": "string"
+      },
+      "218": {
+        "description": "$",
+        "type": "string"
+      },
+      "219": {
+        "description": "$",
+        "type": "string"
+      },
+      "220": {
+        "description": "I propose to pay $  per  towards the arrears,",
+        "type": "string"
+      },
+      "221": {
+        "description": "$",
+        "type": "string"
+      },
+      "222": {
+        "description": "For children who live with you $",
+        "type": "string"
+      },
+      "262": {
+        "description": "Mortgage",
+        "type": "string"
+      },
+      "263": {
+        "description": "$",
+        "type": "string"
+      },
+      "267": {
+        "description": "TRANSPORTATION",
+        "type": "string"
+      },
+      "269": {
+        "description": "Total",
+        "type": "string"
+      },
+      "280": {
+        "description": "Restaurant meals",
+        "type": "string"
+      },
+      "283": {
+        "description": "Rent",
+        "type": "string"
+      },
+      "286": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "287": {
+        "description": "proposal will not be accepted.",
+        "type": "string"
+      },
+      "288": {
+        "description": "$",
+        "type": "string"
+      },
+      "289": {
+        "description": "starting  .",
+        "type": "string"
+      },
+      "290": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "303": {
+        "description": "$",
+        "type": "string"
+      },
+      "304": {
+        "description": "Total Clothing",
+        "type": "string"
+      },
+      "306": {
+        "description": "Total Grocery",
+        "type": "string"
+      },
+      "307": {
+        "description": "In addition to my regular maintenance payments of $  per ,",
+        "type": "string"
+      },
+      "310": {
+        "description": "WEEKLY / BI-WEEKLY / MONTHLY / ETC.",
+        "type": "string"
+      },
+      "318": {
+        "description": "Total",
+        "type": "string"
+      },
+      "319": {
+        "description": "$",
+        "type": "string"
+      },
+      "320": {
+        "description": "Note: your payment towards arrears must be large enough to reduce the arrears in a reasonable time or your",
+        "type": "string"
+      },
+      "322": {
+        "description": "$",
+        "type": "string"
+      },
+      "324": {
+        "description": "$",
+        "type": "string"
+      },
+      "326": {
+        "description": "$",
+        "type": "string"
+      },
+      "327": {
+        "description": "$",
+        "type": "string"
+      },
+      "329": {
+        "description": "WEEKLY / BI-WEEKLY / MONTHLY / ETC.",
+        "type": "string"
+      },
+      "330": {
+        "description": "Replacement",
+        "type": "string"
+      },
+      "331": {
+        "description": "$",
+        "type": "string"
+      },
+      "333": {
+        "description": "$",
+        "type": "string"
+      },
+      "334": {
+        "description": "$",
+        "type": "string"
+      },
+      "340": {
+        "description": "The information on this form is collected under the authority of the Maintenance Enforcement Act (Sec. 6). The information will be used to fulfill the requirements of the Maintenance Enforcement Act for",
+        "type": "string"
+      },
+      "341": {
+        "description": "$",
+        "type": "string"
+      },
+      "344": {
+        "description": "$",
+        "type": "string"
+      },
+      "345": {
+        "description": "9 a.m. to 4 p.m., Monday to Friday",
+        "type": "string"
+      },
+      "348": {
+        "description": "this information, please contact Maintenance Enforcement Program at 1-877-617-5347 or write to the mailing address on this form.",
+        "type": "string"
+      },
+      "349": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "350": {
+        "description": "Andrew A. Philipsen Law Centre (first floor)",
+        "type": "string"
+      },
+      "353": {
+        "description": "Mail:",
+        "type": "string"
+      },
+      "355": {
+        "description": "Email: justmep@gov.yk.ca",
+        "type": "string"
+      },
+      "356": {
+        "description": "Need help?",
+        "type": "string"
+      },
+      "357": {
+        "description": "TOTAL",
+        "type": "string"
+      },
+      "358": {
+        "description": "Whitehorse",
+        "type": "string"
+      },
+      "359": {
+        "description": "$",
+        "type": "string"
+      },
+      "364": {
+        "description": "the enforcement of maintenance orders or agreements and managed in accordance with the Access to Information and Protection of Privacy Act. If you have any questions about the collection or use of",
+        "type": "string"
+      },
+      "366": {
+        "description": "Date YYYY/MM/DD",
+        "type": "string"
+      },
+      "367": {
+        "description": "Total Expenses  $",
+        "type": "string"
+      },
+      "369": {
+        "description": "2134 Second Avenue",
+        "type": "string"
+      },
+      "371": {
+        "description": "FAX: 867-393-6989",
+        "type": "string"
+      },
+      "372": {
+        "description": "Whitehorse, Yukon Y1A 2C6",
+        "type": "string"
+      },
+      "373": {
+        "description": "Have you made your proposal on page 2? If not, please go back and fill in the box.",
+        "type": "string"
+      },
+      "374": {
+        "description": "Office hours:",
+        "type": "string"
+      },
+      "376": {
+        "description": "Maintenance Enforcement Program",
+        "type": "string"
+      },
+      "378": {
+        "description": "Contact MEP toll free at 1-877-617-5347",
+        "type": "string"
+      },
+      "379": {
+        "description": "$",
+        "type": "string"
+      },
+      "383": {
+        "description": "$",
+        "type": "string"
+      },
+      "385": {
+        "description": "$",
+        "type": "string"
+      },
+      "386": {
+        "description": "In person:",
+        "type": "string"
+      },
+      "388": {
+        "description": "Submit this completed form to MEP:",
+        "type": "string"
+      },
+      "391": {
+        "description": "Page 3 of 3",
+        "type": "string"
+      },
+      "394": {
+        "description": "Box 2703 (J-3M),",
+        "type": "string"
+      },
+      "406": {
+        "description": "$",
+        "type": "string"
+      },
+      "407": {
+        "description": "FOR WHAT",
+        "type": "string"
+      },
+      "409": {
+        "description": "$",
+        "type": "string"
+      },
+      "410": {
+        "description": "$",
+        "type": "string"
+      },
+      "412": {
+        "description": "$",
+        "type": "string"
+      },
+      "413": {
+        "description": "$",
+        "type": "string"
+      },
+      "418": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "420": {
+        "description": "$",
+        "type": "string"
+      },
+      "421": {
+        "description": "TO WHOM",
+        "type": "string"
+      },
+      "422": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "449": {
+        "description": "Legal fees & disbursements",
+        "type": "string"
+      },
+      "450": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "456": {
+        "description": "$",
+        "type": "string"
+      },
+      "458": {
+        "description": "$",
+        "type": "string"
+      },
+      "459": {
+        "description": "$",
+        "type": "string"
+      },
+      "460": {
+        "description": "$",
+        "type": "string"
+      },
+      "462": {
+        "description": "$",
+        "type": "string"
+      },
+      "538": {
+        "description": "$",
+        "type": "string"
+      },
+      "540": {
+        "description": "LIST DEBT PAYMENTS (include car payments, if any, here)",
+        "type": "string"
+      },
+      "541": {
+        "description": "$",
+        "type": "string"
+      },
+      "1664": {
+        "description": "MEP File #",
+        "type": "string"
+      },
+      "1665": {
+        "description": "RESPONDENT INFORMATION",
+        "type": "string"
+      },
+      "1666": {
+        "description": "First name",
+        "type": "string"
+      },
+      "1667": {
+        "description": "Middle name",
+        "type": "string"
+      },
+      "1668": {
+        "description": "Employer",
+        "type": "string"
+      },
+      "1669": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "1670": {
+        "description": "(      )",
+        "type": "string"
+      },
+      "1671": {
+        "description": "Employer phone",
+        "type": "string"
+      },
+      "1672": {
+        "description": "How many people do you support in your present household? (e.g., now living with you):",
+        "type": "string"
+      },
+      "1673": {
+        "description": "$",
+        "type": "string"
+      },
+      "1674": {
+        "description": "(      )",
+        "type": "string"
+      },
+      "1675": {
+        "description": "SPOUSE\u2019S INCOME",
+        "type": "string"
+      },
+      "1676": {
+        "description": "$",
+        "type": "string"
+      },
+      "1677": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "1680": {
+        "description": "Income of children",
+        "type": "string"
+      },
+      "1682": {
+        "description": "Total",
+        "type": "string"
+      },
+      "1685": {
+        "description": "$",
+        "type": "string"
+      },
+      "1687": {
+        "description": "Pensions/annuities",
+        "type": "string"
+      },
+      "1689": {
+        "description": "$",
+        "type": "string"
+      },
+      "1691": {
+        "description": "$",
+        "type": "string"
+      },
+      "1693": {
+        "description": "$",
+        "type": "string"
+      },
+      "1695": {
+        "description": "$",
+        "type": "string"
+      },
+      "1697": {
+        "description": "$",
+        "type": "string"
+      },
+      "1699": {
+        "description": "$",
+        "type": "string"
+      },
+      "1701": {
+        "description": "Group Life",
+        "type": "string"
+      },
+      "1703": {
+        "description": "Total",
+        "type": "string"
+      },
+      "1704": {
+        "description": "Union dues",
+        "type": "string"
+      },
+      "1706": {
+        "description": "$",
+        "type": "string"
+      },
+      "1708": {
+        "description": "$",
+        "type": "string"
+      },
+      "1710": {
+        "description": "$",
+        "type": "string"
+      },
+      "1712": {
+        "description": "$",
+        "type": "string"
+      },
+      "1714": {
+        "description": "$",
+        "type": "string"
+      },
+      "1716": {
+        "description": "$",
+        "type": "string"
+      },
+      "1718": {
+        "description": "MONTHLY INCOME",
+        "type": "string"
+      },
+      "1720": {
+        "description": "+ $",
+        "type": "string"
+      },
+      "1721": {
+        "description": "$",
+        "type": "string"
+      },
+      "1723": {
+        "description": "Spousal Income + $",
+        "type": "string"
+      },
+      "1724": {
+        "description": "$",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

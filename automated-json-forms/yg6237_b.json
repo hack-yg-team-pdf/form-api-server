@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "Name and address of the owner of property to be charged / Nom et adresse du propri\u00e9taire du bien qui doit \u00eatre grev\u00e9 :",
+        "type": "string"
+      },
+      "38": {
+        "description": "Name and address of person on whose credit the materials or machinery were placed or furnished:",
+        "type": "string"
+      },
+      "39": {
+        "description": "Date by which materials or machinery were, or were to be, placed or furnished:",
+        "type": "string"
+      },
+      "40": {
+        "description": "cr\u00e9dit vient \u00e0 expiration ou a expir\u00e9 :",
+        "type": "string"
+      },
+      "41": {
+        "description": "Amount claimed as due or to become due / Montant r\u00e9clam\u00e9 comme \u00e9tant exigible ou qui doit le devenir :",
+        "type": "string"
+      },
+      "42": {
+        "description": "Legal description of the property to be charged / Description officielle du bien qui doit \u00eatre grev\u00e9 :",
+        "type": "string"
+      },
+      "43": {
+        "description": "Si le revendiquant a accord\u00e9 du cr\u00e9dit pour le paiement des mat\u00e9riaux ou des machines, date \u00e0 laquelle la p\u00e9riode de",
+        "type": "string"
+      },
+      "44": {
+        "description": "en caract\u00e8res d\u2019imprimerie)",
+        "type": "string"
+      },
+      "45": {
+        "description": "YG(6237Q)F1 05/2015",
+        "type": "string"
+      },
+      "46": {
+        "description": "Date of signatures / Date des signatures :",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "Signature of witness: (sign and print name)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

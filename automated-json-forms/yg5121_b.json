@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "61": {
+        "description": "and say that the following is a true statement of insurance",
+        "type": "string"
+      },
+      "62": {
+        "description": "Name and Address of Insured",
+        "type": "string"
+      },
+      "63": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "64": {
+        "description": "d\u2019assurance souscrits aupr\u00e8s d\u2019assureurs non titulaires",
+        "type": "string"
+      },
+      "65": {
+        "description": "Au surintendant des assurances :",
+        "type": "string"
+      },
+      "66": {
+        "description": "20",
+        "type": "string"
+      },
+      "67": {
+        "description": "Nom et adresse de la personne assur\u00e9e",
+        "type": "string"
+      },
+      "68": {
+        "description": "Date o\u00f9 l\u2019assurance a \u00e9t\u00e9 souscrite",
+        "type": "string"
+      },
+      "69": {
+        "description": "Date Insurance Placed",
+        "type": "string"
+      },
+      "70": {
+        "description": "Property Insured and Location",
+        "type": "string"
+      },
+      "71": {
+        "description": "Biens assur\u00e9s et emplacement",
+        "type": "string"
+      },
+      "72": {
+        "description": "Amount of Insurance Placed",
+        "type": "string"
+      },
+      "73": {
+        "description": "Term of Insurance",
+        "type": "string"
+      },
+      "74": {
+        "description": "d\u2019une licence qui a fait souscrire l\u2019assurance",
+        "type": "string"
+      },
+      "75": {
+        "description": "2% Insurance Premium Tax",
+        "type": "string"
+      },
+      "76": {
+        "description": "Taxe de 2% sur la prime d\u2019assurance",
+        "type": "string"
+      },
+      "77": {
+        "description": "Name and Address of Unlicensed",
+        "type": "string"
+      },
+      "78": {
+        "description": "Sworn before me at",
+        "type": "string"
+      },
+      "79": {
+        "description": "on the",
+        "type": "string"
+      },
+      "80": {
+        "description": "day of                                                                            ,20",
+        "type": "string"
+      },
+      "81": {
+        "description": "jour de/d\u2019 20",
+        "type": "string"
+      },
+      "82": {
+        "description": "Commissaire aux serments ou notaire public \u2022 EN LETTRES MOUL\u00c9ES",
+        "type": "string"
+      },
+      "83": {
+        "description": "Demandeur \u2022 EN LETTRES MOUL\u00c9ES",
+        "type": "string"
+      },
+      "84": {
+        "description": "toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "85": {
+        "description": "My Commission expires:",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "Les renseignements personnels demand\u00e9s dans les pr\u00e9sentes sont recueillis",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

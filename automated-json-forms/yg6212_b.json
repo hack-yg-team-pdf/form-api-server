@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "35": {
+        "description": "purposes of that regulation and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      },
+      "37": {
+        "description": "poste 7969.",
+        "type": "string"
+      },
+      "38": {
+        "description": "Your personal information contained in this form is collected under the authority of the Naming Regulation O.I.C. 2015/007.  It will be used for the",
+        "type": "boolean"
+      },
+      "698": {
+        "description": "3.  Name of Applicant / Nom de l\u2019auteur de la demande :",
+        "type": "string"
+      },
+      "699": {
+        "description": "4.  Mailing address of Applicant / Adresse postale de l\u2019auteur de la demande :",
+        "type": "string"
+      },
+      "700": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "701": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "702": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "703": {
+        "description": "Prov. Or Terr. / Prov. Ou Terr.",
+        "type": "string"
+      },
+      "704": {
+        "description": "Postal Code / Code postale",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "properties": {
+      "161": {
+        "description": "Municipality",
+        "type": "string"
+      },
+      "164": {
+        "description": "Polling division number",
+        "type": "string"
+      },
+      "165": {
+        "description": "Date",
+        "type": "string"
+      },
+      "166": {
+        "description": "Date",
+        "type": "string"
+      },
+      "167": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "170": {
+        "description": "Designated municipal officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

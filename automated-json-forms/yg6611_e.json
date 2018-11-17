@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "378": {
+        "description": "Date of birth Name",
+        "type": "string"
+      },
+      "379": {
+        "description": "FIRST",
+        "type": "string"
+      },
+      "380": {
+        "description": "MIDDLE INT.",
+        "type": "string"
+      },
+      "381": {
+        "description": "makes application for the re-issuance of a registration for trapping concession area #",
+        "type": "string"
+      },
+      "382": {
+        "description": "HEREINAFTER called the \u201capplicant\u201d:",
+        "type": "string"
+      },
+      "383": {
+        "description": "YEAR",
+        "type": "string"
+      },
+      "384": {
+        "description": "MONTH",
+        "type": "string"
+      },
+      "385": {
+        "description": "The applicant, in accordance with Sections 73 and 74 of the Wildlife Act, hereby",
+        "type": "string"
+      },
+      "386": {
+        "description": "All group members are enrolled under one of the Yukon First Nation Final Agreements or are",
+        "type": "string"
+      },
+      "387": {
+        "description": "beneficiaries of a Transboundary agreement as defined in the Umbrella Final Agreement.",
+        "type": "string"
+      },
+      "390": {
+        "description": "Provide a detailed description of any improvements or developments made on this concession over",
+        "type": "string"
+      },
+      "391": {
+        "description": "Provide a detailed list of all fur harvest from this concession area over the most recent term:",
+        "type": "string"
+      },
+      "392": {
+        "description": "Harvest by concession holders",
+        "type": "string"
+      },
+      "393": {
+        "description": "Species",
+        "type": "string"
+      },
+      "394": {
+        "description": "20 - 20  20 - 20 20 - 20 20 - 20 20 - 20",
+        "type": "string"
+      },
+      "395": {
+        "description": "recent term:",
+        "type": "string"
+      },
+      "396": {
+        "description": "SECTION C: DECLARATION",
+        "type": "string"
+      },
+      "397": {
+        "description": "Sign below to legally declare that the information provided above is complete and correct.",
+        "type": "string"
+      },
+      "398": {
+        "description": "and correct.",
+        "type": "string"
+      },
+      "399": {
+        "description": "20 - 20  20 - 20 20 - 20 20 - 20 20 - 20",
+        "type": "string"
+      },
+      "400": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "401": {
+        "description": "Harvest by assistant trapper(s)",
+        "type": "string"
+      },
+      "402": {
+        "description": "Species",
+        "type": "string"
+      },
+      "403": {
+        "description": "Provide any additional information related to the concession area and trapping activities on it over the most",
+        "type": "string"
+      },
+      "404": {
+        "description": "Signature of applicant",
+        "type": "string"
+      },
+      "405": {
+        "description": "By signing here, the applicant declares that all information provided in sections A and B is complete",
+        "type": "string"
+      },
+      "406": {
+        "description": "tion, contact the ATIPP Coordinator, Yukon Department of Environment, Box 2703, Whitehorse, Yukon, Y1A 2C6, (867) 667-5652 or 1-800-661-0408 ext. 5652 within Yukon.",
+        "type": "string"
+      },
+      "407": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the administration",
+        "type": "string"
+      },
+      "408": {
+        "description": "and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection of your informa-",
+        "type": "string"
+      },
+      "409": {
+        "description": "OFFICE USE",
+        "type": "string"
+      },
+      "410": {
+        "description": "Date received",
+        "type": "string"
+      },
+      "411": {
+        "description": "Receiver\u2019s signature",
+        "type": "string"
+      },
+      "412": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "413": {
+        "description": "Referral comments",
+        "type": "string"
+      },
+      "414": {
+        "description": "YG(6611EQ)F1 Rev.08/2018",
+        "type": "string"
+      },
+      "415": {
+        "description": "Authorized signature",
+        "type": "string"
+      },
+      "416": {
+        "description": "Date",
+        "type": "string"
+      },
+      "417": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "418": {
+        "description": "Date",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

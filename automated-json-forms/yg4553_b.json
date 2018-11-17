@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "55": {
+        "description": "City or town",
+        "type": "string"
+      },
+      "56": {
+        "description": "Mme",
+        "type": "boolean"
+      },
+      "58": {
+        "description": "Mrs.",
+        "type": "boolean"
+      },
+      "59": {
+        "description": "Mr.",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "Autre",
+        "type": "boolean"
+      },
+      "62": {
+        "description": "Telephone (day)",
+        "type": "string"
+      },
+      "63": {
+        "description": "Ville/village  Territoire/province, pays  Code postal",
+        "type": "string"
+      },
+      "64": {
+        "description": "Adresse postale",
+        "type": "string"
+      },
+      "67": {
+        "description": "Entreprise/organisme (s\u2019il y a lieu)",
+        "type": "string"
+      },
+      "68": {
+        "description": "Nom  (nom de famille, pr\u00e9nom usuel, autres pr\u00e9noms)",
+        "type": "string"
+      },
+      "69": {
+        "description": "Name (last, first, middle)",
+        "type": "string"
+      },
+      "70": {
+        "description": "Company / Organization (if applicable)",
+        "type": "string"
+      },
+      "71": {
+        "description": "concernant une autre personne, vous devez joindre une lettre d\u2019autorisation sign\u00e9e par la personne en question ou une preuve que vous avez le pouvoir d\u2019agir au nom de",
+        "type": "string"
+      },
+      "72": {
+        "description": "Your signature",
+        "type": "string"
+      },
+      "73": {
+        "description": "Votre signature   X  Date de la signature",
+        "type": "string"
+      },
+      "74": {
+        "description": "Request no.",
+        "type": "string"
+      },
+      "75": {
+        "description": "Date received",
+        "type": "string"
+      },
+      "76": {
+        "description": "Demande re\u00e7ue le  G\u00e9rant des documents",
+        "type": "string"
+      },
+      "77": {
+        "description": "Les renseignements personnels contenus dans ce document sont recueillis en vertu de la Loi sur",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "l\u2019acc\u00e8s \u00e0 l\u2019information et la protection des renseignements personnels et seront utilis\u00e9s",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

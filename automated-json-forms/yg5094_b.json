@@ -1,0 +1,307 @@
+{
+  "fields": {
+    "properties": {
+      "172": {
+        "description": "(d) a fait l\u2019objet d\u2019un refus d\u2019inscription ou de licence men-",
+        "type": "string"
+      },
+      "174": {
+        "description": "(a) been convicted of an offence under the Criminal Code",
+        "type": "string"
+      },
+      "177": {
+        "description": "be:",
+        "type": "string"
+      },
+      "180": {
+        "description": "un employ\u00e9 de votre entreprise, soci\u00e9t\u00e9 en nom collectif,",
+        "type": "string"
+      },
+      "182": {
+        "description": "(d) been refused registration or a licence mentioned in",
+        "type": "string"
+      },
+      "186": {
+        "description": "6.\t What auditor has the applicant appointed?",
+        "type": "string"
+      },
+      "191": {
+        "description": "(Canada)?                                                         Yes       No",
+        "type": "string"
+      },
+      "193": {
+        "description": "(c) been registered or licensed in any other capacity in",
+        "type": "string"
+      },
+      "196": {
+        "description": "6.  Quel est le nom du v\u00e9rificateur nomm\u00e9 par le demandeur?",
+        "type": "string"
+      },
+      "198": {
+        "description": "If yes, give date and details of offence and provide",
+        "type": "string"
+      },
+      "200": {
+        "description": "Dans l\u2019affirmative, pr\u00e9cisez",
+        "type": "string"
+      },
+      "201": {
+        "description": "5.\t Has the applicant, or any partner, officer, director, associa-",
+        "type": "string"
+      },
+      "206": {
+        "description": "ou personne morale selon le cas:",
+        "type": "string"
+      },
+      "209": {
+        "description": "8. Est-ce qu\u2019un administrateur, un dirigeant, un associ\u00e9 ou",
+        "type": "string"
+      },
+      "210": {
+        "description": "Dans l\u2019affirmative, veuillez pr\u00e9ciser la date et la nature",
+        "type": "string"
+      },
+      "212": {
+        "description": "(e) been refused a surety bond?",
+        "type": "string"
+      },
+      "219": {
+        "description": "(e) a fait l\u2019objet d\u2019un refus de cautionnement?   Oui       No",
+        "type": "string"
+      },
+      "221": {
+        "description": "administrateur, une association ou une filiale du deman-",
+        "type": "string"
+      },
+      "225": {
+        "description": "(b) been convicted of an offence under this Act or any",
+        "type": "string"
+      },
+      "227": {
+        "description": "Je joins les documents suivants \u00e0 l\u2019appui de ma demande :",
+        "type": "boolean"
+      },
+      "237": {
+        "description": "Please make your cheque payable to Government of Yukon, or, complete payment information form YG5924 at: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "238": {
+        "description": "Veuillez libeller votre ch\u00e8que au nom du gouvernement du Yukon ou fournir les informations demand\u00e9es ci-dessous remplissez",
+        "type": "string"
+      },
+      "243": {
+        "description": "If yes, give date and provide a copy of discharge",
+        "type": "string"
+      },
+      "245": {
+        "description": "Duly\tauthorized\tofficer\tof\tthe\tCompany\t\u2022\tSIGNATURE",
+        "type": "string"
+      },
+      "253": {
+        "description": "(b) a \u00e9t\u00e9 d\u00e9clar\u00e9 coupable d\u2019un infraction \u00e0 la pr\u00e9sente",
+        "type": "string"
+      },
+      "254": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "255": {
+        "description": "this                                                                           day of                                                                           20",
+        "type": "string"
+      },
+      "257": {
+        "description": "Title or position in the Company",
+        "type": "string"
+      },
+      "260": {
+        "description": "Dans l\u2019affirmative, veuillez pr\u00e9ciser la date et fournir",
+        "type": "string"
+      },
+      "261": {
+        "description": "Duly\tauthorized\tofficer\tof\tthe\tCompany\t\u2022\tPLEASE\tPRINT",
+        "type": "string"
+      },
+      "262": {
+        "description": "I,   ,",
+        "type": "string"
+      },
+      "263": {
+        "description": "Mon mandat se termine le :",
+        "type": "string"
+      },
+      "266": {
+        "description": "of    ,",
+        "type": "string"
+      },
+      "267": {
+        "description": "in the Province/territory of",
+        "type": "string"
+      },
+      "268": {
+        "description": "Applicant\t\u2022\tPLEASE\tPRINT",
+        "type": "string"
+      },
+      "269": {
+        "description": "de (ville)",
+        "type": "string"
+      },
+      "270": {
+        "description": "(province ou territoire)",
+        "type": "string"
+      },
+      "273": {
+        "description": "Please return your documents and fees to:",
+        "type": "boolean"
+      },
+      "277": {
+        "description": "Evidence Act.",
+        "type": "string"
+      },
+      "281": {
+        "description": "in province/territory of",
+        "type": "string"
+      },
+      "282": {
+        "description": "(province ou territoire) le   jour de  20",
+        "type": "string"
+      },
+      "283": {
+        "description": "the duly appointed",
+        "type": "string"
+      },
+      "284": {
+        "description": "STATUTORY DECLARATION",
+        "type": "string"
+      },
+      "285": {
+        "description": "Title and Position",
+        "type": "string"
+      },
+      "287": {
+        "description": "titre et la position",
+        "type": "string"
+      },
+      "288": {
+        "description": "Notary\tPublic\t\u2022\tPLEASE\tPRINT",
+        "type": "string"
+      },
+      "289": {
+        "description": "Veuillez envoyer vos documents et votre paiement \u00e0 l\u2019adresse :",
+        "type": "boolean"
+      },
+      "290": {
+        "description": "Declared before me at",
+        "type": "string"
+      },
+      "1514": {
+        "description": "(a)  Name under which applicant will carry on business:",
+        "type": "string"
+      },
+      "1515": {
+        "description": "(c)  Business Address:",
+        "type": "string"
+      },
+      "1516": {
+        "description": "(d)  Telephone Number:",
+        "type": "string"
+      },
+      "1518": {
+        "description": "transacted:",
+        "type": "string"
+      },
+      "1519": {
+        "description": "(a)  The applicant maintains accounts at the following",
+        "type": "string"
+      },
+      "1520": {
+        "description": "(b)  State bank and branches through which business is",
+        "type": "string"
+      },
+      "1521": {
+        "description": "bank(s):",
+        "type": "string"
+      },
+      "1528": {
+        "description": "4.",
+        "type": "string"
+      },
+      "1532": {
+        "description": "(a)  Does the applicant apply for registration of any branch",
+        "type": "string"
+      },
+      "1533": {
+        "description": "offices?",
+        "type": "string"
+      },
+      "1534": {
+        "description": "Affairs at  (867) 667- 5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "1536": {
+        "description": "(d)  Num\u00e9ro de t\u00e9l\u00e9phone :",
+        "type": "string"
+      },
+      "1537": {
+        "description": "(c)  Adresse de l\u2019entreprise :",
+        "type": "string"
+      },
+      "1538": {
+        "description": "(b)  Nom du demandeur :",
+        "type": "string"
+      },
+      "1539": {
+        "description": "l\u2019exercice de ses activit\u00e9s :",
+        "type": "string"
+      },
+      "1540": {
+        "description": "2.",
+        "type": "string"
+      },
+      "1543": {
+        "description": "op\u00e9rations de l\u2019entreprise :",
+        "type": "string"
+      },
+      "1545": {
+        "description": "Yukon:",
+        "type": "string"
+      },
+      "1546": {
+        "description": "(c)  The applicant maintains a trust account at the fol-",
+        "type": "string"
+      },
+      "1548": {
+        "description": "4.",
+        "type": "string"
+      },
+      "1552": {
+        "description": "(b)  If so, state address:",
+        "type": "string"
+      },
+      "1553": {
+        "description": "affaires r\u00e9glementaires \u00e0 :(867) 667-5111 ou, sans frais au Yukon, au",
+        "type": "string"
+      },
+      "1554": {
+        "description": "ther information, contact the Manager of Professional Licensing and Regulatory",
+        "type": "string"
+      },
+      "1555": {
+        "description": "sujet en communiquant avec le directeur de l\u2019accr\u00e9ditation professionnelle et",
+        "type": "string"
+      },
+      "1557": {
+        "description": "suivante :",
+        "type": "string"
+      },
+      "1558": {
+        "description": "(a)  Le demandeur a des comptes dans la ou les banques",
+        "type": "string"
+      },
+      "1559": {
+        "description": "suivantes :",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

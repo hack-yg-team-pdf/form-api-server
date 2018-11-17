@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "212": {
+        "description": "Name",
+        "type": "string"
+      },
+      "215": {
+        "description": "Performing arts",
+        "type": "string"
+      },
+      "216": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "217": {
+        "description": "Home crafts",
+        "type": "string"
+      },
+      "218": {
+        "description": "Business name (if applicable)",
+        "type": "string"
+      },
+      "219": {
+        "description": "City",
+        "type": "string"
+      },
+      "220": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "221": {
+        "description": "Email",
+        "type": "string"
+      },
+      "225": {
+        "description": "I am a:",
+        "type": "boolean"
+      },
+      "226": {
+        "description": "The product(s) which will bear the Created In The Yukon logo are:",
+        "type": "boolean"
+      },
+      "227": {
+        "description": "Literary arts",
+        "type": "boolean"
+      },
+      "228": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "229": {
+        "description": "Product details:",
+        "type": "string"
+      },
+      "230": {
+        "description": "Number",
+        "type": "string"
+      },
+      "231": {
+        "description": "requested",
+        "type": "string"
+      },
+      "232": {
+        "description": "Tent cards for counter display (4\u201dx8\u201d, individual)",
+        "type": "boolean"
+      },
+      "233": {
+        "description": "Small (8\u201dx 4.75\u201d x 10.5\u201d, 250/box or individually)",
+        "type": "string"
+      },
+      "234": {
+        "description": "Price tags",
+        "type": "boolean"
+      },
+      "235": {
+        "description": "Large folding(4\u201dx1.75\u201d, bundles of 100)",
+        "type": "string"
+      },
+      "236": {
+        "description": "Medium (1.75\u201dx1.75\u201d, bundles of 100)",
+        "type": "string"
+      },
+      "237": {
+        "description": "Stickers",
+        "type": "boolean"
+      },
+      "238": {
+        "description": "Large (10\u201dx 5\u201dx 13\u201d, 250/box or individually)",
+        "type": "string"
+      },
+      "239": {
+        "description": "The use of this logo on a retailers\u2019 own promotional material is permitted, providing that the standards of use, in the",
+        "type": "string"
+      },
+      "240": {
+        "description": "Medium (11\u201dx 14\u201d, bundles of 50)",
+        "type": "string"
+      },
+      "241": {
+        "description": "(artists only)",
+        "type": "boolean"
+      },
+      "242": {
+        "description": "program guidelines are adhered to. Program guidelines are available from the Arts Section.",
+        "type": "string"
+      },
+      "243": {
+        "description": "Small (7.5\u201dx 10\u201d, bundles of 50)",
+        "type": "string"
+      },
+      "244": {
+        "description": "bags",
+        "type": "boolean"
+      },
+      "245": {
+        "description": "Large (15\u201d x 18\u201d, bundles of 50)",
+        "type": "string"
+      },
+      "246": {
+        "description": "Flat paper",
+        "type": "string"
+      },
+      "247": {
+        "description": "YG(6439EQ)F1 Rev.09/2018",
+        "type": "string"
+      },
+      "248": {
+        "description": "Large (2.5\u201dx 4\u201d, bundles of 100)",
+        "type": "boolean"
+      },
+      "251": {
+        "description": "Page 6 of 6",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

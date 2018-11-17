@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "25": {
+        "description": "18. NOTICE",
+        "type": "string"
+      },
+      "26": {
+        "description": "13. SERVICE TO PERSONS WITH DISABILITIES",
+        "type": "string"
+      },
+      "30": {
+        "description": "13.1  The Operator shall provide a service capable of accommodating persons with disabilities",
+        "type": "string"
+      },
+      "567": {
+        "description": "(hereinafter referred to as the \u201cOperator\u201d)",
+        "type": "string"
+      },
+      "570": {
+        "description": "Agreement Effective Date:",
+        "type": "string"
+      },
+      "571": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "572": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "573": {
+        "description": "Agreement End Date:",
+        "type": "string"
+      },
+      "574": {
+        "description": "This agreement authorizes the above taxi, courtesy vehicle, shuttle service, tour bus, or limousine service operation to",
+        "type": "string"
+      },
+      "575": {
+        "description": "drop off and pick up clients at the Erik Nielsen Whitehorse International Airport (ENWIA) in specific areas designated by",
+        "type": "string"
+      },
+      "576": {
+        "description": "Operator (or authorized designate)",
+        "type": "string"
+      },
+      "577": {
+        "description": "Print name",
+        "type": "string"
+      },
+      "578": {
+        "description": "Date",
+        "type": "string"
+      },
+      "579": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "580": {
+        "description": "Email",
+        "type": "string"
+      },
+      "581": {
+        "description": "Print name",
+        "type": "string"
+      },
+      "582": {
+        "description": "Date",
+        "type": "string"
+      },
+      "583": {
+        "description": "YG(5816EQ)F2 Rev.09/2017",
+        "type": "string"
+      },
+      "584": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

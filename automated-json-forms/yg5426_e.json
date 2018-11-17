@@ -1,0 +1,303 @@
+{
+  "fields": {
+    "properties": {
+      "49": {
+        "description": "General Manager",
+        "type": "string"
+      },
+      "50": {
+        "description": "MINIMUM EMPLOYMENT STANDARDS",
+        "type": "string"
+      },
+      "51": {
+        "description": "MANAGEMENT",
+        "type": "string"
+      },
+      "52": {
+        "description": "PROFESSIONAL",
+        "type": "string"
+      },
+      "53": {
+        "description": "Construction Manager",
+        "type": "string"
+      },
+      "54": {
+        "description": "TRAINING PROGRAM - HOURLY PAID",
+        "type": "string"
+      },
+      "55": {
+        "description": "WORKING",
+        "type": "string"
+      },
+      "56": {
+        "description": "SUPERVISORS",
+        "type": "string"
+      },
+      "58": {
+        "description": "TOTAL EMPLOYEES",
+        "type": "string"
+      },
+      "59": {
+        "description": "HELPERS",
+        "type": "string"
+      },
+      "60": {
+        "description": "WELDER\u2019S",
+        "type": "string"
+      },
+      "61": {
+        "description": "Working Supervisor",
+        "type": "string"
+      },
+      "62": {
+        "description": "Started",
+        "type": "string"
+      },
+      "63": {
+        "description": "(Certified)",
+        "type": "string"
+      },
+      "64": {
+        "description": "OTHERS",
+        "type": "string"
+      },
+      "65": {
+        "description": "EXPENSES",
+        "type": "string"
+      },
+      "66": {
+        "description": "(on and off the job - safety and job skills)",
+        "type": "string"
+      },
+      "67": {
+        "description": "Mechanic",
+        "type": "string"
+      },
+      "68": {
+        "description": "Helper",
+        "type": "string"
+      },
+      "69": {
+        "description": "WORKLOAD (Past 12 months)                                 Type of Work Preferred                                    Standards",
+        "type": "string"
+      },
+      "70": {
+        "description": "Maintenance",
+        "type": "string"
+      },
+      "71": {
+        "description": "Type of                 Manufacturing     Installing          Maintaining          Signify knowledge and",
+        "type": "string"
+      },
+      "72": {
+        "description": "Service               Number of          Number of             Elevators",
+        "type": "string"
+      },
+      "73": {
+        "description": "Alterations",
+        "type": "string"
+      },
+      "74": {
+        "description": "New",
+        "type": "string"
+      },
+      "75": {
+        "description": "Installations",
+        "type": "string"
+      },
+      "76": {
+        "description": "understandig of standards",
+        "type": "string"
+      },
+      "77": {
+        "description": "Major",
+        "type": "string"
+      },
+      "78": {
+        "description": "(as applicable, in whole or in",
+        "type": "string"
+      },
+      "79": {
+        "description": "Started",
+        "type": "string"
+      },
+      "80": {
+        "description": "Escalators",
+        "type": "string"
+      },
+      "81": {
+        "description": "SUBMIT BLANK SPECIMEN CONTRACTS              Handicapped",
+        "type": "string"
+      },
+      "82": {
+        "description": "Conveyance",
+        "type": "string"
+      },
+      "86": {
+        "description": "P. O. G. Cont.",
+        "type": "string"
+      },
+      "87": {
+        "description": "Manlifts",
+        "type": "string"
+      },
+      "88": {
+        "description": "Amusement",
+        "type": "string"
+      },
+      "89": {
+        "description": "Full Main.                                                                    Dumbwaiters",
+        "type": "string"
+      },
+      "90": {
+        "description": "Canadian",
+        "type": "string"
+      },
+      "91": {
+        "description": "I & R Cont.",
+        "type": "string"
+      },
+      "92": {
+        "description": "Rides",
+        "type": "string"
+      },
+      "93": {
+        "description": "Passenger",
+        "type": "string"
+      },
+      "94": {
+        "description": "CSA W59",
+        "type": "string"
+      },
+      "95": {
+        "description": "CSA Z185",
+        "type": "string"
+      },
+      "96": {
+        "description": "Other Cont.",
+        "type": "string"
+      },
+      "97": {
+        "description": "Ropeways",
+        "type": "string"
+      },
+      "98": {
+        "description": "Lifts",
+        "type": "string"
+      },
+      "99": {
+        "description": "(Pres. or Officer)  Date:",
+        "type": "string"
+      },
+      "100": {
+        "description": "2256",
+        "type": "string"
+      },
+      "101": {
+        "description": "WE CERTIFY THAT THE INSTALLATION, MAINTENANCE AND REPAIR OF ALL PARTS OF THE EQUIPMENT WILL CONFORM WITH THE",
+        "type": "string"
+      },
+      "102": {
+        "description": "REQUIREMENTS OF THE ELEVATOR AND FIXED CONVEYANCES ACT AND REGULATIONS, YUKON TERRITORY.",
+        "type": "string"
+      },
+      "103": {
+        "description": "CSA Z98",
+        "type": "string"
+      },
+      "104": {
+        "description": "CSA ZB355",
+        "type": "string"
+      },
+      "105": {
+        "description": "SIGNATURE:",
+        "type": "string"
+      },
+      "106": {
+        "description": "DO NOT COMPLETE BELOW THIS LINE       -       FOR OFFICE USE ONLY",
+        "type": "string"
+      },
+      "107": {
+        "description": "//",
+        "type": "string"
+      },
+      "108": {
+        "description": "company representatives will be interviewed at a panel review board.    Phone:    Title:",
+        "type": "string"
+      },
+      "109": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "110": {
+        "description": "Lifts",
+        "type": "string"
+      },
+      "111": {
+        "description": "CURRENT",
+        "type": "string"
+      },
+      "112": {
+        "description": "Registered",
+        "type": "string"
+      },
+      "113": {
+        "description": "REGISTRATION",
+        "type": "string"
+      },
+      "114": {
+        "description": "Previously",
+        "type": "string"
+      },
+      "115": {
+        "description": "New Registration                First Registered                                REVIEWS (PAST 24 MONTHS)",
+        "type": "string"
+      },
+      "116": {
+        "description": "TYPE OF EQUIPMENT    MANUF       INSTALL      MAINT",
+        "type": "string"
+      },
+      "117": {
+        "description": "REGISTRATION HISTORY",
+        "type": "string"
+      },
+      "118": {
+        "description": "ELEVATORS",
+        "type": "string"
+      },
+      "119": {
+        "description": "DUMBWAITERS",
+        "type": "string"
+      },
+      "120": {
+        "description": "PASSENGER",
+        "type": "string"
+      },
+      "121": {
+        "description": "HANDICAPPED LIFTS",
+        "type": "string"
+      },
+      "122": {
+        "description": "ESCALATORS",
+        "type": "string"
+      },
+      "123": {
+        "description": "MANLIFTS",
+        "type": "string"
+      },
+      "124": {
+        "description": "AMUSEMENT RIDES",
+        "type": "string"
+      },
+      "125": {
+        "description": "ROPEWAYS",
+        "type": "string"
+      },
+      "126": {
+        "description": "YG(5426Q)F1 04/2011",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

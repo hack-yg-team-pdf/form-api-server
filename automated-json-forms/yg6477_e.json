@@ -1,0 +1,275 @@
+{
+  "fields": {
+    "properties": {
+      "132": {
+        "description": "cover the costs of a worst case scenario not paid for by the insurance carrier.",
+        "type": "boolean"
+      },
+      "133": {
+        "description": "Other Financial Instruments2 (one or more of the following):",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "A guarantee or an indemnity bond.",
+        "type": "boolean"
+      },
+      "135": {
+        "description": "\u2022 the name of the insurance carrier;",
+        "type": "boolean"
+      },
+      "136": {
+        "description": "capital to cover the costs of a worst case scenario. The audited financial statements of the Applicant\u2019s parent corporation will not be",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "Financial Responsibility (one of the following):",
+        "type": "boolean"
+      },
+      "138": {
+        "description": "considered acceptable (unless the parent corporation has signed a parental guarantee).",
+        "type": "boolean"
+      },
+      "139": {
+        "description": "worst case scenario.",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "Copies of any new banking agreements and any new loans/leases.",
+        "type": "boolean"
+      },
+      "141": {
+        "description": "Letter of credit: an additional irrevocable letter of credit.",
+        "type": "boolean"
+      },
+      "142": {
+        "description": "Additional third-party insurance: indicate particulars as per the certificate of insurance listed above.",
+        "type": "boolean"
+      },
+      "143": {
+        "description": "Applicant\u2019s audited financial statements.",
+        "type": "boolean"
+      },
+      "144": {
+        "description": "Financial Viability (and any 3 from this list):",
+        "type": "boolean"
+      },
+      "145": {
+        "description": "Projected cash flow for next year.",
+        "type": "boolean"
+      },
+      "146": {
+        "description": "Organizational chart and any pending re-organization information including change in shareholdings.",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "Estimated cost of Spill Contingency Plan.",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "Business plan.",
+        "type": "boolean"
+      },
+      "149": {
+        "description": "Notice of assessment for filing most recent corporate income tax return.",
+        "type": "boolean"
+      },
+      "150": {
+        "description": "Other proof satisfactory to the Minister.",
+        "type": "boolean"
+      },
+      "151": {
+        "description": "Insurance",
+        "type": "boolean"
+      },
+      "152": {
+        "description": "CRA on-line printout of payroll and GST showing accounts up to date or copy of most recent filing.",
+        "type": "boolean"
+      },
+      "153": {
+        "description": "Proof of good standing with Yukon Workers\u2019 Compensation Health and Safety Board.",
+        "type": "boolean"
+      },
+      "154": {
+        "description": "Business license.",
+        "type": "boolean"
+      },
+      "155": {
+        "description": "Financial Viability (both of the following):",
+        "type": "boolean"
+      },
+      "157": {
+        "description": "CHECKLIST: CONTENTS OF THE SUBMISSION \u2013 Check all that apply.",
+        "type": "boolean"
+      },
+      "158": {
+        "description": "Also, please supply copies of the following.",
+        "type": "boolean"
+      },
+      "159": {
+        "description": "Liability insurance policy.",
+        "type": "boolean"
+      },
+      "160": {
+        "description": "\u2022 Seepage and Pollution (Spill and Debris), Clean-up and",
+        "type": "string"
+      },
+      "162": {
+        "description": "Contamination Insurance (including coverage for pollution",
+        "type": "string"
+      },
+      "163": {
+        "description": "\u2022 Deductible................................................................................Cdn$  Per Incident",
+        "type": "string"
+      },
+      "164": {
+        "description": "as issued to  (hereinafter referred to as the \u2018Insured\u2019)",
+        "type": "string"
+      },
+      "165": {
+        "description": "(2) the policies provide for",
+        "type": "string"
+      },
+      "166": {
+        "description": "\u2022 Control of Spill insurance up to a limit of.............................................Cdn$  Per Incident",
+        "type": "string"
+      },
+      "167": {
+        "description": "(1) policy number(s)  effective from and expiring on",
+        "type": "string"
+      },
+      "168": {
+        "description": "\u2022 \u201cBBB-\u201d or higher from Standard & Poor\u2019s; \u201cBBB low\u201d or higher from DBRS; \u201cBaa3\u201d or higher from Moody\u2019s;",
+        "type": "boolean"
+      },
+      "169": {
+        "description": "whose address is at .",
+        "type": "string"
+      },
+      "171": {
+        "description": "\u201cBBB-\u201d or higher from Fitch; and/or the equivalent from another internationally recognized credit rating agency.",
+        "type": "boolean"
+      },
+      "682": {
+        "description": "B. APPLICANT INFORMATION",
+        "type": "string"
+      },
+      "683": {
+        "description": "Date of Application                /           /",
+        "type": "string"
+      },
+      "684": {
+        "description": "Y Y Y Y                   M M                 D D",
+        "type": "string"
+      },
+      "685": {
+        "description": "Geoscience Exploration",
+        "type": "string"
+      },
+      "686": {
+        "description": "Gas Processing Plant",
+        "type": "string"
+      },
+      "687": {
+        "description": "Gas Export",
+        "type": "string"
+      },
+      "688": {
+        "description": "Yukon Corporate Registry Number",
+        "type": "boolean"
+      },
+      "690": {
+        "description": "Full Legal Name of Applicant",
+        "type": "boolean"
+      },
+      "692": {
+        "description": "Abbreviation of Corporate Name",
+        "type": "boolean"
+      },
+      "694": {
+        "description": "Pipeline",
+        "type": "boolean"
+      },
+      "696": {
+        "description": "Type of Oil and Gas Activity (choose all that apply)",
+        "type": "boolean"
+      },
+      "698": {
+        "description": "Well",
+        "type": "boolean"
+      },
+      "700": {
+        "description": "Field Facility",
+        "type": "boolean"
+      },
+      "702": {
+        "description": "C. OFFICIAL SERVICE ADDRESS",
+        "type": "string"
+      },
+      "703": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "704": {
+        "description": "Email",
+        "type": "string"
+      },
+      "705": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "706": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "707": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "708": {
+        "description": "Full Legal Name of the Authorized Authority at the Official Service Address (if different from the applicant):",
+        "type": "string"
+      },
+      "709": {
+        "description": "Name of Contact Person at the Official Service Address",
+        "type": "string"
+      },
+      "710": {
+        "description": "Address",
+        "type": "string"
+      },
+      "711": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "712": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "713": {
+        "description": "D. SIGNATURE",
+        "type": "string"
+      },
+      "714": {
+        "description": "Indicate the name and capacity of the person signing for the applicant.",
+        "type": "string"
+      },
+      "715": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "716": {
+        "description": "Printed Name",
+        "type": "string"
+      },
+      "717": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "718": {
+        "description": "Date",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

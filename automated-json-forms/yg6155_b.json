@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "24": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "27": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "28": {
+        "description": "8.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "29": {
+        "description": "Manager, officer, attorney for service, or authorized agent / Directeur, dirigeant, fond\u00e9 de pouvoir aux fins de signification ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "30": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "31": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "32": {
+        "description": "6.  Name of amalgamated extra-territorial LLC (an application under section 278 of the Business Corporations Act",
+        "type": "string"
+      },
+      "43": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "505": {
+        "description": "As registered in Yukon / Telle qu\u2019enregistr\u00e9e au Yukon",
+        "type": "string"
+      },
+      "506": {
+        "description": "3.  Jurisdiction in which the extra-territorial LLC was amalgamated :",
+        "type": "string"
+      },
+      "507": {
+        "description": "4.  List all other parties to the amalgamation agreement (Yukon registry number, if applicable) :",
+        "type": "string"
+      },
+      "508": {
+        "description": "A Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "509": {
+        "description": "Home Jurisdiction / Autorit\u00e9 L\u00e9gislative Comp\u00e9tente",
+        "type": "string"
+      },
+      "510": {
+        "description": "B Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "511": {
+        "description": "Home Jurisdiction / Autorit\u00e9 L\u00e9gislative Comp\u00e9tente",
+        "type": "string"
+      },
+      "512": {
+        "description": "C Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "513": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "514": {
+        "description": "Home Jurisdiction / Autorit\u00e9 L\u00e9gislative Comp\u00e9tente",
+        "type": "string"
+      },
+      "515": {
+        "description": "D Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "516": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "517": {
+        "description": "Home Jurisdiction / Autorit\u00e9 L\u00e9gislative Comp\u00e9tente",
+        "type": "string"
+      },
+      "518": {
+        "description": "E Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "519": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "520": {
+        "description": "Home Jurisdiction / Autorit\u00e9 L\u00e9gislative Comp\u00e9tente",
+        "type": "string"
+      },
+      "521": {
+        "description": "YG(6155Q)F2 03/2015",
+        "type": "string"
+      },
+      "522": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

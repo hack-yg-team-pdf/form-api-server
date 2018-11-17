@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "42": {
+        "description": "1.",
+        "type": "string"
+      },
+      "43": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "44": {
+        "description": "1.",
+        "type": "string"
+      },
+      "45": {
+        "description": "2.",
+        "type": "string"
+      },
+      "46": {
+        "description": "A NOTICE OF EXAMINATION  was issued from this court, by which   was required",
+        "type": "string"
+      },
+      "47": {
+        "description": "to attend the sittings of this court on the  day of  , 20  at  a.m./p.m.",
+        "type": "string"
+      },
+      "48": {
+        "description": "to be examined in relation to the judgment in this action.",
+        "type": "string"
+      },
+      "49": {
+        "description": "of",
+        "type": "string"
+      },
+      "50": {
+        "description": "(address)",
+        "type": "string"
+      },
+      "51": {
+        "description": "(name of party)",
+        "type": "string"
+      },
+      "52": {
+        "description": "WHEREAS (State facts relating to failure to attend)",
+        "type": "string"
+      },
+      "53": {
+        "description": "and to bring him or her before a Judge of the Small Claims Court of Yukon, and thereafter deal with",
+        "type": "string"
+      },
+      "54": {
+        "description": "(name of party)",
+        "type": "string"
+      },
+      "55": {
+        "description": "WHEREAS a judge of this court ordered  arrested,",
+        "type": "string"
+      },
+      "56": {
+        "description": "THIS IS THEREFORE TO COMMAND YOU to apprehend",
+        "type": "string"
+      },
+      "57": {
+        "description": "Dated this  day of, 20",
+        "type": "string"
+      },
+      "58": {
+        "description": "at , Yukon",
+        "type": "string"
+      },
+      "59": {
+        "description": "YG(4511QE)F2 REV. 01/2012",
+        "type": "string"
+      },
+      "61": {
+        "description": "Reference: Section 70 Small Claims Court Regulations",
+        "type": "boolean"
+      },
+      "64": {
+        "description": "(name of party)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

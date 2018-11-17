@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "31": {
+        "description": "Detailed description of safety component of program.",
+        "type": "string"
+      },
+      "32": {
+        "description": "I,  declare:",
+        "type": "string"
+      },
+      "34": {
+        "description": "Detailed description of practical component of program.",
+        "type": "boolean"
+      },
+      "36": {
+        "description": "associated to the profession related to the licence being requested. It will be used for the purposes of these acts and their regulations, and to determine eligibility for licensure/",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "physiotherapy procedures, which are those of the College of Physical Therapists of British Columbia.",
+        "type": "boolean"
+      },
+      "40": {
+        "description": "I have read and understand the applicable practice standards related to the performance of specialized",
+        "type": "string"
+      },
+      "43": {
+        "description": "I will use this procedure in my practice only within the scope enabled by the approved education program.",
+        "type": "boolean"
+      },
+      "45": {
+        "description": "Personal information is collected, used, and disclosed under the authority of Section 29(a) and (c) of the Access to Information and Protection of Privacy Act and under the Act",
+        "type": "boolean"
+      },
+      "383": {
+        "description": "Yukon licence number (if applicable)",
+        "type": "string"
+      },
+      "384": {
+        "description": "Email",
+        "type": "string"
+      },
+      "385": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "386": {
+        "description": "Education information",
+        "type": "string"
+      },
+      "387": {
+        "description": "List the completed program for the chosen endorsement and attach a copy of the diploma, degree or certificate.",
+        "type": "string"
+      },
+      "388": {
+        "description": "City, prov/terr., country Start date",
+        "type": "string"
+      },
+      "389": {
+        "description": "proof to the registrar.",
+        "type": "string"
+      },
+      "390": {
+        "description": "I have completed a post-graduate acupuncture education and training program as set out by the",
+        "type": "string"
+      },
+      "391": {
+        "description": "Acupuncture Foundation of Canada Institute which resulted in a passing grade and have provided",
+        "type": "string"
+      },
+      "392": {
+        "description": "proof to the registrar.",
+        "type": "string"
+      },
+      "393": {
+        "description": "I have completed a post-graduate dry needling education and training program approved by the",
+        "type": "string"
+      },
+      "394": {
+        "description": "Yukon Physiotherapist Advisory Committee which resulted in a passing grade and have provided",
+        "type": "string"
+      },
+      "395": {
+        "description": "grade and have provided proof to the registrar.",
+        "type": "string"
+      },
+      "396": {
+        "description": "I have completed a post-graduate spinal manipulation education and training program as set out",
+        "type": "string"
+      },
+      "397": {
+        "description": "by the Orthopaedic Division of the Canada Physiotherapy Association which resulted in a passing",
+        "type": "string"
+      },
+      "398": {
+        "description": "Additional program information",
+        "type": "string"
+      },
+      "399": {
+        "description": "evaluate the program\u2019s suitability.",
+        "type": "string"
+      },
+      "400": {
+        "description": "endorsement complete the following. This information will be used by the Physiotherapists Advisory Committee to",
+        "type": "string"
+      },
+      "401": {
+        "description": "N/A",
+        "type": "string"
+      },
+      "402": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "403": {
+        "description": "No",
+        "type": "string"
+      },
+      "415": {
+        "description": "YG(6658EQ)F2 09/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

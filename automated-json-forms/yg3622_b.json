@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "291": {
+        "description": "of",
+        "type": "string"
+      },
+      "294": {
+        "description": "shall meet at",
+        "type": "string"
+      },
+      "295": {
+        "description": "at",
+        "type": "string"
+      },
+      "296": {
+        "description": "on",
+        "type": "string"
+      },
+      "297": {
+        "description": "Day of week and date",
+        "type": "string"
+      },
+      "298": {
+        "description": "Date",
+        "type": "string"
+      },
+      "299": {
+        "description": "up to",
+        "type": "string"
+      },
+      "300": {
+        "description": "on",
+        "type": "string"
+      },
+      "301": {
+        "description": "Date",
+        "type": "string"
+      },
+      "302": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "305": {
+        "description": "Given under my hand this               day of                                                      at                                          in the Yukon Territory.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

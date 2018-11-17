@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "171": {
+        "description": "Baghouse",
+        "type": "string"
+      },
+      "177": {
+        "description": "Scrubber        Enclosure        Hood        Curtain        Fabric Filter",
+        "type": "string"
+      },
+      "189": {
+        "description": "Screening Process",
+        "type": "string"
+      },
+      "190": {
+        "description": "Cyclone          None               Other:",
+        "type": "string"
+      },
+      "192": {
+        "description": "12. What type of emission control equipment will be used for the following fugitive emission sources?",
+        "type": "string"
+      },
+      "202": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "206": {
+        "description": "Scrubber        Enclosure        Hood        Curtain        Fabric Filter",
+        "type": "string"
+      },
+      "211": {
+        "description": "Other",
+        "type": "string"
+      },
+      "213": {
+        "description": "specifications, diagrams and pictures.",
+        "type": "string"
+      },
+      "214": {
+        "description": "Cyclone          None               Other:",
+        "type": "string"
+      },
+      "218": {
+        "description": "Conveyors",
+        "type": "string"
+      },
+      "220": {
+        "description": "Truck Loading",
+        "type": "string"
+      },
+      "226": {
+        "description": "11. Provide details on the dryer emissions control equipment including (as an attachment) manufacturer\u2019s",
+        "type": "string"
+      },
+      "227": {
+        "description": "Cyclone",
+        "type": "string"
+      },
+      "235": {
+        "description": "PART 3 - EMISSIONS CONTROL EQUIPMENT",
+        "type": "string"
+      },
+      "240": {
+        "description": "10. What type of dryer emission control equipment will be used?",
+        "type": "string"
+      },
+      "241": {
+        "description": "Scrubber",
+        "type": "string"
+      },
+      "242": {
+        "description": "Scrubber        Enclosure        Hood        Curtain        Fabric Filter",
+        "type": "string"
+      },
+      "246": {
+        "description": "Source/Process/Operation",
+        "type": "string"
+      },
+      "248": {
+        "description": "Cyclone          None               Other:",
+        "type": "string"
+      },
+      "250": {
+        "description": "Control Equipment",
+        "type": "string"
+      },
+      "258": {
+        "description": "Cyclone          None               Other:",
+        "type": "string"
+      },
+      "267": {
+        "description": "Scrubber        Enclosure        Hood        Curtain        Fabric Filter",
+        "type": "string"
+      },
+      "349": {
+        "description": "PART 1.0 - GENERAL INFORMATION",
+        "type": "boolean"
+      },
+      "350": {
+        "description": "1. Is the plant:              Stationary         Mobile",
+        "type": "boolean"
+      },
+      "351": {
+        "description": "Parallel Drum Mix",
+        "type": "boolean"
+      },
+      "352": {
+        "description": "2. Type of plant:",
+        "type": "boolean"
+      },
+      "353": {
+        "description": "Continuous Drum Mix",
+        "type": "boolean"
+      },
+      "354": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "357": {
+        "description": "3. Make and model of plant:",
+        "type": "string"
+      },
+      "358": {
+        "description": "As original",
+        "type": "string"
+      },
+      "368": {
+        "description": "6. For new plants, provide an estimate of the amount (in tonnes) of asphalt expected to be produced by the plant",
+        "type": "string"
+      },
+      "369": {
+        "description": "annually.",
+        "type": "string"
+      },
+      "370": {
+        "description": "Year 1",
+        "type": "string"
+      },
+      "371": {
+        "description": "Year 2",
+        "type": "string"
+      },
+      "372": {
+        "description": "Year 3",
+        "type": "string"
+      },
+      "373": {
+        "description": "Average",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

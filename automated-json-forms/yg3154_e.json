@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "38": {
+        "description": "1.",
+        "type": "string"
+      },
+      "39": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "40": {
+        "description": "1.",
+        "type": "string"
+      },
+      "41": {
+        "description": "2.",
+        "type": "string"
+      },
+      "42": {
+        "description": "Under an order this court made on:",
+        "type": "string"
+      },
+      "43": {
+        "description": "AND TO DELIVER WITHOUT DELAY to:",
+        "type": "string"
+      },
+      "44": {
+        "description": "(name and address of party who obtained order)",
+        "type": "string"
+      },
+      "45": {
+        "description": "Dated this  day of, 20",
+        "type": "string"
+      },
+      "46": {
+        "description": "at , Yukon",
+        "type": "string"
+      },
+      "47": {
+        "description": "YG(3154QE)F2 REV. 01/2012",
+        "type": "string"
+      },
+      "48": {
+        "description": "Reference: Section 65 Small Claims Court Regulations",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "52": {
+        "description": "REQUISITION FOR ORDER",
+        "type": "string"
+      },
+      "53": {
+        "description": "Plaintiff(s):",
+        "type": "string"
+      },
+      "54": {
+        "description": "1.",
+        "type": "string"
+      },
+      "55": {
+        "description": "2.",
+        "type": "string"
+      },
+      "56": {
+        "description": "2.",
+        "type": "string"
+      },
+      "62": {
+        "description": "2. A draft of the order required is submitted.",
+        "type": "string"
+      },
+      "63": {
+        "description": "4. The affidavit(s) of                                                                   in support of the application has (have) been filed.",
+        "type": "string"
+      },
+      "64": {
+        "description": "(name of party)",
+        "type": "string"
+      },
+      "65": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "66": {
+        "description": "YG(5771QE) 07/2011",
+        "type": "string"
+      },
+      "67": {
+        "description": "Reference: Sections 37 and 66 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "68": {
+        "description": "Signature",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "is under a legal disability, namely",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

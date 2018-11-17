@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "76": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "80": {
+        "description": "5. If the location is within municipal boundaries, what is the zoning of that land? (For multiple site locations, list on a",
+        "type": "string"
+      },
+      "82": {
+        "description": "12. Provide a 24-hour emergency number for the vendor or his/her agent:",
+        "type": "string"
+      },
+      "87": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "91": {
+        "description": "premise or outlet.",
+        "type": "string"
+      },
+      "109": {
+        "description": "Note: If the applicant is not the owner of the property where the permitted activity will occur, the written consent of the owner is required.  Please attach",
+        "type": "string"
+      },
+      "111": {
+        "description": "selling a pesticide in bulk.",
+        "type": "string"
+      },
+      "112": {
+        "description": "11. Provide the name and the relevant experience and qualifications of the individual responsible for each",
+        "type": "string"
+      },
+      "118": {
+        "description": "10. If applicable, describe the procedures, materials and facilities to be used for repackaging a pesticide or",
+        "type": "string"
+      },
+      "201": {
+        "description": "1. Name and address of applicant",
+        "type": "string"
+      },
+      "205": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "207": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "209": {
+        "description": "Name (person or business) to appear on permit",
+        "type": "string"
+      },
+      "210": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "212": {
+        "description": "same as (1) above, or:",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "2. Who is directly responsible for the activities requiring a permit?",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

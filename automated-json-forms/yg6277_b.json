@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "Please take notice that",
+        "type": "string"
+      },
+      "38": {
+        "description": "intends to sell at public auction one",
+        "type": "string"
+      },
+      "39": {
+        "description": "bearing Serial Number",
+        "type": "string"
+      },
+      "40": {
+        "description": "On croit que ce v\u00e9hicule appartient \u00e0",
+        "type": "string"
+      },
+      "41": {
+        "description": "of",
+        "type": "string"
+      },
+      "42": {
+        "description": "This public auction is to take place on the",
+        "type": "string"
+      },
+      "43": {
+        "description": "day of",
+        "type": "string"
+      },
+      "44": {
+        "description": "(month)  \u2022  (mois)                               (year)  \u2022  (ann\u00e9e)",
+        "type": "string"
+      },
+      "45": {
+        "description": "at",
+        "type": "string"
+      },
+      "46": {
+        "description": "at the place of business of",
+        "type": "string"
+      },
+      "47": {
+        "description": ", Yukon.",
+        "type": "string"
+      },
+      "48": {
+        "description": "Name of auctioneer:",
+        "type": "string"
+      },
+      "49": {
+        "description": "Contact :",
+        "type": "string"
+      },
+      "50": {
+        "description": "(phone number of your business, including area code)  \u2022  (num\u00e9ro de t\u00e9l\u00e9phone de votre entreprise, y compris l\u2019indicatif r\u00e9gional)",
+        "type": "string"
+      },
+      "51": {
+        "description": "at",
+        "type": "boolean"
+      },
+      "54": {
+        "description": "au",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

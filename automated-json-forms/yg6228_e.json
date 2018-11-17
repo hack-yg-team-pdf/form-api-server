@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "43": {
+        "description": "I,                                                                                                                  am the",
+        "type": "string"
+      },
+      "48": {
+        "description": "(name of legal representative or agent)",
+        "type": "string"
+      },
+      "49": {
+        "description": "Street Address",
+        "type": "string"
+      },
+      "50": {
+        "description": "LEGAL REPRESENTATIVE OR AGENT",
+        "type": "string"
+      },
+      "51": {
+        "description": "City",
+        "type": "string"
+      },
+      "52": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "53": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "54": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "55": {
+        "description": "Date completed (YYYY-MM-DD)",
+        "type": "string"
+      },
+      "56": {
+        "description": "Secondary Email Address",
+        "type": "string"
+      },
+      "57": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "58": {
+        "description": "Comments",
+        "type": "string"
+      },
+      "59": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "60": {
+        "description": "Whitehorse, YT, Y1A 2C6",
+        "type": "string"
+      },
+      "61": {
+        "description": "Andrew A. Philipsen Law Centre (Main Floor)",
+        "type": "string"
+      },
+      "62": {
+        "description": "Family Law Information Centre",
+        "type": "string"
+      },
+      "63": {
+        "description": "Complete applications may be submitted:",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "By mail:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "fields": {
+    "properties": {
+      "503": {
+        "description": "Last name    First and middle names",
+        "type": "string"
+      },
+      "504": {
+        "description": "Driver\u2019s licence #    Date of birth",
+        "type": "string"
+      },
+      "505": {
+        "description": "Daytime phone #   Mobile phone #",
+        "type": "string"
+      },
+      "509": {
+        "description": "Passenger vehicle",
+        "type": "string"
+      },
+      "510": {
+        "description": "Co-driver\u2019s licence",
+        "type": "string"
+      },
+      "517": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "518": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "519": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "523": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "524": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "525": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "529": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "530": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "531": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "535": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "536": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "537": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "541": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "542": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "543": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "547": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "548": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "549": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "553": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "554": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "555": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "559": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "560": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "561": {
+        "description": "Declaration of driving experience :",
+        "type": "string"
+      },
+      "565": {
+        "description": "I,   the",
+        "type": "string"
+      },
+      "566": {
+        "description": "PRINT NAME",
+        "type": "string"
+      },
+      "567": {
+        "description": "TOTAL DRIVING HOURS",
+        "type": "string"
+      },
+      "571": {
+        "description": "of the above named applicant, hereby affirm my belief that the applicant has driven at least the number of hours required",
+        "type": "string"
+      },
+      "572": {
+        "description": "under section 6.4(1)(d) of the Motor Vehicle Graduated Driver Licensing regulations:",
+        "type": "string"
+      },
+      "573": {
+        "description": "parent",
+        "type": "string"
+      },
+      "577": {
+        "description": "Signature of parent, guardian or co-driver",
+        "type": "string"
+      },
+      "578": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "579": {
+        "description": "guardian",
+        "type": "string"
+      },
+      "583": {
+        "description": "YG(4885EQ)F1 Rev.02/2018",
+        "type": "string"
+      },
+      "584": {
+        "description": "Date",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

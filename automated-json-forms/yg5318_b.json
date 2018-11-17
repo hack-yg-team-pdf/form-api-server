@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "134": {
+        "description": "T\u00e9l\u00e9phone                                                                                                   Signature",
+        "type": "string"
+      },
+      "138": {
+        "description": "Adresse",
+        "type": "string"
+      },
+      "139": {
+        "description": "YG(5318Q)F3 Rev. 11/2013",
+        "type": "string"
+      },
+      "146": {
+        "description": "Adresse",
+        "type": "string"
+      },
+      "148": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "162": {
+        "description": "Name                                                                                                           Occupation",
+        "type": "string"
+      },
+      "164": {
+        "description": "T\u00e9l\u00e9phone                                                                                                   Signature",
+        "type": "string"
+      },
+      "168": {
+        "description": "Name                                                                                                           Occupation",
+        "type": "string"
+      },
+      "170": {
+        "description": "City",
+        "type": "string"
+      },
+      "173": {
+        "description": "Name                                                                                                           Occupation",
+        "type": "string"
+      },
+      "176": {
+        "description": "Telephone Signature",
+        "type": "string"
+      },
+      "178": {
+        "description": "Adresse",
+        "type": "string"
+      },
+      "179": {
+        "description": "City",
+        "type": "string"
+      },
+      "180": {
+        "description": "T\u00e9l\u00e9phone                                                                                                   Signature",
+        "type": "string"
+      },
+      "189": {
+        "description": "City",
+        "type": "string"
+      },
+      "1347": {
+        "description": "1.",
+        "type": "string"
+      },
+      "1348": {
+        "description": "2.",
+        "type": "string"
+      },
+      "1352": {
+        "description": "4.",
+        "type": "string"
+      },
+      "1365": {
+        "description": "1.",
+        "type": "string"
+      },
+      "1366": {
+        "description": "3.",
+        "type": "string"
+      },
+      "1370": {
+        "description": "4.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

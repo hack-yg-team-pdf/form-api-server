@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "the time of making this application",
+        "type": "string"
+      },
+      "34": {
+        "description": "and emailed to Motor.Vehicles@gov.yk.ca",
+        "type": "boolean"
+      },
+      "35": {
+        "description": "alters, affects or cancels any current prohibition, cancellation or suspension from driving in the Yukon.",
+        "type": "string"
+      },
+      "36": {
+        "description": "Daytime contact number:",
+        "type": "string"
+      },
+      "38": {
+        "description": "Operator Licence #:",
+        "type": "string"
+      },
+      "41": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "42": {
+        "description": "1.",
+        "type": "string"
+      },
+      "43": {
+        "description": "I hereby make this application to the Yukon Registrar of Motor Vehicles for the issuance of a 90 day temporary duplicate",
+        "type": "string"
+      },
+      "44": {
+        "description": "Yukon residential sddress:",
+        "type": "string"
+      },
+      "45": {
+        "description": "Stolen          Police file #:",
+        "type": "string"
+      },
+      "53": {
+        "description": "Full name:",
+        "type": "string"
+      },
+      "56": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "57": {
+        "description": "Date of birth:",
+        "type": "string"
+      },
+      "59": {
+        "description": "(i.e. usually your mother\u2019s maiden name)",
+        "type": "string"
+      },
+      "60": {
+        "description": "Security keyword:",
+        "type": "string"
+      },
+      "61": {
+        "description": "Fax request to:",
+        "type": "boolean"
+      },
+      "67": {
+        "description": "operators licence made under provision 4.1 of the Motor Vehicle Regulations that I am a current resident of the Yukon at",
+        "type": "string"
+      },
+      "68": {
+        "description": "Contact email:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "71": {
+        "description": "Your Name (will be kept confidential)",
+        "type": "string"
+      },
+      "72": {
+        "description": "Your Address (optional)",
+        "type": "string"
+      },
+      "73": {
+        "description": "Daytime Phone Number (optional)",
+        "type": "string"
+      },
+      "74": {
+        "description": "E-mail Address (optional)",
+        "type": "string"
+      },
+      "75": {
+        "description": "Alternate E-mail Address (optional)",
+        "type": "string"
+      },
+      "76": {
+        "description": "Description of Property",
+        "type": "string"
+      },
+      "77": {
+        "description": "Details of Property",
+        "type": "string"
+      },
+      "80": {
+        "description": "(# of occupants, children,",
+        "type": "string"
+      },
+      "81": {
+        "description": "Name(s) of Occupant(s)",
+        "type": "string"
+      },
+      "82": {
+        "description": "(if known)",
+        "type": "string"
+      },
+      "83": {
+        "description": "Name(s) of Owner(s)",
+        "type": "string"
+      },
+      "85": {
+        "description": "Any other information",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "30": {
+        "description": "What is your favourite physical activity? How do you keep fit and how regularly do you exercise? \u2022 Quelle est votre",
+        "type": "string"
+      },
+      "33": {
+        "description": "Page 2 of/de 4",
+        "type": "string"
+      },
+      "34": {
+        "description": "GOALS AND APTITUDE \u2022 OBJECTIFS ET COMP\u00c9TENCES",
+        "type": "string"
+      },
+      "35": {
+        "description": "What are your goals for the next three to five years? Where do you see yourself in the future? \u2022 Quels sont vos objectifs",
+        "type": "string"
+      },
+      "36": {
+        "description": "What goals do you hope to accomplish during Ember Fire Academy? \u2022 Quels objectifs esp\u00e9rez-vous atteindre pendant",
+        "type": "string"
+      },
+      "38": {
+        "description": "ember.fire@gov.yk.ca",
+        "type": "boolean"
+      },
+      "39": {
+        "description": "Par courriel :   ember.fire@gov.yk.ca",
+        "type": "boolean"
+      },
+      "646": {
+        "description": "Last name \u2022 Nom de famille",
+        "type": "string"
+      },
+      "649": {
+        "description": "Email \u2022 Courriel",
+        "type": "string"
+      },
+      "650": {
+        "description": "Phone \u2022 T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "651": {
+        "description": "EMERGENCY CONTACT \u2022 PERSONNE \u00c0 CONTACTER EN CAS D\u2019URGENCE",
+        "type": "string"
+      },
+      "655": {
+        "description": "lui permettre de se mouvoir en toute s\u00e9curit\u00e9.",
+        "type": "string"
+      },
+      "656": {
+        "description": "Last name \u2022 Nom de famille",
+        "type": "string"
+      },
+      "657": {
+        "description": "Phone \u2022 T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "661": {
+        "description": "UNIFORM AND GEAR SIZING \u2022 TAILLE DE L\u2019UNIFORME ET DE L\u2019\u00c9QUIPEMENT",
+        "type": "string"
+      },
+      "662": {
+        "description": "o\u00f9 le tour de poitrine est le plus grand)",
+        "type": "string"
+      },
+      "663": {
+        "description": "our best to accommodate you. \u2022 Un repas sant\u00e9 vous sera servi gratuitement tous les midis. Veuillez indiquer toute",
+        "type": "string"
+      },
+      "664": {
+        "description": "Chest (measure over loose clothing at the fullest part of the chest)",
+        "type": "string"
+      },
+      "665": {
+        "description": "Manches (avec le bras le long du corps et le coude \u00e0 90o, prendre la mesure \u00e0 partir de la base",
+        "type": "string"
+      },
+      "666": {
+        "description": "transmettre des renseignements m\u00e9dicaux vous concernant aux instructeurs (ex. allergies, utilisation d\u2019un EpiPen)?",
+        "type": "string"
+      },
+      "667": {
+        "description": "HEALTH AND MEDICAL INFORMATION \u2022 RENSEIGNEMENTS M\u00c9DICAUX",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

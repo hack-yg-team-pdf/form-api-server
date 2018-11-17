@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "34": {
+        "description": "9.   Demonstration of industry support for the project (provide a detail of documentation and attach to the application):",
+        "type": "string"
+      },
+      "35": {
+        "description": "8.   Details of contribution to the project by the proponent(s):",
+        "type": "string"
+      },
+      "36": {
+        "description": "7.   Primary users of the road:",
+        "type": "string"
+      },
+      "37": {
+        "description": "6.   Status of the land (i.e. public, private, First Nations):",
+        "type": "string"
+      },
+      "38": {
+        "description": "5.   General description of work required:",
+        "type": "string"
+      },
+      "39": {
+        "description": "4.  Name and location of road: (Include maps and photographs)",
+        "type": "string"
+      },
+      "40": {
+        "description": "c. Email:",
+        "type": "string"
+      },
+      "41": {
+        "description": "b. Fax:",
+        "type": "string"
+      },
+      "42": {
+        "description": "3.  Lead Applicants Contract Information:   a. Phone:",
+        "type": "string"
+      },
+      "43": {
+        "description": "b.",
+        "type": "string"
+      },
+      "44": {
+        "description": "2.  Applicant\u2019s Name(s):",
+        "type": "string"
+      },
+      "45": {
+        "description": "b. Nature of industrial activity (e.g., copper mining, forestry, oil-field developments, etc.):",
+        "type": "string"
+      },
+      "46": {
+        "description": "a.",
+        "type": "string"
+      },
+      "47": {
+        "description": "a. Total capital spending expectations: $",
+        "type": "string"
+      },
+      "48": {
+        "description": "impact assessment (provided by the Yukon Department of Economic Development). For such projects, please list the",
+        "type": "string"
+      },
+      "49": {
+        "description": "1.  Company\u2019s Legal Name (Under joint-venture arrangements \u2013 list major or principal enterprise)",
+        "type": "string"
+      },
+      "50": {
+        "description": "following:",
+        "type": "string"
+      },
+      "51": {
+        "description": "Please Note",
+        "type": "string"
+      },
+      "52": {
+        "description": "Whitehorse, Yukon Y1A 3A4",
+        "type": "string"
+      },
+      "53": {
+        "description": "limited to:",
+        "type": "string"
+      },
+      "54": {
+        "description": "The standard to which the work is performed will be evaluated on a",
+        "type": "string"
+      },
+      "55": {
+        "description": "461 Range Road",
+        "type": "string"
+      },
+      "56": {
+        "description": "case-by-case basis. There are many factors involved, including but not",
+        "type": "string"
+      },
+      "57": {
+        "description": "Transportation Engineering Branch (W-13)",
+        "type": "string"
+      },
+      "58": {
+        "description": "The work proposed must result in a road, airstrip or dock that is",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "Applications focused on existing road inventory should plan to apply",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

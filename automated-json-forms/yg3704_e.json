@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "179": {
+        "description": "Y Y Y Y / M M/ D D",
+        "type": "string"
+      },
+      "180": {
+        "description": "Other search",
+        "type": "string"
+      },
+      "182": {
+        "description": "Fee:",
+        "type": "string"
+      },
+      "183": {
+        "description": "Date:",
+        "type": "boolean"
+      },
+      "185": {
+        "description": "MOTOR VEHICLE SEARCH REQUEST",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "Licence plate #:",
+        "type": "string"
+      },
+      "187": {
+        "description": "Op licence #:",
+        "type": "string"
+      },
+      "188": {
+        "description": "V.I.N.:",
+        "type": "string"
+      },
+      "189": {
+        "description": "Full name:",
+        "type": "string"
+      },
+      "190": {
+        "description": "Accident report:",
+        "type": "string"
+      },
+      "194": {
+        "description": "Motor vehicle search",
+        "type": "boolean"
+      },
+      "195": {
+        "description": "PERSON/COMPANY REQUESTING INFORMATION",
+        "type": "string"
+      },
+      "196": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "199": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "200": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "201": {
+        "description": "Signature:",
+        "type": "string"
+      },
+      "202": {
+        "description": "REASON FOR REQUEST",
+        "type": "string"
+      },
+      "203": {
+        "description": "Email:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

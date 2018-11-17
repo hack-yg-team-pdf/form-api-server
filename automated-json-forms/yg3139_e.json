@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "68": {
+        "description": "1.",
+        "type": "string"
+      },
+      "69": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "70": {
+        "description": "(Name)",
+        "type": "string"
+      },
+      "71": {
+        "description": "(Name)",
+        "type": "string"
+      },
+      "72": {
+        "description": "2.",
+        "type": "string"
+      },
+      "73": {
+        "description": "Plaintiff(s):",
+        "type": "string"
+      },
+      "74": {
+        "description": "The defendant/third party",
+        "type": "string"
+      },
+      "77": {
+        "description": "THIS COURT ORDERS THAT: The defendant/third party",
+        "type": "string"
+      },
+      "78": {
+        "description": "(name of party)",
+        "type": "string"
+      },
+      "79": {
+        "description": "$",
+        "type": "string"
+      },
+      "80": {
+        "description": "$",
+        "type": "string"
+      },
+      "81": {
+        "description": "$",
+        "type": "string"
+      },
+      "82": {
+        "description": "TOTAL AMOUNT",
+        "type": "string"
+      },
+      "85": {
+        "description": "Dated this  day of  20",
+        "type": "string"
+      },
+      "86": {
+        "description": "YG(3139QE)F1  Rev. 03/2011",
+        "type": "string"
+      },
+      "87": {
+        "description": "Reference: Sections 33 and 43 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "88": {
+        "description": "at , Yukon",
+        "type": "string"
+      },
+      "90": {
+        "description": "$",
+        "type": "boolean"
+      },
+      "93": {
+        "description": "(name)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

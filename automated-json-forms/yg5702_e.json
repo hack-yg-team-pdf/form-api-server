@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "properties": {
+      "492": {
+        "description": "Child Care Centre:",
+        "type": "string"
+      },
+      "493": {
+        "description": "Month:",
+        "type": "string"
+      },
+      "494": {
+        "description": "*Age:  I\u2014Infants, T\u2014Toddlers, P\u2014Pre-School, K \u2013 Kindergarten, SA\u2014School-age, SN\u2014Special Needs",
+        "type": "string"
+      },
+      "495": {
+        "description": "Please indicate the age of the child (i.e. SNT if the child is a toddler with special needs, etc.). Indicate the number of days per month child attended.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

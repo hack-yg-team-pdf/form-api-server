@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "281": {
+        "description": "I consent to the personal information of     ,",
+        "type": "string"
+      },
+      "282": {
+        "description": "date of birth , to be disclosed to the following (tick all that apply):",
+        "type": "string"
+      },
+      "284": {
+        "description": "St. Paul\u2019s Hospital",
+        "type": "string"
+      },
+      "286": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "boolean"
+      },
+      "288": {
+        "description": "Hospital outside of Yukon",
+        "type": "string"
+      },
+      "291": {
+        "description": "Physician",
+        "type": "boolean"
+      },
+      "292": {
+        "description": "Health Clinic or Community Health Centre",
+        "type": "string"
+      },
+      "293": {
+        "description": "Specialist",
+        "type": "boolean"
+      },
+      "294": {
+        "description": "BC Children\u2019s Hospital",
+        "type": "string"
+      },
+      "295": {
+        "description": "The Child Development Centre",
+        "type": "boolean"
+      },
+      "296": {
+        "description": "Other",
+        "type": "string"
+      },
+      "297": {
+        "description": "School, Education, Teacher of Deaf & Hard of Hearing",
+        "type": "boolean"
+      },
+      "298": {
+        "description": "Other",
+        "type": "string"
+      },
+      "299": {
+        "description": "Social Worker",
+        "type": "boolean"
+      },
+      "300": {
+        "description": "Other",
+        "type": "string"
+      },
+      "301": {
+        "description": "First Nations Insured Health Benefits (FNIHB)",
+        "type": "boolean"
+      },
+      "302": {
+        "description": "To be filled out only if Parental/Guardian consent required",
+        "type": "string"
+      },
+      "303": {
+        "description": "Learning Disabilities Association of Yukon",
+        "type": "boolean"
+      },
+      "304": {
+        "description": "I am the parent/guardian of the child listed above. I give consent for the child\u2019s information being released.",
+        "type": "string"
+      },
+      "305": {
+        "description": "Veterans Affairs Canada",
+        "type": "boolean"
+      },
+      "306": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "307": {
+        "description": "Yukon Hospital Corporation",
+        "type": "boolean"
+      },
+      "308": {
+        "description": "Name of Parent/Guardian         Date",
+        "type": "string"
+      },
+      "309": {
+        "description": "Hearing Aid manufacturer",
+        "type": "boolean"
+      },
+      "310": {
+        "description": "FIRST NAME",
+        "type": "string"
+      },
+      "311": {
+        "description": "FIRST NAME",
+        "type": "boolean"
+      },
+      "312": {
+        "description": "LAST NAME",
+        "type": "string"
+      },
+      "313": {
+        "description": "HEARING SERVICES",
+        "type": "boolean"
+      },
+      "314": {
+        "description": "Signature of Parent/Guardian",
+        "type": "string"
+      },
+      "315": {
+        "description": "CONSENT TO THE RELEASE OF PERSONAL",
+        "type": "boolean"
+      },
+      "316": {
+        "description": "Signature        Date",
+        "type": "string"
+      },
+      "317": {
+        "description": "HEALTH INFORMATION BY HEARING SERVICES",
+        "type": "boolean"
+      },
+      "318": {
+        "description": "Note: This consent remains in effect unless revoked in writing.",
+        "type": "string"
+      },
+      "319": {
+        "description": "TO ANOTHER ORGANIZATION/AGENCY",
+        "type": "boolean"
+      },
+      "320": {
+        "description": "INTERNAL USE ONLY",
+        "type": "string"
+      },
+      "321": {
+        "description": "Signature of Hearing Services Staff",
+        "type": "string"
+      },
+      "322": {
+        "description": "Officer at healthprivacy@gov.yk.ca.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

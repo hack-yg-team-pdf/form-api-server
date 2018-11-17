@@ -1,0 +1,195 @@
+{
+  "fields": {
+    "properties": {
+      "206": {
+        "description": "Name of Supervisor/Contact:",
+        "type": "string"
+      },
+      "207": {
+        "description": "STEP Position Title:",
+        "type": "string"
+      },
+      "215": {
+        "description": "Employer Type:",
+        "type": "string"
+      },
+      "216": {
+        "description": "First Nations",
+        "type": "string"
+      },
+      "222": {
+        "description": "Mailing Address:",
+        "type": "string"
+      },
+      "223": {
+        "description": "Physical address (if different than mailing address):",
+        "type": "string"
+      },
+      "225": {
+        "description": "Territory:",
+        "type": "string"
+      },
+      "226": {
+        "description": "Email address of Supervisor or Contact:",
+        "type": "string"
+      },
+      "227": {
+        "description": "Municipal Gov\u2019t",
+        "type": "string"
+      },
+      "231": {
+        "description": "Workers Compensation #:",
+        "type": "string"
+      },
+      "232": {
+        "description": "Main service of",
+        "type": "string"
+      },
+      "233": {
+        "description": "your business:",
+        "type": "string"
+      },
+      "234": {
+        "description": "Business/Organization licensed in Yukon:",
+        "type": "string"
+      },
+      "237": {
+        "description": "Business License #:",
+        "type": "string"
+      },
+      "238": {
+        "description": "Private Sector",
+        "type": "string"
+      },
+      "241": {
+        "description": "(YYYY/MM)",
+        "type": "string"
+      },
+      "242": {
+        "description": "Number of full time Employees:",
+        "type": "string"
+      },
+      "244": {
+        "description": "4.  How will this position be supervised?",
+        "type": "string"
+      },
+      "245": {
+        "description": "5.  Will the student supervise other staff?",
+        "type": "string"
+      },
+      "249": {
+        "description": "STEP Position Title:",
+        "type": "string"
+      },
+      "251": {
+        "description": "3.  What knowledge and skills are required to perform this job?",
+        "type": "string"
+      },
+      "252": {
+        "description": "For example: field experience, Computer skills, lab work, etc.",
+        "type": "string"
+      },
+      "253": {
+        "description": "DO NOT include/attach a multi-page job description, as it will not be considered a part of the application.",
+        "type": "string"
+      },
+      "255": {
+        "description": "Completion of 1st year",
+        "type": "string"
+      },
+      "256": {
+        "description": "Completion of 3rd year",
+        "type": "string"
+      },
+      "258": {
+        "description": "the application.",
+        "type": "string"
+      },
+      "259": {
+        "description": "Desired level of post-secondary education:",
+        "type": "string"
+      },
+      "260": {
+        "description": "Brief Job Overview",
+        "type": "string"
+      },
+      "261": {
+        "description": "In what community will the position be located?",
+        "type": "string"
+      },
+      "266": {
+        "description": "STEP Position Title:",
+        "type": "string"
+      },
+      "282": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "283": {
+        "description": "When?",
+        "type": "string"
+      },
+      "286": {
+        "description": "If yes, how much (approx hrs)?",
+        "type": "string"
+      },
+      "293": {
+        "description": "5 of 8",
+        "type": "string"
+      },
+      "306": {
+        "description": "STEP Position Title:",
+        "type": "string"
+      },
+      "307": {
+        "description": "Employer Name:",
+        "type": "string"
+      },
+      "308": {
+        "description": "If paying more please specify: $                     /HR",
+        "type": "string"
+      },
+      "309": {
+        "description": "Department of Education Use ONLY: Approved Positions & Calculations",
+        "type": "string"
+      },
+      "310": {
+        "description": "Per Job",
+        "type": "string"
+      },
+      "311": {
+        "description": "Per Job",
+        "type": "string"
+      },
+      "312": {
+        "description": "HOURLY",
+        "type": "string"
+      },
+      "318": {
+        "description": "Department of Education, Advanced Education Branch, subject to employer compliance with the terms and conditions",
+        "type": "string"
+      },
+      "319": {
+        "description": "Employment Programs Officer",
+        "type": "string"
+      },
+      "329": {
+        "description": "TOTAL",
+        "type": "string"
+      },
+      "330": {
+        "description": "of the program, agrees to fund the above position(s) to the amount indicated above.",
+        "type": "string"
+      },
+      "340": {
+        "description": "the Student Training & Employment Program will be used for administration purposes.",
+        "type": "boolean"
+      },
+      "342": {
+        "description": "Personal information contained in the application and in mandatory forms prescribed by the Officer collected under",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

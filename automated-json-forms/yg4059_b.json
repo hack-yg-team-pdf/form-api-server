@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "86": {
+        "description": "TO: Building Safety Office",
+        "type": "string"
+      },
+      "87": {
+        "description": "ADDRESS \u2022 ADRESSE",
+        "type": "string"
+      },
+      "88": {
+        "description": "CONTACT \u2022 PERSONNE-RESSOURCE",
+        "type": "string"
+      },
+      "89": {
+        "description": "LOT \u2022  PARCELLE",
+        "type": "string"
+      },
+      "90": {
+        "description": "Governing Statutes and/or Regulations applicable to the items noted below:",
+        "type": "string"
+      },
+      "91": {
+        "description": "LEGAL DESCRIPTION \u2022 DESCRIPTION OFFICIELLE",
+        "type": "string"
+      },
+      "92": {
+        "description": "BLOCK \u2022 BLOC",
+        "type": "string"
+      },
+      "93": {
+        "description": "PHONE \u2022  T\u00c9L\u00c9PHONE",
+        "type": "string"
+      },
+      "94": {
+        "description": "Par la pr\u00e9sente, je, repr\u00e9sentant d\u00e9sign\u00e9 ou signataire autoris\u00e9 du permis susmentionn\u00e9, d\u00e9clare que",
+        "type": "string"
+      },
+      "95": {
+        "description": "hereby certify that the electrical installation authorized has been installed to comply with the",
+        "type": "string"
+      },
+      "96": {
+        "description": "I, the accredited representative or the authorized signing officers of the above-mentioned permit,",
+        "type": "string"
+      },
+      "97": {
+        "description": "AMPERES  \u2022 AMP\u00c8RES      VOLTS \u2022 VOLTS        PHASE \u2022 PHASE(S)      CONDUCTORS \u2022 CONDUCTEURS",
+        "type": "string"
+      },
+      "98": {
+        "description": "Num\u00e9ro d\u2019autorisation                       Description des travaux                       Signature de l\u2019entrepreneur           Date                      Signature de l\u2019inspecteur              Date",
+        "type": "boolean"
+      },
+      "102": {
+        "description": "YG(4059)NC4 Rev.04/2014",
+        "type": "string"
+      },
+      "103": {
+        "description": "Circuits Connected",
+        "type": "boolean"
+      },
+      "105": {
+        "description": "The Permanent Electrical Service as",
+        "type": "string"
+      },
+      "106": {
+        "description": "Temporary service disconnected",
+        "type": "string"
+      },
+      "107": {
+        "description": "CARACT\u00c9RISTIQUES DE L\u2019ENTR\u00c9E \u00c9LECTRIQUE",
+        "type": "string"
+      },
+      "108": {
+        "description": "Service Repair \u2022 R\u00e9paration",
+        "type": "boolean"
+      },
+      "110": {
+        "description": "est sp\u00e9cifi\u00e9 ci-dessous",
+        "type": "string"
+      },
+      "111": {
+        "description": "pr\u00eate pour le raccordement, tel qu\u2019il",
+        "type": "boolean"
+      },
+      "113": {
+        "description": "L\u2019entr\u00e9e \u00e9lectrique permanente est",
+        "type": "boolean"
+      },
+      "115": {
+        "description": "noted below is ready for connection",
+        "type": "boolean"
+      },
+      "117": {
+        "description": "Temporarily \u2022 Temporaire",
+        "type": "boolean"
+      },
+      "119": {
+        "description": "Complete \u2022 Permanent",
+        "type": "string"
+      },
+      "120": {
+        "description": "(Specify area) \u2022 Pr\u00e9cisez",
+        "type": "string"
+      },
+      "121": {
+        "description": "U/G Conduit \u2022 Canalisation souterraine",
+        "type": "string"
+      },
+      "122": {
+        "description": "Il s\u2019agit d\u2019une entr\u00e9e \u00e9lectrique",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "fields": {
+    "type": "object",
+    "properties": {
+      "intro-text": {
+        "type": "string"
+      },
+      "id82934": {
+        "type": "string",
+        "minLength": 3,
+        "description": "Name of registered organization or group",
+        "more": "must be registered as a non-profit organization with Community Services, Corporate Affairs Branch"
+      },
+      "registry": {
+        "type": "integer",
+        "description": "Registry #",
+        "more": "6 digits"
+      },
+      "mailing-address": {
+        "type": "string",
+        "description": "Mailing address",
+        "more": "where notifications and correspondence should be sent"
+      },
+      "community": {
+        "type": "string",
+        "description": "Community"
+      },
+      "postal-code": {
+        "type": "string",
+        "description": "Postal code"
+      },
+      "group-supervisor": {
+        "type": "string",
+        "description": "Group supervisor"
+      },
+      "contact-phone": {
+        "type": "string",
+        "format": "telephone",
+        "description": "alternate-telephone-number"
+      },
+      "fax": {
+        "type": "string",
+        "format": "telephone"
+      },
+      "email": {
+        "type": "string",
+        "format": "email",
+        "description": "email address"
+      },
+      "preferred-written-correspondence-by": {
+        "type": "string",
+        "enum": [
+          "Email",
+          "Mail"
+        ]
+      },
+      "section-number": "string",
+      "week-preference": "string",
+      "special-conditions": "string",
+      "description": "ie young children"
+    },
+    "section-number": "string",
+    "week-preference": "string",
+    "special-conditions": "string",
+    "description": "ie young children"
+  },
+  "additional-section": {
+    "type": "string",
+    "enum": [
+      "yes",
+      "no"
+    ]
+  },
+  "declaration": {
+    "type": "string",
+    "description": "Agree to having read the attached instructions and conditions and agree to perform the work outlined"
+  },
+  "signature": {
+    "type": "string"
+  },
+  "date-signed": {
+    "type": "string",
+    "format": "date"
+  }
+}

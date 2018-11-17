@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "properties": {
+      "74": {
+        "description": "(e.g., number of years",
+        "type": "string"
+      },
+      "75": {
+        "description": "(e.g., traps,",
+        "type": "string"
+      },
+      "76": {
+        "description": "(i.e., what are your",
+        "type": "string"
+      },
+      "77": {
+        "description": "(e.g., family history in",
+        "type": "string"
+      },
+      "78": {
+        "description": "Referral comments",
+        "type": "boolean"
+      },
+      "81": {
+        "description": "Authorized signature",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

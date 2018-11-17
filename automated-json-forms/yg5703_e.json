@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "Name of family Day Home",
+        "type": "string"
+      },
+      "41": {
+        "description": "I provided meals and snacks for the month of",
+        "type": "string"
+      },
+      "42": {
+        "description": "Morning snacks consisted of at least 2 food groups \u2022 (Yes or No)",
+        "type": "string"
+      },
+      "43": {
+        "description": "The main mid-day meal consisted of at least 4 food groups \u2022 (Yes or No)",
+        "type": "string"
+      },
+      "44": {
+        "description": "Mid-afternoon snacks consisted of at least 2 food groups \u2022 (Yes or No)",
+        "type": "string"
+      },
+      "45": {
+        "description": "I keep records of both meals and snacks at the family day home available for inspection \u2022 (Yes or No)",
+        "type": "string"
+      },
+      "46": {
+        "description": "I provided an evening meal consisting of at least 4 food groups   \u2022 (Yes or No)",
+        "type": "string"
+      },
+      "47": {
+        "description": "\u2022 (Yes or No)",
+        "type": "string"
+      },
+      "48": {
+        "description": "For those children who were in attendance in the morning and who had either stayed overnight or come in to early to",
+        "type": "string"
+      },
+      "49": {
+        "description": "SigNature        Date",
+        "type": "string"
+      },
+      "50": {
+        "description": "This information is collected under the authority of the Child Care Act for the purposes of determining eligibility.",
+        "type": "boolean"
+      },
+      "53": {
+        "description": "Queries should be directed to the Supervisor, Child Care Services Unit, Health and Social Services, H-12, Box 2703,",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "do swear (or solemnly affirm) that:",
+        "type": "string"
+      },
+      "40": {
+        "description": "of",
+        "type": "string"
+      },
+      "41": {
+        "description": "Name",
+        "type": "string"
+      },
+      "42": {
+        "description": "and",
+        "type": "string"
+      },
+      "43": {
+        "description": "of",
+        "type": "string"
+      },
+      "44": {
+        "description": "Name",
+        "type": "string"
+      },
+      "45": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "48": {
+        "description": "Returning officer or deputy returning officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

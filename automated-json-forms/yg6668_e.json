@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "551": {
+        "description": "Supporting documentation checklist (More information is found on the application website.)",
+        "type": "boolean"
+      },
+      "552": {
+        "description": "Renewal deadline: Submit your renewal application before November 30 to ensure we can process your licence before",
+        "type": "boolean"
+      },
+      "553": {
+        "description": "Certificate of standing. (Required if you are licensed in another jurisdiction. The document must be sent to",
+        "type": "boolean"
+      },
+      "554": {
+        "description": "Confirmation of registration for the clinical component of the physiotherapy competency exam (PCE). (Required if",
+        "type": "boolean"
+      },
+      "586": {
+        "description": "Interim licence",
+        "type": "string"
+      },
+      "587": {
+        "description": "Temporary full licence: Dates  to",
+        "type": "string"
+      },
+      "588": {
+        "description": "Full licence",
+        "type": "string"
+      },
+      "593": {
+        "description": "Other names by which you may be known",
+        "type": "string"
+      },
+      "594": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "595": {
+        "description": "Yukon licence number",
+        "type": "string"
+      },
+      "596": {
+        "description": "Email",
+        "type": "string"
+      },
+      "597": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "598": {
+        "description": "Physical address (if different from mailing address)",
+        "type": "string"
+      },
+      "599": {
+        "description": "Prov./terr.",
+        "type": "string"
+      },
+      "600": {
+        "description": "Education information",
+        "type": "string"
+      },
+      "601": {
+        "description": "City",
+        "type": "string"
+      },
+      "602": {
+        "description": "Prov./terr.",
+        "type": "string"
+      },
+      "603": {
+        "description": "Postal code Country",
+        "type": "string"
+      },
+      "604": {
+        "description": "Institution name",
+        "type": "string"
+      },
+      "605": {
+        "description": "the physiotherapy competency exam (PCE):",
+        "type": "string"
+      },
+      "606": {
+        "description": "For interim renewals, state the date you are registered to write",
+        "type": "string"
+      },
+      "607": {
+        "description": "List any completed degrees/diplomas related to physiotherapy that you have received in the past year or since",
+        "type": "string"
+      },
+      "608": {
+        "description": "you last held a Yukon licence.",
+        "type": "string"
+      },
+      "609": {
+        "description": "End date",
+        "type": "string"
+      },
+      "610": {
+        "description": "obtained for each jurisdiction listed.)",
+        "type": "string"
+      },
+      "611": {
+        "description": "Registration",
+        "type": "string"
+      },
+      "612": {
+        "description": "State the jurisdiction(s) you are registered in as a physiotherapist. (Ensure a verification of registration is",
+        "type": "string"
+      },
+      "613": {
+        "description": "Province/territory",
+        "type": "string"
+      },
+      "614": {
+        "description": "Country",
+        "type": "string"
+      },
+      "615": {
+        "description": "YG(6668EQ)F3 10/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

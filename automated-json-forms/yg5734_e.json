@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "71": {
+        "description": "Registered Professional",
+        "type": "string"
+      },
+      "75": {
+        "description": "Phone No.",
+        "type": "string"
+      },
+      "76": {
+        "description": "Address (Print)",
+        "type": "string"
+      },
+      "116": {
+        "description": "(The registered professional shall complete the following)",
+        "type": "string"
+      },
+      "117": {
+        "description": "Fax Number",
+        "type": "string"
+      },
+      "118": {
+        "description": "(ii) the plans and supporting documents submitted in support of the application for the building permit,",
+        "type": "string"
+      },
+      "123": {
+        "description": "Address of Project (Print)",
+        "type": "string"
+      },
+      "124": {
+        "description": "Re:",
+        "type": "string"
+      },
+      "126": {
+        "description": "Legal Address of Project (Print)",
+        "type": "string"
+      },
+      "127": {
+        "description": "Address (Print)",
+        "type": "string"
+      },
+      "128": {
+        "description": "Company (Print)",
+        "type": "string"
+      },
+      "129": {
+        "description": "Name (Print)",
+        "type": "string"
+      },
+      "906": {
+        "description": "Company (Print)",
+        "type": "string"
+      },
+      "907": {
+        "description": "Name of Project (Print)",
+        "type": "string"
+      },
+      "908": {
+        "description": "Address of Project (Print)",
+        "type": "string"
+      },
+      "910": {
+        "description": "design of the components of the plans and supporting",
+        "type": "string"
+      },
+      "911": {
+        "description": "The Undersigned hereby gives assurance that the",
+        "type": "string"
+      },
+      "912": {
+        "description": "Re:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

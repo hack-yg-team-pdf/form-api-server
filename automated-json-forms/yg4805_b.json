@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "Operator/business/company",
+        "type": "string"
+      },
+      "35": {
+        "description": "YG(4805)NC2 Rev.05/2002",
+        "type": "string"
+      },
+      "36": {
+        "description": "White copy: Environment Yukon",
+        "type": "string"
+      },
+      "37": {
+        "description": "Copie blanche : Environnement Yukon",
+        "type": "string"
+      },
+      "38": {
+        "description": "Yellow copy: Licensed operator",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

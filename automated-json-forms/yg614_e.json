@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "Authorized",
+        "type": "boolean"
+      },
+      "34": {
+        "description": "For Department Use Only",
+        "type": "string"
+      },
+      "35": {
+        "description": "Phone                                                              Fax",
+        "type": "string"
+      },
+      "37": {
+        "description": "2. Are you selling fuel directly to consumers or to licensed fuel vendors for resale?",
+        "type": "string"
+      },
+      "38": {
+        "description": "5. Which trucking company(ies) do you use?",
+        "type": "string"
+      },
+      "39": {
+        "description": "Permit No.",
+        "type": "string"
+      },
+      "40": {
+        "description": "the collection or use of this information can be directed to the Yukon Department of",
+        "type": "string"
+      },
+      "41": {
+        "description": "3. Do you have a bulk facility in Yukon?",
+        "type": "string"
+      },
+      "42": {
+        "description": "Which ones?",
+        "type": "string"
+      },
+      "43": {
+        "description": "4. Do any vendors hold your fuel on consignment?",
+        "type": "string"
+      },
+      "44": {
+        "description": "6. Please provide the name(s) of the person(s) to contact in case of inquiries regarding your fuel tax returns.",
+        "type": "string"
+      },
+      "50": {
+        "description": "The personal information requested on this form is collected under the authority of",
+        "type": "boolean"
+      },
+      "53": {
+        "description": "Email",
+        "type": "string"
+      },
+      "57": {
+        "description": "Date Issued",
+        "type": "string"
+      },
+      "145": {
+        "description": "1. Name of Applicant",
+        "type": "string"
+      },
+      "149": {
+        "description": "3a. Business Location",
+        "type": "string"
+      },
+      "150": {
+        "description": "4. Accounting Office Address",
+        "type": "string"
+      },
+      "151": {
+        "description": "3b. Mailing Address",
+        "type": "string"
+      },
+      "152": {
+        "description": "Partnership             Sole Proprietor",
+        "type": "string"
+      },
+      "153": {
+        "description": "Corporation",
+        "type": "boolean"
+      },
+      "155": {
+        "description": "Registered Association",
+        "type": "boolean"
+      },
+      "156": {
+        "description": "F.O.T. APPLICATION 1",
+        "type": "boolean"
+      },
+      "157": {
+        "description": "T.C. -1",
+        "type": "boolean"
+      },
+      "158": {
+        "description": "officer of",
+        "type": "string"
+      },
+      "159": {
+        "description": "(Company Name - Please Print)",
+        "type": "string"
+      },
+      "160": {
+        "description": "and the Regulations thereunder.",
+        "type": "string"
+      },
+      "161": {
+        "description": "I,  ,",
+        "type": "string"
+      },
+      "162": {
+        "description": "(Name - Please Print)",
+        "type": "string"
+      },
+      "163": {
+        "description": "as a duly authorized",
+        "type": "string"
+      },
+      "164": {
+        "description": "hereby CERTIFY that the information contained in this application is correct to the best of my knowledge and belief and",
+        "type": "string"
+      },
+      "165": {
+        "description": "hereby make application as required under the Fuel Oil Tax Act and undertake to comply with the provisions of this Act",
+        "type": "string"
+      },
+      "166": {
+        "description": "Date",
+        "type": "string"
+      },
+      "167": {
+        "description": "(If the applicant is a corporation, the application shall be under SEAL of the Corporation. If a partnership, signatures of all partners are required.)",
+        "type": "string"
+      },
+      "168": {
+        "description": "(Title - Please Print)",
+        "type": "string"
+      },
+      "169": {
+        "description": "Publi\u00e9 aussi en fran\u00e7ais",
+        "type": "string"
+      },
+      "170": {
+        "description": "Whitehorse, Yukon Y1A 2C6     Fax:     (867)456-6709",
+        "type": "string"
+      },
+      "171": {
+        "description": "PO Box 2703",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

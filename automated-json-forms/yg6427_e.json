@@ -1,0 +1,179 @@
+{
+  "fields": {
+    "properties": {
+      "84": {
+        "description": "I hereby make this application to the Yukon Registrar of Motor Vehicles for the issuance of a Yukon drivers licence made under",
+        "type": "string"
+      },
+      "85": {
+        "description": "1.",
+        "type": "string"
+      },
+      "86": {
+        "description": "Operator licence #:",
+        "type": "string"
+      },
+      "89": {
+        "description": "Attached document(s) proving my current residency are (as per attached instruction sheet):",
+        "type": "string"
+      },
+      "91": {
+        "description": "By my signature hereon, I declare that all information provided in support of this application is true and correct. I fully",
+        "type": "string"
+      },
+      "94": {
+        "description": "Security keyword:",
+        "type": "string"
+      },
+      "95": {
+        "description": "Yukon residential address:",
+        "type": "string"
+      },
+      "96": {
+        "description": "the following provisions of the Motor Vehicle Act; that I am a current resident of the Yukon at the time of making this application.",
+        "type": "string"
+      },
+      "97": {
+        "description": "Daytime contact number:",
+        "type": "string"
+      },
+      "98": {
+        "description": "Date of birth:",
+        "type": "string"
+      },
+      "111": {
+        "description": "Contact email:",
+        "type": "string"
+      },
+      "112": {
+        "description": "request please pay by cheque or money order to the address below. If faxing your request, upon receipt of this form,",
+        "type": "string"
+      },
+      "115": {
+        "description": "alters, affects or cancels any current prohibition, cancellation or suspension from driving in the Yukon.",
+        "type": "string"
+      },
+      "116": {
+        "description": "2.",
+        "type": "string"
+      },
+      "117": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "118": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "120": {
+        "description": "1 year 2 years",
+        "type": "string"
+      },
+      "121": {
+        "description": "Re-examination is advised in",
+        "type": "string"
+      },
+      "123": {
+        "description": "Without glasses",
+        "type": "string"
+      },
+      "124": {
+        "description": "No",
+        "type": "string"
+      },
+      "126": {
+        "description": "NIGHT DRIVING:(specify any restriction recommended)",
+        "type": "string"
+      },
+      "128": {
+        "description": "Name \u2013 please print",
+        "type": "string"
+      },
+      "130": {
+        "description": "Name (Mr., Mrs., Miss)",
+        "type": "string"
+      },
+      "131": {
+        "description": "NAME AND SIGNATURE OF VISION SPECIALIST:",
+        "type": "string"
+      },
+      "134": {
+        "description": "LEFT",
+        "type": "string"
+      },
+      "135": {
+        "description": "OTHER (specify)",
+        "type": "string"
+      },
+      "136": {
+        "description": "3 years other (specify)",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "Date of Examination (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "138": {
+        "description": "(To be completed by a vision specialist and returned to the Motor Vehicles Office)",
+        "type": "string"
+      },
+      "140": {
+        "description": "RE-EXAMINATION:",
+        "type": "string"
+      },
+      "142": {
+        "description": "YG(963Q)PD Rev.02/2018",
+        "type": "string"
+      },
+      "143": {
+        "description": "Address Age",
+        "type": "string"
+      },
+      "144": {
+        "description": "CORRECTION:",
+        "type": "string"
+      },
+      "145": {
+        "description": "Page 3 of 3",
+        "type": "string"
+      },
+      "146": {
+        "description": "Applying for Class Licence",
+        "type": "string"
+      },
+      "147": {
+        "description": "RESULT OF EXAMINATION",
+        "type": "string"
+      },
+      "149": {
+        "description": "Address",
+        "type": "string"
+      },
+      "150": {
+        "description": "Yes  No",
+        "type": "string"
+      },
+      "151": {
+        "description": "Are lenses recommended while operating motor vehicle?",
+        "type": "string"
+      },
+      "152": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "154": {
+        "description": "RECOMMENDATIONS",
+        "type": "boolean"
+      },
+      "156": {
+        "description": "RIGHT",
+        "type": "string"
+      },
+      "157": {
+        "description": "Yes",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

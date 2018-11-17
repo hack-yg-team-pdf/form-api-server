@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "330": {
+        "description": "Applicant\u2019s (student\u2019s) name:",
+        "type": "string"
+      },
+      "334": {
+        "description": "Relationship to applicant:",
+        "type": "string"
+      },
+      "335": {
+        "description": "Postal code:",
+        "type": "string"
+      },
+      "336": {
+        "description": "Provide a copy of your 2017 Income Tax Summary or Revenue Canada Tax Assessment",
+        "type": "string"
+      },
+      "337": {
+        "description": "Physical address:",
+        "type": "string"
+      },
+      "338": {
+        "description": "City:",
+        "type": "string"
+      },
+      "339": {
+        "description": "Parent/guardian A",
+        "type": "string"
+      },
+      "340": {
+        "description": "Prov/terr:",
+        "type": "string"
+      },
+      "341": {
+        "description": "Relationship to applicant:",
+        "type": "string"
+      },
+      "342": {
+        "description": "(e.g. mother, father, legal guardian, etc.)   SIN",
+        "type": "string"
+      },
+      "345": {
+        "description": "Parent/guardian B \u2013 Refers to a person married to or living with, for a period of twelve months or longer at the date",
+        "type": "string"
+      },
+      "346": {
+        "description": "of this application, the person listed as parent/guardian A.",
+        "type": "string"
+      },
+      "347": {
+        "description": "Last name:",
+        "type": "string"
+      },
+      "348": {
+        "description": "First name:",
+        "type": "string"
+      },
+      "351": {
+        "description": "relating to the information provided above, and hereby consent to the release of information in support of this application.",
+        "type": "string"
+      },
+      "352": {
+        "description": "I/We declare that the designated authority for the Yukon Territory has my/our authorization to obtain, as required, any information",
+        "type": "string"
+      },
+      "353": {
+        "description": "or misrepresentation in an application or other documents, or to willfully furnish false or misleading information.",
+        "type": "string"
+      },
+      "354": {
+        "description": "this declaration knowing that it is an offence under the Canada Student Loans Act to knowingly make any false statements",
+        "type": "string"
+      },
+      "355": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "362": {
+        "description": "I agree that information pertaining to this application may be shared with other funding agencies.",
+        "type": "string"
+      },
+      "363": {
+        "description": "I/We declare that the information that I/we provided on this form is correct to the best of my/our knowledge. I/We make",
+        "type": "string"
+      },
+      "364": {
+        "description": "Signature of",
+        "type": "string"
+      },
+      "365": {
+        "description": "parent/guardian A:",
+        "type": "string"
+      },
+      "366": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "373": {
+        "description": "I/We also understand that signing this form verifies that the information provided is accurate and that I am/we are not",
+        "type": "string"
+      },
+      "374": {
+        "description": "X",
+        "type": "string"
+      },
+      "375": {
+        "description": "Signature of",
+        "type": "string"
+      },
+      "376": {
+        "description": "X",
+        "type": "string"
+      },
+      "377": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "384": {
+        "description": "We are collecting this personal information to determine and verify the applicant\u2019s eligibility for financial assistance in accordance with the Student Financial Assistance Act",
+        "type": "boolean"
+      },
+      "387": {
+        "description": "(Yukon) the Canada Student Loans Act and the Canada Student Financial Assistance Act. The collection, use and disclosure of your personal information is carried out under",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

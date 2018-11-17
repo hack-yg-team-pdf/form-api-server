@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "256": {
+        "description": "B. REGISTRATION",
+        "type": "string"
+      },
+      "257": {
+        "description": "Submit one notice per registration number.",
+        "type": "string"
+      },
+      "258": {
+        "description": "C. ASSIGNOR",
+        "type": "string"
+      },
+      "262": {
+        "description": "E. ADDRESS FOR SERVICE OF SECURED PARTY (ASSIGNEE)",
+        "type": "string"
+      },
+      "263": {
+        "description": "Full name of agent of secured party if different from section D",
+        "type": "string"
+      },
+      "264": {
+        "description": "Address",
+        "type": "string"
+      },
+      "265": {
+        "description": "Territory/Province/State",
+        "type": "string"
+      },
+      "266": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "267": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "268": {
+        "description": "Country",
+        "type": "string"
+      },
+      "269": {
+        "description": "Email",
+        "type": "string"
+      },
+      "270": {
+        "description": "F. ATTACHMENTS",
+        "type": "string"
+      },
+      "271": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "272": {
+        "description": "Date (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "273": {
+        "description": "Registration fee of $50.00 is enclosed",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "275": {
+        "description": "Branch File #     Registration #:",
+        "type": "string"
+      },
+      "276": {
+        "description": "Date Received:              /         /              Time Received:",
+        "type": "string"
+      },
+      "277": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "278": {
+        "description": "This Statutory Notice is issued pursuant to the Oil and Gas Act and the Oil and Gas Disposition Regulations. Personal information on this form is collected",
+        "type": "string"
+      },
+      "279": {
+        "description": "under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "280": {
+        "description": "YG(5495EQ)F1 Rev.06/2017",
+        "type": "boolean"
+      },
+      "283": {
+        "description": "Date:              /         /",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

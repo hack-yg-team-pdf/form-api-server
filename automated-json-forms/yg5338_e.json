@@ -1,0 +1,271 @@
+{
+  "fields": {
+    "properties": {
+      "54": {
+        "description": "Copy of bank statement verifying that any amount reported in line (iii) is on deposit",
+        "type": "boolean"
+      },
+      "59": {
+        "description": "Completed Financial Report, signed and notarized (A notary is available to sign your affidavit at",
+        "type": "string"
+      },
+      "61": {
+        "description": "Supporting documents showing sales and prizes for: bonanza, early bird and regular card sales",
+        "type": "boolean"
+      },
+      "69": {
+        "description": "Completed Financial Report, signed and notarized (A notary is available to sign your affidavit at",
+        "type": "string"
+      },
+      "71": {
+        "description": "Supporting documentation such as  invoices, cheques, bank statements, etc. are not necessary at this time.",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "A financial report prepared by a Professional Accountant clearly outlining all revenue and all approved",
+        "type": "boolean"
+      },
+      "74": {
+        "description": "Remaining Amount:",
+        "type": "string"
+      },
+      "75": {
+        "description": "HOW HAVE THESE PROCEEDS BEEN ALLOCATED",
+        "type": "boolean"
+      },
+      "76": {
+        "description": "Item",
+        "type": "string"
+      },
+      "77": {
+        "description": "Total Amount Allocated    $ (ii)",
+        "type": "string"
+      },
+      "79": {
+        "description": "to one year after the expiry date of your licence.",
+        "type": "string"
+      },
+      "81": {
+        "description": "note: if you choose this option you are required to complete this financial report form.",
+        "type": "string"
+      },
+      "84": {
+        "description": "BINGO WITH GROSS SALES LESS THE $10,000.00 (line a).",
+        "type": "string"
+      },
+      "85": {
+        "description": "$(iii)",
+        "type": "string"
+      },
+      "88": {
+        "description": "Supporting documents showing the gross sales and prizes awarded for each set of games (Sample",
+        "type": "string"
+      },
+      "89": {
+        "description": "These records must be kept on hand in the event you are asked to produce them. Random audits will occur up",
+        "type": "string"
+      },
+      "90": {
+        "description": "control sheets online)",
+        "type": "string"
+      },
+      "91": {
+        "description": "Please enclose the following:",
+        "type": "string"
+      },
+      "92": {
+        "description": "Consumer Services free of charge)",
+        "type": "string"
+      },
+      "94": {
+        "description": "OR",
+        "type": "boolean"
+      },
+      "95": {
+        "description": "Please refer to your licence for approved use of proceeds. If you have not spent all the proceeds, a bank statement",
+        "type": "boolean"
+      },
+      "99": {
+        "description": "Copies of invoices verifying the total expenses claimed in line (c)",
+        "type": "boolean"
+      },
+      "103": {
+        "description": "Declared before me,",
+        "type": "string"
+      },
+      "104": {
+        "description": "(Name of Organization)",
+        "type": "string"
+      },
+      "106": {
+        "description": "3.  I make this solemn declaration conscientiously believing it to be true, knowing that it is of the same force",
+        "type": "string"
+      },
+      "107": {
+        "description": "in , Yukon",
+        "type": "string"
+      },
+      "110": {
+        "description": "and effect as if made under oath.",
+        "type": "string"
+      },
+      "111": {
+        "description": ") Signature of Declarant",
+        "type": "string"
+      },
+      "112": {
+        "description": "this  day of , 20",
+        "type": "string"
+      },
+      "113": {
+        "description": "2.  I have examined the accounts and records of the organization and the information contained in this financial",
+        "type": "string"
+      },
+      "114": {
+        "description": "declared to.",
+        "type": "string"
+      },
+      "115": {
+        "description": "Licence Number .",
+        "type": "boolean"
+      },
+      "116": {
+        "description": "report is correct and complete.",
+        "type": "string"
+      },
+      "117": {
+        "description": "I, of , in Yukon, do solemnly declare",
+        "type": "string"
+      },
+      "118": {
+        "description": "In the Matter of:  and",
+        "type": "boolean"
+      },
+      "156": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "157": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "158": {
+        "description": "ORGANIZATION DETAILS",
+        "type": "string"
+      },
+      "159": {
+        "description": "Organization Name:",
+        "type": "string"
+      },
+      "160": {
+        "description": "Member Responsible for this report: Phone:",
+        "type": "string"
+      },
+      "161": {
+        "description": "Expiry Date:",
+        "type": "string"
+      },
+      "162": {
+        "description": "Act. For further information, contact the Registrar of Lotteries at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "163": {
+        "description": "Personal information contained on this form is collected under the Lottery Licensing Act and will be used for the purpose of administering the",
+        "type": "string"
+      },
+      "166": {
+        "description": "Net Proceeds of Bingo (a) minus (b) and (c)",
+        "type": "string"
+      },
+      "168": {
+        "description": "Service Charges on Lotteries Bank Account",
+        "type": "string"
+      },
+      "169": {
+        "description": "Door Prizes",
+        "type": "string"
+      },
+      "170": {
+        "description": "Rent",
+        "type": "string"
+      },
+      "171": {
+        "description": "Other Games",
+        "type": "string"
+      },
+      "172": {
+        "description": "Shipping costs for supplies",
+        "type": "string"
+      },
+      "173": {
+        "description": "Special Games",
+        "type": "string"
+      },
+      "174": {
+        "description": "Other expenses (specify)",
+        "type": "string"
+      },
+      "175": {
+        "description": "Bonanza Cards",
+        "type": "string"
+      },
+      "176": {
+        "description": "Total expenses $  (c)",
+        "type": "string"
+      },
+      "177": {
+        "description": "Early Bird Cards",
+        "type": "string"
+      },
+      "178": {
+        "description": "Prizes awarded:",
+        "type": "string"
+      },
+      "179": {
+        "description": "Total Gross Sales $  (a)            Total Prizes Awarded $  (b)",
+        "type": "string"
+      },
+      "180": {
+        "description": "Expenses directly associated with Bingo:",
+        "type": "string"
+      },
+      "181": {
+        "description": "Special Games",
+        "type": "string"
+      },
+      "182": {
+        "description": "Other Games",
+        "type": "string"
+      },
+      "183": {
+        "description": "Bonanza Cards",
+        "type": "string"
+      },
+      "184": {
+        "description": "Licence Fee",
+        "type": "string"
+      },
+      "185": {
+        "description": "Early Bird Cards",
+        "type": "string"
+      },
+      "186": {
+        "description": "Regular Game Cards",
+        "type": "string"
+      },
+      "187": {
+        "description": "Gross Sales:",
+        "type": "string"
+      },
+      "188": {
+        "description": "Bingo cards",
+        "type": "string"
+      },
+      "189": {
+        "description": "Type of report:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

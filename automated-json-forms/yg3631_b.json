@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Day of week",
+        "type": "string"
+      },
+      "33": {
+        "description": "of",
+        "type": "string"
+      },
+      "34": {
+        "description": "Name",
+        "type": "string"
+      },
+      "35": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "Designated municipal officer \u2022 Fonctionnaire municipal d\u00e9sign\u00e9",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

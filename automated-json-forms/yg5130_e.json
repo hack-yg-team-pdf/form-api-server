@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "114": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609 or e-mail PLRA@gov.yk.ca for inquiries.",
+        "type": "boolean"
+      },
+      "127": {
+        "description": "Personal information contained on this form is collected under the Insurance Act and will be used for the purpose of administering the Act.",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "Business Address                                                                            City                    Province                 Postal Code",
+        "type": "string"
+      },
+      "222": {
+        "description": "Residence Phone",
+        "type": "string"
+      },
+      "223": {
+        "description": "Business Phone",
+        "type": "string"
+      },
+      "224": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "225": {
+        "description": "General, to represent:",
+        "type": "string"
+      },
+      "226": {
+        "description": "Accident and Sickness, to represent:",
+        "type": "string"
+      },
+      "227": {
+        "description": "Classes of insurance applied for (List the insurance company you currently represent. Attach list of companies if more than one.)",
+        "type": "string"
+      },
+      "228": {
+        "description": "Life (including Accident & Sickness), to represent:",
+        "type": "string"
+      },
+      "229": {
+        "description": "Travel agents only, to undertake only travel, accident and sickness insurance incidental to/or as part of the normal",
+        "type": "string"
+      },
+      "230": {
+        "description": "First Name",
+        "type": "boolean"
+      },
+      "232": {
+        "description": "If you are a non-resident, you must attach a certificate of good standing from your home jurisdiction.",
+        "type": "boolean"
+      },
+      "233": {
+        "description": "Business Name (if any)",
+        "type": "boolean"
+      },
+      "234": {
+        "description": "RENEWAL FORM INSURANCE AGENT",
+        "type": "boolean"
+      },
+      "235": {
+        "description": "List additional new companies you wish to represent. You must attach a completed \u201cInsurer\u2019s Recommendation of",
+        "type": "string"
+      },
+      "236": {
+        "description": "Agent\u201d form for each new insurer you will represent. You can find this form at www.insurancelicensingyukon.ca",
+        "type": "string"
+      },
+      "237": {
+        "description": "Have you or any directors, partners or officers of the firm, partnership or corporation, as the case may be,",
+        "type": "string"
+      },
+      "238": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "239": {
+        "description": "in the last year been involved in any civil court or bankruptcy, in any jurisdiction?",
+        "type": "string"
+      },
+      "240": {
+        "description": "If yes please provide details:",
+        "type": "string"
+      },
+      "242": {
+        "description": "I hereby certify that the foregoing statements are true and correct to the best of my knowledge. I hereby",
+        "type": "string"
+      },
+      "243": {
+        "description": "DECLARATION OF APPLICANT",
+        "type": "string"
+      },
+      "245": {
+        "description": "Applicant Name (please print)",
+        "type": "string"
+      },
+      "246": {
+        "description": "Dated at ,",
+        "type": "string"
+      },
+      "247": {
+        "description": "this  day of",
+        "type": "string"
+      },
+      "248": {
+        "description": "Applicant Signature",
+        "type": "string"
+      },
+      "249": {
+        "description": ", 20.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

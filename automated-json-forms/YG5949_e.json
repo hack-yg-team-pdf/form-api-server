@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "60": {
+        "description": "Name of Licensed Premises:",
+        "type": "string"
+      },
+      "61": {
+        "description": "P.O. Box Number or Street Address:",
+        "type": "string"
+      },
+      "62": {
+        "description": "Name of Community, Yukon:    Postal Code:",
+        "type": "string"
+      },
+      "63": {
+        "description": "Prohibition from entering the licensed premises known as:",
+        "type": "string"
+      },
+      "64": {
+        "description": "HAND DELIVERED",
+        "type": "string"
+      },
+      "65": {
+        "description": "REGISTERED MAIL",
+        "type": "string"
+      },
+      "69": {
+        "description": "Date of service , 20",
+        "type": "string"
+      },
+      "70": {
+        "description": "TO:",
+        "type": "string"
+      },
+      "71": {
+        "description": "Be advised that pursuant to the Liquor Act or Liquor Regulations, you are hereby prohibited from entering the",
+        "type": "string"
+      },
+      "74": {
+        "description": "of the ,",
+        "type": "string"
+      },
+      "75": {
+        "description": "Licensed premises",
+        "type": "string"
+      },
+      "76": {
+        "description": "Name of Establishment",
+        "type": "string"
+      },
+      "77": {
+        "description": ", Yukon.",
+        "type": "string"
+      },
+      "78": {
+        "description": "If you do enter the premises, the R.C.M.P. will be notified and charges may or may not be laid against you.",
+        "type": "string"
+      },
+      "79": {
+        "description": "Name of Community",
+        "type": "string"
+      },
+      "80": {
+        "description": "This prohibition is effective immediately and will continue until , 20 .",
+        "type": "string"
+      },
+      "81": {
+        "description": "You have the right to appeal this prohibition to the Yukon Liquor Board of Directors\u2019, c/o Yukon Liquor Corporation,",
+        "type": "string"
+      },
+      "82": {
+        "description": "On or about  on the  day of , 20  , you were on the premises in a",
+        "type": "string"
+      },
+      "83": {
+        "description": "Time am or pm",
+        "type": "string"
+      },
+      "84": {
+        "description": "A barring appeal hearing will be arranged for you should you decide to appeal per 9(3)(b) Liquor Regulations.",
+        "type": "string"
+      },
+      "85": {
+        "description": "9031 Quartz Road, Whitehorse, Yukon, Y1A 4P9. The telephone number is 867 667-5245 or Fax 867 393-6306.",
+        "type": "string"
+      },
+      "86": {
+        "description": "Signature of Manager",
+        "type": "string"
+      },
+      "87": {
+        "description": "Manager,",
+        "type": "string"
+      },
+      "88": {
+        "description": "cc: Royal Canadian Mounted Police, , Yukon",
+        "type": "string"
+      },
+      "89": {
+        "description": "cc: Yukon Liquor Corporation, Whitehorse, Yukon",
+        "type": "boolean"
+      },
+      "92": {
+        "description": "Name of establishment",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

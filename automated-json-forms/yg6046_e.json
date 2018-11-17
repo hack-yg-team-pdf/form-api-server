@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "149": {
+        "description": "YYYY/ MM/ DD",
+        "type": "string"
+      },
+      "150": {
+        "description": "YYYY/ MM/ DD",
+        "type": "string"
+      },
+      "162": {
+        "description": "Other events / achievements / training / certification",
+        "type": "string"
+      },
+      "169": {
+        "description": "Athlete\u2019s name",
+        "type": "string"
+      },
+      "186": {
+        "description": "Level of",
+        "type": "string"
+      },
+      "187": {
+        "description": "Note: \u2018competition levels\u2019 include: territorial, provincial, regional, national, or international",
+        "type": "string"
+      },
+      "206": {
+        "description": "and/or outside Yukon:",
+        "type": "string"
+      },
+      "208": {
+        "description": "\u201cGIVING BACK\u201d ACTIVITY",
+        "type": "string"
+      },
+      "209": {
+        "description": "Describe the activities or events that you participated in to share your knowledge with developing athletes within Yukon",
+        "type": "string"
+      },
+      "210": {
+        "description": "Outcome",
+        "type": "string"
+      },
+      "211": {
+        "description": "YG(6046EQ)F3 Rev.11/2018",
+        "type": "string"
+      },
+      "214": {
+        "description": "Location",
+        "type": "string"
+      },
+      "216": {
+        "description": "Purpose",
+        "type": "string"
+      },
+      "217": {
+        "description": "Date / duration",
+        "type": "string"
+      },
+      "234": {
+        "description": "YYYY/ MM/ DD",
+        "type": "string"
+      },
+      "236": {
+        "description": "Event/activity",
+        "type": "string"
+      },
+      "237": {
+        "description": "Note: \u2018outcome\u2019 column should be used to indicate the result, certification or achievement",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

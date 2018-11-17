@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "391": {
+        "description": "FACILITY INFORMATION",
+        "type": "string"
+      },
+      "392": {
+        "description": "New location",
+        "type": "boolean"
+      },
+      "393": {
+        "description": "Child care centre",
+        "type": "boolean"
+      },
+      "397": {
+        "description": "New ownership",
+        "type": "boolean"
+      },
+      "398": {
+        "description": "Other (specify):",
+        "type": "boolean"
+      },
+      "399": {
+        "description": "Laser hair removal",
+        "type": "boolean"
+      },
+      "400": {
+        "description": "Health spa, sauna/steam bath",
+        "type": "boolean"
+      },
+      "401": {
+        "description": "Hair services",
+        "type": "boolean"
+      },
+      "402": {
+        "description": "Ear/body piercing",
+        "type": "boolean"
+      },
+      "403": {
+        "description": "AMENDMENT:",
+        "type": "boolean"
+      },
+      "404": {
+        "description": "Personal services",
+        "type": "boolean"
+      },
+      "405": {
+        "description": "Massage",
+        "type": "boolean"
+      },
+      "406": {
+        "description": "Esthetics/nails",
+        "type": "string"
+      },
+      "409": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "410": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "411": {
+        "description": "Facility site address",
+        "type": "string"
+      },
+      "412": {
+        "description": "Email",
+        "type": "string"
+      },
+      "413": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "414": {
+        "description": "BUSINESS INFORMATION",
+        "type": "string"
+      },
+      "415": {
+        "description": "Legal business name",
+        "type": "string"
+      },
+      "416": {
+        "description": "Type of ownership",
+        "type": "string"
+      },
+      "417": {
+        "description": "Legal business owner",
+        "type": "string"
+      },
+      "418": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "419": {
+        "description": "Email",
+        "type": "string"
+      },
+      "420": {
+        "description": "City/town",
+        "type": "string"
+      },
+      "421": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "422": {
+        "description": "Water source:",
+        "type": "string"
+      },
+      "423": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "430": {
+        "description": "Large public drinking water system      Name:",
+        "type": "string"
+      },
+      "436": {
+        "description": "Year round operation",
+        "type": "string"
+      },
+      "437": {
+        "description": "Days and hours",
+        "type": "boolean"
+      },
+      "438": {
+        "description": "OFFICE USE ONLY",
+        "type": "boolean"
+      },
+      "441": {
+        "description": "Approved by EHO       Approval date:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

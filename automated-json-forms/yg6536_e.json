@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "200": {
+        "description": "Business Name",
+        "type": "string"
+      },
+      "203": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "204": {
+        "description": "Web Address",
+        "type": "string"
+      },
+      "205": {
+        "description": "Daily Rate",
+        "type": "string"
+      },
+      "206": {
+        "description": "Email",
+        "type": "string"
+      },
+      "207": {
+        "description": "Yukon Media Development need not accept the lowest hourly pricing, and reserves the right to reject or",
+        "type": "string"
+      },
+      "208": {
+        "description": "accept any proposal without further explanation.",
+        "type": "string"
+      },
+      "209": {
+        "description": "Please attach:",
+        "type": "string"
+      },
+      "210": {
+        "description": "Familiarity with Yukon geography and permitting requirements.",
+        "type": "string"
+      },
+      "211": {
+        "description": "Availability on an on-call basis.",
+        "type": "string"
+      },
+      "212": {
+        "description": "Complete applications can be submitted to:",
+        "type": "string"
+      },
+      "213": {
+        "description": "WCB #",
+        "type": "boolean"
+      },
+      "215": {
+        "description": "Corporate resum\u00e9 and the resum\u00e9s of all staff who will be involved in the project showing experience",
+        "type": "boolean"
+      },
+      "216": {
+        "description": "Registration with Yukon Workers\u2019 Compensation Health and Safety Board (YWCHSB).",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "Registration with Corporate Affairs.",
+        "type": "boolean"
+      },
+      "218": {
+        "description": "Confirmation the applicant does not owe Government of Yukon any money.",
+        "type": "boolean"
+      },
+      "219": {
+        "description": "Please confirm that you have the following:",
+        "type": "boolean"
+      },
+      "220": {
+        "description": "Experience working with Yukon First Nations.",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "Knowledge of permitting requirements in Northern BC (Atlin and White Pass areas).",
+        "type": "boolean"
+      },
+      "222": {
+        "description": "Knowledge of parks (federal and territorial) permitting requirements and restrictions.",
+        "type": "boolean"
+      },
+      "223": {
+        "description": "Access to a vehicle with appropriate insurance and a valid driver\u2019s licence.",
+        "type": "boolean"
+      },
+      "224": {
+        "description": "Camera and imaging editing software and ability to use both.",
+        "type": "boolean"
+      },
+      "225": {
+        "description": "Personal information on this form is collected under the authority of Section 29(c) of the Access to Information & Protection of Privacy (ATIPP) Act. The collection, use, and",
+        "type": "boolean"
+      },
+      "228": {
+        "description": "disclosure of your personal information are managed in accordance with the ATIPP Act and all or part of this information may be made available to the public. For further",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

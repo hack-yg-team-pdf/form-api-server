@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "245": {
+        "description": "Name of facility",
+        "type": "string"
+      },
+      "246": {
+        "description": "LAST",
+        "type": "string"
+      },
+      "247": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "248": {
+        "description": "Physical address",
+        "type": "string"
+      },
+      "249": {
+        "description": "(if different than above)",
+        "type": "string"
+      },
+      "250": {
+        "description": "Phone number",
+        "type": "string"
+      },
+      "251": {
+        "description": "Fax number",
+        "type": "string"
+      },
+      "252": {
+        "description": "Effective date of occupancy   Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "253": {
+        "description": "Anticipated departure date",
+        "type": "string"
+      },
+      "254": {
+        "description": "the Whitehorse office at (867) 667-5674, or the local Regional Services office at (867).",
+        "type": "string"
+      },
+      "255": {
+        "description": "(if applicable)",
+        "type": "string"
+      },
+      "256": {
+        "description": "non-payment of rent or any damage to units. Please notify ISS of any unexpected occupant departures by contacting",
+        "type": "string"
+      },
+      "257": {
+        "description": "Daily rental rate",
+        "type": "string"
+      },
+      "258": {
+        "description": "Name of staff personnel",
+        "type": "string"
+      },
+      "266": {
+        "description": "Attention staff personnel: ISS is not a party to the landlord/tenant agreement, and accepts no responsibility for",
+        "type": "string"
+      },
+      "269": {
+        "description": "Verified by:",
+        "type": "string"
+      },
+      "270": {
+        "description": "Date (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "271": {
+        "description": "Job position/title of staff personnel",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "Rent paid:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

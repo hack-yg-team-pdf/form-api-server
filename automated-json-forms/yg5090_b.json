@@ -1,0 +1,315 @@
+{
+  "fields": {
+    "properties": {
+      "202": {
+        "description": "Je,,",
+        "type": "string"
+      },
+      "205": {
+        "description": "15 (a) Have you ever been the subject of an inquiry?",
+        "type": "string"
+      },
+      "208": {
+        "description": "crime?                      \u2610No              \u2610Yes",
+        "type": "string"
+      },
+      "209": {
+        "description": "\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "210": {
+        "description": "(b) Si oui, veuillez exposer les faits  \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "212": {
+        "description": "(b) If yes, state facts \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "213": {
+        "description": "\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "215": {
+        "description": "\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "217": {
+        "description": "accordance with the Chiropractors Act.",
+        "type": "string"
+      },
+      "221": {
+        "description": "(b) Si oui, veuillez exposer les faits  \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "222": {
+        "description": "16.(a) Avez-vous d\u00e9j\u00e0 \u00e9t\u00e9 accus\u00e9 ou d\u00e9clar\u00e9 coupable d\u2019un",
+        "type": "string"
+      },
+      "223": {
+        "description": "(b)If yes, state facts  \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "225": {
+        "description": "et d\u2019autorisation d\u2019exercer au Yukon, en vertu de la Loi sur les",
+        "type": "string"
+      },
+      "226": {
+        "description": "hereby make application for registration and licensure with Yukon in",
+        "type": "string"
+      },
+      "228": {
+        "description": "par la pr\u00e9sente, soumets une demande d\u2019inscription au registre",
+        "type": "string"
+      },
+      "229": {
+        "description": "I,,",
+        "type": "string"
+      },
+      "236": {
+        "description": "Nom au complet en lettres d\u00e9tach\u00e9es",
+        "type": "string"
+      },
+      "237": {
+        "description": "\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "239": {
+        "description": "\u2610Non             \u2610Oui",
+        "type": "string"
+      },
+      "241": {
+        "description": "acte criminel ?",
+        "type": "string"
+      },
+      "243": {
+        "description": "\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "244": {
+        "description": "15. (a) Avez-vous d\u00e9j\u00e0 fait l\u2019objet d\u2019une enqu\u00eate?",
+        "type": "string"
+      },
+      "247": {
+        "description": "\u2610No              \u2610Yes",
+        "type": "string"
+      },
+      "248": {
+        "description": "16.(a) Have you ever been convicted of or indicted for any",
+        "type": "string"
+      },
+      "249": {
+        "description": "\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "250": {
+        "description": "\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "253": {
+        "description": "Si vous avez des questions, veuillez communiquer avec Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires : par t\u00e9l\u00e9phone, au 867-667-5111;",
+        "type": "boolean"
+      },
+      "254": {
+        "description": "Name\tof\tNotary\tPublic\t\u2022\tPLEASE\tPRINT",
+        "type": "string"
+      },
+      "255": {
+        "description": "Nom du demandeur (EN LETTRES D\u00c9TACH\u00c9ES)",
+        "type": "string"
+      },
+      "256": {
+        "description": "D\u00e9clar\u00e9 devant moi \u00e0",
+        "type": "string"
+      },
+      "257": {
+        "description": "this",
+        "type": "string"
+      },
+      "258": {
+        "description": "in",
+        "type": "string"
+      },
+      "259": {
+        "description": "Declared before me at",
+        "type": "string"
+      },
+      "266": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609 or e-mail PLRA@gov.yk.ca for inquiries.",
+        "type": "boolean"
+      },
+      "271": {
+        "description": "D\u00c9CLARE SOLENNELLEMENT QUE :",
+        "type": "string"
+      },
+      "273": {
+        "description": "DO SOLEMNLY DECLARE:",
+        "type": "string"
+      },
+      "274": {
+        "description": "with Yukon, I",
+        "type": "string"
+      },
+      "275": {
+        "description": "au Yukon, je",
+        "type": "string"
+      },
+      "277": {
+        "description": "ce  jour de/d\u2019   20",
+        "type": "string"
+      },
+      "1549": {
+        "description": "Les renseignements personnels demand\u00e9s dans les pr\u00e9sentes sont recueillis en",
+        "type": "string"
+      },
+      "1550": {
+        "description": "Print name in full",
+        "type": "string"
+      },
+      "1552": {
+        "description": "dd/mm/yyyy",
+        "type": "string"
+      },
+      "1555": {
+        "description": "9.  Place of Graduation:",
+        "type": "string"
+      },
+      "1556": {
+        "description": "I will practise as a locum",
+        "type": "string"
+      },
+      "1559": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "1560": {
+        "description": "I expect to practise in:",
+        "type": "string"
+      },
+      "1561": {
+        "description": "Home Telephone number",
+        "type": "string"
+      },
+      "1566": {
+        "description": "4. E-mail address:",
+        "type": "string"
+      },
+      "1567": {
+        "description": "Province/Territoire",
+        "type": "boolean"
+      },
+      "1569": {
+        "description": "Clinic Telephone number",
+        "type": "string"
+      },
+      "1571": {
+        "description": "\u2610",
+        "type": "string"
+      },
+      "1574": {
+        "description": "(c) Limitations, restrictions and/or conditions on this licence:",
+        "type": "string"
+      },
+      "1577": {
+        "description": "jurisdiction?                                                     Yes \u2610      No",
+        "type": "string"
+      },
+      "1578": {
+        "description": "at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "1579": {
+        "description": "Act and will be used for the purpose of administering the Act. For further",
+        "type": "string"
+      },
+      "1580": {
+        "description": "Personal information contained on this form is collected under the Chiropractors",
+        "type": "string"
+      },
+      "1581": {
+        "description": "information, contact the Director of Professional Licensing and Regulatory Affairs",
+        "type": "string"
+      },
+      "1582": {
+        "description": "YG(5090Q)F3 Rev. 10/2014",
+        "type": "string"
+      },
+      "1583": {
+        "description": "vertu de la Loi sur les chiropraticiens et serviront exclusivement \u00e0 l\u2019administration",
+        "type": "string"
+      },
+      "1584": {
+        "description": "de la Loi.  Pour de plus amples renseignements, veuillez communiquer avec la",
+        "type": "string"
+      },
+      "1585": {
+        "description": "Direction de l\u2019accr\u00e9ditation professionnelle et des affaires r\u00e9glementaires au",
+        "type": "string"
+      },
+      "1586": {
+        "description": "exerc\u00e9 votre profession au cours des 3 ann\u00e9es pr\u00e9c\u00e9dant la",
+        "type": "string"
+      },
+      "1593": {
+        "description": "13.Indiquez tous les endroits (adresses et dates) o\u00f9 vous avez",
+        "type": "string"
+      },
+      "1594": {
+        "description": "pr\u00e9sente demande :",
+        "type": "string"
+      },
+      "1597": {
+        "description": "Code postal",
+        "type": "string"
+      },
+      "1598": {
+        "description": "T\u00e9l\u00e9phone (domicile)",
+        "type": "string"
+      },
+      "1599": {
+        "description": "Nom de la clinique",
+        "type": "string"
+      },
+      "1607": {
+        "description": "\u2610",
+        "type": "string"
+      },
+      "1608": {
+        "description": "Envoyer le courrier \u00e0 la clinique",
+        "type": "boolean"
+      },
+      "1610": {
+        "description": "9.  Lieu d\u2019obtention du dipl\u00f4me :",
+        "type": "string"
+      },
+      "1611": {
+        "description": "8.  Adresse de la clinique :",
+        "type": "string"
+      },
+      "1612": {
+        "description": "Oui",
+        "type": "string"
+      },
+      "1620": {
+        "description": "Province/Territoire",
+        "type": "string"
+      },
+      "1624": {
+        "description": "Sexe :",
+        "type": "string"
+      },
+      "1625": {
+        "description": "Endroit :",
+        "type": "string"
+      },
+      "1626": {
+        "description": "3. Date de naissance :",
+        "type": "string"
+      },
+      "1627": {
+        "description": "2. Nom de jeune fille (s\u2019il y a lieu) :",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

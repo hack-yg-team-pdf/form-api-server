@@ -1,0 +1,135 @@
+{
+  "fields": {
+    "properties": {
+      "282": {
+        "description": "$25 per class of licence",
+        "type": "boolean"
+      },
+      "284": {
+        "description": "LICENCE INFORMATION",
+        "type": "boolean"
+      },
+      "285": {
+        "description": "PRIVATE INVESTIGATORS AND SECURITY GUARDS ACT",
+        "type": "boolean"
+      },
+      "286": {
+        "description": "Private Investigator Agency",
+        "type": "boolean"
+      },
+      "287": {
+        "description": "Security Guard Agency",
+        "type": "string"
+      },
+      "288": {
+        "description": "Give details if out of territory licence is currently held:",
+        "type": "string"
+      },
+      "291": {
+        "description": "Type:    Province:",
+        "type": "string"
+      },
+      "292": {
+        "description": "BUSINESS INFORMATION",
+        "type": "string"
+      },
+      "293": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "294": {
+        "description": "Registered address",
+        "type": "string"
+      },
+      "295": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "296": {
+        "description": "Principal office location (if different from above)",
+        "type": "string"
+      },
+      "297": {
+        "description": "First name",
+        "type": "string"
+      },
+      "298": {
+        "description": "Middle name",
+        "type": "string"
+      },
+      "299": {
+        "description": "Applicant\u2019s last name",
+        "type": "string"
+      },
+      "300": {
+        "description": "aware of any circumstance or impediment which would affect the granting of the said licence.",
+        "type": "string"
+      },
+      "301": {
+        "description": "I/We  of the Firm/Partnership",
+        "type": "string"
+      },
+      "302": {
+        "description": "Full address",
+        "type": "string"
+      },
+      "303": {
+        "description": "provided in this licence renewal application for a  Agency licence is true and correct and further",
+        "type": "string"
+      },
+      "304": {
+        "description": "swear that there has been no change in the information provided in the original licence application and that I/We are not",
+        "type": "string"
+      },
+      "305": {
+        "description": "carrying on the business at",
+        "type": "string"
+      },
+      "306": {
+        "description": "Make oath and say as follows: I/We, being Directors/Partners in the aforementioned business, swear that all information",
+        "type": "string"
+      },
+      "307": {
+        "description": "in",
+        "type": "string"
+      },
+      "308": {
+        "description": "Sworn before me at",
+        "type": "string"
+      },
+      "309": {
+        "description": "this  day of  20.",
+        "type": "string"
+      },
+      "310": {
+        "description": "Notary Public in and for Yukon",
+        "type": "string"
+      },
+      "311": {
+        "description": "The following items are attached:",
+        "type": "boolean"
+      },
+      "312": {
+        "description": "Licence fee of $",
+        "type": "boolean"
+      },
+      "313": {
+        "description": "Proof of liability insurance in the amount of $100,000.00",
+        "type": "boolean"
+      },
+      "314": {
+        "description": "Proof of $5,000.00 bond as set out in the Regulations.",
+        "type": "string"
+      },
+      "315": {
+        "description": "Please return your documents and fees to:",
+        "type": "boolean"
+      },
+      "318": {
+        "description": "Personal information contained on this form is collected under the Private Investigators and Security Guards Act and will be used for the purpose of administering the Act.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

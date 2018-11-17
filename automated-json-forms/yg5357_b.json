@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "55": {
+        "description": "* YLC will obtain pricing from the BCLDB for imported products",
+        "type": "string"
+      },
+      "56": {
+        "description": "LE PR\u00c9SENT FORMULAIRE DOIT \u00caTRE REMPLI PAR LE FOURNISSEUR OU UN REPR\u00c9SENTANT AUTORIS\u00c9",
+        "type": "string"
+      },
+      "57": {
+        "description": "THIS FORM TO BE COMPLETED BY THE SUPPLIER OR DESIGNATED AGENT",
+        "type": "string"
+      },
+      "58": {
+        "description": "* La SAY s\u2019informera du prix des produits import\u00e9s aupr\u00e8s de la BCLDB.",
+        "type": "string"
+      },
+      "59": {
+        "description": "Les \u00e9tiquettes doivent \u00eatre conformes aux exigences de la Loi sur l\u2019emballage et l\u2019\u00e9tiquetage des produits de consommation du Canada.",
+        "type": "string"
+      },
+      "60": {
+        "description": "Applications for new listings are reviewed quarterly.",
+        "type": "string"
+      },
+      "61": {
+        "description": "Labels must conform to the Canadian Consumers Packaging and Labeling Act Requirements.",
+        "type": "string"
+      },
+      "62": {
+        "description": "Les demandes d\u2019inscription de nouveaux produits sont examin\u00e9es tous les trois mois.",
+        "type": "string"
+      },
+      "63": {
+        "description": "Delivery Time from Receipt of Order:",
+        "type": "string"
+      },
+      "64": {
+        "description": "D\u00e9lai de livraison :",
+        "type": "string"
+      },
+      "65": {
+        "description": "Bottles per Case:                                                     Terms:",
+        "type": "string"
+      },
+      "66": {
+        "description": "Nbre d\u2019unit\u00e9s par caisse :    Modalit\u00e9s :",
+        "type": "string"
+      },
+      "67": {
+        "description": "Prix du produit canadien*",
+        "type": "string"
+      },
+      "68": {
+        "description": "Price per Case:                                                        Weight per Case:",
+        "type": "string"
+      },
+      "69": {
+        "description": "Domestic Product Pricing*",
+        "type": "string"
+      },
+      "70": {
+        "description": "Prix la caisse :   Poids de la caisse :",
+        "type": "string"
+      },
+      "71": {
+        "description": "Potentiel de vieillissement :   Dur\u00e9e de conservation :",
+        "type": "string"
+      },
+      "72": {
+        "description": "% d\u2019alcool par volume :   Mill\u00e9sime ou \u00e2ge :",
+        "type": "string"
+      },
+      "73": {
+        "description": "Alcohol % by Volume:                                                  Details of Age:",
+        "type": "string"
+      },
+      "74": {
+        "description": "(Tous les frais de port, de manutention et de douane pour Whitehorse, Yukon, Canada doivent \u00eatre acquitt\u00e9s \u00e0 l\u2019avance.)",
+        "type": "string"
+      },
+      "75": {
+        "description": "(All shipping, handling and in-bond service charges are to be prepaid to Whitehorse, Yukon, Canada)",
+        "type": "string"
+      },
+      "76": {
+        "description": "Date Sample Submitted:",
+        "type": "string"
+      },
+      "77": {
+        "description": "Province                             Ventes annuelles (caisses)                    Province                                  Ventes annuelles (caisses)",
+        "type": "string"
+      },
+      "78": {
+        "description": "Province                             Annual Sales(Cs)                                   Province                                  Annual Sales(Cs)",
+        "type": "string"
+      },
+      "79": {
+        "description": "Inscriptions dans d\u2019autres provinces ou territoires canadiens :",
+        "type": "string"
+      },
+      "80": {
+        "description": "Product Description and Colour Characteristics:",
+        "type": "string"
+      },
+      "81": {
+        "description": "Description du produit et couleur :",
+        "type": "string"
+      },
+      "82": {
+        "description": "Country of Origin:",
+        "type": "string"
+      },
+      "83": {
+        "description": "Pays d\u2019origine :",
+        "type": "string"
+      },
+      "84": {
+        "description": "Email:                                                                                                   Email:",
+        "type": "string"
+      },
+      "85": {
+        "description": "Courriel :      Courriel :",
+        "type": "string"
+      },
+      "86": {
+        "description": "FAX NO:                                                                                               FAX NO:",
+        "type": "string"
+      },
+      "87": {
+        "description": "T\u00e9l\u00e9copieur :      T\u00e9l\u00e9copieur :",
+        "type": "string"
+      },
+      "88": {
+        "description": "Listings in other Canadian Provinces:",
+        "type": "string"
+      },
+      "89": {
+        "description": "\u00c9chantillon soumis le :",
+        "type": "string"
+      },
+      "90": {
+        "description": "Nom et adresse du fournisseur :                                                         Nom et adresse du repr\u00e9sentant :",
+        "type": "string"
+      },
+      "91": {
+        "description": "Date :",
+        "type": "string"
+      },
+      "92": {
+        "description": "9031 Quartz Rd \u2022 9031 Quartz Road",
+        "type": "boolean"
+      },
+      "95": {
+        "description": "Whitehorse, Yukon  Y1A 4P9 \u2022 Whitehorse (Yukon) Canada  Y1A 4P9",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

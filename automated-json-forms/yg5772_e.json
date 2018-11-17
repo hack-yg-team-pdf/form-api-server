@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "60": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "61": {
+        "description": "Plaintiff(s):",
+        "type": "string"
+      },
+      "62": {
+        "description": "1.",
+        "type": "string"
+      },
+      "63": {
+        "description": "2.",
+        "type": "string"
+      },
+      "64": {
+        "description": "2.",
+        "type": "string"
+      },
+      "65": {
+        "description": ", Yukon )",
+        "type": "string"
+      },
+      "66": {
+        "description": "at",
+        "type": "string"
+      },
+      "67": {
+        "description": ")                                   day, the",
+        "type": "string"
+      },
+      "70": {
+        "description": "JUDGE",
+        "type": "string"
+      },
+      "71": {
+        "description": "BEFORE HIS/HER HONOUR",
+        "type": "string"
+      },
+      "72": {
+        "description": ")",
+        "type": "string"
+      },
+      "73": {
+        "description": "(c)       no party is under a legal disability",
+        "type": "string"
+      },
+      "74": {
+        "description": "ON THE APPLICATION OF the",
+        "type": "string"
+      },
+      "75": {
+        "description": "THIS COURT ORDERS THAT:",
+        "type": "string"
+      },
+      "76": {
+        "description": "2.",
+        "type": "string"
+      },
+      "77": {
+        "description": "4.",
+        "type": "string"
+      },
+      "78": {
+        "description": "Judge, Small Claims Court of Yukon",
+        "type": "string"
+      },
+      "79": {
+        "description": "YG(5772QE) 07/2011",
+        "type": "string"
+      },
+      "80": {
+        "description": "Plaintiff",
+        "type": "string"
+      },
+      "81": {
+        "description": "Defendant",
+        "type": "string"
+      },
+      "82": {
+        "description": "Consented to and approved as to the Order made:",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "Reference: Sections 37, 39, 41 and 66 Small Claims Court Regulations",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

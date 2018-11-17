@@ -1,0 +1,195 @@
+{
+  "fields": {
+    "properties": {
+      "112": {
+        "description": "Substance Use/Abuse",
+        "type": "boolean"
+      },
+      "119": {
+        "description": "Sedative Hypnotic",
+        "type": "string"
+      },
+      "125": {
+        "description": "REFERRED CARE CLINIC \u2013 YUKON: INITIAL ASSESSMENT",
+        "type": "boolean"
+      },
+      "128": {
+        "description": "Opioid",
+        "type": "string"
+      },
+      "129": {
+        "description": "Trouble with the Law",
+        "type": "string"
+      },
+      "139": {
+        "description": "Unknown",
+        "type": "string"
+      },
+      "140": {
+        "description": "Polysubstance",
+        "type": "string"
+      },
+      "142": {
+        "description": "Medical History",
+        "type": "boolean"
+      },
+      "145": {
+        "description": "Other Illicit",
+        "type": "string"
+      },
+      "148": {
+        "description": "Mental Health History",
+        "type": "string"
+      },
+      "150": {
+        "description": "OTC Medication",
+        "type": "boolean"
+      },
+      "152": {
+        "description": "Inhalant",
+        "type": "string"
+      },
+      "873": {
+        "description": "Appointment with",
+        "type": "string"
+      },
+      "881": {
+        "description": "Contacts",
+        "type": "string"
+      },
+      "882": {
+        "description": "Married",
+        "type": "string"
+      },
+      "883": {
+        "description": "Common Law",
+        "type": "string"
+      },
+      "884": {
+        "description": "Separated",
+        "type": "string"
+      },
+      "885": {
+        "description": "Spouse",
+        "type": "string"
+      },
+      "897": {
+        "description": "Sources of Information",
+        "type": "boolean"
+      },
+      "898": {
+        "description": "Parent",
+        "type": "boolean"
+      },
+      "899": {
+        "description": "Divorced",
+        "type": "boolean"
+      },
+      "900": {
+        "description": "Child",
+        "type": "boolean"
+      },
+      "901": {
+        "description": "Other Family",
+        "type": "boolean"
+      },
+      "902": {
+        "description": "Patient",
+        "type": "boolean"
+      },
+      "903": {
+        "description": "RCMP",
+        "type": "boolean"
+      },
+      "904": {
+        "description": "Hospital Chart",
+        "type": "boolean"
+      },
+      "905": {
+        "description": "Other (specify):",
+        "type": "boolean"
+      },
+      "906": {
+        "description": "Alcohol and Drug Services (ADS)",
+        "type": "string"
+      },
+      "907": {
+        "description": "Patient Community Supports",
+        "type": "string"
+      },
+      "908": {
+        "description": "Adult and Social Services (SA)",
+        "type": "boolean"
+      },
+      "909": {
+        "description": "Blood Ties Four Directions",
+        "type": "boolean"
+      },
+      "910": {
+        "description": "Family Violence Prevention Unit",
+        "type": "boolean"
+      },
+      "911": {
+        "description": "Many Rivers Counselling",
+        "type": "boolean"
+      },
+      "912": {
+        "description": "Peer Support Group",
+        "type": "boolean"
+      },
+      "913": {
+        "description": "Other Association:",
+        "type": "boolean"
+      },
+      "914": {
+        "description": "Location",
+        "type": "boolean"
+      },
+      "915": {
+        "description": "Family and Children Services",
+        "type": "boolean"
+      },
+      "916": {
+        "description": "Mental Health Services",
+        "type": "boolean"
+      },
+      "917": {
+        "description": "Psychiatrist",
+        "type": "boolean"
+      },
+      "918": {
+        "description": "Y.C.D.C.",
+        "type": "boolean"
+      },
+      "919": {
+        "description": "Second Opinion Society",
+        "type": "boolean"
+      },
+      "920": {
+        "description": "Psychologist",
+        "type": "boolean"
+      },
+      "921": {
+        "description": "Supported Independent Living",
+        "type": "boolean"
+      },
+      "922": {
+        "description": "Victim Services",
+        "type": "boolean"
+      },
+      "923": {
+        "description": "Referred Care Clinic \u2013 Yukon",
+        "type": "boolean"
+      },
+      "924": {
+        "description": "Contact Person:",
+        "type": "string"
+      },
+      "925": {
+        "description": "YG(6524EQ)F4 02/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

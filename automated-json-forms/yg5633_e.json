@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "59": {
+        "description": "b) Will the incinerator be operated in batch or continuous mode?",
+        "type": "string"
+      },
+      "85": {
+        "description": "c) What is the estimated volume (m3) of contaminated soil that will be charged to the incinerator during each",
+        "type": "string"
+      },
+      "87": {
+        "description": "7. If applicable, what is the approximate mass of solid waste that will be incinerated on a daily basis  kg/day",
+        "type": "string"
+      },
+      "98": {
+        "description": "a) how often will the incinerator be operated?",
+        "type": "string"
+      },
+      "100": {
+        "description": "b) Will the incinerator be operated in batch or continuous mode?",
+        "type": "string"
+      },
+      "196": {
+        "description": "b) Will the incinerator be operated in batch or continuous mode?",
+        "type": "string"
+      },
+      "198": {
+        "description": "4. If applicable, what is the approximate mass of special waste that will be incinerated on a weekly basis  kg/week",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

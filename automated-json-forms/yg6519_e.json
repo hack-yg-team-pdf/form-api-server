@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "150": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "154": {
+        "description": "Email",
+        "type": "string"
+      },
+      "170": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "172": {
+        "description": "Pharmacist",
+        "type": "string"
+      },
+      "173": {
+        "description": "Yukon licence #",
+        "type": "string"
+      },
+      "174": {
+        "description": "First name",
+        "type": "string"
+      },
+      "323": {
+        "description": "Page 3 of 3",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

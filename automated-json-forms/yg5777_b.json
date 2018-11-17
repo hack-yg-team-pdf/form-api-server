@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "73": {
+        "description": "Sample Site ID \u2022 Code du lieu du pr\u00e9l\u00e8vement",
+        "type": "string"
+      },
+      "74": {
+        "description": "Personne ressource  T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "75": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "76": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "77": {
+        "description": "Adresse postale   Code postal",
+        "type": "string"
+      },
+      "78": {
+        "description": "First Nation, Municipal or Business Name",
+        "type": "string"
+      },
+      "79": {
+        "description": "Other Information                                                                                                                                                         Fax",
+        "type": "string"
+      },
+      "80": {
+        "description": "Municipal Address",
+        "type": "string"
+      },
+      "81": {
+        "description": "Adresse municipale   Lotissement",
+        "type": "string"
+      },
+      "82": {
+        "description": "Subdivision",
+        "type": "string"
+      },
+      "83": {
+        "description": "Legal Description Lot                                                                                                                             Quad                                           Plan No.",
+        "type": "string"
+      },
+      "84": {
+        "description": "D\u00e9signation cadastrale    Quad.  Plan no",
+        "type": "string"
+      },
+      "85": {
+        "description": "Sampling Site (please be specific)",
+        "type": "string"
+      },
+      "86": {
+        "description": "Lieu du pr\u00e9l\u00e8vement (veuillez pr\u00e9ciser)",
+        "type": "string"
+      },
+      "91": {
+        "description": "Water Holding Tank / R\u00e9servoir d\u2019eau               Other / Autre",
+        "type": "string"
+      },
+      "92": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "93": {
+        "description": "Is the water chlorinated?                       Yes               No",
+        "type": "string"
+      },
+      "96": {
+        "description": "Free Available Chlorine                                                      ppm",
+        "type": "string"
+      },
+      "97": {
+        "description": "Other treatment systems",
+        "type": "string"
+      },
+      "98": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "101": {
+        "description": "Chlore libre disponible ppm",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

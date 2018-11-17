@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "49": {
+        "description": "RENTAL UNIT ADDRESS (this is also the address where this document will be either given personally or left for and mailed to the tenant for",
+        "type": "string"
+      },
+      "50": {
+        "description": "service) Note: If mailed (registered or regular mail), the notice is considered served 5 days after mailing.",
+        "type": "string"
+      },
+      "51": {
+        "description": "LANDLORD\u2019S NAME (full names as shown on the tenancy agreement).",
+        "type": "string"
+      },
+      "52": {
+        "description": "DATE TENANCY ENDS (the tenant must be completely moved out no later than 1pm on this date).",
+        "type": "string"
+      },
+      "53": {
+        "description": "SIGNATURE of LANDLORD (OR LANDLORD\u2019S AGENT)",
+        "type": "string"
+      },
+      "54": {
+        "description": "months of July and August would represent the two month notice period. Thus the tenancy would end on August 31].",
+        "type": "string"
+      },
+      "55": {
+        "description": "The notice must be served no later than the day before rent is due under the tenancy agreement to start the two months",
+        "type": "string"
+      },
+      "56": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "57": {
+        "description": "An error in this Notice or an incorrect move-out date on this Notice does not necessarily make it invalid. If the",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "INFORMATION FOR BOTH LANDLORDS AND TENANTS",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "412": {
+        "description": "Please tick the heading that refers to your situation. You may tick more than one section (example: You may be going to",
+        "type": "boolean"
+      },
+      "440": {
+        "description": "school and working part-time, or you may be at home full-time but yourself or your child(ren) require special supports). If you",
+        "type": "boolean"
+      },
+      "442": {
+        "description": "don\u2019t have full custody, please fill out the information below based on the time you have custody/care for your child.",
+        "type": "boolean"
+      },
+      "468": {
+        "description": "Part-time        Typical days of week worked (check all that apply)   S  M  T  W  T   F   S",
+        "type": "boolean"
+      },
+      "499": {
+        "description": "PARENT/GUARDIAN (APPLICANT)",
+        "type": "boolean"
+      },
+      "1818": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "1819": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "1820": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "1821": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "1822": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "1823": {
+        "description": "Physical Address (if different than above)",
+        "type": "string"
+      },
+      "1824": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "1825": {
+        "description": "Please indicate the days you are the primary caregiver for your child(ren) (example: every day, every second week)",
+        "type": "string"
+      },
+      "1826": {
+        "description": "FAMILY SITUATION/INFORMATION",
+        "type": "string"
+      },
+      "1827": {
+        "description": "Please indicate if you are:",
+        "type": "string"
+      },
+      "1828": {
+        "description": "Common-law",
+        "type": "string"
+      },
+      "1829": {
+        "description": "Has the spouse or common-law partner ever applied for Child Care Subsidy in Yukon before?",
+        "type": "string"
+      },
+      "1830": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "1831": {
+        "description": "Married",
+        "type": "string"
+      },
+      "1836": {
+        "description": "If you are not married or common-law, please indicate if you are:",
+        "type": "string"
+      },
+      "1837": {
+        "description": "Single",
+        "type": "string"
+      },
+      "1838": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "1839": {
+        "description": "YYYY / MM / DD",
+        "type": "string"
+      },
+      "1840": {
+        "description": "Divorced",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

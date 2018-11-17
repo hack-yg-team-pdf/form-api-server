@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "204": {
+        "description": "(Explain what happened, where and when, and the amount of money involved. Attach any supporting documents",
+        "type": "string"
+      },
+      "205": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "206": {
+        "description": "(Name, Telephone Number(s))",
+        "type": "string"
+      },
+      "207": {
+        "description": "Unpaid Account",
+        "type": "string"
+      },
+      "208": {
+        "description": "N.S.F. Cheque",
+        "type": "string"
+      },
+      "209": {
+        "description": "TYPE OF CLAIM (check one box):",
+        "type": "string"
+      },
+      "210": {
+        "description": "IF YOU DO NOT FILE A REPLY WITHIN TWENTY (20) DAYS (if you reside in Yukon) OR THIRTY (30) DAYS",
+        "type": "string"
+      },
+      "218": {
+        "description": "Damage to Property",
+        "type": "string"
+      },
+      "220": {
+        "description": "Fax: (867) 993-5311",
+        "type": "string"
+      },
+      "221": {
+        "description": "Plaintiff\u2019s address for service of further documents is:",
+        "type": "string"
+      },
+      "222": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "225": {
+        "description": "(optional)     fax:",
+        "type": "string"
+      },
+      "226": {
+        "description": "(optional) e-mail:",
+        "type": "string"
+      },
+      "227": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "228": {
+        "description": "Dawson City Court Registry",
+        "type": "boolean"
+      },
+      "230": {
+        "description": "Reference: Sections 2 and 17 Small Claims Court Regulations",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

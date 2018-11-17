@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "PLACER MINING ACT SECTION 52.2",
+        "type": "string"
+      },
+      "38": {
+        "description": "2.",
+        "type": "string"
+      },
+      "39": {
+        "description": "Si tous les claims ne sont pas adjacents, veuillez expliquer pourquoi il est important qu\u2019ils soient r\u00e9unis en un seul groupement plut\u00f4t qu\u2019en",
+        "type": "string"
+      },
+      "40": {
+        "description": "If any of your claims are non-adjoining, please explain the importance of having one grouping instead of 2 or more.",
+        "type": "string"
+      },
+      "41": {
+        "description": "2 groupements ou plus.",
+        "type": "string"
+      },
+      "42": {
+        "description": "3. How long have you been carrying on mining operations on this ground?",
+        "type": "string"
+      },
+      "43": {
+        "description": "Depuis combien de temps menez-vous des op\u00e9rations mini\u00e8res dans ce sol?",
+        "type": "string"
+      },
+      "44": {
+        "description": "4. How long will it take you to mine all the claims in this proposed grouping?",
+        "type": "string"
+      },
+      "45": {
+        "description": "Combien de temps vous faudra-t-il pour faire l\u2019exploitation mini\u00e8re de tous les claims du groupement propos\u00e9?",
+        "type": "string"
+      },
+      "46": {
+        "description": "Please explain why",
+        "type": "string"
+      },
+      "47": {
+        "description": "Quel claim sera exploit\u00e9 en premier lieu?",
+        "type": "string"
+      },
+      "48": {
+        "description": "5. Which claims are going to be mined or worked first?",
+        "type": "string"
+      },
+      "49": {
+        "description": "6.",
+        "type": "string"
+      },
+      "50": {
+        "description": "List the order that the remaining cliams are to be mined or worked.",
+        "type": "string"
+      },
+      "51": {
+        "description": "Indiquez l\u2019ordre dans lequel les claims seront exploit\u00e9s.",
+        "type": "string"
+      },
+      "52": {
+        "description": "7.(a) Which claims will be used for tailings storage?",
+        "type": "string"
+      },
+      "53": {
+        "description": "Quels claims utiliserez-vous pour le stockage des r\u00e9sidus?",
+        "type": "string"
+      },
+      "54": {
+        "description": "(b) How will the tailings be transported to the claims for storage?",
+        "type": "string"
+      },
+      "55": {
+        "description": "8. Which claims will be used for settling pond construction?",
+        "type": "string"
+      },
+      "56": {
+        "description": "Quelles claims utiliserez-vous pour la construction du bassin?",
+        "type": "string"
+      },
+      "57": {
+        "description": "tous les r\u00e8glements et d\u00e9crets en application; et,",
+        "type": "string"
+      },
+      "58": {
+        "description": "The applicant shall comply with:",
+        "type": "string"
+      },
+      "59": {
+        "description": "made pursuant thereto; and,",
+        "type": "string"
+      },
+      "60": {
+        "description": "(a)",
+        "type": "string"
+      },
+      "61": {
+        "description": "(b) any applicable Yukon first nations Final Agreements.",
+        "type": "boolean"
+      },
+      "64": {
+        "description": "Please attach a copy of the claim sheet showing the location",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "fields": {
+    "properties": {
+      "161": {
+        "description": "The vehicle is equipped with a wastewater storage tank that has direct",
+        "type": "boolean"
+      },
+      "162": {
+        "description": "arrival at the push cart, in an approved facility.",
+        "type": "boolean"
+      },
+      "163": {
+        "description": "to-eat potentially hazardous foods (e.g., hot dogs, commercially",
+        "type": "boolean"
+      },
+      "164": {
+        "description": "The restricted use push cart serves only pre-packaged food and",
+        "type": "boolean"
+      },
+      "165": {
+        "description": "beverages (e.g., baked goods, ice cream novelties). Only restricted",
+        "type": "boolean"
+      },
+      "166": {
+        "description": "at or greater than 60\u00b0C (140\u00b0F) at all times  is provided for the hot",
+        "type": "boolean"
+      },
+      "167": {
+        "description": "consuming food and beverages, and are stored in a clean/sanitary",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "push cart.  This location must meet sanitation and food safety",
+        "type": "boolean"
+      },
+      "169": {
+        "description": "Soap and paper towels, both in dispensers, are provided and",
+        "type": "boolean"
+      },
+      "170": {
+        "description": "condition that could cause illness or physical harm",
+        "type": "string"
+      },
+      "171": {
+        "description": "\u2022 observe good personal hygiene;",
+        "type": "boolean"
+      },
+      "172": {
+        "description": "frequently cleaned and sanitized. Cleaning supplies and sanitizers",
+        "type": "boolean"
+      },
+      "173": {
+        "description": "by:",
+        "type": "boolean"
+      },
+      "175": {
+        "description": "The final responsibility for ensuring that food or",
+        "type": "string"
+      },
+      "176": {
+        "description": "Assessment performed on (date):",
+        "type": "string"
+      },
+      "177": {
+        "description": "Issued for a Food Vending Vehicle",
+        "type": "boolean"
+      },
+      "178": {
+        "description": "foods at temperatures of 4\u00b0C (40\u00b0F) or below at all times is",
+        "type": "boolean"
+      },
+      "179": {
+        "description": "Only single service utensils (not to be reused) are offered for",
+        "type": "boolean"
+      },
+      "180": {
+        "description": "All hoses used to fill the water holding tank or water lines that connect",
+        "type": "boolean"
+      },
+      "184": {
+        "description": "Food must be protected from contamination at all times.  This may",
+        "type": "boolean"
+      },
+      "185": {
+        "description": "involve the use of umbrellas, canopies, equipment coverings/lids,",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "All vending vehicles are to comply with the appropriate sections of regulations pursuant to the Public Health and Safety Act, and:",
+        "type": "boolean"
+      },
+      "187": {
+        "description": "Issued for a Push Cart",
+        "type": "boolean"
+      },
+      "188": {
+        "description": "The vending vehicle is equipped with at least a two-compartment non-",
+        "type": "boolean"
+      },
+      "189": {
+        "description": "All openings (i.e., doors and windows) are supplied with properly-fitted",
+        "type": "boolean"
+      },
+      "191": {
+        "description": "refrigeration and hot holding temperatures are maintained.",
+        "type": "boolean"
+      },
+      "192": {
+        "description": "submitted for bacteriological analysis prior to operating each year",
+        "type": "boolean"
+      },
+      "193": {
+        "description": "obtained from an approved source and capable of supplying hot",
+        "type": "boolean"
+      },
+      "194": {
+        "description": "The vending vehicle is equipped with a designated handwashing",
+        "type": "boolean"
+      },
+      "195": {
+        "description": "installed to carry off cooking odours, gases, vapours and grease-laden",
+        "type": "boolean"
+      },
+      "196": {
+        "description": "corroding metal dishwashing sink for washing, rinsing and sanitizing",
+        "type": "boolean"
+      },
+      "197": {
+        "description": "Issued with the Following Conditions:",
+        "type": "boolean"
+      },
+      "200": {
+        "description": "E-mail: environmental.health@gov.yk.ca",
+        "type": "string"
+      },
+      "201": {
+        "description": "air given off by grills, deep fryers and other types of cooking apparatus.",
+        "type": "boolean"
+      },
+      "202": {
+        "description": "Issued for a Restricted Use Push Cart",
+        "type": "string"
+      },
+      "203": {
+        "description": "Reviewed by:  (EHO) on (date)",
+        "type": "string"
+      },
+      "204": {
+        "description": "All foods must be protected from contamination at all times.",
+        "type": "boolean"
+      },
+      "205": {
+        "description": "All surfaces (i.e., walls, ceiling, floor, counters, drawers, cupboards)",
+        "type": "boolean"
+      },
+      "206": {
+        "description": "sneeze guards, depending on the design of the unit.",
+        "type": "boolean"
+      },
+      "207": {
+        "description": "Permit to Operate:",
+        "type": "boolean"
+      },
+      "209": {
+        "description": "drink offered for sale is wholesome and free of any",
+        "type": "string"
+      },
+      "211": {
+        "description": "Water samples are collected from the vending vehicle\u2019s faucets and",
+        "type": "boolean"
+      },
+      "212": {
+        "description": "The food vending vehicle is fully self-contained and easily mobile.",
+        "type": "boolean"
+      },
+      "213": {
+        "description": "All food is prepared in the vending vehicle or prepared at an",
+        "type": "boolean"
+      },
+      "773": {
+        "description": "Other",
+        "type": "string"
+      },
+      "776": {
+        "description": "Proposed Date of Operation",
+        "type": "string"
+      },
+      "777": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "778": {
+        "description": "Email",
+        "type": "string"
+      },
+      "779": {
+        "description": "Owner\u2019s Address",
+        "type": "string"
+      },
+      "780": {
+        "description": "Legal Business Name",
+        "type": "string"
+      },
+      "781": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "782": {
+        "description": "BUSINESS INFORMATION",
+        "type": "string"
+      },
+      "783": {
+        "description": "Waste Water Disposal (describe approved source)",
+        "type": "string"
+      },
+      "784": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "785": {
+        "description": "Operating Location(s) of Unit",
+        "type": "string"
+      },
+      "786": {
+        "description": "Vehicle/Cart Serial No.",
+        "type": "string"
+      },
+      "787": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "788": {
+        "description": "Base of Operation/Storage Location Address",
+        "type": "string"
+      },
+      "789": {
+        "description": "Drinking Water Supply (describe approved source)",
+        "type": "string"
+      },
+      "790": {
+        "description": "with this application.",
+        "type": "string"
+      },
+      "791": {
+        "description": "Applicant\u2019s Signature",
+        "type": "string"
+      },
+      "792": {
+        "description": "A complete photographic record of the interior and exterior space has been attached and submitted",
+        "type": "string"
+      },
+      "793": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "794": {
+        "description": "Menu Items",
+        "type": "string"
+      },
+      "795": {
+        "description": "Date",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

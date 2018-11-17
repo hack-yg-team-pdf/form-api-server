@@ -1,0 +1,227 @@
+{
+  "fields": {
+    "properties": {
+      "17": {
+        "description": "% Interest",
+        "type": "string"
+      },
+      "18": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "19": {
+        "description": "Signature of Division Head",
+        "type": "boolean"
+      },
+      "20": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "23": {
+        "description": "Date Received:              /         /              Time Received:",
+        "type": "string"
+      },
+      "24": {
+        "description": "Email",
+        "type": "string"
+      },
+      "25": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "26": {
+        "description": "Branch File #     Record #:",
+        "type": "string"
+      },
+      "28": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "29": {
+        "description": "Legal Name of Lessee",
+        "type": "string"
+      },
+      "31": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "34": {
+        "description": "Address",
+        "type": "string"
+      },
+      "35": {
+        "description": "Oil and Gas Lease and a provision of the Oil and Gas Act or any regulations under it, the latter provision prevails.",
+        "type": "string"
+      },
+      "36": {
+        "description": "Legal Name of Lessee",
+        "type": "string"
+      },
+      "38": {
+        "description": "F. DATE OF APPLICATION",
+        "type": "string"
+      },
+      "40": {
+        "description": "% Interest",
+        "type": "string"
+      },
+      "41": {
+        "description": "If there is any conflict or inconsistency between this application or the document entitled Guidelines: Application For",
+        "type": "string"
+      },
+      "43": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "49": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "51": {
+        "description": "G. DISCLAIMER",
+        "type": "string"
+      },
+      "53": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "54": {
+        "description": "Date of Application:             /         /",
+        "type": "string"
+      },
+      "55": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "56": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "57": {
+        "description": "Date:              /         /",
+        "type": "boolean"
+      },
+      "59": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "60": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "443": {
+        "description": "Permit Number:",
+        "type": "string"
+      },
+      "444": {
+        "description": "Grid Area(s)",
+        "type": "string"
+      },
+      "445": {
+        "description": "Number of Sections",
+        "type": "string"
+      },
+      "446": {
+        "description": "Total hectares to the nearest 0.1 ha",
+        "type": "string"
+      },
+      "447": {
+        "description": "or more productive zones and identifying the productive zone or zones in each spacing area.",
+        "type": "string"
+      },
+      "448": {
+        "description": "Section(s)",
+        "type": "string"
+      },
+      "449": {
+        "description": "Enclosed",
+        "type": "string"
+      },
+      "450": {
+        "description": "Application Fee of $500 is enclosed.",
+        "type": "string"
+      },
+      "451": {
+        "description": "Rental is enclosed.",
+        "type": "string"
+      },
+      "452": {
+        "description": "Company / Person",
+        "type": "string"
+      },
+      "453": {
+        "description": "D. DESIGNATED REPRESENTATIVE",
+        "type": "string"
+      },
+      "454": {
+        "description": "Official Service Address",
+        "type": "string"
+      },
+      "455": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "456": {
+        "description": "C. ATTACHMENTS",
+        "type": "string"
+      },
+      "457": {
+        "description": "List attached",
+        "type": "boolean"
+      },
+      "459": {
+        "description": "Data attached Reservoir and geological data \u2013 Attach data based on drilling results to support the application.",
+        "type": "boolean"
+      },
+      "460": {
+        "description": "Productive Zones \u2013 Attach a list showing the spacing areas in the permit location containing one",
+        "type": "boolean"
+      },
+      "461": {
+        "description": "Enclosed",
+        "type": "boolean"
+      },
+      "462": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "463": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "464": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "465": {
+        "description": "Email",
+        "type": "string"
+      },
+      "466": {
+        "description": "Title",
+        "type": "string"
+      },
+      "467": {
+        "description": "Contact Name",
+        "type": "string"
+      },
+      "468": {
+        "description": "This application is submitted pursuant to Yukon\u2019s Oil and Gas Act and the Oil and Gas Disposition Regulations. Personal information on this form is",
+        "type": "string"
+      },
+      "469": {
+        "description": "collected under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "470": {
+        "description": "YG(5605EQ)F2 Rev.06/2017",
+        "type": "string"
+      },
+      "471": {
+        "description": "Page 1 of 2",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

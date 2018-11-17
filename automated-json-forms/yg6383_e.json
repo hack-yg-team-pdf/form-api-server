@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "335": {
+        "description": "Section A is to be completed by the person making the claim. All fields are required. Proceed to Section B when complete.",
+        "type": "string"
+      },
+      "336": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "337": {
+        "description": "Address",
+        "type": "string"
+      },
+      "338": {
+        "description": "City/community",
+        "type": "string"
+      },
+      "339": {
+        "description": "Territory/province",
+        "type": "string"
+      },
+      "340": {
+        "description": "First name",
+        "type": "string"
+      },
+      "341": {
+        "description": "Proceed to Section C when complete.",
+        "type": "string"
+      },
+      "342": {
+        "description": "B: YUKON GOVERNMENT DRIVER/EMPLOYEE INFORMATION",
+        "type": "string"
+      },
+      "343": {
+        "description": "Department",
+        "type": "string"
+      },
+      "344": {
+        "description": "City/community",
+        "type": "string"
+      },
+      "345": {
+        "description": "Work phone #",
+        "type": "string"
+      },
+      "346": {
+        "description": "Yukon Government vehicle involved?",
+        "type": "string"
+      },
+      "347": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "348": {
+        "description": "Color",
+        "type": "string"
+      },
+      "352": {
+        "description": "Date of incident  Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "353": {
+        "description": "All fields are required. Proceed to Section D when complete.",
+        "type": "string"
+      },
+      "354": {
+        "description": "Weather and/or road conditions [ie. clear skies and icy roads]",
+        "type": "string"
+      },
+      "355": {
+        "description": "C: INCIDENT INFORMATION",
+        "type": "string"
+      },
+      "359": {
+        "description": "To ensure accurate documentation of the events leading to a claim, complete Section C in a clear and detailed manner.",
+        "type": "string"
+      },
+      "360": {
+        "description": "Location of incident. Include nearest city/community and/or highway location [ie. ~75km north of Whitehorse on the Klondike Highway]",
+        "type": "string"
+      },
+      "361": {
+        "description": "Describe the incident and events leading up to the incident. Attach drawings/pictures/extra pages as necessary.",
+        "type": "string"
+      },
+      "362": {
+        "description": "YG(6383EQ)F2 Rev.04/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

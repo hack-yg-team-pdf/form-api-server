@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "55": {
+        "description": "FOR THE MONTH OF",
+        "type": "string"
+      },
+      "56": {
+        "description": "Please print.",
+        "type": "string"
+      },
+      "57": {
+        "description": "LAST NAME",
+        "type": "string"
+      },
+      "58": {
+        "description": "Name(s) of child(ren)",
+        "type": "string"
+      },
+      "61": {
+        "description": "FIRST AND LAST                                                                FIRST AND LAST                                                               FIRST AND LAST",
+        "type": "string"
+      },
+      "62": {
+        "description": "The parent/guardian must INITIAL beside EACH item below indicating either YES or NO.",
+        "type": "string"
+      },
+      "63": {
+        "description": "please contact Child Care Services \u2013",
+        "type": "string"
+      },
+      "64": {
+        "description": "INITIALS     INITIALS",
+        "type": "string"
+      },
+      "65": {
+        "description": "INITIALS     INITIALS",
+        "type": "string"
+      },
+      "66": {
+        "description": "INITIALS     INITIALS",
+        "type": "string"
+      },
+      "67": {
+        "description": "I certify that child care is required during the month of  and my family circumstances from the",
+        "type": "string"
+      },
+      "68": {
+        "description": "original application have not changed, unless stated above.",
+        "type": "string"
+      },
+      "69": {
+        "description": "any further participation in the Program.",
+        "type": "string"
+      },
+      "70": {
+        "description": "and/or being disqualified from receiving any benefits under the Child Care Subsidy Program including being barred from",
+        "type": "string"
+      },
+      "71": {
+        "description": "I further understand that the provision of false or misleading information in this application may result in legal prosecution",
+        "type": "string"
+      },
+      "72": {
+        "description": "Declaration: I hereby declare that to the best of my knowledge and belief the above information is true and I give",
+        "type": "string"
+      },
+      "73": {
+        "description": "Signature of parent/guardian",
+        "type": "string"
+      },
+      "74": {
+        "description": "NOTICE TO CLIENTS: Information is collected under the authority of the Child Care Act for the purpose of determining eligibility for programs offered",
+        "type": "string"
+      },
+      "75": {
+        "description": "by Child Care Services. These forms are not to be signed more than one month in advance.",
+        "type": "string"
+      },
+      "76": {
+        "description": "permission to the Department of Health and Social Services to verify the above information in any way necessary.",
+        "type": "string"
+      },
+      "77": {
+        "description": "Mailing address:",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "Physical address:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "124": {
+        "description": "(b)  If yes, state facts",
+        "type": "string"
+      },
+      "125": {
+        "description": "Si oui, veuillez exposer les faits :",
+        "type": "string"
+      },
+      "127": {
+        "description": "Avez-vous d\u00e9j\u00e0 fait l\u2019objet d\u2019une enqu\u00eate?                                                                                    \u2610Yes/Oui        \u2610No/Non",
+        "type": "string"
+      },
+      "133": {
+        "description": "16.  (a)  Have you ever been the subject of an inquiry?",
+        "type": "string"
+      },
+      "134": {
+        "description": "17.  (a)  Have you ever been convicted of or indicted for any crime?",
+        "type": "string"
+      },
+      "135": {
+        "description": "(b)  If yes, state facts",
+        "type": "string"
+      },
+      "147": {
+        "description": "Si oui, veuillez exposer les faits :",
+        "type": "string"
+      },
+      "148": {
+        "description": "YG(5308Q)F3 Rev. 10/2014",
+        "type": "string"
+      },
+      "149": {
+        "description": "Avez-vous d\u00e9j\u00e0 \u00e9t\u00e9 accus\u00e9 ou d\u00e9clar\u00e9 coupable d\u2019un acte criminel?                                            \u2610Yes/Oui        \u2610No/Non",
+        "type": "string"
+      },
+      "940": {
+        "description": "Ann\u00e9e o\u00f9 vous avez avez termin\u00e9 les examens du Conseil national des examinateurs en Optom\u00e9trie (NBEO),",
+        "type": "string"
+      },
+      "943": {
+        "description": "\u2610Yes/Oui        \u2610No/Non",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

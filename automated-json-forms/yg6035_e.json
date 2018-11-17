@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "PERSON GIVING NOTICE: NAME(S) of LANDLORD or TENANT (full names as shown on the tenancy agreement).",
+        "type": "string"
+      },
+      "42": {
+        "description": "service) Note: If mailed (registered or regular mail), the notice is considered served 5 days after mailing.",
+        "type": "string"
+      },
+      "43": {
+        "description": "RENTAL UNIT ADDRESS (this is also the address where this document will be either given personally or left for and mailed to the tenant for",
+        "type": "string"
+      },
+      "44": {
+        "description": "SERVICE ADDRESS (if different from above)",
+        "type": "string"
+      },
+      "45": {
+        "description": "September 30].",
+        "type": "string"
+      },
+      "46": {
+        "description": "PERSON RECEIVING NOTICE: NAME(S) of LANDLORD or TENANT (full names as shown on the tenancy agreement).",
+        "type": "string"
+      },
+      "47": {
+        "description": "SIGNATURE of TENANT or LANDLORD (OR LANDLORD\u2019S AGENT)",
+        "type": "string"
+      },
+      "48": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "49": {
+        "description": "the months of July, August and September would represent the three months notice period. Thus the tenancy would end",
+        "type": "string"
+      },
+      "50": {
+        "description": "\u2022  More information is available online: www.rto.gov.yk.ca",
+        "type": "boolean"
+      },
+      "53": {
+        "description": "INFORMATION FOR BOTH LANDLORDS AND TENANTS",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "44": {
+        "description": "used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "45": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "46": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "47": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "48": {
+        "description": "sans frais au Yukon 1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "49": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will be",
+        "type": "boolean"
+      },
+      "51": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "52": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "53": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "54": {
+        "description": "C",
+        "type": "string"
+      },
+      "55": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "56": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "57": {
+        "description": "D",
+        "type": "string"
+      },
+      "58": {
+        "description": "Date of signature / Date de signature",
+        "type": "string"
+      },
+      "59": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "60": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "61": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "62": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "63": {
+        "description": "B",
+        "type": "string"
+      },
+      "64": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "65": {
+        "description": "Last name and first name of the individual signing for the general partner",
+        "type": "string"
+      },
+      "66": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "835": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "836": {
+        "description": "3.  New registered office in Yukon / Nouveau bureau enregistr\u00e9 au Yukon :",
+        "type": "string"
+      },
+      "837": {
+        "description": "Nouvelle Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "838": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "839": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "840": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "841": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "842": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "843": {
+        "description": "d\u2019enregistrement au Yukon et le nom et le titre de chaque particulier qui signe pour le commanditaire) :",
+        "type": "string"
+      },
+      "844": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "845": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "846": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "847": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "848": {
+        "description": "A",
+        "type": "string"
+      },
+      "849": {
+        "description": "Date of signature / Date de signature",
+        "type": "string"
+      },
+      "850": {
+        "description": "Signature / Signature",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

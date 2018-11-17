@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "61": {
+        "description": "Date",
+        "type": "string"
+      },
+      "62": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "63": {
+        "description": "10",
+        "type": "string"
+      },
+      "64": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "65": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "66": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "67": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "68": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "69": {
+        "description": "10",
+        "type": "string"
+      },
+      "70": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "71": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "72": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "73": {
+        "description": "Candidate",
+        "type": "string"
+      },
+      "74": {
+        "description": "YG(4442Q)F1 Rev.07/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

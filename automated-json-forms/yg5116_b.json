@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "258": {
+        "description": "1.  Name of Corporation:",
+        "type": "string"
+      },
+      "259": {
+        "description": "2.\t Registered\tOffice:",
+        "type": "string"
+      },
+      "260": {
+        "description": "Addresse :",
+        "type": "string"
+      },
+      "261": {
+        "description": "avec Entreprises, associations et coop\u00e9ratives.",
+        "type": "string"
+      },
+      "262": {
+        "description": "The undersigned hereby certify that the foregoing statements are true and correct to the best of my knowledge.  I",
+        "type": "string"
+      },
+      "263": {
+        "description": "hereby undertake to notify the Government of Yukon in writing of any change.",
+        "type": "string"
+      },
+      "264": {
+        "description": "Par la pr\u00e9sente, le soussign\u00e9 certifie que les \u00e9nonc\u00e9s ci-dessus sont vrais au mieux de ma connaissance. Je",
+        "type": "string"
+      },
+      "265": {
+        "description": ",20",
+        "type": "string"
+      },
+      "266": {
+        "description": "Important Note: Professional Licensing and Regulatory Affairs will NOT accept payment by email or fax.",
+        "type": "string"
+      },
+      "267": {
+        "description": "Signature\tof\tDirector/Officer\t\u2022\tSignature du directeur / dirigeant                                  \tName\tof\tDirector/Officer \u2022 Nom du directeur / dirigeant",
+        "type": "string"
+      },
+      "268": {
+        "description": "Please make your cheque payable to Government of Yukon, or, complete payment information form",
+        "type": "string"
+      },
+      "269": {
+        "description": "Veuillez faire votre ch\u00e8que \u00e0 l\u2019ordre du gouvernement du Yukon, ou fournir les renseignements demand\u00e9s ci-dessous remplissez",
+        "type": "string"
+      },
+      "270": {
+        "description": "Personal information contained on this form is collected under the Medical Pro-",
+        "type": "boolean"
+      },
+      "273": {
+        "description": "Les renseignements personnels contenus dans ce formulaire sont recueil-",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

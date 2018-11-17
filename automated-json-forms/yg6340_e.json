@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "186": {
+        "description": "TO BE COMPLETED AND SIGNED BY YOUR EMPLOYER",
+        "type": "string"
+      },
+      "189": {
+        "description": "Employee\u2019s address",
+        "type": "string"
+      },
+      "190": {
+        "description": "Date employment commenced",
+        "type": "string"
+      },
+      "191": {
+        "description": "Gross earning for previous year",
+        "type": "string"
+      },
+      "192": {
+        "description": "Term",
+        "type": "string"
+      },
+      "193": {
+        "description": "Full-time",
+        "type": "string"
+      },
+      "194": {
+        "description": "Other (specify):",
+        "type": "string"
+      },
+      "201": {
+        "description": "Number of hours worked per week",
+        "type": "string"
+      },
+      "204": {
+        "description": "Employee on probation?",
+        "type": "string"
+      },
+      "205": {
+        "description": "Number of weeks worked per year",
+        "type": "string"
+      },
+      "206": {
+        "description": "Other remarks:",
+        "type": "string"
+      },
+      "207": {
+        "description": "Prospects of continued employment:",
+        "type": "string"
+      },
+      "208": {
+        "description": "Signature on behalf of the employer certifying that the above information is true and correct:",
+        "type": "string"
+      },
+      "209": {
+        "description": "Your personal information is being collected for the purpose of determining eligibility for funding from the Yukon Housing Corporation per the terms of the specific funding",
+        "type": "boolean"
+      },
+      "212": {
+        "description": "program. Information collected on this form will be managed in accordance with the Access to Information and Protection of Privacy Act (ATIPP) For further information",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

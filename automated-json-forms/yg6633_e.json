@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "233": {
+        "description": "Date",
+        "type": "string"
+      },
+      "234": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "235": {
+        "description": "Feature film",
+        "type": "string"
+      },
+      "236": {
+        "description": "Yukon address",
+        "type": "string"
+      },
+      "239": {
+        "description": "Yukon fax",
+        "type": "string"
+      },
+      "240": {
+        "description": "Yukon phone",
+        "type": "string"
+      },
+      "241": {
+        "description": "Permanent address",
+        "type": "string"
+      },
+      "242": {
+        "description": "Permanent phone",
+        "type": "string"
+      },
+      "243": {
+        "description": "Permanent fax",
+        "type": "string"
+      },
+      "244": {
+        "description": "Producer",
+        "type": "string"
+      },
+      "245": {
+        "description": "Note: you MUST be pre-approved for this rebate. In order to allow for assessment of your eligibility, attach complete",
+        "type": "string"
+      },
+      "246": {
+        "description": "Production manager",
+        "type": "string"
+      },
+      "247": {
+        "description": "copies of the following:",
+        "type": "string"
+      },
+      "248": {
+        "description": "\u2022 Yukon budget \u2013 supply estimates of the Yukon portion of your budget to show expenditures by categories.",
+        "type": "string"
+      },
+      "249": {
+        "description": "\u2022 Production schedule, including locations list",
+        "type": "string"
+      },
+      "250": {
+        "description": "\u2022 Cast and crew list - note which positions will be filled by eligible Yukon residents",
+        "type": "string"
+      },
+      "251": {
+        "description": "Access to Information and Protection of Privacy Act: This information is collected for the purpose of administering an economic development program pursuant to s. 8 and 9 of the",
+        "type": "boolean"
+      },
+      "254": {
+        "description": "Economic Development Act, as amended. Personal information on this form is collected under the authority of Section 29(c) of the Access to Information and Protection of Privacy",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

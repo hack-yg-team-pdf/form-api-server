@@ -1,0 +1,171 @@
+{
+  "fields": {
+    "properties": {
+      "452": {
+        "description": "1. APPLICANT\u2019S CURRENT CONTACT INFORMATION",
+        "type": "string"
+      },
+      "453": {
+        "description": "Mailing Address (street address or postal box #)",
+        "type": "string"
+      },
+      "454": {
+        "description": "2. DETAILS OF APPLICANT\u2019S BIRTH AS CURRENTLY REGISTERED",
+        "type": "string"
+      },
+      "455": {
+        "description": "Preferred Method of Contact",
+        "type": "string"
+      },
+      "456": {
+        "description": "Province/State Country",
+        "type": "string"
+      },
+      "457": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "458": {
+        "description": "Surname (as stated on current registration of birth)",
+        "type": "string"
+      },
+      "459": {
+        "description": "Given Names",
+        "type": "string"
+      },
+      "466": {
+        "description": "Male",
+        "type": "string"
+      },
+      "467": {
+        "description": "Place of Birth (city, town, village)",
+        "type": "string"
+      },
+      "472": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "473": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "474": {
+        "description": "Surname of Parent (as stated on your current registration of birth)       Given Name",
+        "type": "string"
+      },
+      "475": {
+        "description": "Surname of Parent (as stated on your current registration of birth)       Given Name",
+        "type": "string"
+      },
+      "476": {
+        "description": "Surname of Parent (as stated on your current registration of birth)       Given Name",
+        "type": "string"
+      },
+      "477": {
+        "description": "3. WRITTEN DECLARATION BY APPLICANT",
+        "type": "string"
+      },
+      "478": {
+        "description": "Birthplace of Parent",
+        "type": "string"
+      },
+      "479": {
+        "description": "I would like to make a notation of change of sex on my birth registration from:",
+        "type": "string"
+      },
+      "480": {
+        "description": "(PRINT FULL LEGAL NAME)",
+        "type": "string"
+      },
+      "481": {
+        "description": "Birthplace of Parent",
+        "type": "string"
+      },
+      "482": {
+        "description": "I,  solemnly declare that",
+        "type": "string"
+      },
+      "483": {
+        "description": "Surname of Parent (as stated on your current registration of birth)       Given Name",
+        "type": "string"
+      },
+      "484": {
+        "description": "Date",
+        "type": "string"
+      },
+      "485": {
+        "description": "Male to Female     OR",
+        "type": "string"
+      },
+      "486": {
+        "description": "Female to Male",
+        "type": "string"
+      },
+      "487": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "488": {
+        "description": "4. CERTIFICATES REQUESTED",
+        "type": "string"
+      },
+      "497": {
+        "description": "Applications in the form required by the Registrar of Vital Statistics",
+        "type": "boolean"
+      },
+      "499": {
+        "description": "$10 fee to amend registration of birth",
+        "type": "boolean"
+      },
+      "501": {
+        "description": "Forms of Payment",
+        "type": "boolean"
+      },
+      "503": {
+        "description": "If you are paying by credit card please attend at the Vital Statistics Office or phone the office",
+        "type": "boolean"
+      },
+      "505": {
+        "description": "at 1-867-667-5207 or toll free (Yukon Only) 1-800-661-0408 extension 5207 to provide details.",
+        "type": "boolean"
+      },
+      "507": {
+        "description": "Money Order",
+        "type": "boolean"
+      },
+      "513": {
+        "description": "must be accompanied by the required fee in Canadian dollars.",
+        "type": "string"
+      },
+      "514": {
+        "description": "(Do not send cash in the mail)                                                     (Drawn on a Canadian bank)",
+        "type": "string"
+      },
+      "515": {
+        "description": "Registrar:",
+        "type": "string"
+      },
+      "516": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "517": {
+        "description": "Cheque",
+        "type": "string"
+      },
+      "518": {
+        "description": "Cash (in person)",
+        "type": "string"
+      },
+      "519": {
+        "description": "$10 fee to obtain a new birth certificate",
+        "type": "boolean"
+      },
+      "522": {
+        "description": "changed - Reason:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

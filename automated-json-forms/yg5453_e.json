@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "598": {
+        "description": "SECTION 1: OWNER/PROPONENT INFORMATION",
+        "type": "string"
+      },
+      "599": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "600": {
+        "description": "City/Town/Village",
+        "type": "string"
+      },
+      "601": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "602": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "603": {
+        "description": "Email",
+        "type": "string"
+      },
+      "604": {
+        "description": "SECTION 2: WATER SYSTEM SITE INFORMATION",
+        "type": "string"
+      },
+      "605": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "606": {
+        "description": "Plan",
+        "type": "string"
+      },
+      "607": {
+        "description": "Legal Description for Water Treatment Plant(s)",
+        "type": "string"
+      },
+      "608": {
+        "description": "Lot",
+        "type": "string"
+      },
+      "609": {
+        "description": "Quad",
+        "type": "string"
+      },
+      "610": {
+        "description": "Municipal Address and GPS Location of Water Treatment Plant (Street Name, Easting and Northing)",
+        "type": "string"
+      },
+      "611": {
+        "description": "Average Water Demand (Litres/Day)",
+        "type": "string"
+      },
+      "612": {
+        "description": "Maximum Number of Persons Served Number of Connections (Piped System)",
+        "type": "string"
+      },
+      "613": {
+        "description": "SECTION 3: SOURCE WATER SOURCE",
+        "type": "string"
+      },
+      "614": {
+        "description": "Well(s)",
+        "type": "string"
+      },
+      "615": {
+        "description": "Reservoir Capacity (Litres)",
+        "type": "string"
+      },
+      "616": {
+        "description": "Water Source:",
+        "type": "string"
+      },
+      "617": {
+        "description": "Production Capacity (Litres/Day)",
+        "type": "string"
+      },
+      "618": {
+        "description": "Both well(s) and surface water",
+        "type": "string"
+      },
+      "619": {
+        "description": "Head Operator",
+        "type": "string"
+      },
+      "620": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "625": {
+        "description": "SECTION 4: WATER TREATMENT",
+        "type": "string"
+      },
+      "628": {
+        "description": "The Emergency Response Plan for your Large Public Drinking Water System has been included with this application:",
+        "type": "string"
+      },
+      "629": {
+        "description": "No; expected date of delivery to Environmental Health Services",
+        "type": "string"
+      },
+      "630": {
+        "description": "Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "631": {
+        "description": "The following information must be submitted as part of your application. Please ensure you have attached a separate",
+        "type": "boolean"
+      },
+      "634": {
+        "description": "\u2022 date of construction",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

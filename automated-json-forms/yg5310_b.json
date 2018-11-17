@@ -1,0 +1,227 @@
+{
+  "fields": {
+    "properties": {
+      "93": {
+        "description": "If\tso,\thas\ta\tduly\tcertified\tcopy\tof\tsuch\tamendment\tor\tchange\tbeen\tfiled\twith\tthe\tSuperintendent\tof\tInsurance\tfor\tYukon?",
+        "type": "string"
+      },
+      "96": {
+        "description": "Constitution en personne morale :",
+        "type": "boolean"
+      },
+      "97": {
+        "description": "FEES ENCLOSED \u2022 DROITS REQUIS",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "Recording\tand\tfiling\tfee\t($5)\t\u2022\tInscription au registre       5$",
+        "type": "boolean"
+      },
+      "100": {
+        "description": "Please make your cheque payable to Government of Yukon, or complete payment information form",
+        "type": "string"
+      },
+      "102": {
+        "description": "Accident\t($150)\t\u2022\tAssurance contre les accidents = 150$                       Discontinued\tLicence\t(except\tlife)\t($10)\t\u2022\tPermis visant uniquement des contrats existants",
+        "type": "boolean"
+      },
+      "106": {
+        "description": "Veuillez libeller votre ch\u00e8que au nom du gouvernement du Yukon ou fournir les informations demand\u00e9es ci-dessous remplissez",
+        "type": "string"
+      },
+      "109": {
+        "description": "Date:                                         Jurisdiction:",
+        "type": "string"
+      },
+      "111": {
+        "description": "(sauf des contrats d\u2019assurance-vie) : 10$",
+        "type": "boolean"
+      },
+      "115": {
+        "description": "LICENCE FEES \u2022 LICENCE FEES",
+        "type": "boolean"
+      },
+      "125": {
+        "description": "8.",
+        "type": "boolean"
+      },
+      "126": {
+        "description": "assuances du Yukon?",
+        "type": "string"
+      },
+      "128": {
+        "description": "Signature\tof\tApplicant\t\u2022\tSignature du demandeur",
+        "type": "string"
+      },
+      "130": {
+        "description": "Nom du notaire public (EN LETTRES D\u00c9TACH\u00c9ES)",
+        "type": "string"
+      },
+      "131": {
+        "description": "nelle convaincu en toute conscience qu\u2019elle est v\u00e9ridique et",
+        "type": "string"
+      },
+      "135": {
+        "description": "I,",
+        "type": "string"
+      },
+      "136": {
+        "description": "Signature\tof\tNotary\tPublic\t\u2022\tSignature du notaire public",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "Nom du demandeur (EN LETTRES D\u00c9TACH\u00c9ES)",
+        "type": "string"
+      },
+      "138": {
+        "description": "STATUTORY DECLARATION \u2022 D\u00c9CLARATION SOLENNELLE",
+        "type": "string"
+      },
+      "140": {
+        "description": "believing\tit\tto\tbe\ttrue,\tand\tknowing\tit\tis\tof\tthe\tsame\tforce\tand",
+        "type": "string"
+      },
+      "141": {
+        "description": "sachant qu\u2019elle a la m\u00eame force et le m\u00eame effet que si elle",
+        "type": "string"
+      },
+      "142": {
+        "description": "\u00e9tait faite sous la foi du serment et conform\u00e9ment \u00e0 la Loi",
+        "type": "string"
+      },
+      "143": {
+        "description": "day of                                                                            ,20",
+        "type": "string"
+      },
+      "144": {
+        "description": "in",
+        "type": "string"
+      },
+      "145": {
+        "description": "Nom au long en lettres d\u00e9tach\u00e9es",
+        "type": "string"
+      },
+      "148": {
+        "description": ",",
+        "type": "string"
+      },
+      "151": {
+        "description": "Applicant\t\u2022\tPLEASE\tPRINT",
+        "type": "boolean"
+      },
+      "152": {
+        "description": "Print name in full",
+        "type": "string"
+      },
+      "153": {
+        "description": "effect as if made under Oath and by virtue of the Canada",
+        "type": "string"
+      },
+      "154": {
+        "description": "Declared before me at",
+        "type": "string"
+      },
+      "155": {
+        "description": "this",
+        "type": "string"
+      },
+      "707": {
+        "description": "1. English Name of Company:",
+        "type": "string"
+      },
+      "710": {
+        "description": "French Name of Company (if applicable):",
+        "type": "string"
+      },
+      "711": {
+        "description": "Adresse du si\u00e8ge social:",
+        "type": "string"
+      },
+      "712": {
+        "description": "2. Name and Address of Chief Agent of Canada:",
+        "type": "string"
+      },
+      "713": {
+        "description": "3. Name and Address of Chief Agent in/for Yukon:",
+        "type": "string"
+      },
+      "714": {
+        "description": "Nom et adresse de l\u2019agent principal au Yukon :",
+        "type": "string"
+      },
+      "715": {
+        "description": "Nom et adresse de l\u2019agent principal au Yukon :",
+        "type": "string"
+      },
+      "716": {
+        "description": "Adresse postale \u00e0 laquelle le surintendant exp\u00e9diera les actes de proc\u00e9dure en vertu de l\u2019article 16 de la Loi sur les",
+        "type": "string"
+      },
+      "717": {
+        "description": "Insurance Act:",
+        "type": "string"
+      },
+      "718": {
+        "description": "Communications \u00e9lectroniques :",
+        "type": "string"
+      },
+      "719": {
+        "description": "Phone Number:",
+        "type": "string"
+      },
+      "720": {
+        "description": "5. Electronic Communications:",
+        "type": "string"
+      },
+      "721": {
+        "description": "Personne-ressource:",
+        "type": "string"
+      },
+      "722": {
+        "description": "Name of Corporate Contact:",
+        "type": "string"
+      },
+      "723": {
+        "description": "La compagnie est autoris\u00e9e, par un certificat d\u2019enregistrement provenant de en date du",
+        "type": "string"
+      },
+      "724": {
+        "description": "E-mail Address:",
+        "type": "string"
+      },
+      "725": {
+        "description": "Courriel : T\u00e9l\u00e9phone :  T\u00e9l\u00e9copieur :",
+        "type": "string"
+      },
+      "726": {
+        "description": "7.\t What classes do you apply to be licensed and authorized to undertake in Yukon?",
+        "type": "string"
+      },
+      "727": {
+        "description": ", \u00e0 traiter au Canada les cat\u00e9gories d\u2019assurance suivantes :",
+        "type": "string"
+      },
+      "728": {
+        "description": "to transact in Canada the following classes of insurance:",
+        "type": "string"
+      },
+      "729": {
+        "description": "6.\t The Company is authorized by Certificate of Registry from",
+        "type": "string"
+      },
+      "730": {
+        "description": "dated on",
+        "type": "string"
+      },
+      "731": {
+        "description": "667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "732": {
+        "description": "contact the Director of Professional Licensing and Regulatory Affairs",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

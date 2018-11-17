@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "I am providing one of the following documents in support of this application for fee waiver (check the box that applies) \u2013",
+        "type": "string"
+      },
+      "38": {
+        "description": "YES",
+        "type": "string"
+      },
+      "39": {
+        "description": "YES",
+        "type": "string"
+      },
+      "40": {
+        "description": "D) Proof of Old Age Security",
+        "type": "string"
+      },
+      "41": {
+        "description": "YG(6040EQ)F1 08/2015",
+        "type": "string"
+      },
+      "42": {
+        "description": "Note: This Fee Waiver Application must be submitted along with an Application for Dispute Resolution",
+        "type": "boolean"
+      },
+      "45": {
+        "description": "YES",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

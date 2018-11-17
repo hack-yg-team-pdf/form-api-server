@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "properties": {
+      "135": {
+        "description": "I,  the spokesperson for  trapping group,",
+        "type": "string"
+      },
+      "136": {
+        "description": "holders of the trapping concession for trapping concession area #  , request the cancellation of",
+        "type": "string"
+      },
+      "137": {
+        "description": "an assistant trapper licence issued to  for our trapping concession area.",
+        "type": "string"
+      },
+      "138": {
+        "description": "By signing below as the trapping group spokesperson, I declare that all group members are in support of this request.",
+        "type": "string"
+      },
+      "139": {
+        "description": "and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection of your infor-",
+        "type": "boolean"
+      },
+      "142": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the administration",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

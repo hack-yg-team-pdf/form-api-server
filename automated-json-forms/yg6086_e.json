@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "15": {
+        "description": "Print Name and Signature of User",
+        "type": "string"
+      },
+      "16": {
+        "description": "Affiliation:",
+        "type": "string"
+      },
+      "17": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "18": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "19": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "20": {
+        "description": "If university student, please provide supervisor\u2019s name and contact information:",
+        "type": "string"
+      },
+      "21": {
+        "description": "If Contractor, please provide client name:",
+        "type": "string"
+      },
+      "37": {
+        "description": "For Government of Yukon",
+        "type": "string"
+      },
+      "38": {
+        "description": "Name and position of person signing on behalf of Government of Yukon:",
+        "type": "string"
+      },
+      "39": {
+        "description": "page 2 of 2",
+        "type": "string"
+      },
+      "40": {
+        "description": "Date",
+        "type": "string"
+      },
+      "75": {
+        "description": "File No.:",
+        "type": "string"
+      },
+      "76": {
+        "description": "A) Type of data requested:",
+        "type": "string"
+      },
+      "77": {
+        "description": "Include preferred product format (e.g. shapefile, electronic report):",
+        "type": "string"
+      },
+      "78": {
+        "description": "(collectively, the \u201cData\u201d)",
+        "type": "string"
+      },
+      "79": {
+        "description": "B) Purpose for which the data are to be used (be as specific as possible):",
+        "type": "string"
+      },
+      "80": {
+        "description": "2.",
+        "type": "string"
+      },
+      "81": {
+        "description": "1.",
+        "type": "string"
+      },
+      "82": {
+        "description": "IN CONSIDERATION for access to and use of the Data, I acknowledge and agree on behalf of myself, my employer, or",
+        "type": "string"
+      },
+      "83": {
+        "description": "the legal entity I am representing, to the following terms and conditions:",
+        "type": "string"
+      },
+      "84": {
+        "description": "shall remain with YG.",
+        "type": "string"
+      },
+      "85": {
+        "description": "I acknowledge and agree that YG is the sole owner of the Data, and that my use of the Data for the above purposes",
+        "type": "string"
+      },
+      "86": {
+        "description": "from the Data.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

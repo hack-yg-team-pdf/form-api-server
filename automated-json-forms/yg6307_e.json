@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "34": {
+        "description": "Your personal information is being collected under the authority of the Education Act and the Access to Information and Protection of Privacy Act",
+        "type": "boolean"
+      },
+      "42": {
+        "description": "Request reviewed by (Superintendent):",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "STUDENT INFORMATION",
+        "type": "string"
+      },
+      "86": {
+        "description": "Student\u2019s date of birth (YYYY-MM-DD):",
+        "type": "string"
+      },
+      "87": {
+        "description": "Student\u2019s first name:",
+        "type": "string"
+      },
+      "88": {
+        "description": "Student\u2019s last name:",
+        "type": "string"
+      },
+      "89": {
+        "description": "Student\u2019s home address (principal residence):",
+        "type": "string"
+      },
+      "90": {
+        "description": "City or town:",
+        "type": "string"
+      },
+      "91": {
+        "description": "Postal code:",
+        "type": "string"
+      },
+      "92": {
+        "description": "Current school:",
+        "type": "string"
+      },
+      "93": {
+        "description": "Requested school:",
+        "type": "string"
+      },
+      "97": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "98": {
+        "description": "support your request.",
+        "type": "string"
+      },
+      "101": {
+        "description": "Sibling\u2019s first name:",
+        "type": "string"
+      },
+      "102": {
+        "description": "Sibling\u2019s last name:",
+        "type": "string"
+      },
+      "103": {
+        "description": "REASON FOR TRANSFER REQUEST",
+        "type": "string"
+      },
+      "104": {
+        "description": "YG(6307EQ)F2 04/2016",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "File No",
+        "type": "string"
+      },
+      "42": {
+        "description": "PLAINTIFF (VICTIM):",
+        "type": "string"
+      },
+      "43": {
+        "description": "DEFENDANT (OFFENDER):",
+        "type": "string"
+      },
+      "44": {
+        "description": "I,",
+        "type": "string"
+      },
+      "45": {
+        "description": "of",
+        "type": "string"
+      },
+      "46": {
+        "description": "3. That no appeal is pending.",
+        "type": "string"
+      },
+      "47": {
+        "description": "the restitution payment as required.",
+        "type": "string"
+      },
+      "48": {
+        "description": "5. That the amount outstanding as of this date is as follows:",
+        "type": "string"
+      },
+      "49": {
+        "description": "$",
+        "type": "string"
+      },
+      "50": {
+        "description": "6. That this Affidavit is sworn in support of a Judgment for Restitution and not for any improper purpose.",
+        "type": "string"
+      },
+      "51": {
+        "description": "SWORN/AFFIRMED BEFORE ME AT",
+        "type": "string"
+      },
+      "52": {
+        "description": "THIS",
+        "type": "string"
+      },
+      "53": {
+        "description": "DAY OF",
+        "type": "string"
+      },
+      "54": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "55": {
+        "description": "Print Name:",
+        "type": "string"
+      },
+      "56": {
+        "description": "Office (e.g. lawyer, clerk, notary public etc.):",
+        "type": "string"
+      },
+      "57": {
+        "description": "Commission Expires:",
+        "type": "string"
+      },
+      "58": {
+        "description": "COMMISSIONER OF OATHS/NOTARY PUBLIC/",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "DEPONENT",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

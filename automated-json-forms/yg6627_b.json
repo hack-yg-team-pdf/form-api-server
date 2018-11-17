@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "properties": {
+      "809": {
+        "description": "professionnel ou postsecondaire fr\u00e9quent\u00e9s",
+        "type": "string"
+      },
+      "810": {
+        "description": "Dates de fr\u00e9quentation",
+        "type": "string"
+      },
+      "811": {
+        "description": "Postal code \u2022 Code postal",
+        "type": "string"
+      },
+      "812": {
+        "description": "Dates attended",
+        "type": "string"
+      },
+      "815": {
+        "description": "obtenu votre",
+        "type": "string"
+      },
+      "816": {
+        "description": "YG(6627Q)F3 08/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

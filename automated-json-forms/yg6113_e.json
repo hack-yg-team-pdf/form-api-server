@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "35": {
+        "description": "has a Yukon apprenticeship agreement in the",
+        "type": "string"
+      },
+      "36": {
+        "description": "Current address",
+        "type": "string"
+      },
+      "37": {
+        "description": "Daytime phone #",
+        "type": "string"
+      },
+      "38": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "39": {
+        "description": "as a Yukon resident.  I agree to the wage rate set by my employer below.",
+        "type": "string"
+      },
+      "40": {
+        "description": "I request, and agree to, the transfer of my apprenticeship agreement to my new employer.  I agree to provide a",
+        "type": "string"
+      },
+      "41": {
+        "description": "E-mail address",
+        "type": "string"
+      },
+      "42": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "43": {
+        "description": "Company Name",
+        "type": "string"
+      },
+      "44": {
+        "description": "Phone #",
+        "type": "string"
+      },
+      "45": {
+        "description": "Fax #",
+        "type": "string"
+      },
+      "46": {
+        "description": "Address",
+        "type": "string"
+      },
+      "47": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "48": {
+        "description": "Contact Person Name (Print)",
+        "type": "string"
+      },
+      "49": {
+        "description": "The current rate of pay for this apprentice is $                     /hour. The Date of this apprentice\u2019s first day of work as an",
+        "type": "string"
+      },
+      "50": {
+        "description": "apprentice at this job was/will be                                               .",
+        "type": "string"
+      },
+      "51": {
+        "description": "This company has                    certified journeyperson(s) and                      registered apprentices working in this",
+        "type": "string"
+      },
+      "52": {
+        "description": "trade.  The minimum pay rate we would use for a newly certified journeyperson in this trade is $                     /hour.",
+        "type": "string"
+      },
+      "53": {
+        "description": "cases where the wage rate does not comply with Yukon requirements, I agree to follow the wage rates set out by the",
+        "type": "string"
+      },
+      "54": {
+        "description": "Certificate #",
+        "type": "string"
+      },
+      "55": {
+        "description": "apprenticeship legislation in the jurisdiction my company is registered.",
+        "type": "string"
+      },
+      "56": {
+        "description": "I request and agree to accept the transfer of this apprenticeship agreement.  I also agree to comply with the",
+        "type": "string"
+      },
+      "57": {
+        "description": "in the                                  trade.",
+        "type": "string"
+      },
+      "58": {
+        "description": "Apprenticeship Training Act and Apprentice Training and Tradesperson\u2019s Qualifications Regulation of Yukon.  In such",
+        "type": "string"
+      },
+      "59": {
+        "description": "Name (Print)",
+        "type": "string"
+      },
+      "60": {
+        "description": "YG(6113EQ)F2 02/2015",
+        "type": "string"
+      },
+      "61": {
+        "description": "Company Representative (Print)",
+        "type": "string"
+      },
+      "62": {
+        "description": "Once completed, please submit to:",
+        "type": "boolean"
+      },
+      "65": {
+        "description": "Apprenticeship and Trade Certification Advanced Education, E-1",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

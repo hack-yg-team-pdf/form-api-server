@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "262": {
+        "description": "Permittee:",
+        "type": "string"
+      },
+      "265": {
+        "description": "Permit number:",
+        "type": "string"
+      },
+      "266": {
+        "description": "m3",
+        "type": "string"
+      },
+      "267": {
+        "description": "L",
+        "type": "string"
+      },
+      "268": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "273": {
+        "description": "Documents attached (check all that apply):",
+        "type": "boolean"
+      },
+      "275": {
+        "description": "Laboratory reports for samples taken to characterize the relocated material",
+        "type": "boolean"
+      },
+      "276": {
+        "description": "Laboratory reports for confirmatory samples taken from the base and walls of the excavation",
+        "type": "boolean"
+      },
+      "277": {
+        "description": "A figure showing the locations from which all confirmatory samples were taken",
+        "type": "boolean"
+      },
+      "278": {
+        "description": "I, , am the authorized representative of the permittee named above,",
+        "type": "string"
+      },
+      "279": {
+        "description": "PRINT NAME CLEARLY",
+        "type": "string"
+      },
+      "280": {
+        "description": "and I certify that the information provided with this form is correct and complete to the best of my knowledge.",
+        "type": "boolean"
+      },
+      "283": {
+        "description": "Signature",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

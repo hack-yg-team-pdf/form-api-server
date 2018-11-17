@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "544": {
+        "description": "\u274f",
+        "type": "boolean"
+      },
+      "546": {
+        "description": "\u274f",
+        "type": "boolean"
+      },
+      "547": {
+        "description": "\u274f",
+        "type": "boolean"
+      },
+      "548": {
+        "description": "\u274f",
+        "type": "boolean"
+      },
+      "549": {
+        "description": "Focused Regional          Target Evaluation",
+        "type": "boolean"
+      },
+      "550": {
+        "description": "Company/Applicant",
+        "type": "string"
+      },
+      "551": {
+        "description": "Yukon Corp. Access #",
+        "type": "string"
+      },
+      "552": {
+        "description": "Contact Person",
+        "type": "string"
+      },
+      "553": {
+        "description": "Title",
+        "type": "string"
+      },
+      "554": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "555": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "556": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "557": {
+        "description": "Email",
+        "type": "string"
+      },
+      "558": {
+        "description": "Contact Person (Field)",
+        "type": "string"
+      },
+      "559": {
+        "description": "Title",
+        "type": "string"
+      },
+      "560": {
+        "description": "Address (Field)",
+        "type": "string"
+      },
+      "561": {
+        "description": "Telephone (Field)",
+        "type": "string"
+      },
+      "562": {
+        "description": "Fax (Field)",
+        "type": "string"
+      },
+      "563": {
+        "description": "Email (Field)",
+        "type": "string"
+      },
+      "564": {
+        "description": "YG(5408Q)F8 Rev.06/2011",
+        "type": "string"
+      },
+      "565": {
+        "description": "Page 1",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

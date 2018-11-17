@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "169": {
+        "description": "the account is paid in full (or stop payments on ).",
+        "type": "string"
+      },
+      "170": {
+        "description": "DAY                MONTH                YEAR",
+        "type": "string"
+      },
+      "171": {
+        "description": "Note: Changes such as payment amount, frequency, or credit card number change, will require a new Pre-Authorization",
+        "type": "string"
+      },
+      "172": {
+        "description": "Effective the , I,",
+        "type": "string"
+      },
+      "173": {
+        "description": "authorize the Department of Finance to debit my credit card in the amount of $  for",
+        "type": "string"
+      },
+      "174": {
+        "description": "payment on account  on the  of each month starting  until",
+        "type": "string"
+      },
+      "175": {
+        "description": "ACCOUNT #                                                DAY                                                                                DAY                MONTH                YEAR",
+        "type": "string"
+      },
+      "176": {
+        "description": "Form to be completed and submitted.",
+        "type": "string"
+      },
+      "177": {
+        "description": "AMEX",
+        "type": "string"
+      },
+      "178": {
+        "description": "Submit this completed form to the Department of Finance (email or fax is not acceptable)",
+        "type": "string"
+      },
+      "179": {
+        "description": "Visa",
+        "type": "string"
+      },
+      "180": {
+        "description": "2071-2nd Avenue, Whitehorse",
+        "type": "string"
+      },
+      "181": {
+        "description": "Mastercard",
+        "type": "string"
+      },
+      "182": {
+        "description": "Signature of Cardholder",
+        "type": "string"
+      },
+      "183": {
+        "description": "Name on card:",
+        "type": "string"
+      },
+      "190": {
+        "description": "Card number:           Expiry date:",
+        "type": "string"
+      },
+      "191": {
+        "description": "MONTH / YEAR",
+        "type": "string"
+      },
+      "192": {
+        "description": "Your personal information is being collected under the authority of the Financial Administration Act. It will be used to collect a debt owing to Government of Yukon.",
+        "type": "boolean"
+      },
+      "195": {
+        "description": "If you have any questions about the collection or use of this information please contact the Accounts Receivable Clerk, Government of Yukon, Department of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

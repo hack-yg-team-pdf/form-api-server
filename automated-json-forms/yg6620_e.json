@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "134": {
+        "description": "I,  the registered holder of the trapping concession for trapping concession",
+        "type": "string"
+      },
+      "135": {
+        "description": "area #  request the cancellation of an assistant trapper licence issued to",
+        "type": "string"
+      },
+      "136": {
+        "description": "Registered trapping concession holder",
+        "type": "string"
+      },
+      "137": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the administration",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection of your infor-",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

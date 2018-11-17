@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "123": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "126": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "127": {
+        "description": "Phone number:",
+        "type": "string"
+      },
+      "128": {
+        "description": "1. Describe your faith journey over the last five years.",
+        "type": "string"
+      },
+      "129": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "130": {
+        "description": "3. What is your parish involvement?",
+        "type": "string"
+      },
+      "131": {
+        "description": "4. What is your vision of Catholic Education?",
+        "type": "string"
+      },
+      "132": {
+        "description": "Please provide a current copy of your Baptismal Certificate with your application.",
+        "type": "string"
+      },
+      "133": {
+        "description": "This information is required as part of the application process for teaching in the Catholic Schools of Whitehorse. This document should be sent directly to",
+        "type": "string"
+      },
+      "134": {
+        "description": "Teacher Recruitment, P.O. Box 2703, Whitehorse YT Y1A 2C6  or Fax: 1.867.667.5435 or email teacher.recruitment@gov.yk.ca.",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "YG(5365EQ)F1 Rev.04/2018",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

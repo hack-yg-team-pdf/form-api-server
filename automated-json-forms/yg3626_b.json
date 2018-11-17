@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "22": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "26": {
+        "description": "Directeur du scrutin, notaire public ou fonctionnaire municipal d\u00e9sign\u00e9",
+        "type": "string"
+      },
+      "30": {
+        "description": "Print name",
+        "type": "string"
+      },
+      "32": {
+        "description": "Returning officer, notary public or designated municipal officer",
+        "type": "boolean"
+      },
+      "33": {
+        "description": "Nom en lettres moul\u00e9es",
+        "type": "string"
+      },
+      "34": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "35": {
+        "description": "X",
+        "type": "string"
+      },
+      "37": {
+        "description": "Signed in the presence of \u2022 Sign\u00e9 en pr\u00e9sence de",
+        "type": "string"
+      },
+      "39": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "40": {
+        "description": "Date",
+        "type": "string"
+      },
+      "41": {
+        "description": "Date",
+        "type": "string"
+      },
+      "83": {
+        "description": "for the office of",
+        "type": "string"
+      },
+      "84": {
+        "description": "Note that this nomination paper may only be signed by",
+        "type": "string"
+      },
+      "85": {
+        "description": "I, the said",
+        "type": "string"
+      },
+      "86": {
+        "description": "Street address (& mail-",
+        "type": "string"
+      },
+      "87": {
+        "description": "for the municipality of",
+        "type": "string"
+      },
+      "88": {
+        "description": "Signed in the presence of \u2022 Sign\u00e9 en pr\u00e9sence de",
+        "type": "string"
+      },
+      "89": {
+        "description": "1.",
+        "type": "string"
+      },
+      "90": {
+        "description": "3.",
+        "type": "string"
+      },
+      "91": {
+        "description": "4.",
+        "type": "string"
+      },
+      "92": {
+        "description": "5.",
+        "type": "string"
+      },
+      "93": {
+        "description": "6.",
+        "type": "string"
+      },
+      "94": {
+        "description": "7.",
+        "type": "string"
+      },
+      "95": {
+        "description": "8.",
+        "type": "string"
+      },
+      "96": {
+        "description": "9.",
+        "type": "string"
+      },
+      "97": {
+        "description": "10.",
+        "type": "string"
+      },
+      "98": {
+        "description": "Note that the Statement of Disclosure on the reverse of this form must be completed.",
+        "type": "string"
+      },
+      "99": {
+        "description": "YG(3626Q)F2 Rev.07/2018",
+        "type": "string"
+      },
+      "100": {
+        "description": "Prenez note que la d\u00e9claration se trouvant au dos du pr\u00e9sent formulaire doit \u00eatre remplie.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

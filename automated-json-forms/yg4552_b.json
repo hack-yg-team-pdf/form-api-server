@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "62": {
+        "description": "Telephone (day)",
+        "type": "string"
+      },
+      "63": {
+        "description": "REQUEST FOR ACCESS TO RECORDS",
+        "type": "boolean"
+      },
+      "65": {
+        "description": "Mrs.",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "Miss",
+        "type": "boolean"
+      },
+      "67": {
+        "description": "Mr.",
+        "type": "boolean"
+      },
+      "68": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "69": {
+        "description": "Autre",
+        "type": "string"
+      },
+      "70": {
+        "description": "Ville/village  Territoire/province, pays  Code postal",
+        "type": "string"
+      },
+      "71": {
+        "description": "Adresse postale",
+        "type": "string"
+      },
+      "72": {
+        "description": "City or town",
+        "type": "string"
+      },
+      "73": {
+        "description": "Entreprise / organisme (s\u2019il y a lieu)",
+        "type": "string"
+      },
+      "74": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "75": {
+        "description": "Nom  (nom de famille, pr\u00e9nom usuel, autres pr\u00e9noms)",
+        "type": "string"
+      },
+      "76": {
+        "description": "Name (last, first, middle)",
+        "type": "string"
+      },
+      "77": {
+        "description": "Company / Organization (if applicable)",
+        "type": "string"
+      },
+      "78": {
+        "description": "l\u2019information sign\u00e9 par la personne en question, soit la preuve que vous avez le pouvoir d\u2019agir au nom de cette personne. Si l\u2019espace ci-dessous est insuffisant, veuillez",
+        "type": "string"
+      },
+      "79": {
+        "description": "Preferred method(s) of access to records",
+        "type": "string"
+      },
+      "80": {
+        "description": "Examine original",
+        "type": "boolean"
+      },
+      "81": {
+        "description": "Receive copy",
+        "type": "boolean"
+      },
+      "82": {
+        "description": "Your signature",
+        "type": "string"
+      },
+      "83": {
+        "description": "Time limit for response to Applicant:",
+        "type": "string"
+      },
+      "84": {
+        "description": "Date received",
+        "type": "string"
+      },
+      "85": {
+        "description": "D\u00e9lai de r\u00e9ponse au requ\u00e9rant/\u00e0 la requ\u00e9rante",
+        "type": "string"
+      },
+      "86": {
+        "description": "Request no.",
+        "type": "string"
+      },
+      "87": {
+        "description": "Pri\u00e8re d\u2019envoyer le formulaire d\u00fbment rempli \u00e0 l\u2019adresse suivante :",
+        "type": "boolean"
+      },
+      "90": {
+        "description": "Bureau de l\u2019acc\u00e8s \u00e0 l\u2019information et de la protection des renseignements personnels (W-10)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

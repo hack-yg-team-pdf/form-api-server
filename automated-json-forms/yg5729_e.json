@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "197": {
+        "description": "Last name:    First name:",
+        "type": "string"
+      },
+      "200": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "201": {
+        "description": "Date of birth:",
+        "type": "string"
+      },
+      "202": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "203": {
+        "description": "I certify that I am the individual named above, that my date of birth and address are as stated above, and the signature",
+        "type": "string"
+      },
+      "204": {
+        "description": "below is my signature.",
+        "type": "string"
+      },
+      "205": {
+        "description": "I consent to Motor Vehicles collecting the information about me set out under the applicant\u2019s information section from",
+        "type": "string"
+      },
+      "206": {
+        "description": "my parent/guardian and such other personal information about me from my parent/guardian or other third parties as",
+        "type": "string"
+      },
+      "207": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "208": {
+        "description": "City:      Postal code:",
+        "type": "string"
+      },
+      "209": {
+        "description": "I currently hold a Yukon driver\u2019s licence. Driver\u2019s licence number:",
+        "type": "string"
+      },
+      "210": {
+        "description": "I give my consent for my son/daughter/ward to obtain a driver\u2019s licence or General Identification Card.",
+        "type": "string"
+      },
+      "211": {
+        "description": "I authorize Motor Vehicles to take such steps as it considers necessary to verify the validity of the information I have",
+        "type": "string"
+      },
+      "212": {
+        "description": "provided, and to collect my personal information for that purpose.",
+        "type": "string"
+      },
+      "213": {
+        "description": "The personal information contained in this form is collected under the authority of sections 38 and 38.12 of the Motor Vehicles Act and under the",
+        "type": "boolean"
+      },
+      "216": {
+        "description": "authority of section 29(c) of the Access to Information and Protection of Privacy Act. The personal information is used to administer the driver\u2019s licence",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

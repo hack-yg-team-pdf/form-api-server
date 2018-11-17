@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "Continue on separate sheets as required",
+        "type": "string"
+      },
+      "40": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "41": {
+        "description": "b) Party/crew members: Number",
+        "type": "string"
+      },
+      "42": {
+        "description": "a) Project Supervisor:",
+        "type": "string"
+      },
+      "44": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "45": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "46": {
+        "description": "the terms and conditions listed on the first page of this application and on the permit.",
+        "type": "string"
+      },
+      "47": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "48": {
+        "description": "5. Personnel (please attached curriculum vitae for all principal researchers and supervisory personnel).",
+        "type": "string"
+      },
+      "49": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "50": {
+        "description": "I certify that I am familiar with the provisions of the relevant Yukon legislation, and that I will abide with",
+        "type": "string"
+      },
+      "51": {
+        "description": "4. Previous permits awarded applicant",
+        "type": "string"
+      },
+      "52": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "53": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "54": {
+        "description": "(Signature of Applicant)",
+        "type": "string"
+      },
+      "55": {
+        "description": "Title:  Nationality:",
+        "type": "string"
+      },
+      "56": {
+        "description": "3. Sponsoring agencies",
+        "type": "string"
+      },
+      "57": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "58": {
+        "description": "2. Suggested deposition of materials, samples that may be collected",
+        "type": "string"
+      },
+      "59": {
+        "description": "(Attach separate sheet if additional space is required)",
+        "type": "string"
+      },
+      "60": {
+        "description": "Place:",
+        "type": "string"
+      },
+      "285": {
+        "description": "representing",
+        "type": "string"
+      },
+      "286": {
+        "description": "(Email)",
+        "type": "string"
+      },
+      "289": {
+        "description": "(Address)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "28": {
+        "description": "GENERIC FUEL TAX TRANSACTION REPORT - FTG-4 DISPOSITIONS",
+        "type": "string"
+      },
+      "29": {
+        "description": "Total Dispositions within Jurisdiction to Licensed Collectors (FTG-4)",
+        "type": "string"
+      },
+      "30": {
+        "description": "WITHIN JURISDICTION TO LICENSED COLLECTORS",
+        "type": "string"
+      },
+      "31": {
+        "description": "SHOW TOTALS CARRIED FORWARD TO \u201cFUEL TAX SUMMARY FORM - FTG-TAX\u201d",
+        "type": "string"
+      },
+      "42": {
+        "description": "Federal Business",
+        "type": "string"
+      },
+      "43": {
+        "description": "Number                   Gasoline",
+        "type": "string"
+      },
+      "44": {
+        "description": "Dyed                      Aviation                  Ethanol                                                     Other                      Other",
+        "type": "string"
+      },
+      "45": {
+        "description": "Collector Name",
+        "type": "string"
+      },
+      "46": {
+        "description": "YG(4786Q)F1 Rev.12/2000",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

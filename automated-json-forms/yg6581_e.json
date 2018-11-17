@@ -1,0 +1,147 @@
+{
+  "fields": {
+    "properties": {
+      "353": {
+        "description": "OPERATOR/COMPANY/CORPORATION INFORMATION",
+        "type": "string"
+      },
+      "356": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "357": {
+        "description": "Client ID",
+        "type": "string"
+      },
+      "358": {
+        "description": "Email",
+        "type": "string"
+      },
+      "359": {
+        "description": "Company role",
+        "type": "string"
+      },
+      "360": {
+        "description": "Fax Phone",
+        "type": "string"
+      },
+      "361": {
+        "description": "Company name",
+        "type": "string"
+      },
+      "362": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "363": {
+        "description": "AGENT INFORMATION",
+        "type": "string"
+      },
+      "367": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "371": {
+        "description": "First name",
+        "type": "string"
+      },
+      "372": {
+        "description": "Agreement start date:         Agreement end date:",
+        "type": "string"
+      },
+      "373": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "374": {
+        "description": "Authorized signature on behalf of operator",
+        "type": "string"
+      },
+      "375": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "376": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "377": {
+        "description": "Date of signing",
+        "type": "string"
+      },
+      "378": {
+        "description": "I, , hereby authorize  as \u201cAgent\u201d",
+        "type": "string"
+      },
+      "379": {
+        "description": "identified below, in the matter of the submission of a Mining Land Use Application/Notification/Registered Document.",
+        "type": "string"
+      },
+      "380": {
+        "description": "Company name",
+        "type": "string"
+      },
+      "381": {
+        "description": "Company role",
+        "type": "string"
+      },
+      "382": {
+        "description": "Fax Phone",
+        "type": "string"
+      },
+      "383": {
+        "description": "Email",
+        "type": "string"
+      },
+      "384": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "385": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "389": {
+        "description": "Province/Territory/State",
+        "type": "string"
+      },
+      "393": {
+        "description": "Postal/Zip code",
+        "type": "string"
+      },
+      "394": {
+        "description": "City/town",
+        "type": "string"
+      },
+      "395": {
+        "description": "Registered with Corporate Affairs to",
+        "type": "string"
+      },
+      "396": {
+        "description": "conduct business in Yukon?",
+        "type": "string"
+      },
+      "397": {
+        "description": "If yes, Yukon corporate registry number",
+        "type": "string"
+      },
+      "398": {
+        "description": "Date of signing",
+        "type": "string"
+      },
+      "402": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "403": {
+        "description": "Access to Information and Protection of Privacy Act: I/we acknowledge that the information contained in or attached to this application is being collected under the",
+        "type": "boolean"
+      },
+      "406": {
+        "description": "authority of the Placer Mining Act sections 7 and 9, the Quartz Mining Act sections 3 and 5, and the Access to Information and Protection of Privacy Act section 29(c) and",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "52": {
+        "description": "Company/Organization Name:",
+        "type": "string"
+      },
+      "55": {
+        "description": "Telephone:",
+        "type": "string"
+      },
+      "56": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "57": {
+        "description": "Contact:",
+        "type": "string"
+      },
+      "58": {
+        "description": "Amount Requested for Funding: $",
+        "type": "string"
+      },
+      "59": {
+        "description": "Project End Date:",
+        "type": "string"
+      },
+      "60": {
+        "description": "Project Name:",
+        "type": "string"
+      },
+      "61": {
+        "description": "Project Start Date:",
+        "type": "string"
+      },
+      "62": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "63": {
+        "description": "We are submitting this application for the purpose of obtaining financial assistance from the Government of Yukon. The",
+        "type": "string"
+      },
+      "64": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "65": {
+        "description": "NAME",
+        "type": "string"
+      },
+      "67": {
+        "description": "Signature(s):",
+        "type": "string"
+      },
+      "68": {
+        "description": "NAME",
+        "type": "string"
+      },
+      "69": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "70": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "71": {
+        "description": "Name(s) and title(s) of authorized official(s) (please print):",
+        "type": "boolean"
+      },
+      "73": {
+        "description": "TITLE",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

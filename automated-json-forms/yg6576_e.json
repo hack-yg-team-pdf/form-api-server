@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "191": {
+        "description": "Designation",
+        "type": "string"
+      },
+      "194": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "195": {
+        "description": "Email",
+        "type": "string"
+      },
+      "196": {
+        "description": "Organization",
+        "type": "string"
+      },
+      "197": {
+        "description": "Address",
+        "type": "string"
+      },
+      "198": {
+        "description": "City",
+        "type": "string"
+      },
+      "199": {
+        "description": "Province",
+        "type": "string"
+      },
+      "200": {
+        "description": "SUMMARY OF INFORMATION REQUEST",
+        "type": "string"
+      },
+      "201": {
+        "description": "(Provide relevant details)",
+        "type": "string"
+      },
+      "202": {
+        "description": "Well licence number",
+        "type": "string"
+      },
+      "203": {
+        "description": "Well name",
+        "type": "string"
+      },
+      "204": {
+        "description": "Unique Well Identifier",
+        "type": "string"
+      },
+      "205": {
+        "description": "Field/Area",
+        "type": "string"
+      },
+      "206": {
+        "description": "Surface coordinates",
+        "type": "string"
+      },
+      "207": {
+        "description": "Comments",
+        "type": "string"
+      },
+      "208": {
+        "description": "Personal information on this form is collected by the Oil and Gas Resources Branch under the authority of the Oil and Gas Act and s. 29 of the Access to Information and Protection",
+        "type": "boolean"
+      },
+      "211": {
+        "description": "of Privacy Act for the purpose of regulating oil and gas operations in Yukon. Should you have any questions about the collection and use of this information, please contact the Oil",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "160": {
+        "description": "CLIENT INFORMATION REQUIRED FOR REFUND",
+        "type": "string"
+      },
+      "163": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "164": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "165": {
+        "description": "City",
+        "type": "string"
+      },
+      "166": {
+        "description": "Licence / cutting permit number",
+        "type": "string"
+      },
+      "167": {
+        "description": "I/we are hereby requesting refund of any licence security deposit and/or stumpage fees associated with the above",
+        "type": "string"
+      },
+      "168": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "169": {
+        "description": "harvesting licence and/or cutting permit(s).",
+        "type": "string"
+      },
+      "170": {
+        "description": "This information is being collected under the authority of the Financial Administration Act section 7(1)(a) and Access to Information and Protection and Privacy Act s. 29(c)",
+        "type": "boolean"
+      },
+      "173": {
+        "description": "and will be used to ensure vendor identification information and reimbursement of funds. For further information, contact the Department of Energy, Mines and Resources,",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

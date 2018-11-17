@@ -1,0 +1,275 @@
+{
+  "fields": {
+    "properties": {
+      "575": {
+        "description": "If you leave this section blank, or if the address you provide is incomplete, all correspondence will be sent to the",
+        "type": "string"
+      },
+      "576": {
+        "description": "Postal/zip code",
+        "type": "string"
+      },
+      "577": {
+        "description": "Previous last name (if applicable)",
+        "type": "string"
+      },
+      "580": {
+        "description": "Email",
+        "type": "string"
+      },
+      "581": {
+        "description": "Email",
+        "type": "string"
+      },
+      "582": {
+        "description": "Postal/zip code",
+        "type": "string"
+      },
+      "583": {
+        "description": "Permanent mailing address",
+        "type": "string"
+      },
+      "584": {
+        "description": "Your address while at school",
+        "type": "string"
+      },
+      "585": {
+        "description": "Terr/prov/state",
+        "type": "string"
+      },
+      "586": {
+        "description": "Marital status",
+        "type": "string"
+      },
+      "587": {
+        "description": "Middle name(s)",
+        "type": "string"
+      },
+      "588": {
+        "description": "Other information",
+        "type": "string"
+      },
+      "589": {
+        "description": "Which of the following applies to you:",
+        "type": "string"
+      },
+      "590": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "591": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "592": {
+        "description": "Terr/prov/state",
+        "type": "string"
+      },
+      "596": {
+        "description": "Gender",
+        "type": "string"
+      },
+      "599": {
+        "description": "permanent mailing address you provided above. Do not use the institution\u2019s address.",
+        "type": "string"
+      },
+      "605": {
+        "description": "Social Insurance Number",
+        "type": "string"
+      },
+      "618": {
+        "description": "Are you a current or former Ward of the Crown?",
+        "type": "string"
+      },
+      "624": {
+        "description": "Will you be applying or have you applied to any of the following agencies? Check all that apply.",
+        "type": "boolean"
+      },
+      "628": {
+        "description": "in Section 8.",
+        "type": "string"
+      },
+      "631": {
+        "description": "What is the start date of your classes?       Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "634": {
+        "description": "What is the end date of your classes?        Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "635": {
+        "description": "Other",
+        "type": "string"
+      },
+      "639": {
+        "description": "Type of program",
+        "type": "string"
+      },
+      "642": {
+        "description": "Enter the end date for your current school year, including exam dates.",
+        "type": "string"
+      },
+      "643": {
+        "description": "City",
+        "type": "string"
+      },
+      "645": {
+        "description": "Terr/prov/state",
+        "type": "string"
+      },
+      "649": {
+        "description": "Name of program (i.e. science, geography, engineering)",
+        "type": "string"
+      },
+      "651": {
+        "description": "How many years is your program? (i.e. 1, 2, 3 or 4-year duration)",
+        "type": "string"
+      },
+      "652": {
+        "description": "If you will be receiving any other funding including scholarships/awards/fellowships, record the yearly amounts",
+        "type": "string"
+      },
+      "658": {
+        "description": "Other agency or employer \u2013 name:",
+        "type": "boolean"
+      },
+      "660": {
+        "description": "I have not/will not be applying for other funding for my education.",
+        "type": "boolean"
+      },
+      "663": {
+        "description": "Scholarships:",
+        "type": "boolean"
+      },
+      "664": {
+        "description": "Employment insurance",
+        "type": "boolean"
+      },
+      "672": {
+        "description": "Single parent student: Where have you last resided for 12 months in a row not in full-time post-secondary studies",
+        "type": "string"
+      },
+      "673": {
+        "description": "I would like to borrow $.00 which includes consideration for Canada Student Grants",
+        "type": "string"
+      },
+      "676": {
+        "description": "Independent student: Where have you last resided for 12 months in a row (not including full-time post-secondary",
+        "type": "string"
+      },
+      "685": {
+        "description": "Married/common-law student: you must provide a completed Schedule B \u2013 Spouse or Partner Declaration (pg 9)",
+        "type": "string"
+      },
+      "691": {
+        "description": "Have you previously received a Canada Student Loan?",
+        "type": "string"
+      },
+      "712": {
+        "description": "(per month)",
+        "type": "string"
+      },
+      "716": {
+        "description": "x",
+        "type": "string"
+      },
+      "723": {
+        "description": "(actual amount)",
+        "type": "string"
+      },
+      "725": {
+        "description": "(actual amount)",
+        "type": "string"
+      },
+      "730": {
+        "description": "(per month)",
+        "type": "string"
+      },
+      "733": {
+        "description": "x",
+        "type": "string"
+      },
+      "735": {
+        "description": "x",
+        "type": "string"
+      },
+      "746": {
+        "description": "(per month)",
+        "type": "string"
+      },
+      "748": {
+        "description": "(per month)",
+        "type": "string"
+      },
+      "752": {
+        "description": "Indicate in which city and province you are/were residing during your pre-study period.",
+        "type": "string"
+      },
+      "753": {
+        "description": "Where do you or did you live during your PRE-STUDY PERIOD?",
+        "type": "string"
+      },
+      "761": {
+        "description": "(actual amount)",
+        "type": "string"
+      },
+      "766": {
+        "description": "If no, how far is it between your home and place of employment/school?                    km one way",
+        "type": "string"
+      },
+      "769": {
+        "description": "I will be/am living at my parents\u2019 home. I will pay/paid $                    rent per month to my parents and can",
+        "type": "string"
+      },
+      "772": {
+        "description": "Is your home within a zone that is covered by a bus service?",
+        "type": "string"
+      },
+      "773": {
+        "description": "If no, how far is it between your home and school?                    km one way",
+        "type": "string"
+      },
+      "776": {
+        "description": "Is your home within a zone that is covered by a bus service?",
+        "type": "string"
+      },
+      "780": {
+        "description": "Indicate in which city and province you will be/are residing during your study period.",
+        "type": "string"
+      },
+      "782": {
+        "description": "Scholarship/bursaries/fellowships/etc. (amount for this academic year only)",
+        "type": "string"
+      },
+      "784": {
+        "description": "Attached",
+        "type": "string"
+      },
+      "829": {
+        "description": "YYYY/ MM/ DD",
+        "type": "string"
+      },
+      "830": {
+        "description": "If you do not have any dependants, go to Section 9. If more than 3 dependants, attach another sheet.",
+        "type": "string"
+      },
+      "835": {
+        "description": "SECTION 9 \u2013 DEPENDANTS",
+        "type": "string"
+      },
+      "873": {
+        "description": "You must provide copies of your dependant(s)\u2019 birth certificate(s).",
+        "type": "string"
+      },
+      "874": {
+        "description": "A dependant is someone who is 17 years or younger and is wholly dependent on you or your spouse for support, and for",
+        "type": "string"
+      },
+      "2711": {
+        "description": "Student name:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

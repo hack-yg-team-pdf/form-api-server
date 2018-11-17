@@ -1,0 +1,263 @@
+{
+  "fields": {
+    "properties": {
+      "115": {
+        "description": "$400\t\u2022 400 $",
+        "type": "string"
+      },
+      "116": {
+        "description": "le formulaire d\u2019informations de paiement YG5924 \u00e0: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "117": {
+        "description": "Connaissez-vous les dispositions de la Loi\tsur\tles\tassurances du Yukon relatives au courtier sp\u00e9cial?           Non       Oui",
+        "type": "string"
+      },
+      "118": {
+        "description": "\u00c0 quelle banque tiendrez-vous le compte?",
+        "type": "string"
+      },
+      "119": {
+        "description": "\u2610Non   \u2610Oui",
+        "type": "string"
+      },
+      "120": {
+        "description": "Please\tmake\tyour\tcheque\tpayable\tto\tGovernment\tof\tYukon,",
+        "type": "string"
+      },
+      "121": {
+        "description": "Important Note: Professional\tLicensing\tand\tRegulatory\tAffairs\twill\tNOT accept payment by email or fax.",
+        "type": "string"
+      },
+      "124": {
+        "description": "11.\t (a)\t Do\tyou\tagree\tto\tkeep\tseparate\trecord\tand\taccount\tfor\tinsurance\tfunds\tonly?",
+        "type": "string"
+      },
+      "125": {
+        "description": "Avez-vous d\u00e9j\u00e0, \u00e0 n\u2019importe quel moment, \u00e9t\u00e9 en d\u00e9faut en ce qui concerne des primes per\u00e7ues en vertu",
+        "type": "string"
+      },
+      "130": {
+        "description": "10.\t (a)\t Have\tyou,\tat\tany\ttime,\tbeen\tin\tdefault\tin\trespect\tof\tpremiums\treceived\tunder,",
+        "type": "string"
+      },
+      "131": {
+        "description": "d\u2019un contrat avec un assureur ou un assur\u00e9, ou avez-vous d\u00e9j\u00e0 manqu\u00e9 \u00e0 un engagement \u00e0 cet \u00e9gard?",
+        "type": "string"
+      },
+      "132": {
+        "description": "or\tcomplete\tpayment\tinformation\tform\tYG5924\tat: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "136": {
+        "description": "Dans l\u2019affirmative, donnez tous les d\u00e9tails",
+        "type": "string"
+      },
+      "137": {
+        "description": "(b)\t In\twhat\tbank\twill\tthis\taccount\tbe\tkept?",
+        "type": "string"
+      },
+      "138": {
+        "description": "Whitehorse (Yukon) Y1A 2C6",
+        "type": "string"
+      },
+      "139": {
+        "description": "P.O.\tBox\t2703,",
+        "type": "string"
+      },
+      "140": {
+        "description": "suivante:",
+        "type": "string"
+      },
+      "141": {
+        "description": "affaires r\u00e9glementaires, C-5",
+        "type": "string"
+      },
+      "142": {
+        "description": "Please return your documents and fees to:",
+        "type": "string"
+      },
+      "143": {
+        "description": "(c)\t I\tforward\therewith\tthe\tprescribed\tfee\tof:",
+        "type": "string"
+      },
+      "146": {
+        "description": "C.P. 2703",
+        "type": "string"
+      },
+      "147": {
+        "description": "$200\t\u2022\t200 $",
+        "type": "string"
+      },
+      "148": {
+        "description": "(b)  If so, explain fully",
+        "type": "string"
+      },
+      "149": {
+        "description": "No\t\t\t\t\t\t\t\t\tYes",
+        "type": "string"
+      },
+      "152": {
+        "description": "Je transmets ci-joints les droits r\u00e9glementaires de :",
+        "type": "string"
+      },
+      "153": {
+        "description": "Veuillez libeller votre ch\u00e8que au nom du gouvernement du Yukon ou fournir les informations demand\u00e9es ci-dessous remplissez",
+        "type": "string"
+      },
+      "154": {
+        "description": "Resident\t\u2022\tR\u00e9sident",
+        "type": "string"
+      },
+      "155": {
+        "description": "or\totherwise\tfailed\tto\tcarry\tout\tthe\tterms\tof\tan\tagreement\twith\tany\tinsurer\tor\tinsured?",
+        "type": "string"
+      },
+      "156": {
+        "description": "Accr\u00e9ditation professionnelle et",
+        "type": "string"
+      },
+      "157": {
+        "description": "Regulatory Affairs C-5",
+        "type": "string"
+      },
+      "158": {
+        "description": "307\tBlack\tStreet",
+        "type": "string"
+      },
+      "160": {
+        "description": "Regulatory Affairs, C-5",
+        "type": "string"
+      },
+      "162": {
+        "description": "Courrier :",
+        "type": "string"
+      },
+      "163": {
+        "description": "Whitehorse,\tYT\tY1A\t2C6",
+        "type": "string"
+      },
+      "164": {
+        "description": "Whitehorse (Yukon) Y1A 2N1",
+        "type": "string"
+      },
+      "168": {
+        "description": "Note importante : Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires N\u2019ACCEPTERA PAS de paiement par courriel ou t\u00e9l\u00e9copieur.",
+        "type": "string"
+      },
+      "169": {
+        "description": "9.\t Are\tyou\tfamiliar\twith\tthe\tYukon\tInsurance Act\tinsofar\tas\tit\tapplies\tto\tSpecial\tBrokers?                                    No         Yes",
+        "type": "string"
+      },
+      "170": {
+        "description": "Consentez-vous \u00e0 tenir des livres comptables et un compte distincts pour les fonds d\u2019assurance?",
+        "type": "string"
+      },
+      "171": {
+        "description": "affaires r\u00e9glementaires, C-5",
+        "type": "string"
+      },
+      "172": {
+        "description": "Whitehorse,\tYT\tY1A\t2N1",
+        "type": "string"
+      },
+      "177": {
+        "description": "day\tof\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t,20",
+        "type": "string"
+      },
+      "182": {
+        "description": "in\tYukon,\tthis",
+        "type": "string"
+      },
+      "183": {
+        "description": "In the matter of the Yukon Insurance Act, and in the matter",
+        "type": "string"
+      },
+      "187": {
+        "description": "Notary\tPublic\t\u2022\tPLEASE\tPRINT",
+        "type": "string"
+      },
+      "188": {
+        "description": "Designated\tRepresentative\t\u2022\tPLEASE\tPRINT",
+        "type": "string"
+      },
+      "191": {
+        "description": "Designated\tRepresentative\t\u2022\tSIGNATURE",
+        "type": "boolean"
+      },
+      "194": {
+        "description": "Repr\u00e9sentant d\u00e9sign\u00e9 \u2022 EN LETTRES D\u00c9TACH\u00c9ES",
+        "type": "boolean"
+      },
+      "195": {
+        "description": "Conform\u00e9ment \u00e0 la Loi\tsur\tles\tassurances du Yukon et",
+        "type": "string"
+      },
+      "196": {
+        "description": "Sworn\tbefore\tme\tat",
+        "type": "string"
+      },
+      "871": {
+        "description": "D\u00e9nomination sociale",
+        "type": "string"
+      },
+      "872": {
+        "description": "(a) Designated Representative",
+        "type": "string"
+      },
+      "873": {
+        "description": "Adresse professionnelle   T\u00e9l\u00e9phone/Courriel",
+        "type": "string"
+      },
+      "874": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "875": {
+        "description": "Date de naissance",
+        "type": "string"
+      },
+      "876": {
+        "description": "(b) Residence Address",
+        "type": "string"
+      },
+      "877": {
+        "description": "Telephone/Email",
+        "type": "string"
+      },
+      "880": {
+        "description": "(a) Have you ever been refused a licence under the Insurance Act",
+        "type": "string"
+      },
+      "882": {
+        "description": "Dans l\u2019affirmative, expliquez.",
+        "type": "string"
+      },
+      "884": {
+        "description": "Poste que vous occuperez",
+        "type": "string"
+      },
+      "885": {
+        "description": "(iv)\tHow much of your time will you devote to Insurance?",
+        "type": "string"
+      },
+      "886": {
+        "description": "Salaire annuel ou autre r\u00e9mun\u00e9ration",
+        "type": "string"
+      },
+      "887": {
+        "description": "(iii)\tYour annual salary or other renumeration",
+        "type": "string"
+      },
+      "890": {
+        "description": "Avez-vous de l\u2019exp\u00e9rience dans le domaine de l\u2019assurance?",
+        "type": "string"
+      },
+      "896": {
+        "description": "Year",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

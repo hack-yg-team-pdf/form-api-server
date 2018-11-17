@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "properties": {
+      "204": {
+        "description": "YOU MUST SIGN THIS PAGE IN ORDER FOR THIS APPLICATION FORM TO BE CONSIDERED COMPLETE.  PLEASE READ BEFORE SIGNING",
+        "type": "string"
+      },
+      "205": {
+        "description": "1.",
+        "type": "string"
+      },
+      "206": {
+        "description": "training-related income support. Any information will be used to verify my eligibility for Student Financial Assistance.",
+        "type": "boolean"
+      },
+      "208": {
+        "description": "Print Name:",
+        "type": "string"
+      },
+      "209": {
+        "description": "NOTE: It is your responsibility to contact the National Canada Student Loans Service Centre at 1-888-815-4514 to keep your address up-to-date",
+        "type": "boolean"
+      },
+      "212": {
+        "description": "and to make arrangements for repayment within 6 months of completion of your program or if you cease to be a full-time student.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

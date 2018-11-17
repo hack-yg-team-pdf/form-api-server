@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "1385": {
+        "description": "You must complete this application IN FULL unless your approval/licence clearly demonstrates the prospecting activities",
+        "type": "string"
+      },
+      "1387": {
+        "description": "You must complete this application IN FULL if you do not have a notification ID number. A Class 1 notification may still be required.",
+        "type": "string"
+      },
+      "1388": {
+        "description": "This lease renewal is currently part of a valid Mining Land Use approval (Class 3 or 4)",
+        "type": "string"
+      },
+      "1390": {
+        "description": "ACCESS TO SITE",
+        "type": "string"
+      },
+      "1391": {
+        "description": "End date:",
+        "type": "string"
+      },
+      "1392": {
+        "description": "SECTION 1: SITE ACCESS, EQUIPMENT AND PROGRAM DETAILS",
+        "type": "string"
+      },
+      "1395": {
+        "description": "Please check ALL that apply to your work program",
+        "type": "boolean"
+      },
+      "1396": {
+        "description": "By air",
+        "type": "boolean"
+      },
+      "1397": {
+        "description": "PROPOSED WORK DATES",
+        "type": "boolean"
+      },
+      "1398": {
+        "description": "Fixed wing",
+        "type": "boolean"
+      },
+      "1401": {
+        "description": "Start date:",
+        "type": "boolean"
+      },
+      "1404": {
+        "description": "Float plane",
+        "type": "boolean"
+      },
+      "1407": {
+        "description": "This lease is subject to Class 1 notification but I do not have a notification ID, or this",
+        "type": "boolean"
+      },
+      "1410": {
+        "description": "Existing summer roads",
+        "type": "boolean"
+      },
+      "1411": {
+        "description": "New roads or trails - ONLY allowable with valid permits. No work requiring this access can occur",
+        "type": "string"
+      },
+      "1412": {
+        "description": "until permits are in place: YESAB #:     Land use permit #:",
+        "type": "string"
+      },
+      "1413": {
+        "description": "on claims",
+        "type": "boolean"
+      },
+      "1415": {
+        "description": "Description of pre-exisiting structure(s):",
+        "type": "string"
+      },
+      "1416": {
+        "description": "Number of person days in camp:",
+        "type": "string"
+      },
+      "1417": {
+        "description": "GPS points if possible.",
+        "type": "string"
+      },
+      "1420": {
+        "description": "Please identify the location of the proposed camp and any pre-existing structures, on an attached sketch and include",
+        "type": "string"
+      },
+      "1421": {
+        "description": "Not applicable: no pre-existing structures on site",
+        "type": "string"
+      },
+      "1422": {
+        "description": "Maximum persons in camp at any one time:",
+        "type": "string"
+      },
+      "1425": {
+        "description": "CAMPS AND STRUCTURES",
+        "type": "string"
+      },
+      "1426": {
+        "description": "** Please consult your equipment/vehicle owners manuals, manufacturer\u2019s websites, and any other available resources on the internet to determine",
+        "type": "string"
+      },
+      "1427": {
+        "description": "equipment gross weights, and ground pressures.",
+        "type": "string"
+      },
+      "1430": {
+        "description": "YG(5037EQ)F3 Rev.05/2018",
+        "type": "string"
+      },
+      "1431": {
+        "description": "Not applicable: no camp",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

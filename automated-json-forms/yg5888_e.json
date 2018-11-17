@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "162": {
+        "description": "3.  Contact: Name & Address of Field Supervisor",
+        "type": "string"
+      },
+      "163": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "164": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "165": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "166": {
+        "description": "4.  Land Use Operation - Describe the purpose, nature, location, extent and methods of operations",
+        "type": "string"
+      },
+      "167": {
+        "description": "EQUIPMENT, VEHICLES AND FACILITIES",
+        "type": "string"
+      },
+      "168": {
+        "description": "6.  Type & Number                    7.  Purpose",
+        "type": "string"
+      },
+      "169": {
+        "description": "8.  No. of Trips",
+        "type": "string"
+      },
+      "170": {
+        "description": "10.  Containers - type & number",
+        "type": "string"
+      },
+      "171": {
+        "description": "13.  Waste Disposal \u2013 Arrangements for Disposal of Garbage and Sanitary Wastes",
+        "type": "string"
+      },
+      "172": {
+        "description": "FUELS",
+        "type": "string"
+      },
+      "173": {
+        "description": "9.  Facilities",
+        "type": "string"
+      },
+      "174": {
+        "description": "15.  Additional Information:",
+        "type": "string"
+      },
+      "175": {
+        "description": "Start:",
+        "type": "string"
+      },
+      "176": {
+        "description": "Completion:",
+        "type": "string"
+      },
+      "177": {
+        "description": "referenced to kilometer posts.",
+        "type": "string"
+      },
+      "178": {
+        "description": "14.  Time Schedule Proposed",
+        "type": "string"
+      },
+      "179": {
+        "description": "Attach a map (1:50,000 or 1:30,000) scale showing travel routes and staging areas,",
+        "type": "string"
+      },
+      "180": {
+        "description": "Signature of Applicant",
+        "type": "string"
+      },
+      "181": {
+        "description": "Title",
+        "type": "string"
+      },
+      "182": {
+        "description": "YG(5888Q)F1 11/2012",
+        "type": "string"
+      },
+      "183": {
+        "description": "Information collected on this form is collected under the authority of the ATIPP Act Section 30(2) and is collected for carrying out a program or activity of",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "the public body in accordance with ATIPP Act Section 29(c).  If you have any questions you may contact: Environmental Programs Branch, Environment,",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

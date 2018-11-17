@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "129": {
+        "description": "Operations to be",
+        "type": "boolean"
+      },
+      "131": {
+        "description": "All season",
+        "type": "boolean"
+      },
+      "132": {
+        "description": "carried out by:",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "Power saws",
+        "type": "boolean"
+      },
+      "135": {
+        "description": "Grapple skidders",
+        "type": "boolean"
+      },
+      "136": {
+        "description": "# of employees:",
+        "type": "boolean"
+      },
+      "138": {
+        "description": "Feller buncher",
+        "type": "boolean"
+      },
+      "141": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "142": {
+        "description": "Contractor",
+        "type": "boolean"
+      },
+      "143": {
+        "description": "OPERATION SUMMARY (Check applicable boxes below)",
+        "type": "string"
+      },
+      "144": {
+        "description": "Line skidders",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "149": {
+        "description": "Other:",
+        "type": "boolean"
+      },
+      "249": {
+        "description": "Registered business name",
+        "type": "string"
+      },
+      "252": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "253": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "254": {
+        "description": "Phone 1",
+        "type": "string"
+      },
+      "255": {
+        "description": "Email",
+        "type": "string"
+      },
+      "256": {
+        "description": "LICENCE APPLICATION VOLUME AND PRODUCT(S)",
+        "type": "string"
+      },
+      "257": {
+        "description": "Phone 2",
+        "type": "string"
+      },
+      "258": {
+        "description": "Volume(s)",
+        "type": "string"
+      },
+      "259": {
+        "description": "Timber type",
+        "type": "boolean"
+      },
+      "261": {
+        "description": "Coniferous",
+        "type": "boolean"
+      },
+      "262": {
+        "description": "Full volume per CTHAP",
+        "type": "boolean"
+      },
+      "263": {
+        "description": "OR          m3",
+        "type": "string"
+      },
+      "264": {
+        "description": "Term of licence",
+        "type": "boolean"
+      },
+      "265": {
+        "description": "yrs",
+        "type": "string"
+      },
+      "266": {
+        "description": "Deciduous",
+        "type": "boolean"
+      },
+      "267": {
+        "description": "Deciduous",
+        "type": "boolean"
+      },
+      "268": {
+        "description": "Full volume per CTHAP",
+        "type": "boolean"
+      },
+      "269": {
+        "description": "OR          m3",
+        "type": "string"
+      },
+      "270": {
+        "description": "CUTTING PERMIT APPLICATION",
+        "type": "boolean"
+      },
+      "271": {
+        "description": "Preferred operating unit and/or block:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

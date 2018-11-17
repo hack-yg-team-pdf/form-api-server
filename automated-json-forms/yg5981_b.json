@@ -1,0 +1,151 @@
+{
+  "fields": {
+    "properties": {
+      "106": {
+        "description": "DATE \u2022 DATE :",
+        "type": "string"
+      },
+      "107": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "108": {
+        "description": "Community subdivision",
+        "type": "string"
+      },
+      "109": {
+        "description": "Lot",
+        "type": "string"
+      },
+      "110": {
+        "description": "Parcelle    Bloc    Plan    Quad  Groupe",
+        "type": "string"
+      },
+      "111": {
+        "description": "Plan",
+        "type": "string"
+      },
+      "112": {
+        "description": "Propri\u00e9taire",
+        "type": "string"
+      },
+      "113": {
+        "description": "Owner",
+        "type": "string"
+      },
+      "138": {
+        "description": "Addition / alteration",
+        "type": "string"
+      },
+      "139": {
+        "description": "Garage/shop",
+        "type": "boolean"
+      },
+      "141": {
+        "description": "Garage/atelier",
+        "type": "boolean"
+      },
+      "143": {
+        "description": "New non-residential bldg.",
+        "type": "boolean"
+      },
+      "145": {
+        "description": "change of use",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "Ajout/r\u00e9novations",
+        "type": "boolean"
+      },
+      "149": {
+        "description": "basement",
+        "type": "string"
+      },
+      "150": {
+        "description": "Nbre de logements",
+        "type": "string"
+      },
+      "151": {
+        "description": "Nbre d\u2019\u00e9tages",
+        "type": "string"
+      },
+      "152": {
+        "description": "Type de b\u00e2timent",
+        "type": "string"
+      },
+      "153": {
+        "description": "Storeys",
+        "type": "string"
+      },
+      "154": {
+        "description": "Type de chauffage",
+        "type": "string"
+      },
+      "155": {
+        "description": "No. of dwelling units",
+        "type": "string"
+      },
+      "156": {
+        "description": "Area",
+        "type": "string"
+      },
+      "157": {
+        "description": "Largeur",
+        "type": "string"
+      },
+      "158": {
+        "description": "Front",
+        "type": "string"
+      },
+      "159": {
+        "description": "Building size",
+        "type": "string"
+      },
+      "160": {
+        "description": "Area",
+        "type": "string"
+      },
+      "161": {
+        "description": "Largeur",
+        "type": "string"
+      },
+      "162": {
+        "description": "Fa\u00e7ade",
+        "type": "string"
+      },
+      "163": {
+        "description": "Value of construction",
+        "type": "string"
+      },
+      "164": {
+        "description": "to Information and Protection of Privacy Act. For further information please contact",
+        "type": "string"
+      },
+      "165": {
+        "description": "Staff Name",
+        "type": "string"
+      },
+      "166": {
+        "description": "Building Fee",
+        "type": "string"
+      },
+      "167": {
+        "description": "Droits \u2013 construction       Droits \u2013 chauffage",
+        "type": "string"
+      },
+      "168": {
+        "description": "Nom de l\u2019employ\u00e9     Date",
+        "type": "string"
+      },
+      "169": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "172": {
+        "description": "1Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "fields": {
+    "properties": {
+      "192": {
+        "description": "Page 2 of 6",
+        "type": "string"
+      },
+      "194": {
+        "description": "PROPOSED DISPOSAL METHODS",
+        "type": "string"
+      },
+      "196": {
+        "description": "Vegetation (spruce, pine, poplar, willow, cleared, etc.):",
+        "type": "string"
+      },
+      "198": {
+        "description": "c) Brush and Trees:",
+        "type": "string"
+      },
+      "200": {
+        "description": "Topography (flat, steep, rolling, etc.):",
+        "type": "string"
+      },
+      "201": {
+        "description": "b) Sewage (sanitary and grey water):",
+        "type": "string"
+      },
+      "207": {
+        "description": "Proximity to Water Bodies (rivers, streams, lakes, ponds within or near the application area):",
+        "type": "string"
+      },
+      "215": {
+        "description": "d) Overburden (organic soils, waste material, etc.):",
+        "type": "string"
+      },
+      "216": {
+        "description": "FUEL CONTAINMENT",
+        "type": "string"
+      },
+      "219": {
+        "description": "SITE CHARACTERISTICS",
+        "type": "string"
+      },
+      "222": {
+        "description": "TYPE",
+        "type": "string"
+      },
+      "228": {
+        "description": "WATER CROSSING(S)",
+        "type": "string"
+      },
+      "232": {
+        "description": "CULVERT \u2013 WILL CULVERTS BE INSTALLED?",
+        "type": "string"
+      },
+      "241": {
+        "description": "No      If Yes, Lot #",
+        "type": "string"
+      },
+      "244": {
+        "description": "No",
+        "type": "string"
+      },
+      "246": {
+        "description": "Culvert Diameter:",
+        "type": "string"
+      },
+      "256": {
+        "description": "SOURCE GRAVEL/FILL",
+        "type": "string"
+      },
+      "257": {
+        "description": "Deck Details:",
+        "type": "string"
+      },
+      "263": {
+        "description": "Site Conditions:",
+        "type": "string"
+      },
+      "265": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "267": {
+        "description": "Existing facilities (specify):",
+        "type": "string"
+      },
+      "268": {
+        "description": "Page 4 of 6",
+        "type": "string"
+      },
+      "269": {
+        "description": "affected by the project? If so, indicate who and what input you have received (e.g. any concerns you are aware off,",
+        "type": "string"
+      },
+      "270": {
+        "description": "Proposed Restoration Plans:",
+        "type": "string"
+      },
+      "271": {
+        "description": "CAMP FACILITIES AND MAINTENANCE",
+        "type": "string"
+      },
+      "277": {
+        "description": "POTENTIAL ENVIRONMENTAL/RESOURCE IMPACTS",
+        "type": "string"
+      },
+      "285": {
+        "description": "Coordinates of Area:",
+        "type": "string"
+      },
+      "286": {
+        "description": "Start Date (yyyy-mm-dd):",
+        "type": "string"
+      },
+      "287": {
+        "description": "Period of permit (up to two years, with maximum of one year extension):",
+        "type": "string"
+      },
+      "292": {
+        "description": "PERIOD OF OPERATION",
+        "type": "string"
+      },
+      "293": {
+        "description": "None",
+        "type": "string"
+      },
+      "296": {
+        "description": "OTHER RIGHTS, LICENCES OR PERMITS",
+        "type": "string"
+      },
+      "302": {
+        "description": "Range of Longitude: most westerly point:",
+        "type": "string"
+      },
+      "1287": {
+        "description": "Date (yyyy-mm-dd):",
+        "type": "string"
+      },
+      "1288": {
+        "description": "Permit #:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

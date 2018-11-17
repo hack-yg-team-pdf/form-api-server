@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "44": {
+        "description": "1.",
+        "type": "string"
+      },
+      "45": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "46": {
+        "description": "1.",
+        "type": "string"
+      },
+      "47": {
+        "description": "2.",
+        "type": "string"
+      },
+      "48": {
+        "description": "TO THE SHERIFF:",
+        "type": "string"
+      },
+      "49": {
+        "description": "YOU ARE DIRECTED TO SEIZE AND SELL THE PERSONAL PROPERTY AND LANDS OF",
+        "type": "string"
+      },
+      "50": {
+        "description": "and to realize from the seizure and sale the following sums:",
+        "type": "string"
+      },
+      "51": {
+        "description": "Amount remaining due and payable on judgment:",
+        "type": "string"
+      },
+      "52": {
+        "description": "Amount of costs remaining due and payable:",
+        "type": "string"
+      },
+      "53": {
+        "description": "$",
+        "type": "string"
+      },
+      "54": {
+        "description": "$",
+        "type": "string"
+      },
+      "55": {
+        "description": "Amount of interest on judgment and costs",
+        "type": "string"
+      },
+      "56": {
+        "description": "$",
+        "type": "string"
+      },
+      "57": {
+        "description": "$",
+        "type": "string"
+      },
+      "58": {
+        "description": "Dated this  day of, 20",
+        "type": "string"
+      },
+      "59": {
+        "description": "at , Yukon",
+        "type": "string"
+      },
+      "60": {
+        "description": "YG(3152QE)F2 REV. 01/2012",
+        "type": "string"
+      },
+      "62": {
+        "description": "Reference: Sections 64 and 66 Small Claims Court Regulations",
+        "type": "boolean"
+      },
+      "65": {
+        "description": "$",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

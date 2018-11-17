@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "246": {
+        "description": "Email \u2022 Courriel",
+        "type": "string"
+      },
+      "249": {
+        "description": "Library card no. \u2022 Num\u00e9ro de carte",
+        "type": "string"
+      },
+      "250": {
+        "description": "MATERIAL INFORMATION \u2022 DOCUMENT DEMAND\u00c9",
+        "type": "string"
+      },
+      "251": {
+        "description": "Format                             Book               DVD               Article               Other",
+        "type": "string"
+      },
+      "252": {
+        "description": "Last name, first name \u2022 Nom de famille, pr\u00e9nom",
+        "type": "boolean"
+      },
+      "254": {
+        "description": "Title \u2022 Titre",
+        "type": "boolean"
+      },
+      "255": {
+        "description": "PRINT CLEARLY. One title per form. \u2022 \u00c9CRIRE EN LETTRES D\u00c9TACH\u00c9ES. Un seul ouvrage par formulaire.",
+        "type": "boolean"
+      },
+      "256": {
+        "description": "Phone \u2022 T\u00e9l\u00e9phone",
+        "type": "boolean"
+      },
+      "257": {
+        "description": "Type de document            Livre               DVD               Article               Autre",
+        "type": "string"
+      },
+      "258": {
+        "description": "Author \u2022 Auteur",
+        "type": "string"
+      },
+      "259": {
+        "description": "Language \u2022 Langue",
+        "type": "string"
+      },
+      "260": {
+        "description": "LIBRARY USE ONLY \u2022 \u00c0 L\u2019USAGE EXCLUSIF DE LA BIBLIOTH\u00c8QUE",
+        "type": "string"
+      },
+      "261": {
+        "description": "Pick-up library \u2022 Biblioth\u00e8que o\u00f9 le document est livr\u00e9",
+        "type": "string"
+      },
+      "262": {
+        "description": "Date \u2022 Re\u00e7u le",
+        "type": "string"
+      },
+      "263": {
+        "description": "This information is being collected under the authority of the Public Libraries Act for the purpose of facilitating public library procedures and public events. For further",
+        "type": "boolean"
+      },
+      "266": {
+        "description": "information, contact the Director, Public Libraries at 867-667-5447 or toll free 1-800-661-0408. \u2022 Les renseignements sont recueillis en vertu de la Loi sur les biblioth\u00e8ques",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "155": {
+        "description": "form No. 9",
+        "type": "string"
+      },
+      "156": {
+        "description": "Plaintiff(s) :                         (Name)",
+        "type": "string"
+      },
+      "157": {
+        "description": "1.",
+        "type": "string"
+      },
+      "158": {
+        "description": "2.",
+        "type": "string"
+      },
+      "159": {
+        "description": "Defendant(s) :                     (Name)",
+        "type": "string"
+      },
+      "160": {
+        "description": "1.",
+        "type": "string"
+      },
+      "161": {
+        "description": "(name)                                                                                 (address)",
+        "type": "string"
+      },
+      "162": {
+        "description": "direct knowledge of the information deposed to in this affidavit, except where stated to be on information and",
+        "type": "string"
+      },
+      "167": {
+        "description": "Sworn/affirmed before me at the of",
+        "type": "string"
+      },
+      "168": {
+        "description": ", in Yukon,",
+        "type": "string"
+      },
+      "169": {
+        "description": "this  day of , 20",
+        "type": "string"
+      },
+      "170": {
+        "description": "YG(3143QE)F1 Rev. 04/2011",
+        "type": "string"
+      },
+      "172": {
+        "description": "A Notary Public in and for Yukon                                                     Signature",
+        "type": "string"
+      },
+      "173": {
+        "description": "Reference : Sections 37, 39 and 66 Small Claims Court Regulations",
+        "type": "boolean"
+      },
+      "176": {
+        "description": "makE oatH (or solEmNly affirm) aND say tHat :",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

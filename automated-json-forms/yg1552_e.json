@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "17": {
+        "description": "FOR OFFICE USE ONLY",
+        "type": "string"
+      },
+      "18": {
+        "description": "New",
+        "type": "boolean"
+      },
+      "21": {
+        "description": "Page 2 of 2",
+        "type": "boolean"
+      },
+      "252": {
+        "description": "Mental Wellness and Substance Use Services",
+        "type": "boolean"
+      },
+      "254": {
+        "description": "Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "255": {
+        "description": "Legal name:",
+        "type": "string"
+      },
+      "256": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "257": {
+        "description": "Date of referral:",
+        "type": "string"
+      },
+      "260": {
+        "description": "Gender:",
+        "type": "string"
+      },
+      "261": {
+        "description": "a.k.a. (also known as):",
+        "type": "string"
+      },
+      "262": {
+        "description": "Date of birth:",
+        "type": "string"
+      },
+      "263": {
+        "description": "Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "264": {
+        "description": "No",
+        "type": "string"
+      },
+      "265": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "268": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "269": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "272": {
+        "description": "Messages:",
+        "type": "string"
+      },
+      "273": {
+        "description": "Physical address:",
+        "type": "string"
+      },
+      "274": {
+        "description": "Contact person:",
+        "type": "string"
+      },
+      "275": {
+        "description": "Relationship:",
+        "type": "string"
+      },
+      "276": {
+        "description": "REFERRED BY",
+        "type": "string"
+      },
+      "277": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "278": {
+        "description": "YG(1552EQ)F2 04/2018",
+        "type": "string"
+      },
+      "279": {
+        "description": "Agency:",
+        "type": "string"
+      },
+      "280": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "281": {
+        "description": "Family doctor:",
+        "type": "string"
+      },
+      "282": {
+        "description": "Clinic:",
+        "type": "string"
+      },
+      "283": {
+        "description": "Phone:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

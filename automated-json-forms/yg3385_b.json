@@ -1,0 +1,251 @@
+{
+  "fields": {
+    "properties": {
+      "26": {
+        "description": "Number of certificates requested \u2022 Nombre de certificats demand\u00e9s                         x $10.00  =",
+        "type": "string"
+      },
+      "27": {
+        "description": "\u25bc",
+        "type": "string"
+      },
+      "32": {
+        "description": "Request for special delivery \u2022 Demande d\u2019envoi par expr\u00e8s                         x $15.00  =",
+        "type": "string"
+      },
+      "39": {
+        "description": "Transfer this amount to the front of this form under \u201cFee enclosed with this application.\u201d",
+        "type": "string"
+      },
+      "40": {
+        "description": "Le certificat contient les renseignements tels qu\u2019ils figurent dans l\u2019enregistrement original conserv\u00e9 \u00e0 notre bureau.",
+        "type": "string"
+      },
+      "41": {
+        "description": "Personal information is being collected under the authority of the Vital Statistics Act for the release of Birth, Dealth and Marriage information. For further information, contact",
+        "type": "boolean"
+      },
+      "45": {
+        "description": "the Deputy Registrar, Vital Statistics, at (867)667-5207 or toll free at 1-800-661-0408, or write to Vital Statistics, Box 2703, Whitehorse, Yukon Y1A 2C6.",
+        "type": "boolean"
+      },
+      "910": {
+        "description": "H",
+        "type": "string"
+      },
+      "911": {
+        "description": "Place of birth (city, town, village) \u2022 Lieu de naissance (ville/village)",
+        "type": "string"
+      },
+      "916": {
+        "description": "A",
+        "type": "string"
+      },
+      "917": {
+        "description": "Year              Month by name         Day",
+        "type": "string"
+      },
+      "918": {
+        "description": "Birth surname of parent \u2022 Nom du",
+        "type": "string"
+      },
+      "919": {
+        "description": "Given names \u2022 Pr\u00e9nom(s)",
+        "type": "string"
+      },
+      "920": {
+        "description": "Birthplace of parent \u2022 Lieu",
+        "type": "string"
+      },
+      "921": {
+        "description": "E",
+        "type": "string"
+      },
+      "922": {
+        "description": "Birth surname of parent \u2022 Nom du",
+        "type": "string"
+      },
+      "923": {
+        "description": "Birthplace of parent \u2022 Lieu",
+        "type": "string"
+      },
+      "924": {
+        "description": "If marriage certificate(s) required, complete this section (please print). \u2022 Pour un certificat de mariage, remplir cette partie (en lettres d\u00e9tach\u00e9es).",
+        "type": "string"
+      },
+      "925": {
+        "description": "Surname \u2022 Nom",
+        "type": "string"
+      },
+      "926": {
+        "description": "Given names \u2022 Pr\u00e9nom(s)",
+        "type": "string"
+      },
+      "927": {
+        "description": "Birthplace \u2022 Lieu de naissance",
+        "type": "string"
+      },
+      "928": {
+        "description": "Please indicate type and number of",
+        "type": "boolean"
+      },
+      "930": {
+        "description": "certificates required \u2022 Veuillez indiquer",
+        "type": "boolean"
+      },
+      "932": {
+        "description": "le genre et le nombre de",
+        "type": "boolean"
+      },
+      "934": {
+        "description": "E",
+        "type": "string"
+      },
+      "935": {
+        "description": "Year              Month by name         Day",
+        "type": "string"
+      },
+      "936": {
+        "description": "Given names \u2022 Pr\u00e9nom(s)",
+        "type": "string"
+      },
+      "941": {
+        "description": "A",
+        "type": "string"
+      },
+      "942": {
+        "description": "Place of marriage (city, town, village) \u2022 Lieu du mariage (ville/village)  Territory/province",
+        "type": "string"
+      },
+      "943": {
+        "description": "Territoire/province",
+        "type": "string"
+      },
+      "948": {
+        "description": "E",
+        "type": "string"
+      },
+      "949": {
+        "description": "Surname of deceased \u2022 Nom de la personne d\u00e9c\u00e9d\u00e9e",
+        "type": "string"
+      },
+      "950": {
+        "description": "If death certificate(s) required, complete this section (please print). \u2022 Pour un certificat de d\u00e9c\u00e8s, remplir cette partie (en lettres d\u00e9tach\u00e9es).",
+        "type": "string"
+      },
+      "951": {
+        "description": "Given names \u2022 Pr\u00e9nom(s)",
+        "type": "string"
+      },
+      "952": {
+        "description": "Age \u2022 \u00c2ge",
+        "type": "string"
+      },
+      "953": {
+        "description": "Please indicate type and number of",
+        "type": "boolean"
+      },
+      "955": {
+        "description": "certificates required \u2022 Veuillez indiquer",
+        "type": "boolean"
+      },
+      "957": {
+        "description": "le genre et le nombre de certificats",
+        "type": "boolean"
+      },
+      "959": {
+        "description": "H",
+        "type": "string"
+      },
+      "960": {
+        "description": "Permanent residence of deceased prior to death \u2022 R\u00e9sidence permanente de la personne d\u00e9c\u00e9d\u00e9e avant",
+        "type": "string"
+      },
+      "961": {
+        "description": "Place of death (city, town, village) \u2022 Lieu du d\u00e9c\u00e8s (ville/village)",
+        "type": "string"
+      },
+      "966": {
+        "description": "C",
+        "type": "string"
+      },
+      "967": {
+        "description": "son d\u00e9c\u00e8s",
+        "type": "string"
+      },
+      "968": {
+        "description": "Please indicate the reason for application \u2022 Veuillez indiquer le motif de la demande",
+        "type": "string"
+      },
+      "969": {
+        "description": "Year              Month by name         Day",
+        "type": "string"
+      },
+      "970": {
+        "description": "Marital status \u2022 \u00c9tat civil",
+        "type": "string"
+      },
+      "971": {
+        "description": "State relationship to person named \u2022 Indiquez votre lien de",
+        "type": "string"
+      },
+      "972": {
+        "description": "parent\u00e9 avec la personne susmentionn\u00e9e",
+        "type": "string"
+      },
+      "973": {
+        "description": "Please indicate type and number of",
+        "type": "boolean"
+      },
+      "975": {
+        "description": "Name \u2022 Nom",
+        "type": "string"
+      },
+      "976": {
+        "description": "Fran\u00e7ais                 Anglais",
+        "type": "string"
+      },
+      "977": {
+        "description": "Address \u2022 Adresse",
+        "type": "string"
+      },
+      "978": {
+        "description": "City \u2022 Ville/village                   Territory, province \u2022 Territoire/province           Postal code \u2022 Code postal",
+        "type": "string"
+      },
+      "979": {
+        "description": "Daytime \u2022 Jour",
+        "type": "string"
+      },
+      "980": {
+        "description": "Evening \u2022 Soir",
+        "type": "string"
+      },
+      "985": {
+        "description": "Signature of application \u2022 Signature du demandeur1",
+        "type": "string"
+      },
+      "986": {
+        "description": "Year \u2022 Ann\u00e9e           Month \u2022 Mois           Day \u2022 Jour",
+        "type": "string"
+      },
+      "987": {
+        "description": "Master Card \u2022 Master Card",
+        "type": "string"
+      },
+      "988": {
+        "description": "*Fee enclosed with this application",
+        "type": "string"
+      },
+      "989": {
+        "description": "Remarks \u2022 Remarques",
+        "type": "string"
+      },
+      "990": {
+        "description": "PAYMENT \u2022 PAIEMENT",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "\u2022 The insulation value is set by the lowest value of insulation added to the component.",
+        "type": "string"
+      },
+      "42": {
+        "description": "Wall Area Total",
+        "type": "string"
+      },
+      "43": {
+        "description": "(R20 to R29) or high performance (R30+) insulation upgrade values to qualify for the rebate.",
+        "type": "string"
+      },
+      "44": {
+        "description": "\u2022 Each component must be insulated in its entirety to be eligible for the rebate.",
+        "type": "string"
+      },
+      "47": {
+        "description": "component",
+        "type": "string"
+      },
+      "49": {
+        "description": "\u2022 Components eligible for the insulation rebate are exterior-facing components that make up the thermal enclosure of a",
+        "type": "string"
+      },
+      "52": {
+        "description": "of the thermal enclosure.",
+        "type": "string"
+      },
+      "54": {
+        "description": "Foundation wall(s)",
+        "type": "string"
+      },
+      "56": {
+        "description": "window surface area",
+        "type": "string"
+      },
+      "57": {
+        "description": "per component",
+        "type": "string"
+      },
+      "58": {
+        "description": "Main wall(s) less door",
+        "type": "string"
+      },
+      "59": {
+        "description": "(below grade)",
+        "type": "string"
+      },
+      "60": {
+        "description": "Notes",
+        "type": "string"
+      },
+      "61": {
+        "description": "surface area per",
+        "type": "string"
+      },
+      "62": {
+        "description": "Main wall(s) less",
+        "type": "string"
+      },
+      "64": {
+        "description": "Client provided invoices detailing amount of insulation added",
+        "type": "string"
+      },
+      "65": {
+        "description": "Surface area of",
+        "type": "string"
+      },
+      "66": {
+        "description": "home. This includes each ceiling, main wall, rim joist, foundation wall (above / below grade) and/or slab / floor system",
+        "type": "string"
+      },
+      "67": {
+        "description": "Client provided photo documentation (detailing existing insulation and depth of insulation added at lowest points)",
+        "type": "string"
+      },
+      "68": {
+        "description": "\u2022 Insulation in new additions must exceed building code or bylaw requirements for new construction by the basic",
+        "type": "string"
+      },
+      "69": {
+        "description": "INSULATION UPGRADE RESULTS",
+        "type": "string"
+      },
+      "70": {
+        "description": "File number",
+        "type": "string"
+      },
+      "72": {
+        "description": "Foundation wall(s)",
+        "type": "string"
+      },
+      "73": {
+        "description": "Home owner",
+        "type": "string"
+      },
+      "74": {
+        "description": "Date   Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "75": {
+        "description": "Address",
+        "type": "string"
+      },
+      "76": {
+        "description": "Component",
+        "type": "string"
+      },
+      "78": {
+        "description": "(above grade)",
+        "type": "string"
+      },
+      "80": {
+        "description": "CEA signature",
+        "type": "string"
+      },
+      "81": {
+        "description": "\u2022 Window and door areas are excluded from wall area calculations.",
+        "type": "string"
+      },
+      "82": {
+        "description": "Insulation upgrade confirmed by:",
+        "type": "string"
+      },
+      "83": {
+        "description": "Visual inspection and photo documentation by CEA",
+        "type": "string"
+      },
+      "812": {
+        "description": "2018-2019 GOOD ENERGY PROGRAM",
+        "type": "boolean"
+      },
+      "814": {
+        "description": "Basic - increase by R-20 to R29 ($2.50/sf)",
+        "type": "boolean"
+      },
+      "816": {
+        "description": "or greater ($3.50/sf)",
+        "type": "boolean"
+      },
+      "818": {
+        "description": "HRV performs at SRE \u2265 64% @ -25oC",
+        "type": "boolean"
+      },
+      "820": {
+        "description": "2. Renovate home.",
+        "type": "boolean"
+      },
+      "822": {
+        "description": "4. Complete application package",
+        "type": "boolean"
+      },
+      "824": {
+        "description": "Materials and costs worksheet",
+        "type": "boolean"
+      },
+      "826": {
+        "description": "Materials &",
+        "type": "boolean"
+      },
+      "828": {
+        "description": "ENERGY STAR documentation for windows.",
+        "type": "boolean"
+      },
+      "830": {
+        "description": "HRV balancing report from qualified technician must be provided.",
+        "type": "boolean"
+      },
+      "832": {
+        "description": "CEA insulation upgrade report confirming insulation renovations.",
+        "type": "boolean"
+      },
+      "834": {
+        "description": "Itemized receipts/invoices for assessments, HRV, and/or windows with zero",
+        "type": "boolean"
+      },
+      "836": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "837": {
+        "description": "City",
+        "type": "string"
+      },
+      "838": {
+        "description": "Installation address (if different than above)",
+        "type": "string"
+      },
+      "839": {
+        "description": "City",
+        "type": "string"
+      },
+      "840": {
+        "description": "These windows were installed in an:",
+        "type": "string"
+      },
+      "841": {
+        "description": "Primary phone",
+        "type": "string"
+      },
+      "842": {
+        "description": "the Access to Information and Protection of Privacy Act. Please contact Energy Solutions Centre (867-393-7063) for further information.",
+        "type": "string"
+      },
+      "843": {
+        "description": "signature date below and that any accompanying receipts, invoices and documents are complete and accurate. ATIPP STATEMENT: The informa-",
+        "type": "string"
+      },
+      "844": {
+        "description": "tion provided in this form and attached documents is being collected for the purposes of carrying out the Good Energy program in accordance with",
+        "type": "string"
+      },
+      "845": {
+        "description": "APPLICANT SIGNATURE",
+        "type": "boolean"
+      },
+      "847": {
+        "description": "CONTRACTOR WINDOW PURCHASE",
+        "type": "string"
+      },
+      "848": {
+        "description": "for the purchase of  ENERGY STAR-Zone 3 windows.",
+        "type": "string"
+      },
+      "849": {
+        "description": "Date (YYYY-MM-DD)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "355": {
+        "description": "Business name \u2022 Nom de l\u2019entreprise :",
+        "type": "string"
+      },
+      "358": {
+        "description": "Address / Adresse :",
+        "type": "string"
+      },
+      "359": {
+        "description": "Email* \u2022 Courriel* :",
+        "type": "string"
+      },
+      "360": {
+        "description": "*Remittance advice will be sent via email only.",
+        "type": "string"
+      },
+      "361": {
+        "description": "I (we) hereby authorize Yukon Government to deposit directly to my (our) account. As noted on the attached cheque / deposit",
+        "type": "string"
+      },
+      "362": {
+        "description": "Signature                                                                      Date            Signature                                                                      Date",
+        "type": "boolean"
+      },
+      "365": {
+        "description": "This authorization will be in force until notice is given in writing to stop the direct deposit. \u2022 La pr\u00e9sente autorisation est valide jusqu\u2019\u00e0",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

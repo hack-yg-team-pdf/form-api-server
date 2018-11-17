@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "for the municipality of",
+        "type": "string"
+      },
+      "40": {
+        "description": "do swear / or affirm",
+        "type": "string"
+      },
+      "41": {
+        "description": "Mayor or councillor",
+        "type": "string"
+      },
+      "42": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "45": {
+        "description": "Supreme court judge, territorial court judge, justice of the peace, notary public, or designated municipal officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

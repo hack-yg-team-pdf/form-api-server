@@ -1,0 +1,203 @@
+{
+  "fields": {
+    "properties": {
+      "53": {
+        "description": "Contact phone (1):",
+        "type": "string"
+      },
+      "54": {
+        "description": "Sport governing body:",
+        "type": "string"
+      },
+      "55": {
+        "description": "(2):",
+        "type": "string"
+      },
+      "56": {
+        "description": "Athletes - Adult",
+        "type": "string"
+      },
+      "57": {
+        "description": "Name of your organization:",
+        "type": "string"
+      },
+      "58": {
+        "description": "M",
+        "type": "string"
+      },
+      "59": {
+        "description": "Active coaches",
+        "type": "string"
+      },
+      "60": {
+        "description": "An active coach / official must have participated in your sport in the past season.",
+        "type": "string"
+      },
+      "61": {
+        "description": "M",
+        "type": "string"
+      },
+      "62": {
+        "description": "F",
+        "type": "string"
+      },
+      "63": {
+        "description": "Total certified",
+        "type": "string"
+      },
+      "64": {
+        "description": "Active officials",
+        "type": "string"
+      },
+      "65": {
+        "description": "M",
+        "type": "string"
+      },
+      "66": {
+        "description": "Coaching",
+        "type": "string"
+      },
+      "67": {
+        "description": "Officials",
+        "type": "string"
+      },
+      "68": {
+        "description": "Category",
+        "type": "string"
+      },
+      "69": {
+        "description": "M",
+        "type": "string"
+      },
+      "70": {
+        "description": "F",
+        "type": "string"
+      },
+      "71": {
+        "description": "4.",
+        "type": "string"
+      },
+      "72": {
+        "description": "Courses your club participated in",
+        "type": "string"
+      },
+      "73": {
+        "description": "M",
+        "type": "string"
+      },
+      "74": {
+        "description": "2.",
+        "type": "string"
+      },
+      "75": {
+        "description": "4.",
+        "type": "string"
+      },
+      "76": {
+        "description": "F",
+        "type": "string"
+      },
+      "77": {
+        "description": "M",
+        "type": "string"
+      },
+      "78": {
+        "description": "F",
+        "type": "string"
+      },
+      "79": {
+        "description": "If not, please explain why:",
+        "type": "string"
+      },
+      "80": {
+        "description": "M",
+        "type": "string"
+      },
+      "81": {
+        "description": "# of Participants",
+        "type": "string"
+      },
+      "82": {
+        "description": "1.",
+        "type": "string"
+      },
+      "83": {
+        "description": "Name of Course",
+        "type": "string"
+      },
+      "84": {
+        "description": "3.",
+        "type": "string"
+      },
+      "85": {
+        "description": "1.",
+        "type": "string"
+      },
+      "86": {
+        "description": "2.",
+        "type": "string"
+      },
+      "87": {
+        "description": "2.",
+        "type": "string"
+      },
+      "88": {
+        "description": "1.",
+        "type": "string"
+      },
+      "89": {
+        "description": "3. How many members from your organization participated in Yukon Championships?",
+        "type": "string"
+      },
+      "90": {
+        "description": "4.",
+        "type": "string"
+      },
+      "91": {
+        "description": "4. Did your club attend any Association meetings last year?                                                                   Yes           No",
+        "type": "string"
+      },
+      "92": {
+        "description": "3.",
+        "type": "string"
+      },
+      "93": {
+        "description": "Authorized Representative",
+        "type": "string"
+      },
+      "94": {
+        "description": "Athlete",
+        "type": "string"
+      },
+      "95": {
+        "description": "3.",
+        "type": "string"
+      },
+      "96": {
+        "description": "Signature:",
+        "type": "string"
+      },
+      "97": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "98": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "99": {
+        "description": "Position:",
+        "type": "string"
+      },
+      "100": {
+        "description": "YG(6103EQ)F1 Rev.03/2018",
+        "type": "string"
+      },
+      "101": {
+        "description": "2. Did your organization attend Yukon Championships last year?                                                           Yes           No",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "I",
+        "type": "string"
+      },
+      "33": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "36": {
+        "description": "Returning officer or deputy returning officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

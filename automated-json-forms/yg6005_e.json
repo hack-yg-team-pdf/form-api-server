@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "Student Name",
+        "type": "string"
+      },
+      "41": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "42": {
+        "description": "Date of Request",
+        "type": "string"
+      },
+      "43": {
+        "description": "Parent Name",
+        "type": "string"
+      },
+      "44": {
+        "description": "Grade",
+        "type": "string"
+      },
+      "125": {
+        "description": "Amount Approved",
+        "type": "boolean"
+      },
+      "128": {
+        "description": "Amount Requested",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

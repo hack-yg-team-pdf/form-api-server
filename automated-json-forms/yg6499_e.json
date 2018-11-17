@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "226": {
+        "description": "Well Name",
+        "type": "string"
+      },
+      "227": {
+        "description": "The following amendments are required:",
+        "type": "string"
+      },
+      "228": {
+        "description": "A copy of the original Well Operation Approval is attached   Yes",
+        "type": "string"
+      },
+      "229": {
+        "description": "Documentation supporting the application for amendment (Please list).",
+        "type": "string"
+      },
+      "234": {
+        "description": "Name of Authorized Representative",
+        "type": "string"
+      },
+      "235": {
+        "description": "Phone Number",
+        "type": "string"
+      },
+      "236": {
+        "description": "Job Designation",
+        "type": "string"
+      },
+      "237": {
+        "description": "FOR DEPARTMENT  USE ONLY",
+        "type": "string"
+      },
+      "238": {
+        "description": "Date",
+        "type": "string"
+      },
+      "239": {
+        "description": "Name of Chief Operations Officer",
+        "type": "string"
+      },
+      "240": {
+        "description": "Signature of the Chief Operations Officer",
+        "type": "string"
+      },
+      "241": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "242": {
+        "description": "Date Received:              /         /",
+        "type": "string"
+      },
+      "243": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "244": {
+        "description": "No",
+        "type": "string"
+      },
+      "249": {
+        "description": "This information is collected by the Oil and Gas Resources Branch under the authority of the Oil and Gas Act and s. 29 of the Access to Information",
+        "type": "string"
+      },
+      "250": {
+        "description": "/         /",
+        "type": "string"
+      },
+      "251": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "252": {
+        "description": "and Protection of Privacy Act for the purpose of regulating oil and gas operations in Yukon. Should you have any questions about the collection and",
+        "type": "string"
+      },
+      "253": {
+        "description": "use of this information, please contact the Oil and Gas Resources Branch at 1-800-661-0408 extension 7042.",
+        "type": "string"
+      },
+      "254": {
+        "description": "Email address",
+        "type": "boolean"
+      },
+      "257": {
+        "description": "No",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

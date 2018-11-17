@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "53": {
+        "description": "Date",
+        "type": "string"
+      },
+      "54": {
+        "description": "Liaison (entreprise)",
+        "type": "string"
+      },
+      "55": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "56": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "57": {
+        "description": "E-mail",
+        "type": "string"
+      },
+      "58": {
+        "description": "Company contact",
+        "type": "string"
+      },
+      "59": {
+        "description": "Order desk/quotation contact",
+        "type": "string"
+      },
+      "60": {
+        "description": "Shipping department contact",
+        "type": "string"
+      },
+      "63": {
+        "description": "SIGNATURE",
+        "type": "string"
+      },
+      "66": {
+        "description": "YG(1990Q) Rev. 06/2002",
+        "type": "string"
+      },
+      "67": {
+        "description": "DATE",
+        "type": "string"
+      },
+      "68": {
+        "description": "DATE",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "For office use only",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

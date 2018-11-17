@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "209": {
+        "description": "B. DISPOSITION",
+        "type": "string"
+      },
+      "210": {
+        "description": "Disposition Type",
+        "type": "string"
+      },
+      "211": {
+        "description": "Registration number of original security notice",
+        "type": "string"
+      },
+      "212": {
+        "description": "D. NEW ADDRESS FOR SERVICE OF SECURED PARTY",
+        "type": "string"
+      },
+      "213": {
+        "description": "Address",
+        "type": "string"
+      },
+      "214": {
+        "description": "Territory/Province/State",
+        "type": "string"
+      },
+      "215": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "216": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "217": {
+        "description": "Signature of secured party or agent",
+        "type": "string"
+      },
+      "218": {
+        "description": "Email",
+        "type": "string"
+      },
+      "219": {
+        "description": "E. SIGNATURE",
+        "type": "string"
+      },
+      "220": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "221": {
+        "description": "Date (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "222": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "223": {
+        "description": "Branch File #     Registration #:",
+        "type": "string"
+      },
+      "224": {
+        "description": "Date Received:              /         /              Time Received:",
+        "type": "string"
+      },
+      "225": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "226": {
+        "description": "This Statutory Notice is issued pursuant to the Oil and Gas Act and the Oil and Gas Disposition Regulations. Personal information on this form is collected",
+        "type": "string"
+      },
+      "227": {
+        "description": "under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "228": {
+        "description": "Signature of Division Head",
+        "type": "boolean"
+      },
+      "231": {
+        "description": "Date:              /         /",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

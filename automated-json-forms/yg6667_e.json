@@ -1,0 +1,147 @@
+{
+  "fields": {
+    "properties": {
+      "73": {
+        "description": "Other names by which you may be known",
+        "type": "string"
+      },
+      "77": {
+        "description": "Yukon licence number",
+        "type": "string"
+      },
+      "78": {
+        "description": "Inactive licence",
+        "type": "string"
+      },
+      "80": {
+        "description": "Name of degree/diploma",
+        "type": "string"
+      },
+      "81": {
+        "description": "State the jurisdiction(s) you are registered in as a registered psychiatric nurse. (Ensure a verification of",
+        "type": "string"
+      },
+      "85": {
+        "description": "Postal code Country",
+        "type": "string"
+      },
+      "86": {
+        "description": "Email",
+        "type": "string"
+      },
+      "95": {
+        "description": "List any completed degrees/diplomas related to nursing that you have received in the past year or since you",
+        "type": "string"
+      },
+      "96": {
+        "description": "End date",
+        "type": "string"
+      },
+      "99": {
+        "description": "registration is obtained for each jurisdiction listed.)",
+        "type": "string"
+      },
+      "103": {
+        "description": "Temporary full licence: Dates  to",
+        "type": "string"
+      },
+      "106": {
+        "description": "Postal code Country",
+        "type": "string"
+      },
+      "108": {
+        "description": "Registration",
+        "type": "string"
+      },
+      "110": {
+        "description": "Prov./terr.",
+        "type": "string"
+      },
+      "112": {
+        "description": "Prov./terr.",
+        "type": "string"
+      },
+      "114": {
+        "description": "Education information",
+        "type": "string"
+      },
+      "119": {
+        "description": "Full licence",
+        "type": "string"
+      },
+      "120": {
+        "description": "Physical address (if different from mailing address)",
+        "type": "string"
+      },
+      "122": {
+        "description": "City",
+        "type": "string"
+      },
+      "123": {
+        "description": "Y Y Y Y/ M M/ D D Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "124": {
+        "description": "Province/territory",
+        "type": "string"
+      },
+      "126": {
+        "description": "YG(6667EQ)F3 10/2018",
+        "type": "string"
+      },
+      "129": {
+        "description": "City, prov./terr., country  Start date",
+        "type": "string"
+      },
+      "130": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "134": {
+        "description": "last held a Yukon licence.",
+        "type": "string"
+      },
+      "136": {
+        "description": "City",
+        "type": "string"
+      },
+      "138": {
+        "description": "Country",
+        "type": "string"
+      },
+      "140": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "649": {
+        "description": "Renewal deadline: Submit your renewal application before November 30 to ensure we can process your licence before",
+        "type": "boolean"
+      },
+      "651": {
+        "description": "Criminal record check including vulnerable sector check every 5 years. (Attached or sent to Professional Licensing and",
+        "type": "boolean"
+      },
+      "653": {
+        "description": "Certificate of standing. (Required if you are licensed in another jurisdiction. The document must be sent to PLRA",
+        "type": "boolean"
+      },
+      "655": {
+        "description": "Verification of employment form. (Submit if eligibility requires continuing competency.)",
+        "type": "boolean"
+      },
+      "657": {
+        "description": "Continuing education form with supporting documentation. (Submit if eligibility requires continuing competency.)",
+        "type": "boolean"
+      },
+      "659": {
+        "description": "directly from the jurisdiction.)",
+        "type": "boolean"
+      },
+      "661": {
+        "description": "Continuing competency exemption form. (Submit with your continuing competency documentation if you are a new",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

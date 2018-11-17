@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "I, ,",
+        "type": "string"
+      },
+      "43": {
+        "description": "of",
+        "type": "string"
+      },
+      "44": {
+        "description": "MAILING ADDRESS                                                                                 COMMUNITY                          POSTAL CODE",
+        "type": "string"
+      },
+      "45": {
+        "description": "I, ,",
+        "type": "string"
+      },
+      "46": {
+        "description": "of",
+        "type": "string"
+      },
+      "47": {
+        "description": "MAILING ADDRESS                                                                                 COMMUNITY                          POSTAL CODE",
+        "type": "string"
+      },
+      "48": {
+        "description": "trapping furbearing animals within the area being the subject of a Trapping Concession,",
+        "type": "string"
+      },
+      "49": {
+        "description": "number  held in our name, in favor of a transfer to",
+        "type": "string"
+      },
+      "50": {
+        "description": "DECLARED before me this  day",
+        "type": "string"
+      },
+      "51": {
+        "description": "of , 20",
+        "type": "string"
+      },
+      "52": {
+        "description": "at , YT.",
+        "type": "string"
+      },
+      "53": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the admin-",
+        "type": "boolean"
+      },
+      "56": {
+        "description": "istration and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

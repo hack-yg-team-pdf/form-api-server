@@ -1,0 +1,447 @@
+{
+  "fields": {
+    "properties": {
+      "31": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "32": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "35": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "36": {
+        "description": "Date \u00e0 laquelle la personne est devenue actionnaire :",
+        "type": "string"
+      },
+      "37": {
+        "description": "Date person became a shareholder :",
+        "type": "string"
+      },
+      "38": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "39": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "40": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "45": {
+        "description": "Date person ceased to be a shareholder:",
+        "type": "string"
+      },
+      "46": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "47": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "52": {
+        "description": "Date \u00e0 laquelle la personne a cess\u00e9 d\u2019\u0207tre un actionnaire :",
+        "type": "string"
+      },
+      "53": {
+        "description": "Date person became a shareholder :",
+        "type": "string"
+      },
+      "54": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "55": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "56": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "57": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "58": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "59": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "60": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "61": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "62": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "63": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "64": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "65": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "66": {
+        "description": "Date \u00e0 laquelle la personne est devenue actionnaire :",
+        "type": "string"
+      },
+      "69": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "70": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "73": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "74": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "75": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "76": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "77": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "78": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "79": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "82": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "83": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "85": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "86": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "87": {
+        "description": "d\u2019enregistrement (si l\u2019actionnaire est une soci\u00e9t\u00e9 par actions ou une soci\u00e9t\u00e9 par actions extra-territoriale)) :",
+        "type": "string"
+      },
+      "88": {
+        "description": "\u00c0 compter de la date de signature, le(s) actionnaire(s) de la soci\u00e9t\u00e9 par action est (sont) (Num\u00e9ro",
+        "type": "string"
+      },
+      "90": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "91": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "92": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "93": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "94": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "95": {
+        "description": "Date d\u2019entr\u00e9e en vigueur du changement :",
+        "type": "string"
+      },
+      "96": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "97": {
+        "description": "Effective date of change :",
+        "type": "string"
+      },
+      "100": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "101": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "102": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "103": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "106": {
+        "description": "A",
+        "type": "string"
+      },
+      "107": {
+        "description": "Effective date of change :",
+        "type": "string"
+      },
+      "108": {
+        "description": "Date d\u2019entr\u00e9e en vigueur du changement :",
+        "type": "string"
+      },
+      "109": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "110": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "111": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "112": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "113": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "114": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "115": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "116": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "117": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "119": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "120": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "123": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "124": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "125": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "126": {
+        "description": "Delivery Address / Adresse de livraison",
+        "type": "string"
+      },
+      "127": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "128": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "131": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "132": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "135": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "136": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "137": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "138": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "139": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "140": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "143": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "144": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "145": {
+        "description": "7.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "146": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "147": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "148": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "150": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "151": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "152": {
+        "description": "8.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "153": {
+        "description": "Officer or authorized agent / Dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "335": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "336": {
+        "description": "3.  Outgoing shareholder(s) of the corporation, if any (Yukon registry number (if shareholder is a corporation",
+        "type": "string"
+      },
+      "337": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "338": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "339": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "340": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "341": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "342": {
+        "description": "Date \u00e0 laquelle la personne a cess\u00e9 d\u2019\u0207tre un actionnaire :",
+        "type": "string"
+      },
+      "343": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "344": {
+        "description": "Date person ceased to be a shareholder :",
+        "type": "string"
+      },
+      "345": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "346": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "347": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "348": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "349": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "350": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "351": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "352": {
+        "description": "B",
+        "type": "string"
+      },
+      "353": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

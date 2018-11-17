@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Agent:",
+        "type": "string"
+      },
+      "33": {
+        "description": "Name",
+        "type": "string"
+      },
+      "34": {
+        "description": "Day of week",
+        "type": "string"
+      },
+      "35": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "Returning officer or deputy returning officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

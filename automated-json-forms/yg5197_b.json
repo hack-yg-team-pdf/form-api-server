@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Name",
+        "type": "string"
+      },
+      "33": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "36": {
+        "description": "Supreme court judge, territorial court judge, justice of the peace, notary public, or designated municipal officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

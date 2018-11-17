@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "328": {
+        "description": "Municipality",
+        "type": "string"
+      },
+      "329": {
+        "description": "Place",
+        "type": "string"
+      },
+      "330": {
+        "description": "Mayor",
+        "type": "string"
+      },
+      "333": {
+        "description": "Councillors",
+        "type": "string"
+      },
+      "334": {
+        "description": "govern themselves accordingly.",
+        "type": "string"
+      },
+      "335": {
+        "description": "Conseillers",
+        "type": "string"
+      },
+      "336": {
+        "description": "Such poll will be open as follows, and every",
+        "type": "string"
+      },
+      "337": {
+        "description": "person is hereby required to take notice and",
+        "type": "string"
+      },
+      "338": {
+        "description": "Les heures d\u2019ouverture des bureaux de scrutin",
+        "type": "string"
+      },
+      "339": {
+        "description": "seront indiqu\u00e9es ci-apr\u00e8s. Veuillez prendre note des",
+        "type": "string"
+      },
+      "340": {
+        "description": "renseignements suivants, et vous y conformer.",
+        "type": "string"
+      },
+      "341": {
+        "description": "Scrutin par anticipation",
+        "type": "string"
+      },
+      "342": {
+        "description": "at",
+        "type": "string"
+      },
+      "343": {
+        "description": "hours of",
+        "type": "string"
+      },
+      "344": {
+        "description": "and \u2022 \u00e0",
+        "type": "string"
+      },
+      "345": {
+        "description": "Advance poll",
+        "type": "string"
+      },
+      "346": {
+        "description": "Day/month/year",
+        "type": "string"
+      },
+      "347": {
+        "description": "hours of",
+        "type": "string"
+      },
+      "348": {
+        "description": "and \u2022 \u00e0",
+        "type": "string"
+      },
+      "349": {
+        "description": "Location",
+        "type": "string"
+      },
+      "350": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "353": {
+        "description": "Regular poll",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

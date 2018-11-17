@@ -1,0 +1,251 @@
+{
+  "fields": {
+    "properties": {
+      "176": {
+        "description": "14",
+        "type": "string"
+      },
+      "179": {
+        "description": "INCUBATION    DATE  TIME         BY   INC",
+        "type": "string"
+      },
+      "180": {
+        "description": "9",
+        "type": "string"
+      },
+      "181": {
+        "description": "pm",
+        "type": "string"
+      },
+      "182": {
+        "description": "Contact Person                                                                                                                                                                                                      Phone",
+        "type": "string"
+      },
+      "184": {
+        "description": "8",
+        "type": "string"
+      },
+      "187": {
+        "description": "am",
+        "type": "string"
+      },
+      "188": {
+        "description": "am",
+        "type": "string"
+      },
+      "190": {
+        "description": "2",
+        "type": "string"
+      },
+      "192": {
+        "description": "19",
+        "type": "string"
+      },
+      "193": {
+        "description": "1",
+        "type": "string"
+      },
+      "194": {
+        "description": "15",
+        "type": "string"
+      },
+      "197": {
+        "description": "\u00c9chantillon pr\u00e9lev\u00e9 par  Date",
+        "type": "string"
+      },
+      "198": {
+        "description": "YG(5776)NC3 Rev.12/2016",
+        "type": "string"
+      },
+      "199": {
+        "description": "BY",
+        "type": "string"
+      },
+      "200": {
+        "description": "Sample Information \u2022 Renseignements sur l\u2019\u00e9chantillonnage",
+        "type": "string"
+      },
+      "201": {
+        "description": "Personne ressource   T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "202": {
+        "description": "First Nation, Municipal or Business Name",
+        "type": "string"
+      },
+      "203": {
+        "description": "pm",
+        "type": "boolean"
+      },
+      "204": {
+        "description": "am",
+        "type": "string"
+      },
+      "205": {
+        "description": "5",
+        "type": "string"
+      },
+      "209": {
+        "description": "*CLD = Chlore libre disponible, ppm = parties par million (\u00e9quivalent \u00e0 mg/L) P = pr\u00e9sent, A = absent",
+        "type": "string"
+      },
+      "212": {
+        "description": "am",
+        "type": "string"
+      },
+      "219": {
+        "description": "6",
+        "type": "string"
+      },
+      "221": {
+        "description": "am",
+        "type": "boolean"
+      },
+      "222": {
+        "description": "COMPLETED     DATE  TIME         VERIFIED",
+        "type": "string"
+      },
+      "223": {
+        "description": "Mailing address                                                                                                                                                                                                      Postal Code",
+        "type": "string"
+      },
+      "224": {
+        "description": "11",
+        "type": "string"
+      },
+      "225": {
+        "description": "am",
+        "type": "string"
+      },
+      "228": {
+        "description": "12",
+        "type": "string"
+      },
+      "229": {
+        "description": "Collected By",
+        "type": "string"
+      },
+      "230": {
+        "description": "FORM NUMBER",
+        "type": "string"
+      },
+      "231": {
+        "description": "am",
+        "type": "string"
+      },
+      "234": {
+        "description": "18",
+        "type": "string"
+      },
+      "235": {
+        "description": "16",
+        "type": "string"
+      },
+      "237": {
+        "description": "17",
+        "type": "string"
+      },
+      "239": {
+        "description": "Adresse  postale    Code  postal",
+        "type": "string"
+      },
+      "241": {
+        "description": "13",
+        "type": "string"
+      },
+      "242": {
+        "description": "am",
+        "type": "string"
+      },
+      "243": {
+        "description": "pm",
+        "type": "boolean"
+      },
+      "244": {
+        "description": "PM",
+        "type": "string"
+      },
+      "251": {
+        "description": "AM",
+        "type": "string"
+      },
+      "252": {
+        "description": "ANALYSIS",
+        "type": "string"
+      },
+      "253": {
+        "description": "PM",
+        "type": "string"
+      },
+      "260": {
+        "description": "pm",
+        "type": "string"
+      },
+      "265": {
+        "description": "Distribution : Blanc - Cha\u00eene de possession      Jaune - Laboratoire    Rose - Client",
+        "type": "string"
+      },
+      "267": {
+        "description": "AM",
+        "type": "string"
+      },
+      "268": {
+        "description": "Other Information                                                                                                                                                                                                    Fax",
+        "type": "string"
+      },
+      "271": {
+        "description": "AM",
+        "type": "string"
+      },
+      "280": {
+        "description": "RECEIVED       DATE  TIME          BY",
+        "type": "string"
+      },
+      "284": {
+        "description": "am",
+        "type": "string"
+      },
+      "287": {
+        "description": "Distribution: White - Chain of Custody              Yellow - Lab Copy      Pink - Client Copy",
+        "type": "string"
+      },
+      "289": {
+        "description": "*FAC = free available chlorine, ppm = parts per million (equivalent to mg/L) P = present, A = absent",
+        "type": "string"
+      },
+      "294": {
+        "description": "pm",
+        "type": "boolean"
+      },
+      "295": {
+        "description": "PM",
+        "type": "string"
+      },
+      "297": {
+        "description": "Report Authorized by  Position  Date",
+        "type": "string"
+      },
+      "298": {
+        "description": "am",
+        "type": "string"
+      },
+      "301": {
+        "description": "3",
+        "type": "string"
+      },
+      "305": {
+        "description": "10",
+        "type": "string"
+      },
+      "306": {
+        "description": "am",
+        "type": "string"
+      },
+      "307": {
+        "description": "4",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

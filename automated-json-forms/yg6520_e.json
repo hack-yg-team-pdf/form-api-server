@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "462": {
+        "description": "Other names by which you may be known",
+        "type": "string"
+      },
+      "463": {
+        "description": "City",
+        "type": "string"
+      },
+      "464": {
+        "description": "Yukon licence number",
+        "type": "string"
+      },
+      "465": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "466": {
+        "description": "Prov./terr.",
+        "type": "string"
+      },
+      "467": {
+        "description": "Email",
+        "type": "string"
+      },
+      "468": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "469": {
+        "description": "Date of employment",
+        "type": "string"
+      },
+      "470": {
+        "description": "Postal code Country",
+        "type": "string"
+      },
+      "471": {
+        "description": "employment and professional practice hours.",
+        "type": "string"
+      },
+      "472": {
+        "description": "provide this information, and any other information PLRA may request, in regard to my application and verification of",
+        "type": "string"
+      },
+      "473": {
+        "description": "any and all information to PLRA regarding my professional practice. This shall constitute your legal authority to",
+        "type": "string"
+      },
+      "474": {
+        "description": "In order to process my application, Professional Licensing and Regulatory Affairs (PLRA), the regulatory authority in",
+        "type": "string"
+      },
+      "481": {
+        "description": "This is to verify that  is/was employed as",
+        "type": "string"
+      },
+      "482": {
+        "description": "by",
+        "type": "string"
+      },
+      "483": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "486": {
+        "description": "PROVINCE/TERRITORY/STATE",
+        "type": "string"
+      },
+      "493": {
+        "description": "1. Year:       # of hours:",
+        "type": "string"
+      },
+      "494": {
+        "description": "2. Year:       # of hours:",
+        "type": "string"
+      },
+      "495": {
+        "description": "3. Year:       # of hours:",
+        "type": "string"
+      },
+      "496": {
+        "description": "4. Year:       # of hours:",
+        "type": "string"
+      },
+      "497": {
+        "description": "5. Year:       # of hours:",
+        "type": "string"
+      },
+      "498": {
+        "description": "Hours worked",
+        "type": "string"
+      },
+      "499": {
+        "description": "per year",
+        "type": "string"
+      },
+      "500": {
+        "description": "YG(6520EQ)F2 Rev.10/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "File #",
+        "type": "string"
+      },
+      "38": {
+        "description": "Between",
+        "type": "string"
+      },
+      "39": {
+        "description": "And",
+        "type": "string"
+      },
+      "40": {
+        "description": "I,                                                                                                             , in Yukon, MAKE OATH AND SAY AS FOLLOWS:",
+        "type": "string"
+      },
+      "41": {
+        "description": "[name of person served]",
+        "type": "string"
+      },
+      "42": {
+        "description": "[date and time when person served]",
+        "type": "string"
+      },
+      "43": {
+        "description": "[Method of Service: Personally/Registered Mail/Leaving Copy + Mailed]",
+        "type": "string"
+      },
+      "44": {
+        "description": "Copies attached and marked as exhibits",
+        "type": "string"
+      },
+      "45": {
+        "description": "I certify that the information provided is correct and complete.",
+        "type": "string"
+      },
+      "46": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "47": {
+        "description": "Date",
+        "type": "string"
+      },
+      "48": {
+        "description": "Landlord and Tenant Act.",
+        "type": "string"
+      },
+      "49": {
+        "description": "Note: Making a false declaration can have serious negative consequences, including, but not limited to: having your",
+        "type": "boolean"
+      },
+      "52": {
+        "description": "application dismissed, having any findings in your favour overturned and/or being fined or charged under the Residential",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

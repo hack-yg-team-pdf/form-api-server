@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "159": {
+        "description": "Contact person    Phone number",
+        "type": "string"
+      },
+      "162": {
+        "description": "Community    Postal code",
+        "type": "string"
+      },
+      "163": {
+        "description": "Name of Program",
+        "type": "string"
+      },
+      "164": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "165": {
+        "description": "Status",
+        "type": "string"
+      },
+      "166": {
+        "description": "If a non-profit society, do the constitution and by-laws contain a provision for the transfer of assets created by this program to",
+        "type": "string"
+      },
+      "167": {
+        "description": "Registered non-profit society",
+        "type": "boolean"
+      },
+      "169": {
+        "description": "Yukon First Nation",
+        "type": "boolean"
+      },
+      "170": {
+        "description": "application for child care",
+        "type": "boolean"
+      },
+      "181": {
+        "description": "Describe the service you offer, including the number and age groups of children, hours of operation, program and staffing.",
+        "type": "string"
+      },
+      "182": {
+        "description": "What were your other sources of funding (not including parent fees, child care subsidies or direct operating grants) in the",
+        "type": "string"
+      },
+      "183": {
+        "description": "past 12 months? include any grants and fundraising you may have received.",
+        "type": "string"
+      },
+      "184": {
+        "description": "YG(4864EQ)F2 Rev.08/2012",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

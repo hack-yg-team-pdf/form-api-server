@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "34": {
+        "description": "Mining District",
+        "type": "string"
+      },
+      "35": {
+        "description": "I  ,",
+        "type": "string"
+      },
+      "36": {
+        "description": "Occupation  , Phone  of",
+        "type": "string"
+      },
+      "37": {
+        "description": ",",
+        "type": "string"
+      },
+      "38": {
+        "description": "hereby apply, under the Placer Mining Act for a grant of a claim for Placer Mining",
+        "type": "string"
+      },
+      "39": {
+        "description": "INSCRIPTION ON NO. 1 POST:",
+        "type": "string"
+      },
+      "40": {
+        "description": "INSCRIPTION ON NO. 2 POST:",
+        "type": "string"
+      },
+      "41": {
+        "description": "And I make Oath and Say that:",
+        "type": "string"
+      },
+      "42": {
+        "description": "1. To the best of my knowledge and belief, the land is such as can be located under Section 17 of the said Act.",
+        "type": "string"
+      },
+      "43": {
+        "description": "2.",
+        "type": "string"
+      },
+      "44": {
+        "description": "I did on the  day of  20",
+        "type": "string"
+      },
+      "45": {
+        "description": "mark out on the ground, in accordance on every particular with the provisions of the said Act, the claim for",
+        "type": "string"
+      },
+      "46": {
+        "description": "which I make this application and in so doing I did not encroach on any other claim or mining location",
+        "type": "string"
+      },
+      "47": {
+        "description": "previously laid out by any other person.",
+        "type": "string"
+      },
+      "48": {
+        "description": "3. The length of the said claim, as nearly as I could measure is  feet",
+        "type": "string"
+      },
+      "49": {
+        "description": "4.",
+        "type": "string"
+      },
+      "50": {
+        "description": "I staked out the claim by planting two legal posts numbered 1 and 2 respectively.",
+        "type": "string"
+      },
+      "51": {
+        "description": "I make this application in good faith to acquire the claim for the sole purpose of mining to be prosecuted by",
+        "type": "string"
+      },
+      "52": {
+        "description": "myself or by myself and associates or by my assigns.",
+        "type": "string"
+      },
+      "53": {
+        "description": "Sworn before me at  this  day of  20",
+        "type": "string"
+      },
+      "54": {
+        "description": "about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines and",
+        "type": "string"
+      },
+      "55": {
+        "description": "Applicant",
+        "type": "string"
+      },
+      "56": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "57": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Placer Mining Act. Questions",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

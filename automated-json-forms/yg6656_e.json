@@ -1,0 +1,191 @@
+{
+  "fields": {
+    "properties": {
+      "21": {
+        "description": "Personal information is collected, used, and disclosed under the authority of Section 29(a) and (c) of the Access to Information and Protection of Privacy Act and under the Act",
+        "type": "boolean"
+      },
+      "22": {
+        "description": "Email",
+        "type": "string"
+      },
+      "23": {
+        "description": "Return form directly to PLRA:",
+        "type": "string"
+      },
+      "24": {
+        "description": "Address",
+        "type": "string"
+      },
+      "29": {
+        "description": "Jurisdiction",
+        "type": "string"
+      },
+      "30": {
+        "description": "associated to the profession related to the licence being requested. It will be used for the purposes of these acts and their regulations, and to determine eligibility for licensure/",
+        "type": "boolean"
+      },
+      "32": {
+        "description": "Whitehorse, Yukon, Y1A 2C6",
+        "type": "string"
+      },
+      "33": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "34": {
+        "description": "Date",
+        "type": "string"
+      },
+      "503": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "504": {
+        "description": "Other names by which you may be known",
+        "type": "string"
+      },
+      "505": {
+        "description": "Prov./terr.",
+        "type": "string"
+      },
+      "506": {
+        "description": "Location",
+        "type": "string"
+      },
+      "507": {
+        "description": "City",
+        "type": "string"
+      },
+      "508": {
+        "description": "Registration/licence number",
+        "type": "string"
+      },
+      "509": {
+        "description": "I hereby authorize the registrar in  to send the required documentation",
+        "type": "string"
+      },
+      "510": {
+        "description": "Year",
+        "type": "string"
+      },
+      "511": {
+        "description": "Jurisdiction",
+        "type": "string"
+      },
+      "512": {
+        "description": "directly to Yukon Professional Licensing and Regulatory Affairs (PLRA).",
+        "type": "string"
+      },
+      "513": {
+        "description": "Date",
+        "type": "string"
+      },
+      "514": {
+        "description": "Applicant\u2019s signature",
+        "type": "string"
+      },
+      "515": {
+        "description": "To be filled out by the registrar or designate",
+        "type": "string"
+      },
+      "516": {
+        "description": "Registration status",
+        "type": "string"
+      },
+      "517": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "518": {
+        "description": "Inactive",
+        "type": "string"
+      },
+      "523": {
+        "description": "Active",
+        "type": "string"
+      },
+      "527": {
+        "description": "Full",
+        "type": "string"
+      },
+      "530": {
+        "description": "Registration expiry date",
+        "type": "string"
+      },
+      "531": {
+        "description": "Initial registration date",
+        "type": "string"
+      },
+      "532": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "533": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "534": {
+        "description": "Is there now, or has there ever been, any formal disciplinary action initiated against the applicant?",
+        "type": "string"
+      },
+      "535": {
+        "description": "Has the applicant\u2019s registration or licence to practice nursing ever been made subject to",
+        "type": "string"
+      },
+      "536": {
+        "description": "Other (specify):",
+        "type": "boolean"
+      },
+      "537": {
+        "description": "Examination written",
+        "type": "boolean"
+      },
+      "538": {
+        "description": "CPNRE",
+        "type": "boolean"
+      },
+      "539": {
+        "description": "CNATS",
+        "type": "string"
+      },
+      "542": {
+        "description": "Date completed:",
+        "type": "string"
+      },
+      "543": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "544": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "549": {
+        "description": "Has the applicant ever voluntarily surrendered their registration or licence to practice nursing to",
+        "type": "string"
+      },
+      "550": {
+        "description": "avoid a disciplinary review?",
+        "type": "string"
+      },
+      "553": {
+        "description": "If yes, explain:",
+        "type": "string"
+      },
+      "554": {
+        "description": "Has the applicant ever been denied registration or licensing to practice nursing?",
+        "type": "string"
+      },
+      "556": {
+        "description": "If yes, explain:",
+        "type": "string"
+      },
+      "558": {
+        "description": "Have they ever been disciplined by a regulatory or licensing authority for practical nursing?",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

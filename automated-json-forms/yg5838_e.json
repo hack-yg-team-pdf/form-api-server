@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "345": {
+        "description": "SECTION 1: CHILD\u2019S PERSONAL INFORMATION",
+        "type": "string"
+      },
+      "346": {
+        "description": "Name of parent/guardian",
+        "type": "string"
+      },
+      "347": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "348": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "349": {
+        "description": "Health card #",
+        "type": "string"
+      },
+      "352": {
+        "description": "Day phone",
+        "type": "string"
+      },
+      "353": {
+        "description": "Cell phone",
+        "type": "string"
+      },
+      "354": {
+        "description": "Has your child had previous reaction to immunization?",
+        "type": "string"
+      },
+      "355": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "356": {
+        "description": "Alert: Has your child ever had a serious or life threatening allergic reaction?",
+        "type": "string"
+      },
+      "357": {
+        "description": "Evening phone",
+        "type": "string"
+      },
+      "358": {
+        "description": "Chronic condition:",
+        "type": "string"
+      },
+      "363": {
+        "description": "Allergies:",
+        "type": "string"
+      },
+      "366": {
+        "description": "Date",
+        "type": "string"
+      },
+      "367": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "368": {
+        "description": "Date",
+        "type": "string"
+      },
+      "371": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "372": {
+        "description": "Date",
+        "type": "string"
+      },
+      "373": {
+        "description": "SECTION 3: PUBLIC HEALTH USE ONLY \u2013 TELEPHONE OR MATURE MINOR CONSENT",
+        "type": "string"
+      },
+      "376": {
+        "description": "Telephone consent obtained from:",
+        "type": "string"
+      },
+      "377": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "378": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "379": {
+        "description": "Relationship to child:",
+        "type": "string"
+      },
+      "380": {
+        "description": "MATURE MINOR CONSENT",
+        "type": "string"
+      },
+      "381": {
+        "description": "No",
+        "type": "string"
+      },
+      "382": {
+        "description": "department\u2019s Privacy Officer at healthprivacy@gov.yk.ca.",
+        "type": "string"
+      },
+      "383": {
+        "description": "Information contained in this form is collected, used and disclosed in accordance with Yukon\u2019s Health Information Privacy and Management Act and other",
+        "type": "boolean"
+      },
+      "386": {
+        "description": "For:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

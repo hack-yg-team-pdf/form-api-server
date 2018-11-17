@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "76": {
+        "description": "YG(3345Q)F6 Rev. 09/2015",
+        "type": "string"
+      },
+      "77": {
+        "description": "Type of livestock:",
+        "type": "string"
+      },
+      "78": {
+        "description": "Number of livestock:",
+        "type": "string"
+      },
+      "84": {
+        "description": "Do you plan to construct fencing?",
+        "type": "string"
+      },
+      "85": {
+        "description": "If yes: describe what materials will be used to construct fencing.",
+        "type": "string"
+      },
+      "86": {
+        "description": "How do you plan to clear the fence corridor?",
+        "type": "string"
+      },
+      "87": {
+        "description": "Comment pr\u00e9voyez-vous d\u00e9gager le corridor n\u00e9cessaire \u00e0 la construction de la cl\u00f4ture?",
+        "type": "string"
+      },
+      "88": {
+        "description": "Describe the type of gates you plan to construct.",
+        "type": "string"
+      },
+      "89": {
+        "description": "D\u00e9crivez le type de barri\u00e8res que vous pr\u00e9voyez construire.",
+        "type": "string"
+      },
+      "90": {
+        "description": "D\u00e9crivez l\u2019emplacement propos\u00e9 et le type de construction de toute am\u00e9lioration que vous proposez",
+        "type": "string"
+      },
+      "91": {
+        "description": "Describe the proposed location and construction type of any other improvements you plan to build such",
+        "type": "string"
+      },
+      "92": {
+        "description": "6.",
+        "type": "string"
+      },
+      "93": {
+        "description": "YG(3345Q)F6 Rev. 09/2015",
+        "type": "string"
+      },
+      "94": {
+        "description": "page 4 of/de 6",
+        "type": "string"
+      },
+      "106": {
+        "description": "Je comprends que les renseignements fournis aux pr\u00e9sentes feront l\u2019objet d\u2019une \u00e9tude interminist\u00e9rielle et",
+        "type": "boolean"
+      },
+      "108": {
+        "description": "publique, conform\u00e9ment au paragraphe 5.3 de la politique sur les p\u00e2turages du Yukon.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

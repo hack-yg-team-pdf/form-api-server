@@ -1,0 +1,219 @@
+{
+  "fields": {
+    "properties": {
+      "82": {
+        "description": "HIGH PERFORMANCE \u2013 ATHLETE",
+        "type": "string"
+      },
+      "83": {
+        "description": "Date of birth:     Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "84": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "85": {
+        "description": "Phone #:",
+        "type": "string"
+      },
+      "86": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "87": {
+        "description": "Age on April 1 (upcoming):",
+        "type": "string"
+      },
+      "88": {
+        "description": "C. Citizenship and residency",
+        "type": "string"
+      },
+      "89": {
+        "description": "Are you a Canadian Citizen?",
+        "type": "string"
+      },
+      "95": {
+        "description": "Yes           No",
+        "type": "string"
+      },
+      "99": {
+        "description": "If \u2018Yes\u2019, provide details of the educational institution you will be attending this year:",
+        "type": "string"
+      },
+      "100": {
+        "description": "From:   Y Y Y Y/ M M",
+        "type": "string"
+      },
+      "101": {
+        "description": "To:   Y Y Y Y/ M M",
+        "type": "string"
+      },
+      "102": {
+        "description": "Name of educational institution:",
+        "type": "string"
+      },
+      "103": {
+        "description": "Location of educational institution:",
+        "type": "string"
+      },
+      "107": {
+        "description": "SECTION 2 \u2013 AFFILIATION, CLASSIFICATION AND NATIONAL TEAM STATUS",
+        "type": "string"
+      },
+      "108": {
+        "description": "Name of coach:",
+        "type": "string"
+      },
+      "109": {
+        "description": "Name of local sport affiliate:",
+        "type": "string"
+      },
+      "110": {
+        "description": "Name of YSGB:",
+        "type": "string"
+      },
+      "111": {
+        "description": "Name of NSO:",
+        "type": "string"
+      },
+      "339": {
+        "description": "Date on which you became a Yukon resident:   Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "667": {
+        "description": "Competitive / training season",
+        "type": "string"
+      },
+      "668": {
+        "description": "NATIONAL TEAM STATUS (start with most previous year completed)",
+        "type": "string"
+      },
+      "669": {
+        "description": "Classification (Jr., Sr., Open, etc.)",
+        "type": "string"
+      },
+      "670": {
+        "description": "Year",
+        "type": "string"
+      },
+      "671": {
+        "description": "Are you, or were you, invited to a training camp by a",
+        "type": "string"
+      },
+      "672": {
+        "description": "Year",
+        "type": "string"
+      },
+      "673": {
+        "description": "national sport governing body?",
+        "type": "string"
+      },
+      "674": {
+        "description": "Yes           No",
+        "type": "string"
+      },
+      "675": {
+        "description": "Yes           No",
+        "type": "string"
+      },
+      "676": {
+        "description": "Yes           No",
+        "type": "string"
+      },
+      "677": {
+        "description": "Year",
+        "type": "string"
+      },
+      "705": {
+        "description": "Level:",
+        "type": "string"
+      },
+      "706": {
+        "description": "Level:",
+        "type": "string"
+      },
+      "707": {
+        "description": "Level:",
+        "type": "string"
+      },
+      "708": {
+        "description": "Are you, or have you, been a carded athlete? If so please",
+        "type": "string"
+      },
+      "709": {
+        "description": "RESULTS OF MAJOR EVENTS FROM LAST COMPLETED SEASON",
+        "type": "string"
+      },
+      "710": {
+        "description": "$",
+        "type": "string"
+      },
+      "711": {
+        "description": "Level of",
+        "type": "string"
+      },
+      "712": {
+        "description": "competition",
+        "type": "string"
+      },
+      "713": {
+        "description": "of",
+        "type": "string"
+      },
+      "714": {
+        "description": "of",
+        "type": "string"
+      },
+      "715": {
+        "description": "of",
+        "type": "string"
+      },
+      "716": {
+        "description": "Name of",
+        "type": "string"
+      },
+      "717": {
+        "description": "Classification",
+        "type": "string"
+      },
+      "718": {
+        "description": "Additional achievements not previously listed :",
+        "type": "string"
+      },
+      "719": {
+        "description": "Discipline/event",
+        "type": "string"
+      },
+      "720": {
+        "description": "of",
+        "type": "string"
+      },
+      "721": {
+        "description": "Date",
+        "type": "string"
+      },
+      "722": {
+        "description": "Number of",
+        "type": "string"
+      },
+      "723": {
+        "description": "competitors",
+        "type": "string"
+      },
+      "724": {
+        "description": "Final ranking",
+        "type": "string"
+      },
+      "725": {
+        "description": "of",
+        "type": "string"
+      },
+      "726": {
+        "description": "Location",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

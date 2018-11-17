@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "651": {
+        "description": "application form.  Signing a\ufb03rms that the society is in compliance with the Societies Act in respect of their annual \ufb01lings",
+        "type": "string"
+      },
+      "652": {
+        "description": "Mailing address and postal code:",
+        "type": "string"
+      },
+      "654": {
+        "description": "Sec",
+        "type": "string"
+      },
+      "656": {
+        "description": "Name as \ufb01led with the Registrar of Societies:",
+        "type": "string"
+      },
+      "658": {
+        "description": "if different from above:",
+        "type": "string"
+      },
+      "661": {
+        "description": "all pe nent informa on necessary to evaluate this applica on.  We understand that all or part of this applica on may be made available to the public in accordance",
+        "type": "string"
+      },
+      "667": {
+        "description": "Previous Year Award:  Current Request:",
+        "type": "string"
+      },
+      "680": {
+        "description": "b. Last Actual Operating Budget",
+        "type": "string"
+      },
+      "691": {
+        "description": "YG(5801EQ)F16 Rev.09/2015",
+        "type": "string"
+      },
+      "692": {
+        "description": "a. Your organization\u2019s \ufb01scal year:",
+        "type": "string"
+      },
+      "693": {
+        "description": "Total:",
+        "type": "string"
+      },
+      "704": {
+        "description": "Arts Fund",
+        "type": "string"
+      },
+      "708": {
+        "description": "From",
+        "type": "string"
+      },
+      "710": {
+        "description": "AOF",
+        "type": "string"
+      },
+      "711": {
+        "description": "e. Amount of Contribution Requested:",
+        "type": "string"
+      },
+      "712": {
+        "description": "Other Yukon Government",
+        "type": "string"
+      },
+      "716": {
+        "description": "(latest projection of the current year's total budget):",
+        "type": "string"
+      },
+      "723": {
+        "description": "(last completed year\u2019s total budget):",
+        "type": "string"
+      },
+      "731": {
+        "description": "($)",
+        "type": "string"
+      },
+      "739": {
+        "description": "d. Next Year\u2019s projected budget total:",
+        "type": "string"
+      },
+      "756": {
+        "description": "to",
+        "type": "string"
+      },
+      "777": {
+        "description": "c. Current Projected Operating Budget",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

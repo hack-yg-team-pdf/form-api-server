@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "39": {
+        "description": "Director, officer, attorney for service, or authorized agent / Administrateur, dirigeant, fond\u00e9 de pouvoir ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "43": {
+        "description": "9.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "45": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "46": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "47": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "50": {
+        "description": "8.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "51": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "192": {
+        "description": "1.  Name of extra-territorial corporation / D\u00e9nomination sociale de la soci\u00e9t\u00e9 extra-territoriale :",
+        "type": "string"
+      },
+      "193": {
+        "description": "3.  Assumed name, if any (must also be registered under section 87 of the Partnership and Business Names Act) :",
+        "type": "string"
+      },
+      "194": {
+        "description": "4.  Anniversary date / Date anniversaire :",
+        "type": "string"
+      },
+      "195": {
+        "description": "YYYY/AAAA                                               MM/MM                  DD/JJ",
+        "type": "string"
+      },
+      "196": {
+        "description": "(Year of annual return)                         (Month and day of registration in Yukon)",
+        "type": "string"
+      },
+      "202": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "203": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "204": {
+        "description": "Adresse de livraison (Adresse  physique)",
+        "type": "string"
+      },
+      "205": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "206": {
+        "description": "YG(6148Q)F2 04/2015",
+        "type": "string"
+      },
+      "207": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "208": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "209": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "210": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "211": {
+        "description": "City / Ville",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

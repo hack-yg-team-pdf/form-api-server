@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "55": {
+        "description": "8.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "56": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "57": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      },
+      "533": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "534": {
+        "description": "3.  Attorney for service / Fond\u00e9 de pouvoir aux fins de signification :",
+        "type": "string"
+      },
+      "535": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "536": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "537": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "538": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "539": {
+        "description": "J\u2019accepte d\u2019agir \u00e0 titre de fond\u00e9 de pouvoir aux fins de signification pour la soci\u00e9t\u00e9 extra-territoriale :",
+        "type": "string"
+      },
+      "540": {
+        "description": "Date d\u2019entr\u00e9e en vigueur de la d\u00e9signation :",
+        "type": "string"
+      },
+      "541": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "542": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "543": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "544": {
+        "description": "4.  I consent to act as the attorney for service for the extra-territorial society :",
+        "type": "string"
+      },
+      "545": {
+        "description": "Effective date of appointment :",
+        "type": "string"
+      },
+      "546": {
+        "description": "Date of signature / Date de signature",
+        "type": "string"
+      },
+      "547": {
+        "description": "Signature of attorney for service / Signature du fond\u00e9 de pouvoir aux fins de signification",
+        "type": "string"
+      },
+      "548": {
+        "description": "5.  Name of individual signing for the extra-territorial society :",
+        "type": "string"
+      },
+      "549": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

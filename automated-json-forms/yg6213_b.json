@@ -1,0 +1,211 @@
+{
+  "fields": {
+    "properties": {
+      "106": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "107": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "111": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "113": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "114": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "117": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "120": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "122": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "123": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "124": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "125": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "126": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "128": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "129": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "131": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "135": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "136": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "137": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "138": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "139": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "140": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "141": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "142": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "143": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "144": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "147": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "148": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "149": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "151": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "152": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "153": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "154": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "155": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "160": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "165": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "2159": {
+        "description": "1.  Name of society / D\u00e9nomination sociale de la soci\u00e9t\u00e9 :",
+        "type": "string"
+      },
+      "2160": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "2161": {
+        "description": "Date de la derni\u00e8re assembl\u00e9e g\u00e9n\u00e9rale annuelle :",
+        "type": "string"
+      },
+      "2162": {
+        "description": "Anniversary month / Mois anniversaire",
+        "type": "string"
+      },
+      "2163": {
+        "description": "3.  Fiscal year-end (if changed, a Form 5 must also be filed with this",
+        "type": "string"
+      },
+      "2164": {
+        "description": "annual return) :",
+        "type": "string"
+      },
+      "2165": {
+        "description": "concernant les soci\u00e9t\u00e9s s\u2019applique) :",
+        "type": "string"
+      },
+      "2166": {
+        "description": "YYYY/AAAA           MM/MM           DD/DD",
+        "type": "string"
+      },
+      "2167": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "2168": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "2169": {
+        "description": "Adresse / Adresse",
+        "type": "string"
+      },
+      "2170": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "2171": {
+        "description": "Postal Code / Code Postale",
+        "type": "string"
+      },
+      "2172": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "2173": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "2174": {
+        "description": "Yukon",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

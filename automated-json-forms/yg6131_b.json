@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "28": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "30": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "34": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "38": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "718": {
+        "description": "2.  Jurisdiction from which the corporation is continuing into Yukon :",
+        "type": "string"
+      },
+      "719": {
+        "description": "3.  If change of name effected, previous name :",
+        "type": "string"
+      },
+      "720": {
+        "description": "4. The classes of shares that the corporation is authorized to issue (including the information required by",
+        "type": "string"
+      },
+      "721": {
+        "description": "5.  Restrictions, if any, on share transfers / Restrictions, le cas \u00e9ch\u00e9ant, aux transferts d\u2019actions :",
+        "type": "string"
+      },
+      "722": {
+        "description": "6.  Number of directors (or minimum or maximum number) :",
+        "type": "string"
+      },
+      "723": {
+        "description": "7.  Restrictions, if any, on business the corporation may carry on (including the restrictions in para.18(1)(h) of",
+        "type": "string"
+      },
+      "724": {
+        "description": "9.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "725": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "726": {
+        "description": "YG(6131Q)F2 03/2015",
+        "type": "string"
+      },
+      "727": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

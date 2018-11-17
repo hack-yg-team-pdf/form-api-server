@@ -1,0 +1,215 @@
+{
+  "fields": {
+    "properties": {
+      "161": {
+        "description": "Project start date",
+        "type": "string"
+      },
+      "162": {
+        "description": "End date",
+        "type": "string"
+      },
+      "163": {
+        "description": "Estimate how many hours each person will be employed",
+        "type": "string"
+      },
+      "164": {
+        "description": "How many people will the project employ?",
+        "type": "string"
+      },
+      "165": {
+        "description": "Where is the project happening? Attach location diagram if appropriate",
+        "type": "string"
+      },
+      "166": {
+        "description": "Page 2 of 5",
+        "type": "string"
+      },
+      "170": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "171": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "172": {
+        "description": "How is your community supporting this project?",
+        "type": "string"
+      },
+      "173": {
+        "description": "How will your organization determine whether the project is successful?",
+        "type": "string"
+      },
+      "177": {
+        "description": "Page 3 of 5",
+        "type": "string"
+      },
+      "180": {
+        "description": "Please indicate how the Community Development Fund and Government of Yukon will be acknowledged for funding",
+        "type": "boolean"
+      },
+      "181": {
+        "description": "CDF/GY Representation",
+        "type": "boolean"
+      },
+      "182": {
+        "description": "Newsletters or Programs",
+        "type": "boolean"
+      },
+      "183": {
+        "description": "Photos",
+        "type": "boolean"
+      },
+      "184": {
+        "description": "Promotional Materials and Branding",
+        "type": "boolean"
+      },
+      "185": {
+        "description": "Public Announcements",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "Print Advertising",
+        "type": "boolean"
+      },
+      "187": {
+        "description": "CDF/GY LOGO PLACEMENT                                                                      CDF/GY ACKNOWLEDGEMENT",
+        "type": "boolean"
+      },
+      "188": {
+        "description": "Social Media",
+        "type": "boolean"
+      },
+      "189": {
+        "description": "Total project cost",
+        "type": "string"
+      },
+      "190": {
+        "description": "Amount of CDF funding requested",
+        "type": "string"
+      },
+      "191": {
+        "description": "SECTION 5 \u2013 FINANCIAL INFORMATION",
+        "type": "string"
+      },
+      "192": {
+        "description": "Signage",
+        "type": "boolean"
+      },
+      "193": {
+        "description": "Banners",
+        "type": "boolean"
+      },
+      "194": {
+        "description": "Decals",
+        "type": "boolean"
+      },
+      "195": {
+        "description": "Acknowledgement Message/Credit Line",
+        "type": "boolean"
+      },
+      "197": {
+        "description": "Website",
+        "type": "boolean"
+      },
+      "198": {
+        "description": "Media Releases",
+        "type": "boolean"
+      },
+      "200": {
+        "description": "information necessary to evaluate this application.",
+        "type": "string"
+      },
+      "201": {
+        "description": "Or, drop off your application at the CDF office in Whitehorse:",
+        "type": "boolean"
+      },
+      "204": {
+        "description": "Community Development Fund (F-1)",
+        "type": "boolean"
+      },
+      "207": {
+        "description": "other supporting documents, if applicable",
+        "type": "boolean"
+      },
+      "208": {
+        "description": "If your CDF application is done properly; you\u2019ve already discussed your project idea with a Community Development",
+        "type": "boolean"
+      },
+      "209": {
+        "description": "BEFORE SIGNING THE DECLARATION BELOW, ASK, \u201cAM I READY TO SUBMIT THIS APPLICATION?\u201d",
+        "type": "boolean"
+      },
+      "210": {
+        "description": "copies of permits, if applicable",
+        "type": "boolean"
+      },
+      "212": {
+        "description": "Certificate of Status, if applicable",
+        "type": "boolean"
+      },
+      "213": {
+        "description": "letters of confirmation from other funding partners",
+        "type": "boolean"
+      },
+      "214": {
+        "description": "professional quotes for materials or hiring contractors or consultants",
+        "type": "boolean"
+      },
+      "215": {
+        "description": "detailed project budget",
+        "type": "boolean"
+      },
+      "596": {
+        "description": "Project name",
+        "type": "string"
+      },
+      "597": {
+        "description": "Total requested amount",
+        "type": "string"
+      },
+      "598": {
+        "description": "Name of Applicant",
+        "type": "string"
+      },
+      "599": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "600": {
+        "description": "How long has your organization existed?",
+        "type": "string"
+      },
+      "601": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "602": {
+        "description": "registered industry, and/or professional business association",
+        "type": "string"
+      },
+      "603": {
+        "description": "registered not-for profit society",
+        "type": "string"
+      },
+      "604": {
+        "description": "community association",
+        "type": "string"
+      },
+      "605": {
+        "description": "municipal government",
+        "type": "string"
+      },
+      "614": {
+        "description": "What is your organization\u2019s mandate?",
+        "type": "string"
+      },
+      "615": {
+        "description": "YG(4665EQ)F5 Rev.09/2017",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

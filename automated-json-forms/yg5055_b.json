@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "62": {
+        "description": "definition of section 2 of the Marriage Act.",
+        "type": "string"
+      },
+      "63": {
+        "description": "ces personnes est d\u00fbment ordonn\u00e9e ou nomm\u00e9e suivant nos rites et nos usages et nous affirmons qu\u2019elles sont toutes des eccl\u00e9siastiques au sens de",
+        "type": "string"
+      },
+      "64": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "65": {
+        "description": ".",
+        "type": "string"
+      },
+      "66": {
+        "description": "Fait \u00e0 , ce jour de    20  .",
+        "type": "string"
+      },
+      "67": {
+        "description": "Address",
+        "type": "string"
+      },
+      "68": {
+        "description": "Authorized Signature \u2022 Signature de la personne autoris\u00e9e                                                                             Title \u2022 Titre",
+        "type": "string"
+      },
+      "69": {
+        "description": "Name (please print) \u2022 Nom (en lettres d\u00e9tach\u00e9es)",
+        "type": "string"
+      },
+      "70": {
+        "description": "NAME",
+        "type": "string"
+      },
+      "71": {
+        "description": "NOM",
+        "type": "string"
+      },
+      "72": {
+        "description": "2130 Second Avenue",
+        "type": "string"
+      },
+      "73": {
+        "description": "Whitehorse, YT Y1A 5H6",
+        "type": "string"
+      },
+      "74": {
+        "description": "2130, 2e Avenue",
+        "type": "string"
+      },
+      "75": {
+        "description": "Please return your documents and fees to:",
+        "type": "string"
+      },
+      "76": {
+        "description": "Veuillez faire parvenir la demande accompagn\u00e9e des droits requis et des",
+        "type": "string"
+      },
+      "77": {
+        "description": "documents \u00e0 l\u2019appui \u00e0 l\u2019adresse suivante:",
+        "type": "string"
+      },
+      "78": {
+        "description": "OR",
+        "type": "string"
+      },
+      "79": {
+        "description": "Consumer Services",
+        "type": "string"
+      },
+      "80": {
+        "description": "Services aux consommateurs, C-5",
+        "type": "string"
+      },
+      "81": {
+        "description": "Visa                                                 Expiry",
+        "type": "string"
+      },
+      "82": {
+        "description": "Visa Expiration",
+        "type": "string"
+      },
+      "83": {
+        "description": "Mastercard",
+        "type": "string"
+      },
+      "84": {
+        "description": "Mastercard Expiration",
+        "type": "string"
+      },
+      "85": {
+        "description": "Fee Schedule \u2022 Grille tarifaire",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "Les renseignements personnels demand\u00e9s dans les pr\u00e9sentes sont",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

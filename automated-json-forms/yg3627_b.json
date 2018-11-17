@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Name",
+        "type": "string"
+      },
+      "33": {
+        "description": "Municipality",
+        "type": "string"
+      },
+      "34": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "37": {
+        "description": "Notary public, returning officer or designated municipal officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

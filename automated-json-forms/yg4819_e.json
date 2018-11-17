@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "231": {
+        "description": "Name of child   Sex   F   /   M",
+        "type": "string"
+      },
+      "232": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "233": {
+        "description": "Management Act and other applicable laws. A written statement of Health and Social Services information practices can viewed at",
+        "type": "string"
+      },
+      "234": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "235": {
+        "description": "Address    Postal code",
+        "type": "string"
+      },
+      "236": {
+        "description": "Parents\u2019/Guardians\u2019 names",
+        "type": "string"
+      },
+      "237": {
+        "description": "Work phone                            Home phone                            Work phone                            Home phone",
+        "type": "string"
+      },
+      "238": {
+        "description": "Email",
+        "type": "string"
+      },
+      "239": {
+        "description": "SCHOOL HISTORY",
+        "type": "string"
+      },
+      "240": {
+        "description": "What school is your child attending this year?    Grade",
+        "type": "string"
+      },
+      "241": {
+        "description": "Has your child been enrolled in the Yukon Children\u2019s Dental Program before?",
+        "type": "string"
+      },
+      "242": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "243": {
+        "description": "What school did your child last attend?",
+        "type": "string"
+      },
+      "244": {
+        "description": "www.hss.gov.yk.ca/healthprivacy.php or by contacting the department\u2019s Privacy Officer at healthprivacy@gov.yk.ca.",
+        "type": "string"
+      },
+      "245": {
+        "description": "Information contained in this form is collected, used and disclosed in accordance with Yukon\u2019s Health Information Privacy and",
+        "type": "string"
+      },
+      "246": {
+        "description": "No",
+        "type": "string"
+      },
+      "259": {
+        "description": "No",
+        "type": "string"
+      },
+      "264": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "337": {
+        "description": "Are your child\u2019s teeth brushed at least 2 times a day?",
+        "type": "string"
+      },
+      "338": {
+        "description": "Are your child\u2019s teeth flossed daily?",
+        "type": "string"
+      },
+      "346": {
+        "description": "YES, I CONSENT to my child receiving a dental examination by a dentist or dental therapist.",
+        "type": "boolean"
+      },
+      "348": {
+        "description": "As part of the examination, the services listed below may be provided by dental program staff.",
+        "type": "boolean"
+      },
+      "350": {
+        "description": "brushing instruction",
+        "type": "boolean"
+      },
+      "352": {
+        "description": "cleaning of teeth",
+        "type": "boolean"
+      },
+      "354": {
+        "description": "sealants",
+        "type": "boolean"
+      },
+      "356": {
+        "description": "You must indicate the service(s) you consent to your child receiving:",
+        "type": "boolean"
+      },
+      "358": {
+        "description": "Following the dental examination, if your child requires restorative dental treatment (i.e. fillings, extractions etc.) a Consent for Treatment form will",
+        "type": "string"
+      },
+      "359": {
+        "description": "be sent to obtain consent prior to providing treatment.",
+        "type": "string"
+      },
+      "360": {
+        "description": "Please provide any additional notes for the dental program regarding your child\u2019s treatment:",
+        "type": "boolean"
+      },
+      "362": {
+        "description": "If you have any questions or concerns, please call the Yukon Children\u2019s Dental Program at 667-8360 (1-800-661-0408",
+        "type": "boolean"
+      },
+      "365": {
+        "description": "extension 8360 toll-free in Yukon).",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

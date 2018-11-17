@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "I, , do swear/solemnly declare that:",
+        "type": "string"
+      },
+      "39": {
+        "description": "1.     I am an elected/appointed member of the  School Council and have access to student",
+        "type": "string"
+      },
+      "40": {
+        "description": "2.     I will not knowingly disclose to any person any information obtained from student records or personnel records",
+        "type": "string"
+      },
+      "42": {
+        "description": "except as permitted by the Act.",
+        "type": "string"
+      },
+      "43": {
+        "description": "SWORN/AFFIRMED by me at , Yukon",
+        "type": "string"
+      },
+      "44": {
+        "description": "The Oath may be administered by a notary public, a peace officer, or a judge of any court.",
+        "type": "string"
+      },
+      "46": {
+        "description": "YG(4214Q)F1 Rev.05/2014",
+        "type": "string"
+      },
+      "47": {
+        "description": "DEPONENT/AFFIANT",
+        "type": "string"
+      },
+      "48": {
+        "description": "PERSON ADMINISTERING OATH OR AFFIRMATION",
+        "type": "string"
+      },
+      "49": {
+        "description": "3.     This Oath and Declaration shall take effect on  this day of , 2 .",
+        "type": "boolean"
+      },
+      "52": {
+        "description": "this day of , 2",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

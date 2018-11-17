@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "25": {
+        "description": "Operator/business/company",
+        "type": "string"
+      },
+      "26": {
+        "description": "operator confidentiality, and reflects governments obligations under",
+        "type": "string"
+      },
+      "27": {
+        "description": "ext. 5648. Data will be collected and used in a way that ensures",
+        "type": "string"
+      },
+      "28": {
+        "description": "Wilderness Tourism Licensing (867) 667-5648, or 1-800-661-0508",
+        "type": "string"
+      },
+      "29": {
+        "description": "the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "30": {
+        "description": "exploitante ainsi que les obligations du gouvernement en vertu de la Loi",
+        "type": "string"
+      },
+      "31": {
+        "description": "only for the purpose of research, statistical and enforcement",
+        "type": "string"
+      },
+      "32": {
+        "description": "Confidentiality:  This information is being collected under the",
+        "type": "string"
+      },
+      "33": {
+        "description": "authority of the Wilderness Tourism Licensing Act and will be used",
+        "type": "string"
+      },
+      "34": {
+        "description": "purposes. For further information direct inquiries to Registrar,",
+        "type": "string"
+      },
+      "35": {
+        "description": "et utilis\u00e9es de mani\u00e8re \u00e0 respecter la confidentialit\u00e9 de l\u2019exploitant/",
+        "type": "string"
+      },
+      "36": {
+        "description": "YG(4807)NC2 Rev.05/2002",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

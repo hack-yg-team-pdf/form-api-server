@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "293": {
+        "description": "Are you legally entitled to work in Canada?",
+        "type": "string"
+      },
+      "294": {
+        "description": "Start date",
+        "type": "string"
+      },
+      "295": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "296": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "299": {
+        "description": "No \u0092 complete Part B",
+        "type": "string"
+      },
+      "300": {
+        "description": "If yes, indicate when:",
+        "type": "string"
+      },
+      "301": {
+        "description": "Grade or year of studies",
+        "type": "string"
+      },
+      "304": {
+        "description": "No",
+        "type": "string"
+      },
+      "308": {
+        "description": "Do you have a valid",
+        "type": "string"
+      },
+      "309": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "310": {
+        "description": "Y Y Y Y/ M M",
+        "type": "string"
+      },
+      "311": {
+        "description": "I hereby declare that the information provided above is true and correct. I certify that I am not a member of the",
+        "type": "string"
+      },
+      "314": {
+        "description": "I hereby declare that (please check all that apply):",
+        "type": "string"
+      },
+      "317": {
+        "description": "SCP Position Title",
+        "type": "string"
+      },
+      "318": {
+        "description": "Employee start date",
+        "type": "string"
+      },
+      "319": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "320": {
+        "description": "A) the EMPLOYER where the EMPLOYER is an individual; or",
+        "type": "string"
+      },
+      "321": {
+        "description": "if the Employer is a corporation or an unincorporated association, the participant is not a member of",
+        "type": "string"
+      },
+      "322": {
+        "description": "EMPLOYER DECLARATION",
+        "type": "boolean"
+      },
+      "323": {
+        "description": "the student/youth is not a member of the immediate family* of:",
+        "type": "boolean"
+      },
+      "324": {
+        "description": "C) an elected or senior official of a Municipality, where the EMPLOYER is the Municipality.",
+        "type": "boolean"
+      },
+      "325": {
+        "description": "that the student/youth meets the eligibility criteria as set out in the guidelines.",
+        "type": "boolean"
+      },
+      "326": {
+        "description": "*Immediate family is defined as: father, mother, brother, sister, spouse (including common-law residents), child, in-law, guardian or any",
+        "type": "boolean"
+      },
+      "329": {
+        "description": "resident permanently residing in the employers domicile or with whom the employer permanently resides.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

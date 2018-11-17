@@ -1,0 +1,151 @@
+{
+  "fields": {
+    "properties": {
+      "721": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "722": {
+        "description": "Date of Request:",
+        "type": "string"
+      },
+      "723": {
+        "description": "1.  PERSONAL INFORMATION",
+        "type": "string"
+      },
+      "724": {
+        "description": "Applicant 1",
+        "type": "boolean"
+      },
+      "726": {
+        "description": "First name:                                            Middle name:                                      Last name:",
+        "type": "string"
+      },
+      "727": {
+        "description": "Full legal name (if different):                                                                          Date of birth:",
+        "type": "string"
+      },
+      "728": {
+        "description": "Business Name & ID No (if applicable):",
+        "type": "string"
+      },
+      "729": {
+        "description": "Co-Applicant 2",
+        "type": "string"
+      },
+      "730": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "731": {
+        "description": "Business Name & ID No (if applicable):",
+        "type": "string"
+      },
+      "732": {
+        "description": "Full legal name (if different):                                                                          Date of birth:",
+        "type": "string"
+      },
+      "733": {
+        "description": "First name:                                            Middle name:                                      Last name:",
+        "type": "string"
+      },
+      "734": {
+        "description": "OFFICE USE ONLY",
+        "type": "boolean"
+      },
+      "735": {
+        "description": "2.  CONTACT INFORMATION",
+        "type": "string"
+      },
+      "736": {
+        "description": "Phone number: Home                                               Work                                              Cell",
+        "type": "string"
+      },
+      "737": {
+        "description": "E-mail:                                                                       E-mail co-applicant:",
+        "type": "string"
+      },
+      "738": {
+        "description": "Mailing address (street number, street name, P.O. Box):",
+        "type": "string"
+      },
+      "739": {
+        "description": "City/Town/Community:                                                                                    Postal code:",
+        "type": "string"
+      },
+      "740": {
+        "description": "BLOCK",
+        "type": "string"
+      },
+      "741": {
+        "description": "PLAN",
+        "type": "string"
+      },
+      "742": {
+        "description": "3.  PROPERTY INFORMATION",
+        "type": "string"
+      },
+      "743": {
+        "description": "LOT",
+        "type": "string"
+      },
+      "744": {
+        "description": "Have you, or your business, ever received loans or grants in the past from YHC?",
+        "type": "string"
+      },
+      "745": {
+        "description": "Are you the registered owner of the property?",
+        "type": "string"
+      },
+      "746": {
+        "description": "If so, when?                                                           What program?",
+        "type": "string"
+      },
+      "747": {
+        "description": "Y",
+        "type": "string"
+      },
+      "748": {
+        "description": "Street Address:",
+        "type": "string"
+      },
+      "749": {
+        "description": "Legal land description:",
+        "type": "string"
+      },
+      "750": {
+        "description": "N",
+        "type": "string"
+      },
+      "751": {
+        "description": "Description / scope of project:",
+        "type": "string"
+      },
+      "752": {
+        "description": "Date of approved Development Permit issued by jurisdiction having authority:",
+        "type": "string"
+      },
+      "753": {
+        "description": "Y",
+        "type": "string"
+      },
+      "754": {
+        "description": "4.  PROJECT INFORMATION (ATTACH SEPARATE PAGES AS NECESSARY)",
+        "type": "string"
+      },
+      "759": {
+        "description": "Copy of Development Permit attached",
+        "type": "string"
+      },
+      "760": {
+        "description": "YG(6247EQ)F3 Rev.05/2017",
+        "type": "string"
+      },
+      "761": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

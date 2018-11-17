@@ -1,0 +1,135 @@
+{
+  "fields": {
+    "properties": {
+      "22": {
+        "description": "I,  [print name clearly], am the authorized representative",
+        "type": "string"
+      },
+      "23": {
+        "description": "of  [business/person responsible for source or activity], and I certify",
+        "type": "string"
+      },
+      "24": {
+        "description": "same as (1) above, or:",
+        "type": "boolean"
+      },
+      "25": {
+        "description": "6. If the land is within municipal boundaries, what is the zoning of that land? (For multiple site locations, list on a",
+        "type": "string"
+      },
+      "26": {
+        "description": "knowledge.",
+        "type": "string"
+      },
+      "27": {
+        "description": "5. Is the land leased? If so, by whom?",
+        "type": "string"
+      },
+      "28": {
+        "description": "that the information provided on this application form is correct and complete to the best of my",
+        "type": "string"
+      },
+      "30": {
+        "description": "Applicants not owning the land on which the contaminated site is located must include with this application a letter from the landowner authorizing the",
+        "type": "string"
+      },
+      "37": {
+        "description": "Signed this  day of , .",
+        "type": "string"
+      },
+      "39": {
+        "description": "hereby agree to assume all risks and liabilities that may be associated with using risk-based standards and risk-based",
+        "type": "string"
+      },
+      "40": {
+        "description": "month               year",
+        "type": "string"
+      },
+      "41": {
+        "description": "day",
+        "type": "string"
+      },
+      "42": {
+        "description": ",",
+        "type": "string"
+      },
+      "43": {
+        "description": "I, , representing ,",
+        "type": "string"
+      },
+      "44": {
+        "description": "Page 3 of 3",
+        "type": "boolean"
+      },
+      "82": {
+        "description": "1. Name and address of applicant",
+        "type": "string"
+      },
+      "83": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "84": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "85": {
+        "description": "Name (person or business) to appear on permit",
+        "type": "string"
+      },
+      "86": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "87": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "88": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "89": {
+        "description": "Business name or government agency/branch/department",
+        "type": "string"
+      },
+      "90": {
+        "description": "risk assessment and related documentation. Please consult the \u201cTechnical Reviews\u201d",
+        "type": "boolean"
+      },
+      "92": {
+        "description": "Contact name and position title",
+        "type": "string"
+      },
+      "93": {
+        "description": "Phone #",
+        "type": "string"
+      },
+      "94": {
+        "description": "Legal Address",
+        "type": "string"
+      },
+      "95": {
+        "description": "2. Who is directly responsible for the activities requiring a permit?",
+        "type": "string"
+      },
+      "96": {
+        "description": "Street Address",
+        "type": "string"
+      },
+      "97": {
+        "description": "3. Where is the contaminated site where risk-based restoration will be carried out?",
+        "type": "string"
+      },
+      "98": {
+        "description": "Geographic Coordinates (centre of site in lat/long, UTM (specify zone) or Yukon Albers)",
+        "type": "string"
+      },
+      "99": {
+        "description": "YG(5635EQ)F3 Rev.09/2016",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

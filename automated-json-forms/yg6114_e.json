@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "1038": {
+        "description": "YUKON EXPRESS ENTRY (YEE)",
+        "type": "string"
+      },
+      "1044": {
+        "description": "Registered Business Name                                                    Operating As (if applicable)",
+        "type": "string"
+      },
+      "1045": {
+        "description": "Date Established                                                                    Primary Business Language           English",
+        "type": "string"
+      },
+      "1046": {
+        "description": "French",
+        "type": "string"
+      },
+      "1051": {
+        "description": "Website",
+        "type": "string"
+      },
+      "1052": {
+        "description": "Type of Business                                                                      Industry/Sector",
+        "type": "string"
+      },
+      "1053": {
+        "description": "Address",
+        "type": "string"
+      },
+      "1054": {
+        "description": "City                                                                                          Province/Region",
+        "type": "string"
+      },
+      "1055": {
+        "description": "Phone                                 Fax                                 E-mail",
+        "type": "string"
+      },
+      "1056": {
+        "description": "Address",
+        "type": "string"
+      },
+      "1057": {
+        "description": "2B. Physical Address if different from Mailing Address",
+        "type": "string"
+      },
+      "1058": {
+        "description": "City                                                                                          Province/Region",
+        "type": "string"
+      },
+      "1059": {
+        "description": "Postal Code                                                                            Country",
+        "type": "string"
+      },
+      "1060": {
+        "description": "2C. Officer with signing authority for this business",
+        "type": "string"
+      },
+      "1061": {
+        "description": "Title                                                                                     Phone                                         Fax",
+        "type": "string"
+      },
+      "1062": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "1063": {
+        "description": "Confidential e-mail",
+        "type": "string"
+      },
+      "1064": {
+        "description": "Job Title:",
+        "type": "string"
+      },
+      "1065": {
+        "description": "3. POSITION INFORMATION",
+        "type": "string"
+      },
+      "1066": {
+        "description": "Job Description:",
+        "type": "string"
+      },
+      "1067": {
+        "description": "NOC (2011)                                                                                    Hours per/week (35-40 hrs)",
+        "type": "string"
+      },
+      "1068": {
+        "description": "Wage Rate $/hr for Yukon (as per ESDC\u2019s median wage rate)                           Salary per Annum:",
+        "type": "string"
+      },
+      "1069": {
+        "description": "YG(6114EQ)F13 Rev. 06/2016",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

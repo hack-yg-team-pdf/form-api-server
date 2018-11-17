@@ -1,0 +1,251 @@
+{
+  "fields": {
+    "properties": {
+      "147": {
+        "description": "Average percolation rate:  minutes per 25mm (1 inch)",
+        "type": "string"
+      },
+      "148": {
+        "description": "25 mm (1 inch)",
+        "type": "string"
+      },
+      "151": {
+        "description": "Depth at which you conducted the percolation test(s): Test hole 1 ; Test hole 2",
+        "type": "string"
+      },
+      "152": {
+        "description": "25 mm (1 inch)",
+        "type": "string"
+      },
+      "155": {
+        "description": "Soil(s) investigations and percolation test(s) were performed by:",
+        "type": "string"
+      },
+      "156": {
+        "description": "25 mm (1 inch)",
+        "type": "string"
+      },
+      "158": {
+        "description": "There must be at least 1.2 meters (4 feet) of receiving soils below the soil absorption system.  The bottom of the soil",
+        "type": "string"
+      },
+      "159": {
+        "description": "2.5m (8\u20193\u201d)",
+        "type": "string"
+      },
+      "160": {
+        "description": "3.5m (11\u20195\u201d)",
+        "type": "string"
+      },
+      "161": {
+        "description": "2.0m (6\u20196\u2019\u2019)",
+        "type": "string"
+      },
+      "162": {
+        "description": "3.0m (9\u20199\u201d)",
+        "type": "string"
+      },
+      "163": {
+        "description": "1.5m (5\u20190\u2019\u2019)",
+        "type": "string"
+      },
+      "164": {
+        "description": "2.5m (8\u20193\u201d)",
+        "type": "string"
+      },
+      "165": {
+        "description": "1.0m (3\u20193\u201d)",
+        "type": "string"
+      },
+      "166": {
+        "description": "2.0m (6\u20196\u2019\u2019)",
+        "type": "string"
+      },
+      "167": {
+        "description": "0.5m (1\u20197\u2019\u2019)",
+        "type": "string"
+      },
+      "168": {
+        "description": "1.5m (5\u20190\u2019\u2019)",
+        "type": "string"
+      },
+      "169": {
+        "description": "0.0m (0\u20190\u2019\u2019)",
+        "type": "string"
+      },
+      "170": {
+        "description": "1.0m (3\u20193\u201d)",
+        "type": "string"
+      },
+      "171": {
+        "description": "Description of Soil",
+        "type": "string"
+      },
+      "172": {
+        "description": "Description of Soil",
+        "type": "string"
+      },
+      "173": {
+        "description": "Soils Investigation: test hole 2",
+        "type": "string"
+      },
+      "175": {
+        "description": "Was ground water; a seasonal high ground water level; impervious soil (e.g., blue clay); or bed rock encountered while",
+        "type": "string"
+      },
+      "178": {
+        "description": "Performed by (please print)",
+        "type": "string"
+      },
+      "368": {
+        "description": "Applicant\u2019s Name    Telephone",
+        "type": "string"
+      },
+      "369": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "370": {
+        "description": "E-mail    Fax",
+        "type": "string"
+      },
+      "371": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "372": {
+        "description": "Property Owner\u2019s Name (if different than applicant\u2019s)",
+        "type": "string"
+      },
+      "373": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "374": {
+        "description": "Installer\u2019s Name    Telephone",
+        "type": "string"
+      },
+      "375": {
+        "description": "Business Name",
+        "type": "string"
+      },
+      "376": {
+        "description": "E-mail",
+        "type": "string"
+      },
+      "377": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "378": {
+        "description": "Legal Description  Lot #             Plan #      Subdivision",
+        "type": "string"
+      },
+      "379": {
+        "description": "Municipal Address (if known)",
+        "type": "string"
+      },
+      "380": {
+        "description": "Type of premises",
+        "type": "string"
+      },
+      "381": {
+        "description": "Other, describe",
+        "type": "string"
+      },
+      "382": {
+        "description": "Business, describe",
+        "type": "string"
+      },
+      "383": {
+        "description": "Residence, number of bedrooms",
+        "type": "string"
+      },
+      "384": {
+        "description": "Work Camp, capacity",
+        "type": "string"
+      },
+      "385": {
+        "description": "Sewage Disposal Systems manual",
+        "type": "string"
+      },
+      "386": {
+        "description": "Estimated Daily Sewage Flow",
+        "type": "string"
+      },
+      "389": {
+        "description": "Surface Water",
+        "type": "string"
+      },
+      "391": {
+        "description": "inside; or",
+        "type": "string"
+      },
+      "393": {
+        "description": "Note: To estimate your daily sewage flow, see the Estimated Sewage Flows Per Day table in Design Specifications for",
+        "type": "string"
+      },
+      "395": {
+        "description": "Water Source",
+        "type": "string"
+      },
+      "396": {
+        "description": "Water Holding Tank,",
+        "type": "string"
+      },
+      "397": {
+        "description": "Fax",
+        "type": "boolean"
+      },
+      "398": {
+        "description": "buried",
+        "type": "boolean"
+      },
+      "401": {
+        "description": "Well",
+        "type": "boolean"
+      },
+      "402": {
+        "description": "Other, describe (e.g., spring)",
+        "type": "boolean"
+      },
+      "403": {
+        "description": "Type of System (check all that are applicable)",
+        "type": "boolean"
+      },
+      "406": {
+        "description": "Soil Absorption System",
+        "type": "string"
+      },
+      "407": {
+        "description": "New, and if so, are there existing sewage disposal systems on the property",
+        "type": "boolean"
+      },
+      "408": {
+        "description": "Other, describe",
+        "type": "boolean"
+      },
+      "409": {
+        "description": "Yes, provide permit number(s)",
+        "type": "boolean"
+      },
+      "410": {
+        "description": "Mailing Address & Postal Code",
+        "type": "boolean"
+      },
+      "411": {
+        "description": "Replacement, complete Notification of Abandonment and Reclamation of a Sewage Disposal System form",
+        "type": "boolean"
+      },
+      "412": {
+        "description": "Septic Tank",
+        "type": "string"
+      },
+      "413": {
+        "description": "Date of installation of this sewage disposal system",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

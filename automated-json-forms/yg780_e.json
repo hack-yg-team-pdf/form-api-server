@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "448": {
+        "description": "1. Name of non-profit organization:",
+        "type": "string"
+      },
+      "449": {
+        "description": "Address:   Phone:",
+        "type": "string"
+      },
+      "450": {
+        "description": "2. Name of applicant:    Office held:",
+        "type": "string"
+      },
+      "451": {
+        "description": "If not an authorized officer, do you have written",
+        "type": "string"
+      },
+      "452": {
+        "description": "Yes (attach copy of authorization with the application)",
+        "type": "string"
+      },
+      "453": {
+        "description": "permission to act on behalf of the organization?",
+        "type": "string"
+      },
+      "454": {
+        "description": "No",
+        "type": "string"
+      },
+      "457": {
+        "description": "4. Name of person in charge and present at the function:",
+        "type": "string"
+      },
+      "458": {
+        "description": "5. Describe the type of function:",
+        "type": "string"
+      },
+      "459": {
+        "description": "Name of premises:",
+        "type": "string"
+      },
+      "460": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "461": {
+        "description": "In the:",
+        "type": "string"
+      },
+      "462": {
+        "description": "on the  day of , 20 , between the hours of  am/pm and  am/pm.",
+        "type": "string"
+      },
+      "463": {
+        "description": "on the  day of , 20 , between the hours of  am/pm and  am/pm.",
+        "type": "string"
+      },
+      "464": {
+        "description": "on the  day of , 20 , between the hours of  am/pm and  am/pm.",
+        "type": "string"
+      },
+      "465": {
+        "description": "on the  day of , 20 , between the hours of  am/pm and  am/pm.",
+        "type": "string"
+      },
+      "466": {
+        "description": "7. The conditions of this permit are (to be determined by the liquor inspector in discussions with the applicant):",
+        "type": "string"
+      },
+      "467": {
+        "description": "1.",
+        "type": "string"
+      },
+      "468": {
+        "description": "2.",
+        "type": "string"
+      },
+      "469": {
+        "description": "3.",
+        "type": "string"
+      },
+      "470": {
+        "description": "8. The maximum number of persons to be allowed at this function at any one time:",
+        "type": "string"
+      },
+      "471": {
+        "description": "Yes (attach copy of appropriate contract or authorization)",
+        "type": "string"
+      },
+      "472": {
+        "description": "9. Have you the permission of the property owner",
+        "type": "string"
+      },
+      "473": {
+        "description": "to serve alcohol on the premises?",
+        "type": "string"
+      },
+      "474": {
+        "description": "Full meal",
+        "type": "string"
+      },
+      "475": {
+        "description": "No",
+        "type": "string"
+      },
+      "476": {
+        "description": "Hors d\u2019oeuvres",
+        "type": "string"
+      },
+      "477": {
+        "description": "11. No advertising may be published or broadcast without first having been approved by Yukon Liquor Corporation.",
+        "type": "string"
+      },
+      "478": {
+        "description": "Buffet",
+        "type": "string"
+      },
+      "479": {
+        "description": "12. The applicant must purchase all liquor and a copy of the T15 (invoice/receipt) is to be attached to the permit.",
+        "type": "string"
+      },
+      "480": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "481": {
+        "description": "LIQUOR PURCHASES MAY BE PAID BY CASH, CERTIFIED CHEQUE, CREDIT CARD OR DEBIT CARD.",
+        "type": "string"
+      },
+      "482": {
+        "description": "SIGNATURE OF APPLICANT",
+        "type": "string"
+      },
+      "483": {
+        "description": "YG(780EQ)F2 Rev.03/2018",
+        "type": "string"
+      },
+      "484": {
+        "description": "Our legal authority for this collection is the Liquor Act, R.S.Y. 2002, c.140 and the Liquor Regulations, OIC 1977/37. If you have any questions about why we need this information",
+        "type": "string"
+      },
+      "485": {
+        "description": "DATE",
+        "type": "string"
+      },
+      "486": {
+        "description": "10. The following food will be available at this function:",
+        "type": "string"
+      },
+      "487": {
+        "description": "please contact Licensing & Inspections branch at (867) 667-5245 or Toll Free within Yukon 1-800-661-0408 ext 5245 or at 9031 Quartz Road, Whitehorse, Yukon Y1A 4P9.",
+        "type": "string"
+      },
+      "488": {
+        "description": "SIGNATURE OF ISSUER",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

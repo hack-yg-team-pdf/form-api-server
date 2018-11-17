@@ -1,0 +1,39 @@
+{
+  "fields": {
+    "properties": {
+      "49": {
+        "description": "I, , do swear/solemnly declare that:",
+        "type": "string"
+      },
+      "50": {
+        "description": "1.  I am the Secretary-Treasurer of the",
+        "type": "string"
+      },
+      "51": {
+        "description": "SWORN/AFFIRMED by me at , Yukon",
+        "type": "string"
+      },
+      "52": {
+        "description": "this  day of , 20.",
+        "type": "string"
+      },
+      "53": {
+        "description": "DEPONENT/AFFIANT",
+        "type": "string"
+      },
+      "54": {
+        "description": "PERSON ADMINISTERING OATH OR AFFIRMATION",
+        "type": "string"
+      },
+      "55": {
+        "description": "Section 1 that is in my possession except as permitted by law.",
+        "type": "boolean"
+      },
+      "58": {
+        "description": "The Oath may be administered by a notary public, a peace officer, or a judge of any court.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "29": {
+        "description": "Mining District",
+        "type": "string"
+      },
+      "30": {
+        "description": "I,   ,",
+        "type": "string"
+      },
+      "31": {
+        "description": "Occupation  , Phone  of",
+        "type": "string"
+      },
+      "32": {
+        "description": "Full Name",
+        "type": "string"
+      },
+      "33": {
+        "description": ",",
+        "type": "string"
+      },
+      "34": {
+        "description": ",",
+        "type": "string"
+      },
+      "35": {
+        "description": "And I make Oath and Say that:",
+        "type": "string"
+      },
+      "36": {
+        "description": "day of 20  under grouping number",
+        "type": "string"
+      },
+      "37": {
+        "description": "2. Work has been done on the said claim(s) to the value of at least  dollars",
+        "type": "string"
+      },
+      "38": {
+        "description": "in accordance with the schedule of representation work prepared by the Commissioner of the Yukon Territory,",
+        "type": "string"
+      },
+      "39": {
+        "description": "since the  day of  20",
+        "type": "string"
+      },
+      "40": {
+        "description": "The following is a detailed statement of such work (length, width and depth of each hole, pit, trench, stripped",
+        "type": "string"
+      },
+      "41": {
+        "description": "Years renewal requested",
+        "type": "string"
+      },
+      "43": {
+        "description": "Sworn before me at  this  day of  20  .",
+        "type": "string"
+      },
+      "44": {
+        "description": "Notary",
+        "type": "string"
+      },
+      "45": {
+        "description": "Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "string"
+      },
+      "46": {
+        "description": "about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines and",
+        "type": "string"
+      },
+      "47": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "48": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Placer Mining Act. Questions",
+        "type": "string"
+      },
+      "49": {
+        "description": "YG(5039Q) F2 04/2003",
+        "type": "string"
+      },
+      "50": {
+        "description": "Owner or Agent",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

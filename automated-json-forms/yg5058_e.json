@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "34": {
+        "description": "3. If you are licensed in another jurisdiction please provide a letter of standing from this jurisdiction.",
+        "type": "boolean"
+      },
+      "37": {
+        "description": "Dated at , this  day of , 20 .",
+        "type": "string"
+      },
+      "38": {
+        "description": "Signature of Applicant:",
+        "type": "string"
+      },
+      "39": {
+        "description": "1. Completed renewal application form.",
+        "type": "string"
+      },
+      "40": {
+        "description": "2. Required licensing fees.",
+        "type": "string"
+      },
+      "44": {
+        "description": "YG5924 at:  http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "358": {
+        "description": "All information requested in this application must be provided.  If application is not complete it will be",
+        "type": "string"
+      },
+      "359": {
+        "description": "returned or rejected.  Appropriate annual licence fee must be enclosed.",
+        "type": "string"
+      },
+      "362": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "363": {
+        "description": "Home telephone number",
+        "type": "string"
+      },
+      "364": {
+        "description": "I am practising in:",
+        "type": "string"
+      },
+      "367": {
+        "description": "4.  Clinic Address:",
+        "type": "boolean"
+      },
+      "371": {
+        "description": "Are you presently licensed to practise in another jurisdiction?               \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "374": {
+        "description": "Limitations, restrictions or conditions on this licence:       \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "377": {
+        "description": "7.  Annual Practice Hours: please enter the total number of hours you practised during the last licensing year (in Yukon and elsewhere);",
+        "type": "string"
+      },
+      "378": {
+        "description": "Hours",
+        "type": "string"
+      },
+      "379": {
+        "description": "8.  Annual Practice Hours in Yukon only: Please enter only the number of hours you practised in Yukon during the last licensing year:",
+        "type": "string"
+      },
+      "380": {
+        "description": "Hours",
+        "type": "string"
+      },
+      "381": {
+        "description": "information, contact the Director of Professional Licensing and Regulatory Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "382": {
+        "description": "Personal information contained on this form is collected under the Dental Profession Act and will be used for the purpose of administering the Act. For further",
+        "type": "string"
+      },
+      "383": {
+        "description": "YG(5058EQ)F2 Rev.3/2014",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

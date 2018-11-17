@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "357": {
+        "description": "Last:                                                         First:                                               Middle:",
+        "type": "string"
+      },
+      "358": {
+        "description": "Veteran\u2019s full name (veteran\u2019s name must appear on the vehicle registration, although vehicle may be jointly owned)",
+        "type": "string"
+      },
+      "359": {
+        "description": "SECTION 2 - APPLICANT INFORMATION (PLEASE PRINT USING CAPITAL LETTERS)",
+        "type": "string"
+      },
+      "360": {
+        "description": "Mailing address (street)",
+        "type": "string"
+      },
+      "361": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "362": {
+        "description": "Ferry Command",
+        "type": "string"
+      },
+      "363": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "364": {
+        "description": "Veterans must keep their approved original application so that it can be used again for another vehicle. For information con-",
+        "type": "string"
+      },
+      "365": {
+        "description": "Air Force",
+        "type": "string"
+      },
+      "366": {
+        "description": "SECTION 3 - SERVICE PARTICULARS",
+        "type": "string"
+      },
+      "367": {
+        "description": "Canadian",
+        "type": "string"
+      },
+      "370": {
+        "description": "Army",
+        "type": "string"
+      },
+      "373": {
+        "description": "Allied (specify country)",
+        "type": "string"
+      },
+      "374": {
+        "description": "Rank",
+        "type": "boolean"
+      },
+      "375": {
+        "description": "cerning the status of your application, please call the authorizing service organization you have selected from the top of this form.",
+        "type": "boolean"
+      },
+      "376": {
+        "description": "Date of birth",
+        "type": "boolean"
+      },
+      "377": {
+        "description": "Navy",
+        "type": "boolean"
+      },
+      "378": {
+        "description": "Merchant Navy",
+        "type": "boolean"
+      },
+      "379": {
+        "description": "RCMP",
+        "type": "boolean"
+      },
+      "380": {
+        "description": "Canadian Legion and its disclosure to the Yukon Motor Vehicles unit for the purpose of meeting the criteria for and the issuance of",
+        "type": "string"
+      },
+      "381": {
+        "description": "I hereby certify that the information provided by me in this form is true. Further, I consent to the collection of this information by the",
+        "type": "string"
+      },
+      "382": {
+        "description": "Dates of service",
+        "type": "string"
+      },
+      "383": {
+        "description": "From:  Y Y Y Y/ M M/ D D   to:   Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "384": {
+        "description": "A photocopy of the following documentation is required:",
+        "type": "string"
+      },
+      "385": {
+        "description": "SECTION 4 - DOCUMENTATION REQUIRED",
+        "type": "string"
+      },
+      "386": {
+        "description": "Regiment/ship/squadron/base or merchant navy/shipping co.",
+        "type": "string"
+      },
+      "387": {
+        "description": "Veteran\u2019s signature:      Date:",
+        "type": "boolean"
+      },
+      "388": {
+        "description": "RCMP        \u2022 An RCMP discharge certificate and certification of the applicant\u2019s service in a United Nations or NATO operation",
+        "type": "boolean"
+      },
+      "389": {
+        "description": "NOTE: To order a veteran plate, this original application form (certified and stamped by the authorizing Legion Branch)",
+        "type": "boolean"
+      },
+      "392": {
+        "description": "Signature of                                                                                          Date of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

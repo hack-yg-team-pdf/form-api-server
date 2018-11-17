@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "361": {
+        "description": "Province/territoire",
+        "type": "string"
+      },
+      "362": {
+        "description": "2. Adresse de l\u2019entreprise :",
+        "type": "string"
+      },
+      "363": {
+        "description": "4. Est-ce qu\u2019un dirigeant 1 ou un directeur de votre soci\u00e9t\u00e9 ou un membre",
+        "type": "string"
+      },
+      "364": {
+        "description": "1. Nom de l\u2019agence :",
+        "type": "string"
+      },
+      "365": {
+        "description": "2. Business Address:",
+        "type": "string"
+      },
+      "366": {
+        "description": "License Number:",
+        "type": "string"
+      },
+      "368": {
+        "description": "partnership:",
+        "type": "string"
+      },
+      "370": {
+        "description": "assignment in bankruptcy?",
+        "type": "string"
+      },
+      "371": {
+        "description": "3. Num\u00e9ro de t\u00e9l\u00e9phone :",
+        "type": "string"
+      },
+      "372": {
+        "description": "Num\u00e9ro de licence :",
+        "type": "string"
+      },
+      "373": {
+        "description": "LOI SUR LA PROTECTION DU CONSOMMATEUR",
+        "type": "string"
+      },
+      "374": {
+        "description": "3. Telephone Number:",
+        "type": "string"
+      },
+      "375": {
+        "description": "RENOUVELLEMENT DE LICENCE D\u2019UNE AGENCE DE RECOUVREMENT",
+        "type": "string"
+      },
+      "376": {
+        "description": "CONSUMER PROTECTION ACT",
+        "type": "string"
+      },
+      "378": {
+        "description": "Si oui, pr\u00e9cisez et joignez une copie du certificat de lib\u00e9ration.",
+        "type": "string"
+      },
+      "380": {
+        "description": "au cours de la derni\u00e8re ann\u00e9e?",
+        "type": "string"
+      },
+      "381": {
+        "description": "Fait \u00e0  , le  jour de  , 20",
+        "type": "string"
+      },
+      "382": {
+        "description": "Signature of Partner or Authorized Officer \u2022 Signature d\u2019un associ\u00e9 ou d\u2019un repr\u00e9sentant autoris\u00e9",
+        "type": "string"
+      },
+      "383": {
+        "description": "Name of Partner or Authorized Officer \u2022 Nom de l\u2019associ\u00e9 ou du repr\u00e9sentant autoris\u00e9",
+        "type": "string"
+      },
+      "384": {
+        "description": "Fee: $350.00",
+        "type": "string"
+      },
+      "387": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "388": {
+        "description": "Veuillez libeller votre ch\u00e8que au nom du gouvernement du Yukon ou fournir les informations demand\u00e9es ci-dessous remplissez",
+        "type": "string"
+      },
+      "389": {
+        "description": "Please make your cheque payable to Government of Yukon, or, complete payment information form YG5924 at: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "390": {
+        "description": "Personal information contained on this form is collected under the Consumer Protection Act and",
+        "type": "boolean"
+      },
+      "393": {
+        "description": "Les renseignements personnels demand\u00e9s dans les pr\u00e9sentes sont recueillis en vertu de la Loi sur la",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

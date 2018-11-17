@@ -1,0 +1,323 @@
+{
+  "fields": {
+    "properties": {
+      "122": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "123": {
+        "description": "Avez d\u00e9j\u00e0 \u00e9t\u00e9 cong\u00e9di\u00e9 pour motif suffisant par un employeur?",
+        "type": "string"
+      },
+      "124": {
+        "description": "12. Have you, or any of the directors, partners or officers of the firm, partnership or corporation, as the case may be:",
+        "type": "string"
+      },
+      "141": {
+        "description": "Avez d\u00e9j\u00e0 \u00e9t\u00e9 reconnu coupable de fraude par un tribunal civil dans quelque r\u00e9gion administrative que ce soit?",
+        "type": "string"
+      },
+      "144": {
+        "description": "If the answer to any part of questions number 9 or number 12 is yes, give complete details below:",
+        "type": "string"
+      },
+      "145": {
+        "description": "Nom et adresse de l\u2019employeur",
+        "type": "string"
+      },
+      "147": {
+        "description": "b)  Any plans to engage in business other than the Insurance Business?",
+        "type": "string"
+      },
+      "148": {
+        "description": "Envisagez de mener des activit\u00e9s autres que l\u2019assurance?",
+        "type": "string"
+      },
+      "151": {
+        "description": "Avez \u00e9t\u00e9 li\u00e9, \u00e0 titre de propri\u00e9taire, d\u2019associ\u00e9 ou d\u2019administrateur, \u00e0 une entreprise qui a fait l\u2019objet d\u2019une proc\u00e9dure de faillite ou fait faillite \u00e0 titre personnel?",
+        "type": "string"
+      },
+      "152": {
+        "description": "a)  Been authorized to act as, or on behalf of, an insurance agent, an insurer or an insurance adjuster in Canada or elsewhere?",
+        "type": "string"
+      },
+      "153": {
+        "description": "autorisation \u00e9tait suspendue ou r\u00e9voqu\u00e9e pour un motif suffisant au Canada ou ailleurs?",
+        "type": "string"
+      },
+      "154": {
+        "description": "c)  Been convicted in any civil court in any jurisdiction, for fraud?",
+        "type": "string"
+      },
+      "155": {
+        "description": "No/Non",
+        "type": "string"
+      },
+      "156": {
+        "description": "f)   Been refused a licence or otherwise denied authorization to act as an insurance agent, or has such licence or authorization been suspended or",
+        "type": "string"
+      },
+      "157": {
+        "description": "Avez d\u00e9j\u00e0 \u00e9t\u00e9 autoris\u00e9 \u00e0 agir comme agent d\u2019assurance, assureur ou expert en sinistres ou \u00e0 agir pour le compte de l\u2019un d\u2019eux au Canada ou ailleurs?",
+        "type": "string"
+      },
+      "158": {
+        "description": "Yes/Oui",
+        "type": "string"
+      },
+      "159": {
+        "description": "Vous \u00eates vu refuser une licence ou l\u2019autorisation d\u2019agir \u00e0 titre d\u2019agent d\u2019assurance ou d\u2019expert en sinistres ou signifier qu\u2019une telle licence ou",
+        "type": "string"
+      },
+      "160": {
+        "description": "e)  Failed to satisfy a judgement of a court for the award of money made against you?",
+        "type": "string"
+      },
+      "161": {
+        "description": "terminated for cause, in Canada or elsewhere?",
+        "type": "string"
+      },
+      "167": {
+        "description": "g)  Been discharged for cause, by an employer?",
+        "type": "string"
+      },
+      "168": {
+        "description": "Yes/Oui",
+        "type": "string"
+      },
+      "171": {
+        "description": "Exp\u00e9rience professionnelle au cours des cinq derni\u00e8res ann\u00e9es :",
+        "type": "string"
+      },
+      "173": {
+        "description": "Yes/Oui",
+        "type": "string"
+      },
+      "174": {
+        "description": "Si vous avez r\u00e9pondu oui \u00e0 l\u2019une ou l\u2019autre des sous-questions \u00e9num\u00e9r\u00e9es aux points 9 et 12, veuillez donner tous les d\u00e9tails :",
+        "type": "string"
+      },
+      "175": {
+        "description": "Dates",
+        "type": "string"
+      },
+      "176": {
+        "description": "Employer\u2019s name and address",
+        "type": "string"
+      },
+      "177": {
+        "description": "No/Non",
+        "type": "string"
+      },
+      "179": {
+        "description": "d)  Engaged in any business as owner, partner or director, who has been subject to proceedings in bankruptcy, or subject of personal bankruptcy?",
+        "type": "string"
+      },
+      "180": {
+        "description": "11. Employment history for previous five years:",
+        "type": "string"
+      },
+      "181": {
+        "description": "Est-ce que vous ou l\u2019un des administrateurs, associ\u00e9s ou dirigeants de l\u2019entreprise, de la soci\u00e9t\u00e9 de personnes ou de la soci\u00e9t\u00e9 par actions, selon le cas :",
+        "type": "string"
+      },
+      "182": {
+        "description": "Fees / Droits :",
+        "type": "boolean"
+      },
+      "183": {
+        "description": "Accident & Sickness             $50         Travel                              $5          Accident & Sickness             $100       Travel                                $5",
+        "type": "boolean"
+      },
+      "184": {
+        "description": "My Commission expires \u2022 Mon mandat expire le :",
+        "type": "string"
+      },
+      "186": {
+        "description": "Notary Public or Commissioner for Oaths (PLEASE PRINT) \u2022 Nom du notaire public ou Commissaire aux serments (EN LETTRES D\u00c9TACH\u00c9ES)",
+        "type": "string"
+      },
+      "189": {
+        "description": "Non-Resident Agents",
+        "type": "boolean"
+      },
+      "190": {
+        "description": "Sworn before me at",
+        "type": "string"
+      },
+      "191": {
+        "description": "3. Formulaire de recommandation d\u00fbment rempli (formulaire ci-joint) par",
+        "type": "boolean"
+      },
+      "193": {
+        "description": "Resident \u2022 R\u00e9sident",
+        "type": "boolean"
+      },
+      "196": {
+        "description": "is applying for a life or accident and sickness licence only).",
+        "type": "string"
+      },
+      "197": {
+        "description": "Signature of Notary Public or Commissioner for Oaths \u2022 Signature du notaire public ou Commissaire aux serments",
+        "type": "string"
+      },
+      "198": {
+        "description": "Non-Resident \u2022 Non-r\u00e9sident",
+        "type": "boolean"
+      },
+      "199": {
+        "description": "au Yukon,  le , 20",
+        "type": "string"
+      },
+      "200": {
+        "description": "Accidents et maladie             50 $           D\u00e9placement                  5 $             Accidents et maladie           100 $          D\u00e9placement                   5 $",
+        "type": "boolean"
+      },
+      "201": {
+        "description": "Fait sous serment devant moi \u00e0",
+        "type": "string"
+      },
+      "202": {
+        "description": "1. Completed application form and fees.",
+        "type": "boolean"
+      },
+      "203": {
+        "description": "(Applicant) Print Name \u2022 Nom du demandeur (en lettres d\u00e9tach\u00e9es)",
+        "type": "string"
+      },
+      "209": {
+        "description": "Life",
+        "type": "boolean"
+      },
+      "210": {
+        "description": "General",
+        "type": "boolean"
+      },
+      "213": {
+        "description": "Name of Applicant:",
+        "type": "boolean"
+      },
+      "214": {
+        "description": "of insurance on behalf of .",
+        "type": "boolean"
+      },
+      "216": {
+        "description": "NAME OF INSURANCE COMPANY (INSURER)",
+        "type": "string"
+      },
+      "220": {
+        "description": "Personal information contained on this form is collected under the Insurance Act and will be used for the purpose of administering the Act. For further",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "Official Capacity",
+        "type": "string"
+      },
+      "223": {
+        "description": "I recommend that the applicant named above be granted a licence as an agent in Yukon to solicit the following classes",
+        "type": "string"
+      },
+      "224": {
+        "description": "Name",
+        "type": "string"
+      },
+      "227": {
+        "description": "Accident and Sickness",
+        "type": "boolean"
+      },
+      "229": {
+        "description": "Date (YYYY/MM/DD)",
+        "type": "boolean"
+      },
+      "1091": {
+        "description": "1. Name of Applicant",
+        "type": "string"
+      },
+      "1092": {
+        "description": "2. Business Trade Name (if any):",
+        "type": "string"
+      },
+      "1093": {
+        "description": "Adresse professionnelle :",
+        "type": "string"
+      },
+      "1094": {
+        "description": "Date de naissance du demandeur :",
+        "type": "string"
+      },
+      "1095": {
+        "description": "5. Residence Address:",
+        "type": "string"
+      },
+      "1096": {
+        "description": "6. Residence Phone:                                            Business Phone:                                                     E-mail:",
+        "type": "string"
+      },
+      "1097": {
+        "description": "T\u00e9l\u00e9phone (domicile)\u00a0:   T\u00e9l\u00e9phone (bureau) :   Courriel :",
+        "type": "string"
+      },
+      "1098": {
+        "description": "Dommages : comme repr\u00e9sentant de",
+        "type": "string"
+      },
+      "1099": {
+        "description": "7. Class applied for:",
+        "type": "string"
+      },
+      "1100": {
+        "description": "Cat\u00e9gories d\u2019assurance vis\u00e9es :",
+        "type": "boolean"
+      },
+      "1102": {
+        "description": "Accident and Sickness: only to represent",
+        "type": "string"
+      },
+      "1103": {
+        "description": "Accidents et maladie : comme repr\u00e9sentant de",
+        "type": "boolean"
+      },
+      "1105": {
+        "description": "Life: including accident and sickness to represent",
+        "type": "string"
+      },
+      "1106": {
+        "description": "Vie : comme repr\u00e9sentant de",
+        "type": "boolean"
+      },
+      "1108": {
+        "description": "Attach a separate page if necessary. / Joignez une feuille s\u00e9par\u00e9e si n\u00e9cessaire.",
+        "type": "string"
+      },
+      "1109": {
+        "description": "Restricted: to represent",
+        "type": "boolean"
+      },
+      "1111": {
+        "description": "directe ou accessoire avec les affaires normales d\u2019un agent de voyage, comme repr\u00e9sentant de :",
+        "type": "string"
+      },
+      "1112": {
+        "description": "Permis restreint : comme repr\u00e9sentant de",
+        "type": "boolean"
+      },
+      "1114": {
+        "description": "Travel Agents only:  to undertake only travel, accident and sickness insurance incidental to/or as part of the normal business of a travel agent;",
+        "type": "string"
+      },
+      "1115": {
+        "description": "to represent",
+        "type": "string"
+      },
+      "1116": {
+        "description": "a)  Supervisor\u2019s name:",
+        "type": "string"
+      },
+      "1117": {
+        "description": "Num\u00e9ro de la licence du superviseur valide au Yukon\u00a0:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

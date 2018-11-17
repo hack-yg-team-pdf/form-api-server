@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Page 2",
+        "type": "string"
+      },
+      "34": {
+        "description": "Page 3",
+        "type": "string"
+      },
+      "35": {
+        "description": "FEARS FOR SECURITY",
+        "type": "string"
+      },
+      "40": {
+        "description": "Dated this",
+        "type": "string"
+      },
+      "41": {
+        "description": "20         , at",
+        "type": "string"
+      },
+      "42": {
+        "description": "Name (Please print)",
+        "type": "string"
+      },
+      "43": {
+        "description": "day of",
+        "type": "string"
+      },
+      "50": {
+        "description": "a screen or other device that would allow the victim not to see the offender; or 4) presenting the statement in any other",
+        "type": "string"
+      },
+      "51": {
+        "description": "The Canadian Victim Bill of Rights permits the presentation of this statement in court by 1) reading it; 2) reading it in the",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "Offender:",
+        "type": "string"
+      },
+      "81": {
+        "description": "Court File #:",
+        "type": "string"
+      },
+      "82": {
+        "description": "(name of community)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

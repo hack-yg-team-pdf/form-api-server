@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "properties": {
+      "47": {
+        "description": "1.",
+        "type": "string"
+      },
+      "48": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "49": {
+        "description": "1.",
+        "type": "string"
+      },
+      "50": {
+        "description": "2.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

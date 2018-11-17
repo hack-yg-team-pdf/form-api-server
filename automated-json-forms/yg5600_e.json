@@ -1,0 +1,223 @@
+{
+  "fields": {
+    "properties": {
+      "45": {
+        "description": "q  General Holiday Pay",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "(Period of Employment)",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "Claim Information",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "q  Overtime",
+        "type": "boolean"
+      },
+      "70": {
+        "description": "q Minimum Wage",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "q  Vacation Pay",
+        "type": "boolean"
+      },
+      "139": {
+        "description": "q  Wages/Deductions",
+        "type": "boolean"
+      },
+      "269": {
+        "description": "q q",
+        "type": "string"
+      },
+      "273": {
+        "description": "q",
+        "type": "string"
+      },
+      "274": {
+        "description": "Mailing Address          Street                                        City                                           Terr/Prov                           Postal Code",
+        "type": "string"
+      },
+      "275": {
+        "description": "Information",
+        "type": "string"
+      },
+      "276": {
+        "description": "Is this a Third Party Complaint?  q Yes         q  No",
+        "type": "string"
+      },
+      "277": {
+        "description": "Employer Information",
+        "type": "string"
+      },
+      "278": {
+        "description": "Legal/Business Name",
+        "type": "string"
+      },
+      "279": {
+        "description": "If yes, please provide your name and contact",
+        "type": "string"
+      },
+      "280": {
+        "description": "information in the Claim Details section of this form",
+        "type": "string"
+      },
+      "281": {
+        "description": "Mailing Address                    Street",
+        "type": "string"
+      },
+      "282": {
+        "description": "Contact                 (Bus)                                  (Res)                                (Cell)                                         (E-mail)",
+        "type": "string"
+      },
+      "283": {
+        "description": "City                      Terr/Prov                          Postal Code",
+        "type": "string"
+      },
+      "284": {
+        "description": "Name of General Contractor or Project",
+        "type": "string"
+      },
+      "287": {
+        "description": "Address of Worksite                Street",
+        "type": "string"
+      },
+      "288": {
+        "description": "Employment Information",
+        "type": "string"
+      },
+      "289": {
+        "description": "Employed As",
+        "type": "string"
+      },
+      "290": {
+        "description": "(Construction Industry)",
+        "type": "string"
+      },
+      "291": {
+        "description": "City                         Terr/Prov                            Postal Code",
+        "type": "string"
+      },
+      "292": {
+        "description": "If yes, attach originals",
+        "type": "string"
+      },
+      "293": {
+        "description": "of hours worked?                             q Yes     q No",
+        "type": "string"
+      },
+      "294": {
+        "description": "Date Employment Commenced",
+        "type": "string"
+      },
+      "295": {
+        "description": "Contact           (Bus)                    (Res)                 (Fax)                 (Cell)                                         (E-mail/Website)",
+        "type": "string"
+      },
+      "296": {
+        "description": "(yy/mm/dd)",
+        "type": "string"
+      },
+      "297": {
+        "description": "If yes, state particulars in the Claim Details section of this form",
+        "type": "string"
+      },
+      "298": {
+        "description": "Are you aware of any reason why",
+        "type": "string"
+      },
+      "299": {
+        "description": "Information",
+        "type": "string"
+      },
+      "300": {
+        "description": "agreement?    q Yes    q No         If yes, attach copy",
+        "type": "string"
+      },
+      "301": {
+        "description": "Name of Manager/Supervisor",
+        "type": "string"
+      },
+      "302": {
+        "description": "(yy/mm/dd)",
+        "type": "string"
+      },
+      "303": {
+        "description": "Nature of Business",
+        "type": "string"
+      },
+      "304": {
+        "description": "your employer will not pay earnings?   q Yes     q No   If yes, explain",
+        "type": "string"
+      },
+      "305": {
+        "description": "YG(5600Q)F2 01/2015",
+        "type": "string"
+      },
+      "306": {
+        "description": "Continued on next page\u2026",
+        "type": "string"
+      },
+      "307": {
+        "description": "Did you keep a personal record",
+        "type": "string"
+      },
+      "309": {
+        "description": "Date Last Worked",
+        "type": "string"
+      },
+      "321": {
+        "description": "Wage rate paid at date of termination (Complete One)",
+        "type": "string"
+      },
+      "322": {
+        "description": "$                                /Hour    $                                /Month    $                                /Daily    $                                /Week",
+        "type": "string"
+      },
+      "323": {
+        "description": "Other, explain",
+        "type": "string"
+      },
+      "324": {
+        "description": "Did you sign a written overtime",
+        "type": "string"
+      },
+      "325": {
+        "description": "How many hours of work per day?",
+        "type": "string"
+      },
+      "326": {
+        "description": "Are you still employed                     q Yes     q No                  If yes  4           Confidential     q Yes      q No",
+        "type": "boolean"
+      },
+      "327": {
+        "description": "by the employer named above?",
+        "type": "boolean"
+      },
+      "328": {
+        "description": "If no    4     q  Quit      q Fired       q Laid Off",
+        "type": "boolean"
+      },
+      "329": {
+        "description": "Pay Period    q  Weekly    q  Bi-Weekly    q Twice per month   q Monthly     q Other, explain:",
+        "type": "boolean"
+      },
+      "330": {
+        "description": "Are you covered by a collective agreement?  q Yes    q No",
+        "type": "boolean"
+      },
+      "331": {
+        "description": "Page 1 of 2",
+        "type": "string"
+      },
+      "333": {
+        "description": "How many hours of work per week?",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

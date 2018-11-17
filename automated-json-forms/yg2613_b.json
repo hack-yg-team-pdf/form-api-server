@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "446": {
+        "description": "Cour",
+        "type": "string"
+      },
+      "447": {
+        "description": "ReSPONSe tO WRIt",
+        "type": "string"
+      },
+      "448": {
+        "description": "AVIS DE R\u00c9PONSE",
+        "type": "string"
+      },
+      "449": {
+        "description": "name and residence",
+        "type": "string"
+      },
+      "450": {
+        "description": "name and residence",
+        "type": "string"
+      },
+      "451": {
+        "description": "name and residence",
+        "type": "string"
+      },
+      "452": {
+        "description": "2. The Garnishee disputes his/her liability to pay into Court part of",
+        "type": "string"
+      },
+      "453": {
+        "description": "demandeur/de la",
+        "type": "string"
+      },
+      "454": {
+        "description": "Adresse postale du",
+        "type": "string"
+      },
+      "455": {
+        "description": "at                                         in the Yukon Territory.",
+        "type": "string"
+      },
+      "456": {
+        "description": "FAIT ce   jour de/d\u2019 20 ,",
+        "type": "string"
+      },
+      "457": {
+        "description": "dated this                          day of",
+        "type": "string"
+      },
+      "458": {
+        "description": "2. The GARNlSHEE is to complete whichever one of the numbered",
+        "type": "string"
+      },
+      "459": {
+        "description": "INStRUCtIONS",
+        "type": "boolean"
+      },
+      "462": {
+        "description": "DIRECTIVES",
+        "type": "boolean"
+      },
+      "464": {
+        "description": "applicable wage exemptions.",
+        "type": "string"
+      },
+      "465": {
+        "description": "$",
+        "type": "string"
+      },
+      "466": {
+        "description": "$",
+        "type": "string"
+      },
+      "467": {
+        "description": "$",
+        "type": "string"
+      },
+      "468": {
+        "description": "amount into Court, in addition to any amount not disputed).",
+        "type": "string"
+      },
+      "469": {
+        "description": "$",
+        "type": "string"
+      },
+      "470": {
+        "description": "amount of money",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

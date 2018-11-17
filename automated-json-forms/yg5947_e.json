@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "202": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "203": {
+        "description": "FIRST NAME",
+        "type": "string"
+      },
+      "204": {
+        "description": "MIDDLE INITIAL",
+        "type": "string"
+      },
+      "205": {
+        "description": "Phone number:",
+        "type": "string"
+      },
+      "206": {
+        "description": "Yukon driver\u2019s licence no. (if known):      Date of birth:",
+        "type": "string"
+      },
+      "207": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "208": {
+        "description": "PROVINCE/TERRITORY",
+        "type": "string"
+      },
+      "209": {
+        "description": "DELIVERY INSTRUCTIONS",
+        "type": "string"
+      },
+      "212": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "213": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "214": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "215": {
+        "description": "Fax number: (  )    Email:",
+        "type": "string"
+      },
+      "216": {
+        "description": "DRIVER ABSTRACTS",
+        "type": "string"
+      },
+      "217": {
+        "description": "Driver abstracts are issued in 3 stages (3 year, 5 year and life). Most insurance companies require a 5 year abstract.",
+        "type": "string"
+      },
+      "218": {
+        "description": "Unless otherwise stated a 5 year abstract will be issued.",
+        "type": "string"
+      },
+      "223": {
+        "description": "PLEASE DO NOT EMAIL CREDIT CARD INFORMATION",
+        "type": "boolean"
+      },
+      "226": {
+        "description": "Fax request to:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

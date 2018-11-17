@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "80": {
+        "description": "Province/territory",
+        "type": "string"
+      },
+      "82": {
+        "description": "remain the same.",
+        "type": "string"
+      },
+      "83": {
+        "description": "*Please indicate only information to be revised in the appropriate fields below. All other information in your listing will",
+        "type": "string"
+      },
+      "85": {
+        "description": "Enclose one high quality (300 dpi) digital image of your work (or indicate that you will be emailing a digital image), and",
+        "type": "string"
+      },
+      "86": {
+        "description": "Artist bio (for website only, limit: 30-50 words)",
+        "type": "string"
+      },
+      "88": {
+        "description": "Image of work (for website only)",
+        "type": "string"
+      },
+      "89": {
+        "description": "sign on next page to give your permission for its use. Ensure that the image you choose is not only a good example of",
+        "type": "string"
+      },
+      "90": {
+        "description": "ART ADVENTURES ON YUKON TIME",
+        "type": "boolean"
+      },
+      "92": {
+        "description": "Page 2 of 4",
+        "type": "string"
+      },
+      "93": {
+        "description": "REVISION \u2013 FORM A: ARTISTS AND STUDIOS",
+        "type": "boolean"
+      },
+      "96": {
+        "description": "Website",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "Website",
+        "type": "string"
+      },
+      "102": {
+        "description": "Studio description (for printed guide and website, limit: 30-50 words)",
+        "type": "string"
+      },
+      "103": {
+        "description": "Email",
+        "type": "string"
+      },
+      "104": {
+        "description": "Physical location (if different than mailing address)",
+        "type": "string"
+      },
+      "105": {
+        "description": "Please publish on the Art Adventures website (check all that apply):",
+        "type": "string"
+      },
+      "110": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "114": {
+        "description": "Email",
+        "type": "string"
+      },
+      "116": {
+        "description": "I am submitting a new image                                                                  Credit my image to (optional):",
+        "type": "string"
+      },
+      "117": {
+        "description": "I am French or French speaking and I wish to have my listing appear in both languages",
+        "type": "string"
+      },
+      "118": {
+        "description": "your work but that the image is clear, bright, sharp and has enough contrast. The image will be viewed online.",
+        "type": "string"
+      },
+      "121": {
+        "description": "Physical location (We list the physical location of each studio. Provide clear directions, if required.)",
+        "type": "string"
+      },
+      "122": {
+        "description": "ARTIST INFORMATION",
+        "type": "boolean"
+      },
+      "125": {
+        "description": "Phone",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

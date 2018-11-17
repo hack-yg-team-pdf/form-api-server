@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "34": {
+        "description": "TRAVEL INFORMATION",
+        "type": "string"
+      },
+      "79": {
+        "description": "From",
+        "type": "string"
+      },
+      "107": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "128": {
+        "description": "Sport",
+        "type": "string"
+      },
+      "148": {
+        "description": "Cheque payable to",
+        "type": "string"
+      },
+      "166": {
+        "description": "Month",
+        "type": "string"
+      },
+      "179": {
+        "description": "Email",
+        "type": "string"
+      },
+      "191": {
+        "description": "Athlete",
+        "type": "string"
+      },
+      "207": {
+        "description": "a separate sheet with a list of the team members and put the total under \u201cAthlete\u201d.",
+        "type": "string"
+      },
+      "209": {
+        "description": "No",
+        "type": "string"
+      },
+      "211": {
+        "description": "Total claim",
+        "type": "string"
+      },
+      "212": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "294": {
+        "description": "3. YG sport and recreation",
+        "type": "string"
+      },
+      "308": {
+        "description": "2. Sport governing body",
+        "type": "string"
+      },
+      "341": {
+        "description": "AUTHORIZATION",
+        "type": "string"
+      },
+      "355": {
+        "description": "1. Claimant",
+        "type": "string"
+      },
+      "367": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "379": {
+        "description": "Date",
+        "type": "string"
+      },
+      "391": {
+        "description": "Name",
+        "type": "string"
+      },
+      "407": {
+        "description": "SPORT YUKON PAYMENT INFORMATION",
+        "type": "string"
+      },
+      "408": {
+        "description": "Cheque #:        Date paid",
+        "type": "string"
+      },
+      "409": {
+        "description": "YG(6542EQ)F1 03/2018",
+        "type": "string"
+      },
+      "411": {
+        "description": "Note: If the purpose is a Championship and there is a large number of athletes; please attach                    ATTACHED?",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

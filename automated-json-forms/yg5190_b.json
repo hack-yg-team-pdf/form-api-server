@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "982": {
+        "description": "Adresse domiciliaire",
+        "type": "string"
+      },
+      "983": {
+        "description": "Resident Address",
+        "type": "string"
+      },
+      "987": {
+        "description": "City  Ville",
+        "type": "string"
+      },
+      "988": {
+        "description": "Province/territoire                          Code postal",
+        "type": "string"
+      },
+      "994": {
+        "description": "D\u00e9nomination sociale de l\u2019entreprise et nom auquel la licence sera d\u00e9livr\u00e9e",
+        "type": "string"
+      },
+      "997": {
+        "description": "(867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "998": {
+        "description": "tion, contact the Director of Professional Licensing and Regulatory Affairs at",
+        "type": "string"
+      },
+      "999": {
+        "description": "and will be used for the purpose of administering the Act. For further informa-",
+        "type": "string"
+      },
+      "1000": {
+        "description": "YG(5190Q)F4 Rev. 11/2013",
+        "type": "string"
+      },
+      "1001": {
+        "description": "Present Employment:",
+        "type": "string"
+      },
+      "1002": {
+        "description": "Emploi actuel :",
+        "type": "string"
+      },
+      "1003": {
+        "description": "Personal information contained on this form is collected under the Insurance Act",
+        "type": "string"
+      },
+      "1004": {
+        "description": "avec le directeur de l\u2019accr\u00e9ditation professionnelle et affaires r\u00e9glementaires \u00e0",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

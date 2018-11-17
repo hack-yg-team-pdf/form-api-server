@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "33": {
+        "description": "Director, officer,or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "34": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "35": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "37": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "39": {
+        "description": "7.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "711": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "712": {
+        "description": "3.  Jurisdiction into which the corporation wishes to amalgamate :",
+        "type": "string"
+      },
+      "713": {
+        "description": "4.  Name(s), Yukon registry number(s) if applicable, and home jurisdiction(s) of all parties to the",
+        "type": "string"
+      },
+      "714": {
+        "description": "A Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "715": {
+        "description": "Home Jurisdiction / Autorit\u00e9 l\u00e9gislative comp\u00e9tente",
+        "type": "string"
+      },
+      "716": {
+        "description": "B Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "717": {
+        "description": "Home Jurisdiction / Autorit\u00e9 l\u00e9gislative comp\u00e9tente",
+        "type": "string"
+      },
+      "718": {
+        "description": "C Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "719": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "720": {
+        "description": "Home Jurisdiction  / Autorit\u00e9 l\u00e9gislative comp\u00e9tente",
+        "type": "string"
+      },
+      "721": {
+        "description": "D Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "722": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "723": {
+        "description": "Home Jurisdiction / Autorit\u00e9 l\u00e9gislative comp\u00e9tente",
+        "type": "string"
+      },
+      "724": {
+        "description": "5.  Date the amalgamation agreement was adopted by all parties",
+        "type": "string"
+      },
+      "725": {
+        "description": "toutes les parties :",
+        "type": "string"
+      },
+      "726": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

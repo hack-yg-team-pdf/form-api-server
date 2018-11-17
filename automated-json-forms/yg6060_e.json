@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "271": {
+        "description": "Fiscal year",
+        "type": "boolean"
+      },
+      "272": {
+        "description": "Name",
+        "type": "string"
+      },
+      "273": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "274": {
+        "description": "Director",
+        "type": "string"
+      },
+      "275": {
+        "description": "City",
+        "type": "string"
+      },
+      "277": {
+        "description": "President",
+        "type": "string"
+      },
+      "279": {
+        "description": "Month/day",
+        "type": "string"
+      },
+      "281": {
+        "description": "Secretary",
+        "type": "string"
+      },
+      "282": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "283": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "284": {
+        "description": "Staff",
+        "type": "string"
+      },
+      "286": {
+        "description": "Director",
+        "type": "string"
+      },
+      "288": {
+        "description": "Staff",
+        "type": "string"
+      },
+      "289": {
+        "description": "Director",
+        "type": "string"
+      },
+      "291": {
+        "description": "Postal",
+        "type": "string"
+      },
+      "292": {
+        "description": "Director",
+        "type": "string"
+      },
+      "293": {
+        "description": "Staff",
+        "type": "string"
+      },
+      "295": {
+        "description": "Month/day",
+        "type": "boolean"
+      },
+      "296": {
+        "description": "Please indicate whose information you would like to appear in our Sport and Recreation Contacts Directory by checking",
+        "type": "string"
+      },
+      "297": {
+        "description": "EXECUTIVE BOARD / STAFF",
+        "type": "boolean"
+      },
+      "299": {
+        "description": "Treasurer",
+        "type": "string"
+      },
+      "300": {
+        "description": "Name",
+        "type": "boolean"
+      },
+      "301": {
+        "description": "Director",
+        "type": "string"
+      },
+      "304": {
+        "description": "Position / title",
+        "type": "boolean"
+      },
+      "305": {
+        "description": "Director",
+        "type": "string"
+      },
+      "331": {
+        "description": "Director",
+        "type": "string"
+      },
+      "356": {
+        "description": "Director",
+        "type": "string"
+      },
+      "357": {
+        "description": "YSRG email",
+        "type": "string"
+      },
+      "358": {
+        "description": "the text box beside the position/title.",
+        "type": "string"
+      },
+      "359": {
+        "description": "Staff",
+        "type": "string"
+      },
+      "360": {
+        "description": "Vice president",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

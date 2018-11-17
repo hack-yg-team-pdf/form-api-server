@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "281": {
+        "description": "Other names by which you may be known",
+        "type": "string"
+      },
+      "282": {
+        "description": "First name(s)",
+        "type": "string"
+      },
+      "283": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "284": {
+        "description": "Course(s)",
+        "type": "string"
+      },
+      "285": {
+        "description": "completed the following courses:",
+        "type": "string"
+      },
+      "286": {
+        "description": "Email",
+        "type": "string"
+      },
+      "287": {
+        "description": "Date",
+        "type": "string"
+      },
+      "290": {
+        "description": "Applicant\u2019s signature",
+        "type": "string"
+      },
+      "291": {
+        "description": "I hereby authorize you to provide any and all information to Professional Licensing and Regulatory Affairs (PLRA)",
+        "type": "string"
+      },
+      "292": {
+        "description": "regarding my continuing education.",
+        "type": "string"
+      },
+      "293": {
+        "description": "I  confirm that",
+        "type": "string"
+      },
+      "294": {
+        "description": "APPLICANT NAME",
+        "type": "string"
+      },
+      "295": {
+        "description": "I certify that the information given is true and complete.",
+        "type": "string"
+      },
+      "296": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "297": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "298": {
+        "description": "Personal information is collected, used, and disclosed under the authority of Section 29(a) and (c) of the Access to Information and Protection of Privacy Act and under the Act",
+        "type": "string"
+      },
+      "299": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "300": {
+        "description": "Name (print)",
+        "type": "string"
+      },
+      "303": {
+        "description": "associated to the profession related to the licence being requested. It will be used for the purposes of these acts and their regulations, and to determine eligibility for licensure/",
+        "type": "string"
+      },
+      "304": {
+        "description": "YG(6648EQ)F2 10/2018",
+        "type": "string"
+      },
+      "305": {
+        "description": "Title and professional designation",
+        "type": "string"
+      },
+      "306": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "307": {
+        "description": "Name of organization",
+        "type": "string"
+      },
+      "311": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "312": {
+        "description": "Address",
+        "type": "string"
+      },
+      "316": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "317": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "318": {
+        "description": "Email",
+        "type": "string"
+      },
+      "319": {
+        "description": "Authorizing signature",
+        "type": "string"
+      },
+      "320": {
+        "description": "Date",
+        "type": "string"
+      },
+      "321": {
+        "description": "able form only. For further information about the collection of this information, contact Professional Licensing and Regulatory Affairs (PLRA), Community Services, Government",
+        "type": "string"
+      },
+      "322": {
+        "description": "of Yukon, by mail at P.O. Box 2703, Whitehorse, YT, Y1A 2C6, by phone at 867-667-5111, by fax at 867-667-3609, or by email at inquiry.plra@gov.yk.ca.",
+        "type": "string"
+      },
+      "323": {
+        "description": "registration. It will also be used to maintain a public register and for research and statistical purposes related to human resource planning. The latter is shared in a non-identifi-",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

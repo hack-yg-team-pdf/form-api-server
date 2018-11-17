@@ -1,0 +1,303 @@
+{
+  "fields": {
+    "properties": {
+      "42": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "44": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "45": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "46": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "48": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "50": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "51": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "52": {
+        "description": "FISCAL YEAR-END / FIN D\u2019EXERCICE",
+        "type": "string"
+      },
+      "53": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "54": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "55": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "57": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "58": {
+        "description": "9.  The fiscal year-end of the extra-territorial society is :",
+        "type": "string"
+      },
+      "59": {
+        "description": "La date de fin d\u2019exercice de la soci\u00e9t\u00e9 extra-territoriale est le :",
+        "type": "string"
+      },
+      "60": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "61": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "62": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "63": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "65": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "66": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "68": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "69": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "70": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "72": {
+        "description": "Postal Code / Code postale",
+        "type": "string"
+      },
+      "73": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "74": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "75": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "78": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "79": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "85": {
+        "description": "Postal Code / Code postale",
+        "type": "string"
+      },
+      "86": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "87": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "88": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "92": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "93": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "94": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "95": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "96": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "97": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "98": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "100": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "101": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "102": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "103": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "104": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "105": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "107": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "109": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "110": {
+        "description": "12. Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "112": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "114": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "115": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "116": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "117": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "118": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "119": {
+        "description": "14. Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "120": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "121": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "122": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "123": {
+        "description": "11. Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "124": {
+        "description": "Director, officer ,or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "126": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "128": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "129": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "130": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      },
+      "1259": {
+        "description": "2.  Assumed name, if any, under which the extra-territorial society will carry on business in Yukon :",
+        "type": "string"
+      },
+      "1260": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "1261": {
+        "description": "4.  The operations of the society are to be principally carried on in Yukon at :",
+        "type": "string"
+      },
+      "1262": {
+        "description": "Les activit\u00e9s de la soci\u00e9t\u00e9 extra-territoriale seront principalement exerc\u00e9es au Yukon \u00e0 :",
+        "type": "string"
+      },
+      "1263": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1264": {
+        "description": "City, municipality, or community / Ville, municipalit\u00e9 ou communaut\u00e9",
+        "type": "string"
+      },
+      "1265": {
+        "description": "6.  Jurisdiction of incorporation, continuance or amalgamation :",
+        "type": "string"
+      },
+      "1269": {
+        "description": "If yes, under what name? / Le cas \u00e9ch\u00e9ant, sous quelle d\u00e9nomination sociale?",
+        "type": "string"
+      },
+      "1270": {
+        "description": "Previously registered extra-territorial name / Nom extra-territoriale pr\u00e9c\u00e9dente",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

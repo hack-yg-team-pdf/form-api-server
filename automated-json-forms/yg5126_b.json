@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "Si vous avez des questions, veuillez communiquer avec Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires :",
+        "type": "boolean"
+      },
+      "50": {
+        "description": "par t\u00e9l\u00e9phone, au 867-667-5111; par t\u00e9l\u00e9copieur, au 867-667-3609; par courriel, \u00e0 PLRA@gov.yk.ca.",
+        "type": "boolean"
+      },
+      "532": {
+        "description": "Non-Residents must attach a letter of standing from all other jurisdictions they are currently licensed in.",
+        "type": "string"
+      },
+      "533": {
+        "description": "Les non-r\u00e9sidents (1) doivent annexer une lettre attestant du fait qu\u2019ils sont en r\u00e8gle dans toute r\u00e9gion administrative o\u00f9 ils exercent en vertu d\u2019une licence.",
+        "type": "string"
+      },
+      "534": {
+        "description": "Adresse du domiciliaire :",
+        "type": "string"
+      },
+      "535": {
+        "description": "Province/Territory \u2022 Province/Territoire",
+        "type": "string"
+      },
+      "536": {
+        "description": "City \u2022 Ville",
+        "type": "string"
+      },
+      "537": {
+        "description": "3. E-mail Address:",
+        "type": "string"
+      },
+      "538": {
+        "description": "5. Clinic Address:",
+        "type": "string"
+      },
+      "539": {
+        "description": "Courriel :",
+        "type": "string"
+      },
+      "540": {
+        "description": "Nom de la clinique :   Envoyer le courrier \u00e0 la clinique \u2610",
+        "type": "boolean"
+      },
+      "542": {
+        "description": "Adresse de la clinique  :",
+        "type": "string"
+      },
+      "543": {
+        "description": "Province/Territory \u2022 Province/Territoire",
+        "type": "string"
+      },
+      "544": {
+        "description": "City \u2022 Ville",
+        "type": "string"
+      },
+      "545": {
+        "description": "Postal code \u2022 Code postal                                                Telephone number \u2022 T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "548": {
+        "description": "If yes, where? Si oui, laquelle?",
+        "type": "string"
+      },
+      "551": {
+        "description": "Limitations, restrictions or conditions on this licence:",
+        "type": "string"
+      },
+      "552": {
+        "description": "Nombre d\u2019heures d\u2019exercice annuel - veuillez indiquer le total des heures d\u2019exercice que vous avez cumul\u00e9es au cours de la derni\u00e8re ann\u00e9e vis\u00e9e",
+        "type": "string"
+      },
+      "553": {
+        "description": "Nombre d\u2019heures d\u2019exercice annuel au Yukon - veuillez indiquer seulement les heures d\u2019exercice que vous avez cumul\u00e9es au Yukon au cours la",
+        "type": "string"
+      },
+      "554": {
+        "description": "Fait \u00e0 , ce   jour de , 20",
+        "type": "string"
+      },
+      "555": {
+        "description": "Signature of Applicant \u2022 Signature du demandeur",
+        "type": "string"
+      },
+      "556": {
+        "description": "les femmes.",
+        "type": "string"
+      },
+      "557": {
+        "description": "Dated at",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

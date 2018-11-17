@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "212": {
+        "description": "Child care subsidy applicant First name   Last name",
+        "type": "string"
+      },
+      "213": {
+        "description": "may attach additional documentation to this application.",
+        "type": "string"
+      },
+      "214": {
+        "description": "information provided will be used to access the need for child care. More than one area may apply. If necessary, you",
+        "type": "string"
+      },
+      "215": {
+        "description": "The above-named applicant has applied for a child care subsidy for his/her child(ren) to attend a child care facility under one or",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "a social worker or Family and Children's Services). For a maximum of 6 months of care.",
+        "type": "boolean"
+      },
+      "218": {
+        "description": "by a physician, nurse, social worker, support worker, child development specialist). For a maximum of 6 months of care.",
+        "type": "string"
+      },
+      "219": {
+        "description": "Child care is required for respite purposes (typically recommended by a physician or social worker). For a maximum of 3 months of care.",
+        "type": "string"
+      },
+      "220": {
+        "description": "Explain",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "Child care is required to enhance the physical, social or cultural environment to aid in the development of the child. Explain how",
+        "type": "string"
+      },
+      "222": {
+        "description": "the child will benefit from being enrolled in child care. (This must be accompanied with an Individual Program Plan (IPP).",
+        "type": "string"
+      },
+      "223": {
+        "description": "Explain",
+        "type": "boolean"
+      },
+      "224": {
+        "description": "Most often filled out and recommended by a professional at the Child Development Centre). For a maximum of 6 months of care.",
+        "type": "string"
+      },
+      "225": {
+        "description": "Emergency child care services are required to meet a short-term family crisis (typically recommended by a physician,",
+        "type": "string"
+      },
+      "226": {
+        "description": "Explain",
+        "type": "boolean"
+      },
+      "227": {
+        "description": "support worker or social worker). For a maximum of 1 month of care.",
+        "type": "string"
+      },
+      "228": {
+        "description": "TO BE FILLED OUT BY PROFESSIONAL COMPLETING THIS FORM.",
+        "type": "string"
+      },
+      "229": {
+        "description": "Child care is recommended for  hours per day,  days per week.",
+        "type": "string"
+      },
+      "230": {
+        "description": "Name of professional completing this form (please print)",
+        "type": "string"
+      },
+      "231": {
+        "description": "Declaration: I hereby declare that to the best of my/our knowledge and belief the above information is true and I give",
+        "type": "string"
+      },
+      "232": {
+        "description": "permission to the Department of Health and Social Services to verify the above information in any way necessary.",
+        "type": "string"
+      },
+      "233": {
+        "description": "YG(3957EQ)PD Rev.05/2018",
+        "type": "string"
+      },
+      "234": {
+        "description": "Box 2703, Whitehorse, Yukon Y1A 2C6",
+        "type": "string"
+      },
+      "235": {
+        "description": "You may obtain a written statement of Health and Social Services information practices at www.hss.gov.yk.ca/healthprivacy.php or by contacting",
+        "type": "boolean"
+      },
+      "238": {
+        "description": "the department\u2019s Privacy Officer at healthprivacy@gov.yk.ca.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

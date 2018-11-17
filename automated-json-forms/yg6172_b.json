@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "264": {
+        "description": "Societies Act (Subsection 30(4)) Form 13",
+        "type": "string"
+      },
+      "265": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "266": {
+        "description": "elle exercera ses activit\u00e9s au Yukon :",
+        "type": "string"
+      },
+      "267": {
+        "description": "5.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "268": {
+        "description": "3.  Name under which extra-territorial society is registered in Yukon and under which it will hereafter carry",
+        "type": "string"
+      },
+      "269": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "270": {
+        "description": "Signature / Signature",
+        "type": "string"
+      },
+      "271": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "fields": {
+    "properties": {
+      "164": {
+        "description": "3.0m (9\u20199\u201d)",
+        "type": "string"
+      },
+      "166": {
+        "description": "Perform at least 1 soils investigation and 1 percolation test in accordance with Septic Systems in the Yukon: Guidelines",
+        "type": "string"
+      },
+      "169": {
+        "description": "Soils Investigation(s) and Percolation Test(s)",
+        "type": "string"
+      },
+      "171": {
+        "description": "Description of Soil",
+        "type": "string"
+      },
+      "172": {
+        "description": "1.",
+        "type": "string"
+      },
+      "173": {
+        "description": "Note: Percolation tests must be conducted at the depth at which the system will be installed",
+        "type": "string"
+      },
+      "175": {
+        "description": "2.",
+        "type": "string"
+      },
+      "178": {
+        "description": "There must be at least 1.2 meters (4 feet) of receiving soils below the soil absorption system. The bottom of the soil",
+        "type": "string"
+      },
+      "179": {
+        "description": "25 mm (1 inch)",
+        "type": "string"
+      },
+      "182": {
+        "description": "for Soils Investigation & Percolation Tests and report the information below. For systems which will receive an estimated",
+        "type": "string"
+      },
+      "184": {
+        "description": "2.5m (8\u20193\u201d)",
+        "type": "string"
+      },
+      "185": {
+        "description": "0.0m (0\u20190\u2019\u2019)",
+        "type": "string"
+      },
+      "186": {
+        "description": "Soils Investigation: test hole 1",
+        "type": "string"
+      },
+      "190": {
+        "description": "Soils investigation(s) and percolation test(s) were performed by:",
+        "type": "string"
+      },
+      "191": {
+        "description": "Performed by (please print)   Date",
+        "type": "string"
+      },
+      "192": {
+        "description": "daily sewage flow of 2850 liters (625 imperial gallons) or more - equivalent to 5 bedrooms or more, at least 2 soils",
+        "type": "string"
+      },
+      "193": {
+        "description": "1.0m (3\u20193\u201d)",
+        "type": "string"
+      },
+      "197": {
+        "description": "25 mm (1 inch)",
+        "type": "string"
+      },
+      "199": {
+        "description": "2.0m (6\u20196\u2019\u2019)",
+        "type": "string"
+      },
+      "200": {
+        "description": "Depth  at  which  you  conducted  the  percolation  test(s):  Test  hole  1  ;  Test  hole  2",
+        "type": "string"
+      },
+      "201": {
+        "description": "investigations and 2 percolation tests must be done.",
+        "type": "string"
+      },
+      "204": {
+        "description": "Depth",
+        "type": "string"
+      },
+      "205": {
+        "description": "25 mm (1 inch)",
+        "type": "string"
+      },
+      "206": {
+        "description": "0.0m (0\u20190\u2019\u2019)",
+        "type": "string"
+      },
+      "211": {
+        "description": "1.5m (5\u20190\u2019\u2019)",
+        "type": "string"
+      },
+      "212": {
+        "description": "3.",
+        "type": "string"
+      },
+      "213": {
+        "description": "0.5m (1\u20197\u2019\u2019)",
+        "type": "string"
+      },
+      "215": {
+        "description": "Average percolation rate:  minutes per 25mm (1 inch)",
+        "type": "string"
+      },
+      "219": {
+        "description": "Trench(es):  number of trenches  ; length  ; width",
+        "type": "string"
+      },
+      "220": {
+        "description": "Yes       No (If no, certification equivalency must be confirmed by a qualified engineer)",
+        "type": "string"
+      },
+      "224": {
+        "description": "Total Volume  Working Volume, does not include siphon / pump chamber",
+        "type": "string"
+      },
+      "225": {
+        "description": "Trickle*       Siphon       Pump-up",
+        "type": "string"
+      },
+      "226": {
+        "description": "Soil Absorption System (check one: all measurements are in",
+        "type": "string"
+      },
+      "231": {
+        "description": "A 0.6 meter (2 foot) sand filter will be installed (a sample of filter sand must be submitted)",
+        "type": "string"
+      },
+      "232": {
+        "description": "Fiberglass       Other, describe",
+        "type": "string"
+      },
+      "236": {
+        "description": "Page 3 of 6",
+        "type": "string"
+      },
+      "237": {
+        "description": "For Septic Tanks, means of discharging sewage:",
+        "type": "string"
+      },
+      "238": {
+        "description": "Chambers; make and model of product to be used?",
+        "type": "string"
+      },
+      "242": {
+        "description": "Material of Construction",
+        "type": "string"
+      },
+      "246": {
+        "description": "Absorption bed; dimensions:  length  ; width  ; total area",
+        "type": "string"
+      },
+      "248": {
+        "description": "Soil absorption system will utilize (check one):",
+        "type": "string"
+      },
+      "249": {
+        "description": "If the soil absorption system is installed in soils with a percolation rate less than five minutes:",
+        "type": "string"
+      },
+      "253": {
+        "description": "Manufacturer  Supplier",
+        "type": "string"
+      },
+      "258": {
+        "description": "Source of filter sand:",
+        "type": "boolean"
+      },
+      "260": {
+        "description": "Perforated Pipe & Drain Rock; depth of drain rock below perforated pipe?",
+        "type": "string"
+      },
+      "262": {
+        "description": "Soil absorption system configuration (check one):",
+        "type": "string"
+      },
+      "264": {
+        "description": "Tanks with Effluent Filters are strongly recommended.",
+        "type": "string"
+      },
+      "268": {
+        "description": "Provide a line drawing on the following page, or attach separately, which includes the location of the (check box when",
+        "type": "string"
+      },
+      "271": {
+        "description": "roads and driveways;",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "systems; and",
+        "type": "boolean"
+      },
+      "278": {
+        "description": "water wells;",
+        "type": "boolean"
+      },
+      "280": {
+        "description": "septic tank;",
+        "type": "boolean"
+      },
+      "281": {
+        "description": "shall be no bends in pipe from building to tank.*",
+        "type": "boolean"
+      },
+      "282": {
+        "description": "For Environmental Health Services Use Only",
+        "type": "boolean"
+      },
+      "286": {
+        "description": "locations of test holes used for soils",
+        "type": "boolean"
+      },
+      "287": {
+        "description": "building(s) which this sewage disposal system",
+        "type": "boolean"
+      },
+      "289": {
+        "description": "completed):",
+        "type": "boolean"
+      },
+      "291": {
+        "description": "any other buildings or structures.",
+        "type": "boolean"
+      },
+      "295": {
+        "description": "any buildings(s);",
+        "type": "boolean"
+      },
+      "297": {
+        "description": "roads and driveways; and",
+        "type": "boolean"
+      },
+      "300": {
+        "description": "including seasonal high water mark;",
+        "type": "boolean"
+      },
+      "303": {
+        "description": "trenches);",
+        "type": "boolean"
+      },
+      "304": {
+        "description": "Setback distances must also be provided, and include those between this sewage disposal system and:",
+        "type": "boolean"
+      },
+      "305": {
+        "description": "Proposed Layout (check one: all measurements are in     feet; or        meters)",
+        "type": "string"
+      },
+      "307": {
+        "description": "lot boundaries;",
+        "type": "boolean"
+      },
+      "308": {
+        "description": "Lot Dimensions  x       Hectares/Acres",
+        "type": "string"
+      },
+      "312": {
+        "description": "Email: environmental.health@gov.yk.ca",
+        "type": "boolean"
+      },
+      "313": {
+        "description": "Phone: 867.667.8391 or 1.800.661.0408 ext. 8391;  Fax: 867.667.8322",
+        "type": "boolean"
+      },
+      "325": {
+        "description": "Name of Applicant, Property Owner, or Installer (please print)",
+        "type": "string"
+      },
+      "326": {
+        "description": "Signature of Applicant, Property Owner, or Installer",
+        "type": "string"
+      },
+      "451": {
+        "description": "Municipal Address (if known)",
+        "type": "string"
+      },
+      "452": {
+        "description": "Legal Description Lot #   Plan #   Subdivision",
+        "type": "string"
+      },
+      "453": {
+        "description": "E-mail    Fax",
+        "type": "string"
+      },
+      "454": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "455": {
+        "description": "Business Name",
+        "type": "string"
+      },
+      "456": {
+        "description": "Installer\u2019s Name     Telephone",
+        "type": "string"
+      },
+      "457": {
+        "description": "Telephone    Fax",
+        "type": "string"
+      },
+      "458": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "459": {
+        "description": "Property Owner\u2019s Name (if different than applicant\u2019s)",
+        "type": "string"
+      },
+      "460": {
+        "description": "E-mail    Fax",
+        "type": "string"
+      },
+      "461": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "462": {
+        "description": "Applicant\u2019s Name    Telephone",
+        "type": "string"
+      },
+      "463": {
+        "description": "result in delays in issuing your Permit to Install a Sewage Disposal System.",
+        "type": "string"
+      },
+      "464": {
+        "description": "Review date and Initials",
+        "type": "string"
+      },
+      "465": {
+        "description": "This application must be fully completed prior to being submitted to Environmental Health Services. Failure to do so may",
+        "type": "string"
+      },
+      "466": {
+        "description": "Type of System (check all that are applicable)",
+        "type": "string"
+      },
+      "467": {
+        "description": "Water Source",
+        "type": "string"
+      },
+      "468": {
+        "description": "Sewage Disposal Systems manual",
+        "type": "string"
+      },
+      "469": {
+        "description": "Note: To estimate your daily sewage flow, see the Estimated Sewage Flows Per Day table in Design Specifications for",
+        "type": "string"
+      },
+      "472": {
+        "description": "Estimated Daily Sewage Flow",
+        "type": "string"
+      },
+      "475": {
+        "description": "Water Holding Tank,     inside; or     buried",
+        "type": "string"
+      },
+      "478": {
+        "description": "Well",
+        "type": "string"
+      },
+      "481": {
+        "description": "Surface Water",
+        "type": "string"
+      },
+      "482": {
+        "description": "Other, describe",
+        "type": "string"
+      },
+      "495": {
+        "description": "Residence, number of bedrooms          Work Camp, capacity",
+        "type": "boolean"
+      },
+      "501": {
+        "description": "No; or      Yes, provide permit number(s)",
+        "type": "string"
+      },
+      "502": {
+        "description": "Septic Tank",
+        "type": "boolean"
+      },
+      "504": {
+        "description": "Replacement, complete Notification of Abandonment and Reclamation of a Sewage Disposal System form",
+        "type": "boolean"
+      },
+      "506": {
+        "description": "upon completion of work",
+        "type": "boolean"
+      },
+      "508": {
+        "description": "Other, describe",
+        "type": "boolean"
+      },
+      "510": {
+        "description": "New, and if so, are there existing sewage disposal systems on the property",
+        "type": "boolean"
+      },
+      "512": {
+        "description": "Soil Absorption System",
+        "type": "string"
+      },
+      "513": {
+        "description": "If a Sewage Holding Tank is being installed, provide rationale",
+        "type": "boolean"
+      },
+      "515": {
+        "description": "YG(4307EQ)F6 Rev.06/2016",
+        "type": "boolean"
+      },
+      "517": {
+        "description": "Page 1 of 6",
+        "type": "boolean"
+      },
+      "519": {
+        "description": "Other, explain",
+        "type": "string"
+      },
+      "520": {
+        "description": "Soil absorption conditions make the lot unsuitable for a ground absorption system",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

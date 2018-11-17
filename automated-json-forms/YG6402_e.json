@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "43": {
+        "description": "MEP File #",
+        "type": "string"
+      },
+      "144": {
+        "description": "TOTAL DUE: $          TOTAL PAID: $",
+        "type": "string"
+      },
+      "145": {
+        "description": "Date YYYY/MM/DD",
+        "type": "string"
+      },
+      "146": {
+        "description": "TOTAL ARREARS AS OF",
+        "type": "string"
+      },
+      "147": {
+        "description": "YG(6402EQ)F1 11/2016",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

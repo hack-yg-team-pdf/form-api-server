@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "267": {
+        "description": "I,",
+        "type": "string"
+      },
+      "268": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "271": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "272": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "273": {
+        "description": "Yukon driver licence/GIC no.",
+        "type": "string"
+      },
+      "277": {
+        "description": "Name",
+        "type": "string"
+      },
+      "278": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "279": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "285": {
+        "description": "Licence or professional certification #:",
+        "type": "string"
+      },
+      "288": {
+        "description": "In my professional opinion, the applicant\u2019s gender identity is (please check one):",
+        "type": "boolean"
+      },
+      "291": {
+        "description": "Date",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

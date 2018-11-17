@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "27": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "28": {
+        "description": "8.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "29": {
+        "description": "7.  Other provisions, if any / Autres clauses, le cas \u00e9ch\u00e9ant :",
+        "type": "string"
+      },
+      "34": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "35": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "37": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "41": {
+        "description": "9.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "45": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "613": {
+        "description": "La soci\u00e9t\u00e9 par actions fusionn\u00e9e est issue de la fusion des personnes morales suivantes :",
+        "type": "string"
+      },
+      "614": {
+        "description": "A Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "615": {
+        "description": "Home Jurisdiction / Autorit\u00e9 l\u00e9gislative comp\u00e9tente",
+        "type": "string"
+      },
+      "616": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "617": {
+        "description": "Home Jurisdiction / Autorit\u00e9 l\u00e9gislative comp\u00e9tente",
+        "type": "string"
+      },
+      "618": {
+        "description": "Home Jurisdiction / Autorit\u00e9 l\u00e9gislative comp\u00e9tente",
+        "type": "string"
+      },
+      "619": {
+        "description": "B Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "620": {
+        "description": "C Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "621": {
+        "description": "D Name of the Body Corporate / D\u00e9nomination sociale de la entit\u00e9 commerciale",
+        "type": "string"
+      },
+      "622": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "623": {
+        "description": "Home Jurisdiction / Autorit\u00e9 l\u00e9gislative comp\u00e9tente",
+        "type": "string"
+      },
+      "624": {
+        "description": "3.  The classes of shares that the amalgamated corporation is authorized to issue (including the",
+        "type": "string"
+      },
+      "625": {
+        "description": "renseignements obligatoires en vertu de l\u2019alin\u00e9a 8(1)b) de la Loi sur les soci\u00e9t\u00e9s par actions) :",
+        "type": "string"
+      },
+      "626": {
+        "description": "5.  Number of directors (or minimum and maximum number) :",
+        "type": "string"
+      },
+      "627": {
+        "description": "Nombre  d\u2019administrateurs (ou le nombre minimal et maximal) :",
+        "type": "string"
+      },
+      "628": {
+        "description": "YG(6129Q)F2 03/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

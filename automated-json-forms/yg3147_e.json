@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "66": {
+        "description": "1.",
+        "type": "string"
+      },
+      "67": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "68": {
+        "description": "1.",
+        "type": "string"
+      },
+      "69": {
+        "description": "2.",
+        "type": "string"
+      },
+      "70": {
+        "description": "I,  , of",
+        "type": "string"
+      },
+      "71": {
+        "description": "Yukon,",
+        "type": "string"
+      },
+      "72": {
+        "description": "CONSENT TO ACT AS LITIGATION GUARDIAN FOR:",
+        "type": "string"
+      },
+      "73": {
+        "description": "\uf06f  the plaintiff",
+        "type": "string"
+      },
+      "74": {
+        "description": "\uf06f  the third party",
+        "type": "string"
+      },
+      "75": {
+        "description": "who is under a legal disability as follows:",
+        "type": "string"
+      },
+      "76": {
+        "description": "\uf06f  minor (under 19 years of age)",
+        "type": "boolean"
+      },
+      "78": {
+        "description": "\uf06f  incapable of managing his or her affairs",
+        "type": "boolean"
+      },
+      "79": {
+        "description": "My relationship to  is",
+        "type": "string"
+      },
+      "80": {
+        "description": "person under a legal disability for whom I act.",
+        "type": "string"
+      },
+      "81": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "82": {
+        "description": "2.",
+        "type": "boolean"
+      },
+      "83": {
+        "description": "(Name)",
+        "type": "boolean"
+      },
+      "84": {
+        "description": "(address and telephone number)",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "Signature of Litigation Guardian",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "If I am acting as litigation guardian for the plaintiff, I acknowledge that I know I may be personally liable, under",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "80": {
+        "description": "surname \u2022 nom",
+        "type": "string"
+      },
+      "83": {
+        "description": "given names \u2022 pr\u00e9noms",
+        "type": "string"
+      },
+      "84": {
+        "description": "Nom propos\u00e9 au complet",
+        "type": "string"
+      },
+      "85": {
+        "description": "given names \u2022 pr\u00e9noms",
+        "type": "string"
+      },
+      "86": {
+        "description": "Present address",
+        "type": "string"
+      },
+      "87": {
+        "description": "Adresse actuelle",
+        "type": "string"
+      },
+      "88": {
+        "description": "postal code \u2022 code postal",
+        "type": "string"
+      },
+      "89": {
+        "description": "Telephone No.",
+        "type": "string"
+      },
+      "90": {
+        "description": "Prior address(es) (for 3 months",
+        "type": "string"
+      },
+      "91": {
+        "description": "Date de naissance",
+        "type": "string"
+      },
+      "92": {
+        "description": "Lieu de naissance",
+        "type": "string"
+      },
+      "93": {
+        "description": "country \u2022 pays",
+        "type": "string"
+      },
+      "94": {
+        "description": "territory, province, state \u2022 territoire, province, \u00e9tat",
+        "type": "string"
+      },
+      "95": {
+        "description": "Reason for this request",
+        "type": "string"
+      },
+      "96": {
+        "description": "NOTICE TO CLIENTS:",
+        "type": "string"
+      },
+      "97": {
+        "description": "SIGNATURE OF APPLICANT",
+        "type": "string"
+      },
+      "98": {
+        "description": "DATE OF APPLICATION",
+        "type": "string"
+      },
+      "99": {
+        "description": "Information is collected under the authority of the Change of Name Act for the purpose",
+        "type": "boolean"
+      },
+      "102": {
+        "description": "Les renseignements fournis dans les pr\u00e9sentes sont recueillis en vertu de la Loi sur",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

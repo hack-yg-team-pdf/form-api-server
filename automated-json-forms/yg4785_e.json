@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "properties": {
+      "221": {
+        "description": "Collector Names",
+        "type": "string"
+      },
+      "223": {
+        "description": "Total Acquisitions within Jurisdiction (FTG-2)",
+        "type": "string"
+      },
+      "224": {
+        "description": "SHOW TOTALS CARRIED FORWARD TO \u201cFUEL TAX SUMMARY FORM - FTG-TAX\u201d",
+        "type": "string"
+      },
+      "225": {
+        "description": "YG(4785Q)F1 Rev.12/2000",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

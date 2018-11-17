@@ -1,0 +1,39 @@
+{
+  "fields": {
+    "properties": {
+      "49": {
+        "description": "File No",
+        "type": "string"
+      },
+      "50": {
+        "description": "PLAINTIFF (VICTIM):",
+        "type": "string"
+      },
+      "51": {
+        "description": "DEFENDANT (OFFENDER):",
+        "type": "string"
+      },
+      "52": {
+        "description": "4. The affidavit of  (Plaintiff) in support of the application has been filed.",
+        "type": "string"
+      },
+      "53": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "54": {
+        "description": "Reference : Sections 37 and 66 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "55": {
+        "description": "Signature of Plaintiff (Victim)",
+        "type": "boolean"
+      },
+      "58": {
+        "description": "1. The Act or Regulation relied on is the Criminal Code (s. 741).",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

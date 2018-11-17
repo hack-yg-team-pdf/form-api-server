@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "61": {
+        "description": "DISCLOSURE VETO AND STATEMENT",
+        "type": "string"
+      },
+      "63": {
+        "description": "BIRTHPLACE",
+        "type": "string"
+      },
+      "65": {
+        "description": "APPLICANT BORN IN YUKON?",
+        "type": "boolean"
+      },
+      "69": {
+        "description": "Pertaining to an Adopted Person or Birth Parent",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "(              )",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "76": {
+        "description": "MAIDEN NAME OF ADOPTIVE MOTHER",
+        "type": "string"
+      },
+      "82": {
+        "description": "BIRTH REGISTRATION NUMBER",
+        "type": "string"
+      },
+      "83": {
+        "description": "SURNAME OF BIRTH  FATHER",
+        "type": "string"
+      },
+      "84": {
+        "description": "SECTION B: to be completed by birth parents \u2013 as applicant (PLEASE PRINT)",
+        "type": "string"
+      },
+      "85": {
+        "description": "DATE OF BIRTH",
+        "type": "string"
+      },
+      "86": {
+        "description": "MAIDEN NAME OF BIRTH MOTHER",
+        "type": "string"
+      },
+      "92": {
+        "description": "NAME OF ADOPTED PERSON FOLLOWING ADOPTION (IF KNOWN)",
+        "type": "boolean"
+      },
+      "95": {
+        "description": "MALE",
+        "type": "boolean"
+      },
+      "105": {
+        "description": "SURNAME:",
+        "type": "string"
+      },
+      "106": {
+        "description": "MAILING ADDRESS",
+        "type": "string"
+      },
+      "108": {
+        "description": "YES",
+        "type": "boolean"
+      },
+      "110": {
+        "description": "CITY/PROV/TERR/STATE/COUNTRY",
+        "type": "boolean"
+      },
+      "114": {
+        "description": "PARTICULARS OF ADOPTED PERSON PRIOR TO ADOPTION",
+        "type": "string"
+      },
+      "117": {
+        "description": "HOME PHONE NUMBER",
+        "type": "boolean"
+      },
+      "121": {
+        "description": "SURNAME",
+        "type": "string"
+      },
+      "122": {
+        "description": "SURNAME OF ADOPTIVE FATHER",
+        "type": "string"
+      },
+      "123": {
+        "description": "BIRTHPLACE OF ADOPTIVE MOTHER",
+        "type": "string"
+      },
+      "125": {
+        "description": "Child and Family Services Act.",
+        "type": "string"
+      },
+      "128": {
+        "description": "o   Any other relevant non-identifying information.",
+        "type": "string"
+      },
+      "129": {
+        "description": "Adoption Disclosure",
+        "type": "boolean"
+      },
+      "132": {
+        "description": "Telephone: 867-667-3002",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "253": {
+        "description": "Mining district:",
+        "type": "string"
+      },
+      "254": {
+        "description": "I, ,",
+        "type": "string"
+      },
+      "255": {
+        "description": "of ,",
+        "type": "string"
+      },
+      "256": {
+        "description": "phone",
+        "type": "string"
+      },
+      "257": {
+        "description": "email",
+        "type": "string"
+      },
+      "258": {
+        "description": "hereby apply under Sections 92(4) and 94 of the Placer Mining Act, for the",
+        "type": "string"
+      },
+      "262": {
+        "description": "Prospecting lease no. issued on the  day of , 20.",
+        "type": "string"
+      },
+      "263": {
+        "description": "Description of lease:  mile portion of  on map sheet no. .",
+        "type": "string"
+      },
+      "264": {
+        "description": "1. In compliance with Section 94, work has been done on the said lease resulting in actual expenditures of",
+        "type": "string"
+      },
+      "265": {
+        "description": "at least $ between the  day of , 20",
+        "type": "string"
+      },
+      "266": {
+        "description": "I make Oath and say that:",
+        "type": "string"
+      },
+      "267": {
+        "description": "and the  day of , 20 .",
+        "type": "string"
+      },
+      "268": {
+        "description": "2. Following is a detailed statement of the said work in accordance with the proposal submitted.",
+        "type": "string"
+      },
+      "269": {
+        "description": "Include types of work, all dimensions, equipment used, equipment time (hours and rates), and/or person time",
+        "type": "string"
+      },
+      "270": {
+        "description": "SWORN before me at , ,  on this  day of , 20.",
+        "type": "string"
+      },
+      "271": {
+        "description": "Signature of notary public",
+        "type": "string"
+      },
+      "272": {
+        "description": "(hours and rates).  Attach a sketch showing location(s) and additional pages if required.",
+        "type": "string"
+      },
+      "273": {
+        "description": "Notary public\u2019s stamped or printed name",
+        "type": "string"
+      },
+      "274": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "275": {
+        "description": "My notary public enrollment expires on",
+        "type": "string"
+      },
+      "276": {
+        "description": "the public. For further information, contact the Department of Energy, Mines and Resources, Mining Lands Office at 867-667-3190 or toll free at 1-800-661-0408 extension 3190.",
+        "type": "string"
+      },
+      "279": {
+        "description": "Access to Information and Protection of Privacy Act: I acknowledge that the information is being collected under the authority of sections 7, 9 and 94 of the Placer Mining Act and",
+        "type": "string"
+      },
+      "280": {
+        "description": "section 29(c) Access to Information and Protection of Privacy Act for the purpose of reviewing applications for prospecting lease renewals. This document may be made available to",
+        "type": "string"
+      },
+      "281": {
+        "description": "YG(5036EQ)F1 Rev.06/2018",
+        "type": "string"
+      },
+      "282": {
+        "description": "Signature of applicant",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

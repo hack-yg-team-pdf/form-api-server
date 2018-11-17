@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "246": {
+        "description": "B. SECURED PARTY",
+        "type": "string"
+      },
+      "247": {
+        "description": "the Bank Act, a debenture, a mortgage, etc.)",
+        "type": "string"
+      },
+      "249": {
+        "description": "C. DESCRIPTION OF SECURITY INSTRUMENT",
+        "type": "string"
+      },
+      "250": {
+        "description": "F. SIGNATURE",
+        "type": "string"
+      },
+      "251": {
+        "description": "Signature of secured party or agent",
+        "type": "string"
+      },
+      "252": {
+        "description": "Name (please print)",
+        "type": "string"
+      },
+      "253": {
+        "description": "D. ADDRESS FOR SERVICE OF SECURED PARTY",
+        "type": "string"
+      },
+      "254": {
+        "description": "Dated:              /           /                  Expiry Date (optional):              /           /",
+        "type": "string"
+      },
+      "255": {
+        "description": "YYYY       MM       DD                                                       YYYY       MM       DD",
+        "type": "string"
+      },
+      "256": {
+        "description": "E. REGISTRATION FEE",
+        "type": "string"
+      },
+      "257": {
+        "description": "Address",
+        "type": "string"
+      },
+      "258": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "259": {
+        "description": "Territory/Province/State",
+        "type": "string"
+      },
+      "260": {
+        "description": "Country",
+        "type": "string"
+      },
+      "261": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "262": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "263": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "264": {
+        "description": "Email",
+        "type": "string"
+      },
+      "265": {
+        "description": "Registration fee of $50.00 is enclosed",
+        "type": "boolean"
+      },
+      "267": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "268": {
+        "description": "Branch File #     Registration #:",
+        "type": "string"
+      },
+      "269": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "270": {
+        "description": "YG(5496EQ)F1 Rev.06/2017",
+        "type": "string"
+      },
+      "272": {
+        "description": "Date Received:              /         /              Time Received:",
+        "type": "string"
+      },
+      "273": {
+        "description": "This Statutory Notice is issued pursuant to the Oil and Gas Act and the Oil and Gas Disposition Regulations. Personal information on this form is collected",
+        "type": "boolean"
+      },
+      "276": {
+        "description": "under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

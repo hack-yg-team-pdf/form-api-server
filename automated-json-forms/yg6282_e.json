@@ -1,0 +1,191 @@
+{
+  "fields": {
+    "properties": {
+      "283": {
+        "description": "1",
+        "type": "string"
+      },
+      "284": {
+        "description": "SONGS ON ENCLOSED DEMO CD / USB STICK",
+        "type": "string"
+      },
+      "285": {
+        "description": "Note:  Applicant must include two (2) demo CDs or USB sticks and lyric sheets (if applicable) and each CD or USB",
+        "type": "string"
+      },
+      "287": {
+        "description": "C. DEMO CD INFORMATION",
+        "type": "string"
+      },
+      "289": {
+        "description": "Title",
+        "type": "string"
+      },
+      "290": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "291": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "292": {
+        "description": "Demo will be evaluated by a panel of music industry professionals",
+        "type": "string"
+      },
+      "293": {
+        "description": "Length",
+        "type": "string"
+      },
+      "295": {
+        "description": "stick must include two (2) of the songs to be recorded on the project.",
+        "type": "string"
+      },
+      "296": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "297": {
+        "description": "Recorded at",
+        "type": "string"
+      },
+      "299": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "300": {
+        "description": "Check one",
+        "type": "string"
+      },
+      "302": {
+        "description": "Check one",
+        "type": "string"
+      },
+      "306": {
+        "description": "Composer/Lyricist",
+        "type": "string"
+      },
+      "309": {
+        "description": "Indicate changes to be made in the final recording from the demo submitted. Attach additional sheets if necessary.",
+        "type": "string"
+      },
+      "311": {
+        "description": "Title",
+        "type": "string"
+      },
+      "312": {
+        "description": "Producer",
+        "type": "string"
+      },
+      "313": {
+        "description": "2",
+        "type": "string"
+      },
+      "327": {
+        "description": "Finished demo",
+        "type": "string"
+      },
+      "337": {
+        "description": "Finished demo",
+        "type": "string"
+      },
+      "349": {
+        "description": "Rough demo",
+        "type": "string"
+      },
+      "351": {
+        "description": "Page 2 of 7",
+        "type": "string"
+      },
+      "352": {
+        "description": "Producer",
+        "type": "string"
+      },
+      "353": {
+        "description": "Rough demo",
+        "type": "string"
+      },
+      "354": {
+        "description": "Recorded at",
+        "type": "string"
+      },
+      "355": {
+        "description": "Length",
+        "type": "string"
+      },
+      "356": {
+        "description": "Indicate changes to be made in the final recording from the demo submitted. Attach additional sheets if necessary.",
+        "type": "string"
+      },
+      "361": {
+        "description": "Composer/Lyricist",
+        "type": "string"
+      },
+      "2331": {
+        "description": "Submit two (2) copies of application.",
+        "type": "boolean"
+      },
+      "2333": {
+        "description": "Cover letter explaining the purpose of recording and impact on the sound recording industry.",
+        "type": "boolean"
+      },
+      "2335": {
+        "description": "background, musical background, performance history.",
+        "type": "boolean"
+      },
+      "2337": {
+        "description": "Resumes of key production staff \u2013 provide a biography and discography of the project engineer and producer.",
+        "type": "boolean"
+      },
+      "2339": {
+        "description": "touring plans. Any information on past promotional activities should also be included.",
+        "type": "boolean"
+      },
+      "2341": {
+        "description": "requires two (2) songs.",
+        "type": "boolean"
+      },
+      "2343": {
+        "description": "Applicant name",
+        "type": "string"
+      },
+      "2344": {
+        "description": "Day phone",
+        "type": "string"
+      },
+      "2345": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "2346": {
+        "description": "If yes, indicate which award(s) and date(s)",
+        "type": "string"
+      },
+      "2347": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "2348": {
+        "description": "Email",
+        "type": "string"
+      },
+      "2349": {
+        "description": "Previous funding awarded through the Yukon Sound Recording Program?",
+        "type": "string"
+      },
+      "2350": {
+        "description": "No",
+        "type": "string"
+      },
+      "2351": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "2359": {
+        "description": "The above stated company/individual will be responsible for the contribution and for all reporting. The above will be",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "98": {
+        "description": "2134 2nd Avenue, Whitehorse, YT",
+        "type": "string"
+      },
+      "217": {
+        "description": "Mailing Address (if different from above)",
+        "type": "string"
+      },
+      "218": {
+        "description": "1. APPLICANT",
+        "type": "string"
+      },
+      "219": {
+        "description": "Gender:",
+        "type": "string"
+      },
+      "220": {
+        "description": "Street Address",
+        "type": "string"
+      },
+      "223": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "224": {
+        "description": "City",
+        "type": "string"
+      },
+      "225": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "226": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "227": {
+        "description": "Work Phone",
+        "type": "string"
+      },
+      "228": {
+        "description": "Home Phone",
+        "type": "string"
+      },
+      "229": {
+        "description": "Cell Phone",
+        "type": "string"
+      },
+      "230": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "231": {
+        "description": "Secondary Email Address",
+        "type": "string"
+      },
+      "232": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "235": {
+        "description": "2. RESPONDENT",
+        "type": "string"
+      },
+      "236": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "237": {
+        "description": "Middle Name(s)",
+        "type": "string"
+      },
+      "238": {
+        "description": "Street Address",
+        "type": "string"
+      },
+      "241": {
+        "description": "City",
+        "type": "string"
+      },
+      "242": {
+        "description": "Work Phone",
+        "type": "string"
+      },
+      "243": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "244": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "245": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "246": {
+        "description": "Home Phone",
+        "type": "string"
+      },
+      "247": {
+        "description": "Cell Phone",
+        "type": "string"
+      },
+      "248": {
+        "description": "3. CHILDREN (ONLY THOSE CHILDREN THAT ARE NAMED IN COURT ORDER TO BE RECALCULATED)",
+        "type": "string"
+      },
+      "249": {
+        "description": "Secondary Email Address",
+        "type": "string"
+      },
+      "250": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "251": {
+        "description": "YG(6227EQ)F2 08/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

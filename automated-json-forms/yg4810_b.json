@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "properties": {
+      "24": {
+        "description": "YG(4810)NC2 Rev.05/2002",
+        "type": "string"
+      },
+      "25": {
+        "description": "White copy: Environment Yukon",
+        "type": "string"
+      },
+      "26": {
+        "description": "Copie blanche : Environnement Yukon",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

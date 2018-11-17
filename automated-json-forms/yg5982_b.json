@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "90": {
+        "description": "APPLICATION FOR DEVELOPMENT PERMIT",
+        "type": "string"
+      },
+      "91": {
+        "description": "Legal description",
+        "type": "string"
+      },
+      "92": {
+        "description": "Community subdivision",
+        "type": "string"
+      },
+      "93": {
+        "description": "Address of proposed work",
+        "type": "string"
+      },
+      "94": {
+        "description": "Lieu des travaux projet\u00e9s",
+        "type": "string"
+      },
+      "95": {
+        "description": "Description",
+        "type": "string"
+      },
+      "96": {
+        "description": "Lot",
+        "type": "string"
+      },
+      "97": {
+        "description": "Parcelle    Bloc    Plan    Quad  Groupe",
+        "type": "string"
+      },
+      "120": {
+        "description": "Mobile home",
+        "type": "string"
+      },
+      "121": {
+        "description": "No. of dwelling units",
+        "type": "string"
+      },
+      "122": {
+        "description": "Nbre d\u2019\u00e9tages",
+        "type": "string"
+      },
+      "123": {
+        "description": "Type of building",
+        "type": "string"
+      },
+      "124": {
+        "description": "Site zoned as",
+        "type": "string"
+      },
+      "125": {
+        "description": "Type de b\u00e2timent",
+        "type": "string"
+      },
+      "126": {
+        "description": "Area",
+        "type": "string"
+      },
+      "127": {
+        "description": "Width",
+        "type": "string"
+      },
+      "128": {
+        "description": "Front",
+        "type": "string"
+      },
+      "129": {
+        "description": "Area",
+        "type": "string"
+      },
+      "130": {
+        "description": "Largeur",
+        "type": "string"
+      },
+      "131": {
+        "description": "Width",
+        "type": "string"
+      },
+      "132": {
+        "description": "Front",
+        "type": "string"
+      },
+      "133": {
+        "description": "Staff Name",
+        "type": "string"
+      },
+      "134": {
+        "description": "Development Fee",
+        "type": "string"
+      },
+      "135": {
+        "description": "Droits \u2011 am\u00e9nagement",
+        "type": "string"
+      },
+      "136": {
+        "description": "Nom de l\u2019employ\u00e9    Date",
+        "type": "boolean"
+      },
+      "139": {
+        "description": "1Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

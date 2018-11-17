@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "188": {
+        "description": "Date of birth    Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "189": {
+        "description": "Contact N\u00ba",
+        "type": "string"
+      },
+      "190": {
+        "description": "other than me if the information is necessary for my medical treatment, care or support, and",
+        "type": "string"
+      },
+      "191": {
+        "description": "(2)   consent to the release (disclosure) to the Referred Care Clinic \u2013 Yukon (Department of Health and Social Services)",
+        "type": "string"
+      },
+      "192": {
+        "description": "by any of the individuals, agencies or service providers listed below of any information or records about me that",
+        "type": "string"
+      },
+      "193": {
+        "description": "(1)   agree that the Department of Health and Social Services may collect personal information about me from sources",
+        "type": "string"
+      },
+      "194": {
+        "description": "I,",
+        "type": "string"
+      },
+      "197": {
+        "description": "If I am signing this on behalf of another person, I am that person\u2019s proxy, guardian or attorney or have their written",
+        "type": "string"
+      },
+      "198": {
+        "description": "agreement to consent on their behalf.",
+        "type": "string"
+      },
+      "199": {
+        "description": "This document is valid until",
+        "type": "string"
+      },
+      "203": {
+        "description": "One year from date",
+        "type": "string"
+      },
+      "204": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "205": {
+        "description": "Other date:",
+        "type": "string"
+      },
+      "206": {
+        "description": "The information on this form is collected for the purposes of providing treatment and care to individuals, for the function of providing related support and social services, for",
+        "type": "boolean"
+      },
+      "209": {
+        "description": "the administration of the Health Care Insurance Plan Act (including payment for Insured health and related services), and for program monitoring and evaluation.  This collec-",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

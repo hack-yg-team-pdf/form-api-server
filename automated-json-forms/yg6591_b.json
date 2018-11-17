@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "24": {
+        "description": "What are the direct benefits of your programs to the community at large? Please list your current programs:",
+        "type": "string"
+      },
+      "25": {
+        "description": "Additional information: \u2022 Renseignements suppl\u00e9mentaires :",
+        "type": "string"
+      },
+      "26": {
+        "description": "The Honourable Ang\u00e9lique Bernard",
+        "type": "boolean"
+      },
+      "28": {
+        "description": "Please list any previous Commissioners who have been Honourary Patron of your organization:",
+        "type": "string"
+      },
+      "32": {
+        "description": "L\u2019honorable Ang\u00e9lique Bernard",
+        "type": "boolean"
+      },
+      "34": {
+        "description": "Please list any other Honourary Patrons your organization may have:",
+        "type": "string"
+      },
+      "37": {
+        "description": "Applications can be mailed to:",
+        "type": "string"
+      },
+      "277": {
+        "description": "Name of organization",
+        "type": "string"
+      },
+      "278": {
+        "description": "Address",
+        "type": "string"
+      },
+      "281": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "282": {
+        "description": "Email",
+        "type": "string"
+      },
+      "283": {
+        "description": "Website",
+        "type": "string"
+      },
+      "284": {
+        "description": "Name/title of chief staff official",
+        "type": "string"
+      },
+      "285": {
+        "description": "Year organization was founded",
+        "type": "string"
+      },
+      "286": {
+        "description": "Charitable registration # (if appliable)",
+        "type": "string"
+      },
+      "287": {
+        "description": "Your organization\u2019s mission statement: \u2022 \u00c9nonc\u00e9 de mission de votre organisme :",
+        "type": "string"
+      },
+      "288": {
+        "description": "Is the scope of your organization\u2019s work local, territorial or regional? \u2022 Quelle est la port\u00e9e du travail de votre organisme?",
+        "type": "string"
+      },
+      "289": {
+        "description": "Other: \u2022 Autre :",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

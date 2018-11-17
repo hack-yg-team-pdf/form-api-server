@@ -1,0 +1,183 @@
+{
+  "fields": {
+    "properties": {
+      "89": {
+        "description": "14.  Have you ever been convicted of any criminal offence?       \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "90": {
+        "description": "If yes, which anaesthetic method(s) are you qualified for  \u2610 Infiltration         \u2610 Mandibular block",
+        "type": "boolean"
+      },
+      "91": {
+        "description": "Have you completed anaesthetic training?                       \u2610 No         \u2610 Yes",
+        "type": "boolean"
+      },
+      "93": {
+        "description": "If yes, state facts (attach additional pages if required):",
+        "type": "string"
+      },
+      "94": {
+        "description": "I",
+        "type": "string"
+      },
+      "95": {
+        "description": "In support of my application, I enclose:",
+        "type": "boolean"
+      },
+      "97": {
+        "description": "1.",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "Please make your cheque payable to Government of Yukon, or complete payment information form",
+        "type": "string"
+      },
+      "110": {
+        "description": "in",
+        "type": "string"
+      },
+      "111": {
+        "description": "in the province/territory of",
+        "type": "string"
+      },
+      "112": {
+        "description": "Signature & Seal of Notary Public",
+        "type": "string"
+      },
+      "113": {
+        "description": "YG(5095EQ)F3 Rev.03/2014",
+        "type": "string"
+      },
+      "114": {
+        "description": "of",
+        "type": "string"
+      },
+      "115": {
+        "description": "City",
+        "type": "boolean"
+      },
+      "118": {
+        "description": "In the matter of my application for registration and licensure with Yukon, I",
+        "type": "string"
+      },
+      "120": {
+        "description": "Province/Territory",
+        "type": "boolean"
+      },
+      "122": {
+        "description": "this   day of  , 20",
+        "type": "string"
+      },
+      "123": {
+        "description": "Declared before me at",
+        "type": "string"
+      },
+      "641": {
+        "description": "1.  Name in full:   Gender: \u2610 F         \u2610 M",
+        "type": "string"
+      },
+      "647": {
+        "description": "2.  Maiden name (if applicable):",
+        "type": "string"
+      },
+      "648": {
+        "description": "4.  Home address of applicant:",
+        "type": "string"
+      },
+      "649": {
+        "description": "3.  Date of birth:  Location",
+        "type": "string"
+      },
+      "650": {
+        "description": "dd/mm/yyyy",
+        "type": "string"
+      },
+      "651": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "652": {
+        "description": "City",
+        "type": "string"
+      },
+      "653": {
+        "description": "Email address:",
+        "type": "string"
+      },
+      "654": {
+        "description": "I expect to practise in:   starting on",
+        "type": "string"
+      },
+      "655": {
+        "description": "Clinic Name",
+        "type": "string"
+      },
+      "656": {
+        "description": "Clinic telephone number",
+        "type": "string"
+      },
+      "657": {
+        "description": "Street Address                                               City",
+        "type": "string"
+      },
+      "658": {
+        "description": "6.     Clinic Address",
+        "type": "string"
+      },
+      "659": {
+        "description": "Mail to Clinic \u2610",
+        "type": "string"
+      },
+      "660": {
+        "description": "If yes, where?",
+        "type": "string"
+      },
+      "661": {
+        "description": "APPLICATION FOR YUKON REGISTRATION",
+        "type": "boolean"
+      },
+      "665": {
+        "description": "Are you presently licensed to practise in another jurisdiction?                          \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "668": {
+        "description": "Limitations, restrictions or conditions on this licence:       \u2610 No         \u2610 Yes        If yes, please give specific details",
+        "type": "string"
+      },
+      "669": {
+        "description": "8.   Place of Graduation:",
+        "type": "string"
+      },
+      "670": {
+        "description": "9.  Year of Graduation:",
+        "type": "string"
+      },
+      "673": {
+        "description": "If yes, Written: Clinical:",
+        "type": "string"
+      },
+      "674": {
+        "description": "10. Did you pass the National Dental Hygiene Certification Board Exam?             \u2610 No           \u2610 Yes",
+        "type": "string"
+      },
+      "675": {
+        "description": "11.  Give addresses of all locations and dates in which you have practised as a dental hygienist for the three years preceding",
+        "type": "string"
+      },
+      "676": {
+        "description": "Personal information contained on this form is collected under the Dental Profession Act and will be used for the purpose of administering the Act. For further",
+        "type": "string"
+      },
+      "677": {
+        "description": "information, contact the Director of Professional Licensing and Regulatory Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "678": {
+        "description": "YG(5095EQ)F3 Rev.03/2014",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "242": {
+        "description": "BREF DE SAISIE-ARR\u00caT",
+        "type": "string"
+      },
+      "243": {
+        "description": "Plaintiff",
+        "type": "string"
+      },
+      "244": {
+        "description": "IMM\u00c9DIATE",
+        "type": "string"
+      },
+      "245": {
+        "description": "Name and residence",
+        "type": "string"
+      },
+      "246": {
+        "description": "Name and residence",
+        "type": "string"
+      },
+      "247": {
+        "description": "Name and residence",
+        "type": "string"
+      },
+      "248": {
+        "description": "$",
+        "type": "string"
+      },
+      "249": {
+        "description": "Amount of money",
+        "type": "string"
+      },
+      "250": {
+        "description": "ISSuED the                                 day of",
+        "type": "string"
+      },
+      "251": {
+        "description": "D\u00c9lIVR\u00c9 le   jour de/d\u2019 20,",
+        "type": "string"
+      },
+      "252": {
+        "description": "INSTRucTIONS",
+        "type": "string"
+      },
+      "253": {
+        "description": "DIREcTIVES",
+        "type": "boolean"
+      },
+      "256": {
+        "description": "Le DEMANDEUR/la DEMANDERESSE doit remplir ce",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

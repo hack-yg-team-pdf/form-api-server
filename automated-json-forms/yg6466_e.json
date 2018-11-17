@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "59": {
+        "description": "FIRST AND LAST NAMES",
+        "type": "string"
+      },
+      "60": {
+        "description": "LAST",
+        "type": "string"
+      },
+      "61": {
+        "description": "Additional occupant(s)",
+        "type": "string"
+      },
+      "62": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "63": {
+        "description": "(all other persons living in the",
+        "type": "string"
+      },
+      "64": {
+        "description": "Fax number",
+        "type": "string"
+      },
+      "65": {
+        "description": "Business name",
+        "type": "string"
+      },
+      "66": {
+        "description": "DURATION OF STAY",
+        "type": "string"
+      },
+      "67": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "68": {
+        "description": "Physical address",
+        "type": "string"
+      },
+      "69": {
+        "description": "(if different than above)",
+        "type": "string"
+      },
+      "70": {
+        "description": "Phone number",
+        "type": "string"
+      },
+      "71": {
+        "description": "Departure date Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "72": {
+        "description": "Monthly",
+        "type": "string"
+      },
+      "73": {
+        "description": "$",
+        "type": "string"
+      },
+      "74": {
+        "description": "RATE PROVIDED RATE AMOUNT",
+        "type": "string"
+      },
+      "75": {
+        "description": "+  wood  $",
+        "type": "string"
+      },
+      "76": {
+        "description": "UTILITIES (IF APPLICABLE)",
+        "type": "string"
+      },
+      "77": {
+        "description": "TOTAL AMOUNT DUE",
+        "type": "string"
+      },
+      "78": {
+        "description": "x   night(s)",
+        "type": "string"
+      },
+      "85": {
+        "description": "+  showers  $",
+        "type": "string"
+      },
+      "86": {
+        "description": "Weekly",
+        "type": "string"
+      },
+      "87": {
+        "description": "departures by contacting the Whitehorse office at (867) 667-5674, or the local Regional Services office at (867).",
+        "type": "string"
+      },
+      "88": {
+        "description": "x   week(s)",
+        "type": "string"
+      },
+      "89": {
+        "description": "Attention business owners: ISS is not a party to the landlord/tenant agreement or the Hotels and Tourist Establishment Act,",
+        "type": "string"
+      },
+      "90": {
+        "description": "x   month(s)",
+        "type": "string"
+      },
+      "91": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "96": {
+        "description": "Verified by:",
+        "type": "string"
+      },
+      "97": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "98": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "101": {
+        "description": "YG(4906EQ)F1 Rev.07/2018",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

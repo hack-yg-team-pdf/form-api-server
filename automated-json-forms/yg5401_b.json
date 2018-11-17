@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "286": {
+        "description": "Date",
+        "type": "string"
+      },
+      "287": {
+        "description": "E-mail",
+        "type": "string"
+      },
+      "288": {
+        "description": "Num\u00e9ro de certificat",
+        "type": "string"
+      },
+      "289": {
+        "description": "Lot # \u2022 Lot n\u00ba       Block \u2022 Bloc          Quad/Group \u2022 Quad./Groupe      Plan \u2022 Plan",
+        "type": "string"
+      },
+      "290": {
+        "description": "Courriel",
+        "type": "string"
+      },
+      "291": {
+        "description": "Certificate Number",
+        "type": "string"
+      },
+      "292": {
+        "description": "Phone Number",
+        "type": "string"
+      },
+      "293": {
+        "description": "T\u00e9lephone",
+        "type": "string"
+      },
+      "294": {
+        "description": "Community",
+        "type": "string"
+      },
+      "295": {
+        "description": "Cell Number",
+        "type": "string"
+      },
+      "296": {
+        "description": "Phone Number",
+        "type": "string"
+      },
+      "297": {
+        "description": "Adresse",
+        "type": "string"
+      },
+      "298": {
+        "description": "Address",
+        "type": "string"
+      },
+      "301": {
+        "description": "Name of Contractor",
+        "type": "string"
+      },
+      "302": {
+        "description": "Nom de l\u2019entrepreneur1   Nom  du  propri\u00e9taire",
+        "type": "string"
+      },
+      "303": {
+        "description": "R\u00e9sidentiel                       Commercial                        Industriel                       Institutionnel",
+        "type": "string"
+      },
+      "304": {
+        "description": "Category of Building  Residential                       Commercial                        Industrial                       Institutional",
+        "type": "string"
+      },
+      "305": {
+        "description": "Type de b\u00e2timent",
+        "type": "string"
+      },
+      "306": {
+        "description": "Cellulaire   Courriel",
+        "type": "boolean"
+      },
+      "308": {
+        "description": "Street Address",
+        "type": "boolean"
+      },
+      "309": {
+        "description": "Adresse municipale",
+        "type": "boolean"
+      },
+      "310": {
+        "description": "Localit\u00e9",
+        "type": "boolean"
+      },
+      "311": {
+        "description": "Temporary service installation",
+        "type": "boolean"
+      },
+      "312": {
+        "description": "Special inspection",
+        "type": "boolean"
+      },
+      "313": {
+        "description": "Description of work, including service characteristics:",
+        "type": "string"
+      },
+      "314": {
+        "description": "Description des travaux, y compris les caract\u00e9ristiques de l\u2019entr\u00e9e \u00e9lectrique :",
+        "type": "string"
+      },
+      "315": {
+        "description": "mat\u00e9riel et les services fournis par le propri\u00e9taire",
+        "type": "string"
+      },
+      "316": {
+        "description": "Total job value, including owner-supplied material and services             $",
+        "type": "string"
+      },
+      "317": {
+        "description": "Valeur totale des travaux, y compris le",
+        "type": "string"
+      },
+      "318": {
+        "description": "Design and/or Evaluation Survey, miscellaneous or re-inspection (over and above the established fee schedule)",
+        "type": "string"
+      },
+      "319": {
+        "description": "\u00c9tude de plan ou \u00e9valuation, divers ou r\u00e9inspection (non compris dans les droits pr\u00e9vus \u00e0 la partie II)",
+        "type": "string"
+      },
+      "320": {
+        "description": "1 Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "boolean"
+      },
+      "322": {
+        "description": "YG(5401Q)F1 Rev.03/2014",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

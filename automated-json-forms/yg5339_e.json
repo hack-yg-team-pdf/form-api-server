@@ -1,0 +1,239 @@
+{
+  "fields": {
+    "properties": {
+      "63": {
+        "description": "These records must be kept on hand in the event you are asked to produce them. Random audits will occur up",
+        "type": "string"
+      },
+      "64": {
+        "description": "Remaining\tAmount:\t\t\t\t\t\t\t\t\t\t$(iv)",
+        "type": "string"
+      },
+      "68": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "69": {
+        "description": "4.\t\tHOW\tHAVE\tTHESE\tPROCEEDS\tBEEN\tALLOCATED",
+        "type": "boolean"
+      },
+      "70": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "OR",
+        "type": "string"
+      },
+      "73": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "77": {
+        "description": "Supporting documentation such as  invoices, cheques, bank statements, etc. are not necessary at this time.",
+        "type": "string"
+      },
+      "78": {
+        "description": "Item",
+        "type": "string"
+      },
+      "82": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "84": {
+        "description": "Total\tAmount\tAllocated\t\t\t\t$",
+        "type": "string"
+      },
+      "85": {
+        "description": "Completed Financial Report, signed and notarized (A notary is available to sign your affidavit at",
+        "type": "string"
+      },
+      "86": {
+        "description": "o",
+        "type": "string"
+      },
+      "87": {
+        "description": "note: if you choose this option you are required to complete this financial report form.",
+        "type": "string"
+      },
+      "88": {
+        "description": "Amount",
+        "type": "string"
+      },
+      "90": {
+        "description": "o",
+        "type": "boolean"
+      },
+      "92": {
+        "description": "Consumer Services free of charge)",
+        "type": "boolean"
+      },
+      "96": {
+        "description": "Declared before me,",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "2.  I have examined the accounts and records of the organization and the information contained in this",
+        "type": "string"
+      },
+      "100": {
+        "description": "1.  I am the  of this organization and have knowledge of the matter",
+        "type": "string"
+      },
+      "102": {
+        "description": "and effect as if made under oath.",
+        "type": "string"
+      },
+      "103": {
+        "description": "this  day of , 20",
+        "type": "string"
+      },
+      "104": {
+        "description": "that:",
+        "type": "boolean"
+      },
+      "105": {
+        "description": "A Notary Public in and for Yukon",
+        "type": "string"
+      },
+      "106": {
+        "description": "financial report is correct and complete.",
+        "type": "string"
+      },
+      "107": {
+        "description": "in , Yukon",
+        "type": "string"
+      },
+      "108": {
+        "description": "Licence Number .",
+        "type": "string"
+      },
+      "109": {
+        "description": "3.  I make this solemn declaration conscientiously believing it to be true, knowing that it is of the same force",
+        "type": "string"
+      },
+      "110": {
+        "description": "In the Matter of:  and",
+        "type": "string"
+      },
+      "111": {
+        "description": "herein declared to.",
+        "type": "string"
+      },
+      "183": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "184": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "185": {
+        "description": "1.\t\tORGANIZATION\tDETAILS",
+        "type": "string"
+      },
+      "186": {
+        "description": "Organization Name:",
+        "type": "string"
+      },
+      "187": {
+        "description": "Expiry Date:",
+        "type": "string"
+      },
+      "188": {
+        "description": "Member responsible for this report:  Phone:",
+        "type": "string"
+      },
+      "189": {
+        "description": "Licence No. of Raffle:",
+        "type": "string"
+      },
+      "190": {
+        "description": "Gross Sales:  (a)",
+        "type": "string"
+      },
+      "191": {
+        "description": "Maximum Tickets for Sale:             Price of tickets:",
+        "type": "string"
+      },
+      "192": {
+        "description": "No. of tickets sold:",
+        "type": "string"
+      },
+      "193": {
+        "description": "4th Prize:",
+        "type": "string"
+      },
+      "194": {
+        "description": "3rd  Prize:",
+        "type": "string"
+      },
+      "195": {
+        "description": "2nd Prize:",
+        "type": "string"
+      },
+      "196": {
+        "description": "Subtotal (a) less (b) (i)",
+        "type": "string"
+      },
+      "199": {
+        "description": "3.\t\tPRIZE\tWINNERS\tNAME:\t(attach list if more winners)",
+        "type": "string"
+      },
+      "200": {
+        "description": "Net Proceeds of Raffle (line (i) minus line (ii))        $",
+        "type": "string"
+      },
+      "201": {
+        "description": "Other (specify): (f )",
+        "type": "string"
+      },
+      "202": {
+        "description": "Advertising Costs: (e)",
+        "type": "string"
+      },
+      "203": {
+        "description": "Add lines (c) through(f) (ii)",
+        "type": "string"
+      },
+      "204": {
+        "description": "1st Prize:",
+        "type": "string"
+      },
+      "205": {
+        "description": "Personal information contained on this form is collected under the Lottery Licensing Act and will be used for the purpose of administering the",
+        "type": "string"
+      },
+      "206": {
+        "description": "Ticket No.",
+        "type": "string"
+      },
+      "207": {
+        "description": "Expenses directly associated with Raffle:",
+        "type": "string"
+      },
+      "208": {
+        "description": "Licence Fee: (d)",
+        "type": "string"
+      },
+      "209": {
+        "description": "Printing Costs: (c)",
+        "type": "string"
+      },
+      "210": {
+        "description": "Ticket No.",
+        "type": "string"
+      },
+      "211": {
+        "description": "Act. For further information, contact the Registrar of Lotteries at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "212": {
+        "description": "Ticket No.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

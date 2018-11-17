@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "102": {
+        "description": "AFFIDAVIT OF SERVICE",
+        "type": "string"
+      },
+      "103": {
+        "description": "(Name)",
+        "type": "string"
+      },
+      "104": {
+        "description": "(Name)",
+        "type": "string"
+      },
+      "105": {
+        "description": "[complete address where person served]",
+        "type": "string"
+      },
+      "106": {
+        "description": "[date and time when person served]",
+        "type": "string"
+      },
+      "107": {
+        "description": "[name of person served]",
+        "type": "string"
+      },
+      "108": {
+        "description": ", of",
+        "type": "string"
+      },
+      "109": {
+        "description": "I,",
+        "type": "string"
+      },
+      "110": {
+        "description": "2.",
+        "type": "string"
+      },
+      "111": {
+        "description": "1.",
+        "type": "string"
+      },
+      "112": {
+        "description": "2.",
+        "type": "string"
+      },
+      "113": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "114": {
+        "description": "[list of each document mailed, faxed, or e-mailed]",
+        "type": "string"
+      },
+      "115": {
+        "description": "or",
+        "type": "string"
+      },
+      "122": {
+        "description": "[date and time when documents mailed, faxed, or e-mailed]",
+        "type": "string"
+      },
+      "123": {
+        "description": "I sent by:",
+        "type": "string"
+      },
+      "124": {
+        "description": "attached and marked as exhibits",
+        "type": "string"
+      },
+      "125": {
+        "description": "exhibits]",
+        "type": "string"
+      },
+      "126": {
+        "description": "[copy of record verifying delivery by registered mail, fax cover memo, e-mail message attached and marked as",
+        "type": "string"
+      },
+      "127": {
+        "description": "attached and marked as exhibits",
+        "type": "string"
+      },
+      "128": {
+        "description": "Sworn/affirmed before me at the",
+        "type": "string"
+      },
+      "129": {
+        "description": "A Notary Public in and for Yukon",
+        "type": "string"
+      },
+      "131": {
+        "description": "YG(3133QE)F1 Rev.02/2011",
+        "type": "string"
+      },
+      "133": {
+        "description": "Reference: Section 24",
+        "type": "string"
+      },
+      "134": {
+        "description": "Small Claims Court Regulations",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

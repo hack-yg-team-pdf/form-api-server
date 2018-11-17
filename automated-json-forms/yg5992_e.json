@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "I, , do hereby accept the office of a member of a School Council for the",
+        "type": "string"
+      },
+      "41": {
+        "description": "School Council",
+        "type": "string"
+      },
+      "42": {
+        "description": "SWORN/AFFIRMED by me at , Yukon",
+        "type": "string"
+      },
+      "43": {
+        "description": "this day of , 2",
+        "type": "string"
+      },
+      "44": {
+        "description": "DEPONENT/AFFIANT",
+        "type": "string"
+      },
+      "45": {
+        "description": "PERSON ADMINISTERING OATH OR AFFIRMATION",
+        "type": "string"
+      },
+      "46": {
+        "description": "The Oath may be administered by a notary public, a peace officer, or a judge of any court.",
+        "type": "string"
+      },
+      "47": {
+        "description": "YG(5992Q)F1 05/2014",
+        "type": "string"
+      },
+      "48": {
+        "description": "This Oath and Declaration shall take effect on  this day of , 2 .",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "fields": {
+    "properties": {
+      "143": {
+        "description": "First Language       English          French            Other           Specify",
+        "type": "string"
+      },
+      "144": {
+        "description": "Aboriginal peoples are persons in Canada who consider themselves to be First Nation, Inuit or Metis. Do you consider",
+        "type": "string"
+      },
+      "148": {
+        "description": "a)  my name, trade, level and exam results to any individual or group for the purpose of my application     Yes        No",
+        "type": "string"
+      },
+      "150": {
+        "description": "Code:",
+        "type": "string"
+      },
+      "153": {
+        "description": "Are you currently attending high school?",
+        "type": "string"
+      },
+      "156": {
+        "description": "used only for statistical purposes):",
+        "type": "string"
+      },
+      "158": {
+        "description": "Preferred First Name:",
+        "type": "string"
+      },
+      "162": {
+        "description": "Postal",
+        "type": "string"
+      },
+      "163": {
+        "description": "E-mail Address:                                                                    Gender: Male       Female          Birth Date (yyyy/mm/dd):",
+        "type": "string"
+      },
+      "165": {
+        "description": "1   Trade",
+        "type": "string"
+      },
+      "166": {
+        "description": "Aboriginal Peoples (This is a voluntary question. The information collected will not affect your application and will be",
+        "type": "string"
+      },
+      "167": {
+        "description": "Middle Name:",
+        "type": "string"
+      },
+      "170": {
+        "description": "Permanent Mailing Address:",
+        "type": "string"
+      },
+      "171": {
+        "description": "Home Phone No.: (          )",
+        "type": "string"
+      },
+      "174": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "175": {
+        "description": "Social Insurance Number:",
+        "type": "string"
+      },
+      "176": {
+        "description": "No",
+        "type": "string"
+      },
+      "178": {
+        "description": "yourself to be an aboriginal person?",
+        "type": "string"
+      },
+      "182": {
+        "description": "Former Last Name: (if applicable)",
+        "type": "string"
+      },
+      "183": {
+        "description": "Legal Last Name:",
+        "type": "string"
+      },
+      "184": {
+        "description": "Legal First Name:",
+        "type": "string"
+      },
+      "188": {
+        "description": "2   Applicant Personal Information        Please print clearly in ink.",
+        "type": "string"
+      },
+      "194": {
+        "description": "Recommended credit for applicant\u2019s trade work with previous employers",
+        "type": "string"
+      },
+      "195": {
+        "description": "hours",
+        "type": "string"
+      },
+      "196": {
+        "description": "What date did the applicant begin to work in this trade for your business (yyyy/mm/dd)?",
+        "type": "string"
+      },
+      "197": {
+        "description": "Company Information",
+        "type": "string"
+      },
+      "198": {
+        "description": "5   Applicant Work Experience in the Trade",
+        "type": "string"
+      },
+      "199": {
+        "description": "degree/diploma/certificate obtained",
+        "type": "string"
+      },
+      "202": {
+        "description": "City/Town of High School:",
+        "type": "string"
+      },
+      "203": {
+        "description": "For education after High School:",
+        "type": "string"
+      },
+      "207": {
+        "description": "Last Year Attended:                Last Grade Attended:",
+        "type": "string"
+      },
+      "208": {
+        "description": "Legal Name of Business:",
+        "type": "string"
+      },
+      "209": {
+        "description": "6   Employer Information    Please print clearly in ink.",
+        "type": "string"
+      },
+      "210": {
+        "description": "Fax No.: (         )",
+        "type": "string"
+      },
+      "211": {
+        "description": "Operating Name of Business:",
+        "type": "string"
+      },
+      "212": {
+        "description": "Phone No.: (         )",
+        "type": "string"
+      },
+      "213": {
+        "description": "Name of contact person:                                                                             Email address:",
+        "type": "string"
+      },
+      "214": {
+        "description": "Recommended credit for applicant\u2019s trade work to date with your company",
+        "type": "string"
+      },
+      "221": {
+        "description": "Alternate Phone No.:  (         )",
+        "type": "string"
+      },
+      "222": {
+        "description": "This rate is used to determine the minimum pay rate of the apprentice.",
+        "type": "string"
+      },
+      "233": {
+        "description": "(province/territory of issue)",
+        "type": "string"
+      },
+      "234": {
+        "description": "Please indicate the pay rate for an entry level certified journeyperson your firm uses in this trade: $ / hour.",
+        "type": "string"
+      },
+      "235": {
+        "description": "Note that a Trade Experience Verification Form must be used for every employer with over 300 hours work experience.",
+        "type": "string"
+      },
+      "236": {
+        "description": "How many apprentices do you presently employ in this trade?",
+        "type": "string"
+      },
+      "237": {
+        "description": "How many certified journeypersons do you presently employ in this trade?",
+        "type": "string"
+      },
+      "239": {
+        "description": "* If you require additional space for sections 4 and/or 5, please use page 8.",
+        "type": "string"
+      },
+      "240": {
+        "description": "Recommended credit for trade related pre-employment courses",
+        "type": "string"
+      },
+      "241": {
+        "description": "hours",
+        "type": "string"
+      },
+      "242": {
+        "description": "Do you recommend the applicant challenge a level exam?",
+        "type": "string"
+      },
+      "243": {
+        "description": "Provide the name, certificate # and province/territory of issue of the certified journeyperson who will be supervising this",
+        "type": "string"
+      },
+      "244": {
+        "description": "Tools Used / Type of Work",
+        "type": "string"
+      },
+      "245": {
+        "description": "hours",
+        "type": "string"
+      },
+      "246": {
+        "description": "Postal",
+        "type": "string"
+      },
+      "247": {
+        "description": "Code:",
+        "type": "string"
+      },
+      "248": {
+        "description": "Date Started   Date Finished    Total Hours",
+        "type": "string"
+      },
+      "249": {
+        "description": "Yes             No",
+        "type": "string"
+      },
+      "250": {
+        "description": "(name)   (certificate #)",
+        "type": "string"
+      },
+      "251": {
+        "description": "apprentice:",
+        "type": "string"
+      },
+      "255": {
+        "description": "Date completed",
+        "type": "string"
+      },
+      "256": {
+        "description": "If you have certification or credentials in another related trade, what is the name of the trade?",
+        "type": "string"
+      },
+      "257": {
+        "description": "Registered at the office of the Director on this  day of",
+        "type": "string"
+      },
+      "258": {
+        "description": "Apprentice ID No.",
+        "type": "string"
+      },
+      "259": {
+        "description": "Date  Initials",
+        "type": "string"
+      },
+      "261": {
+        "description": "I certify that, to the best of my knowledge, the information provided in this document is true and complete in all respects.  As the Employer, I agree to accept and train",
+        "type": "string"
+      },
+      "263": {
+        "description": "(check one):",
+        "type": "string"
+      },
+      "270": {
+        "description": "My signature below authorizes Yukon Apprenticeship to disclose information respecting my participation in the",
+        "type": "string"
+      },
+      "271": {
+        "description": "Note:  Upon approval and registration of this Agreement, a Schedule of Training outlining the particular requirements for each level of the apprenticeship will be forwarded",
+        "type": "string"
+      },
+      "273": {
+        "description": "Date (yyyy/mm/dd):",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

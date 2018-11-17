@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "Registration number of claim of lien / Num\u00e9ro d\u2019enregistrement de la revendication de privil\u00e8ge :",
+        "type": "string"
+      },
+      "38": {
+        "description": "As the claimant, I confirm the following",
+        "type": "string"
+      },
+      "39": {
+        "description": "2. The amount owing in respect of the claim of lien has been paid.",
+        "type": "string"
+      },
+      "40": {
+        "description": "en caract\u00e8res d\u2019imprimerie)",
+        "type": "string"
+      },
+      "41": {
+        "description": "Date of signatures / Date des signatures :",
+        "type": "string"
+      },
+      "42": {
+        "description": "Signature of claimant: (sign and print name)",
+        "type": "boolean"
+      },
+      "45": {
+        "description": "Signature of witness: (sign and print name)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

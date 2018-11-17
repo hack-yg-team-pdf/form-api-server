@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "126": {
+        "description": "I  understand that I am receiving medication from:",
+        "type": "string"
+      },
+      "127": {
+        "description": "Referred Care Clinic \u2013 Yukon Physician and/or",
+        "type": "string"
+      },
+      "128": {
+        "description": "Referred Care Clinic \u2013 Yukon Nurse Practitioner",
+        "type": "string"
+      },
+      "129": {
+        "description": "Only  will dispense all prescription medications for me.",
+        "type": "string"
+      },
+      "132": {
+        "description": "I will not seek medications from any other drugstore.",
+        "type": "string"
+      },
+      "133": {
+        "description": "This Pharmacy Agreement remains in effect from  until .",
+        "type": "boolean"
+      },
+      "136": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "53": {
+        "description": "Signature / Signature",
+        "type": "string"
+      },
+      "616": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "617": {
+        "description": "3.  If the corporation has not issued any shares, date of the resolution by all directors to voluntarily dissolve",
+        "type": "string"
+      },
+      "618": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "619": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "620": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "621": {
+        "description": "5.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "622": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "623": {
+        "description": "6.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "624": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "625": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "626": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "627": {
+        "description": "YG(6136Q)F2 03/2015",
+        "type": "string"
+      },
+      "628": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "630": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

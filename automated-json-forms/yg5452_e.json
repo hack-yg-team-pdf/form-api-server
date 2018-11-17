@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "361": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "364": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "365": {
+        "description": "City/Town/Village",
+        "type": "string"
+      },
+      "366": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "367": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "368": {
+        "description": "Email",
+        "type": "string"
+      },
+      "369": {
+        "description": "SECTION 2: WATER DELIVERY TRUCK STORAGE FACILITY",
+        "type": "string"
+      },
+      "370": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "371": {
+        "description": "Name of Water Delivery Service",
+        "type": "string"
+      },
+      "372": {
+        "description": "Legal Description for Truck Storage Facility",
+        "type": "string"
+      },
+      "373": {
+        "description": "Estimated Number of Persons Served",
+        "type": "string"
+      },
+      "374": {
+        "description": "Quad",
+        "type": "string"
+      },
+      "375": {
+        "description": "Plan",
+        "type": "string"
+      },
+      "376": {
+        "description": "Name of Operator",
+        "type": "string"
+      },
+      "377": {
+        "description": "Name of Back-up Operator",
+        "type": "string"
+      },
+      "378": {
+        "description": "Where do you get your drinking water? (i.e., name of Permitted Large Public Drinking Water System)",
+        "type": "string"
+      },
+      "379": {
+        "description": "Average Weekly Volume of Water Delivered (Litres)",
+        "type": "string"
+      },
+      "380": {
+        "description": "Number of Delivery Sites:   Total     Residences     Businesses     Other",
+        "type": "string"
+      },
+      "381": {
+        "description": "SECTION 3: SOURCE WATER SOURCE",
+        "type": "string"
+      },
+      "382": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "383": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "388": {
+        "description": "YG(5452EQ)F2 Rev.07/2017",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

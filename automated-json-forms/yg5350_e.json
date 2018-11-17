@@ -1,0 +1,199 @@
+{
+  "fields": {
+    "properties": {
+      "70": {
+        "description": "PART 2. APPLICATION CHECKLIST",
+        "type": "string"
+      },
+      "73": {
+        "description": "Total production budget (if applicable)",
+        "type": "string"
+      },
+      "74": {
+        "description": "Confirmed?",
+        "type": "string"
+      },
+      "78": {
+        "description": "Applicant\u2019s resume",
+        "type": "string"
+      },
+      "81": {
+        "description": "Resumes of all key creative personnel including producer(s), director(s) and writer(s)",
+        "type": "string"
+      },
+      "82": {
+        "description": "\u2022 Crew list",
+        "type": "string"
+      },
+      "86": {
+        "description": "If production or post-production application",
+        "type": "string"
+      },
+      "88": {
+        "description": "The following documents are required for the adjudication process and must be submitted at the time of application.",
+        "type": "string"
+      },
+      "91": {
+        "description": "(All sources including in-kind)",
+        "type": "string"
+      },
+      "94": {
+        "description": "Project information",
+        "type": "string"
+      },
+      "95": {
+        "description": "Reel (include DVD or VHS for which the applicant was involved as key creative personnel)",
+        "type": "string"
+      },
+      "96": {
+        "description": "If development application",
+        "type": "string"
+      },
+      "98": {
+        "description": "$",
+        "type": "string"
+      },
+      "100": {
+        "description": "\u2022 Locations breakdown",
+        "type": "string"
+      },
+      "105": {
+        "description": "$",
+        "type": "string"
+      },
+      "106": {
+        "description": "Description of phase applying for",
+        "type": "string"
+      },
+      "109": {
+        "description": "\u2022 Treatment",
+        "type": "string"
+      },
+      "116": {
+        "description": "Budget (use examples attached)",
+        "type": "string"
+      },
+      "117": {
+        "description": "Enclosed",
+        "type": "string"
+      },
+      "118": {
+        "description": "Total $",
+        "type": "string"
+      },
+      "123": {
+        "description": "$",
+        "type": "string"
+      },
+      "125": {
+        "description": "Enclosed",
+        "type": "string"
+      },
+      "126": {
+        "description": "Supporting documentation (if applicable)",
+        "type": "string"
+      },
+      "129": {
+        "description": "$",
+        "type": "string"
+      },
+      "130": {
+        "description": "$",
+        "type": "string"
+      },
+      "131": {
+        "description": "Production summary",
+        "type": "string"
+      },
+      "134": {
+        "description": "Enclosed",
+        "type": "string"
+      },
+      "136": {
+        "description": "$",
+        "type": "string"
+      },
+      "138": {
+        "description": "\u2022 Shooting schedule",
+        "type": "string"
+      },
+      "141": {
+        "description": "\u2022 Final script",
+        "type": "string"
+      },
+      "142": {
+        "description": "Budget for phase applying for",
+        "type": "string"
+      },
+      "146": {
+        "description": "Funding source",
+        "type": "string"
+      },
+      "147": {
+        "description": "Amount",
+        "type": "string"
+      },
+      "148": {
+        "description": "(If not confirmed, note date",
+        "type": "string"
+      },
+      "149": {
+        "description": "Resumes",
+        "type": "string"
+      },
+      "150": {
+        "description": "Financing for this phase (use additional paper if more space is required)",
+        "type": "string"
+      },
+      "1060": {
+        "description": "Address",
+        "type": "string"
+      },
+      "1061": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "1062": {
+        "description": "Have you received funding from the Yukon Filmmakers Fund before?",
+        "type": "string"
+      },
+      "1063": {
+        "description": "Yes    If yes, when?",
+        "type": "string"
+      },
+      "1064": {
+        "description": "(Note: Applicants may receive an award once every 18 months or every three sessions.)",
+        "type": "string"
+      },
+      "1065": {
+        "description": "Email",
+        "type": "string"
+      },
+      "1068": {
+        "description": "No",
+        "type": "string"
+      },
+      "1073": {
+        "description": "$",
+        "type": "string"
+      },
+      "1074": {
+        "description": "$",
+        "type": "string"
+      },
+      "1075": {
+        "description": "$",
+        "type": "string"
+      },
+      "1076": {
+        "description": "this information, contact Manager, Yukon Media Development in writing at 303 Alexander Street, or by phone at 667-5400 or toll free at 1-800-661-0408 ext. 5400.",
+        "type": "string"
+      },
+      "1077": {
+        "description": "Privacy (ATIPP) Act for the purpose of carrying out a program and/or providing financial assistance to the applicant. The collection, use, and disclosure of your personal",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "812": {
+        "description": "APPLICANT INFORMATION",
+        "type": "string"
+      },
+      "818": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "821": {
+        "description": "If yes, explain:",
+        "type": "string"
+      },
+      "822": {
+        "description": "YG(6487EQ)F2 Rev.05/2018",
+        "type": "string"
+      },
+      "823": {
+        "description": "Page 1 of 2",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

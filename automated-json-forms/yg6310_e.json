@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "Financial Advisor\u2019s Printed Name",
+        "type": "string"
+      },
+      "40": {
+        "description": "Pre approved amount expiry date:",
+        "type": "string"
+      },
+      "47": {
+        "description": "I am aware that if any part of this declaration is untrue, and I am granted a loan based on this declaration I may be prosecuted.",
+        "type": "boolean"
+      },
+      "52": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "53": {
+        "description": "Yukon Housing Corporation",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "Financial Advisor\u2019s Signature",
+        "type": "string"
+      },
+      "58": {
+        "description": "We certify the client has qualified for a house purchase utilizing the CMHC",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "Pre-approved amount: $",
+        "type": "string"
+      },
+      "64": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "65": {
+        "description": "individuals on title is between $100,130 and $105,130.",
+        "type": "string"
+      },
+      "68": {
+        "description": "Financial Institution\u2019s Address",
+        "type": "string"
+      },
+      "69": {
+        "description": "Financial Institution\u2019s Name",
+        "type": "string"
+      },
+      "70": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "476": {
+        "description": "PERSONAL INFORMATION",
+        "type": "string"
+      },
+      "479": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "480": {
+        "description": "Email",
+        "type": "string"
+      },
+      "481": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "482": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "483": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "484": {
+        "description": "Notice of Assessment from Canada Revenue Agency showing income is attached.",
+        "type": "string"
+      },
+      "485": {
+        "description": "City",
+        "type": "string"
+      },
+      "486": {
+        "description": "Are you a first time home buyer?",
+        "type": "string"
+      },
+      "487": {
+        "description": "No",
+        "type": "string"
+      },
+      "488": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "489": {
+        "description": "APPLICANT 1",
+        "type": "boolean"
+      },
+      "493": {
+        "description": "APPLICANT 2",
+        "type": "string"
+      },
+      "494": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "495": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "496": {
+        "description": "City",
+        "type": "string"
+      },
+      "497": {
+        "description": "will not be liable for any injury, losses or damage of any kind arising from the information provided.",
+        "type": "string"
+      },
+      "498": {
+        "description": "Daytime contact number",
+        "type": "string"
+      },
+      "499": {
+        "description": "Notice of Assessment from Canada Revenue Agency showing income is attached.",
+        "type": "string"
+      },
+      "500": {
+        "description": "Email",
+        "type": "string"
+      },
+      "501": {
+        "description": "Are you a first time home buyer?",
+        "type": "string"
+      },
+      "502": {
+        "description": "Single",
+        "type": "string"
+      },
+      "503": {
+        "description": "Married/Common-law",
+        "type": "string"
+      },
+      "504": {
+        "description": "First name",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

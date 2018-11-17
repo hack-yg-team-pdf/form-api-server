@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "977": {
+        "description": "Permit number:        Reporting year:",
+        "type": "string"
+      },
+      "980": {
+        "description": "1. Summary of soil volumes",
+        "type": "string"
+      },
+      "981": {
+        "description": "=",
+        "type": "string"
+      },
+      "985": {
+        "description": "+",
+        "type": "string"
+      },
+      "991": {
+        "description": "3. List all soil and water that was present in the facility at any point during the reporting year:",
+        "type": "string"
+      },
+      "992": {
+        "description": "* Samples taken during the reporting year: None, Initial, Interim, or Final.",
+        "type": "string"
+      },
+      "993": {
+        "description": "4. Were any of the stockpiles listed in the table above found to meet or exceed highly contaminated material criteria?",
+        "type": "string"
+      },
+      "994": {
+        "description": "No",
+        "type": "string"
+      },
+      "995": {
+        "description": "Yes \u2013 identify each highly contaminated stockpile by relocation permit number, and indicate what was done with",
+        "type": "string"
+      },
+      "999": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "1003": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "1004": {
+        "description": "each stockpile (e.g. moved to highly contaminated cell, removed from facility, no change from previous year, etc.)",
+        "type": "string"
+      },
+      "1005": {
+        "description": "Relocation Permit #",
+        "type": "string"
+      },
+      "1006": {
+        "description": "YG(5808EQ)F2 Rev.03/2018",
+        "type": "string"
+      },
+      "1007": {
+        "description": "Action",
+        "type": "string"
+      },
+      "1011": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "1015": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "APPLICATION FOR REGISTRATION",
+        "type": "string"
+      },
+      "40": {
+        "description": "of",
+        "type": "string"
+      },
+      "41": {
+        "description": "Address",
+        "type": "string"
+      },
+      "42": {
+        "description": "Date",
+        "type": "string"
+      },
+      "43": {
+        "description": "Returning officer",
+        "type": "boolean"
+      },
+      "46": {
+        "description": "Directeur du scrutin                Demande re\u00e7ue le (date, a/m/j)   Bulletin sp\u00e9cial d\u00e9livr\u00e9 le (date, a/m/j)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

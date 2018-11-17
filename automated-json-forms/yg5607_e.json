@@ -1,0 +1,339 @@
+{
+  "fields": {
+    "properties": {
+      "84": {
+        "description": "Province/Territory                 Postal Code",
+        "type": "string"
+      },
+      "87": {
+        "description": "2.  Last Name",
+        "type": "string"
+      },
+      "88": {
+        "description": "Same As Student Address",
+        "type": "string"
+      },
+      "89": {
+        "description": "Name",
+        "type": "string"
+      },
+      "90": {
+        "description": "City",
+        "type": "string"
+      },
+      "91": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "92": {
+        "description": "EMERGENCY CONTACT INFORMATION",
+        "type": "string"
+      },
+      "93": {
+        "description": "Home Phone",
+        "type": "string"
+      },
+      "94": {
+        "description": "Street",
+        "type": "string"
+      },
+      "95": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "98": {
+        "description": "Cell Phone",
+        "type": "string"
+      },
+      "99": {
+        "description": "Home Phone",
+        "type": "string"
+      },
+      "100": {
+        "description": "No",
+        "type": "string"
+      },
+      "101": {
+        "description": "No",
+        "type": "string"
+      },
+      "103": {
+        "description": "1.  Last Name",
+        "type": "string"
+      },
+      "105": {
+        "description": "Province/Territory                 Postal Code",
+        "type": "string"
+      },
+      "106": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "107": {
+        "description": "Work Phone",
+        "type": "string"
+      },
+      "108": {
+        "description": "Email",
+        "type": "string"
+      },
+      "110": {
+        "description": "Same As Student Address",
+        "type": "string"
+      },
+      "114": {
+        "description": "Signature of Parent/Guardian                                                                                          Date",
+        "type": "string"
+      },
+      "116": {
+        "description": "Work Phone",
+        "type": "string"
+      },
+      "119": {
+        "description": "Relationship",
+        "type": "string"
+      },
+      "120": {
+        "description": "Work Phone",
+        "type": "string"
+      },
+      "121": {
+        "description": "(ATIPP) Act.  Consent is required from the individual for the Yukon Department of Education to collect this information.",
+        "type": "string"
+      },
+      "123": {
+        "description": "If you have any questions about filling out this form, please call: Student Information Help Desk (867-667-8842).",
+        "type": "boolean"
+      },
+      "124": {
+        "description": "Living With Student",
+        "type": "string"
+      },
+      "126": {
+        "description": "Relationship to Student",
+        "type": "string"
+      },
+      "127": {
+        "description": "PARENT/GUARDIAN INFORMATION",
+        "type": "string"
+      },
+      "129": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "130": {
+        "description": "Cell Phone",
+        "type": "string"
+      },
+      "131": {
+        "description": "Relationship to Student",
+        "type": "string"
+      },
+      "133": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "136": {
+        "description": "Cell Phone",
+        "type": "string"
+      },
+      "137": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "140": {
+        "description": "Cell Phone",
+        "type": "string"
+      },
+      "141": {
+        "description": "PARENT/GUARDIAN INFORMATION",
+        "type": "string"
+      },
+      "142": {
+        "description": "Home Phone",
+        "type": "string"
+      },
+      "143": {
+        "description": "Can This Person Pick Up The Student?",
+        "type": "string"
+      },
+      "144": {
+        "description": "Relationship",
+        "type": "string"
+      },
+      "145": {
+        "description": "No",
+        "type": "string"
+      },
+      "146": {
+        "description": "First Language",
+        "type": "string"
+      },
+      "147": {
+        "description": "Work Phone",
+        "type": "string"
+      },
+      "148": {
+        "description": "Street",
+        "type": "string"
+      },
+      "149": {
+        "description": "Home Phone",
+        "type": "string"
+      },
+      "150": {
+        "description": "No",
+        "type": "string"
+      },
+      "151": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "152": {
+        "description": "Other Information",
+        "type": "string"
+      },
+      "153": {
+        "description": "First Language",
+        "type": "string"
+      },
+      "154": {
+        "description": "Email",
+        "type": "string"
+      },
+      "156": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "162": {
+        "description": "AFTER-SCHOOL CARE PROVIDER",
+        "type": "string"
+      },
+      "163": {
+        "description": "Living With Student",
+        "type": "string"
+      },
+      "164": {
+        "description": "The information in this section is considered third party information under the Access to Information and Protection of Privacy",
+        "type": "string"
+      },
+      "165": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "167": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "169": {
+        "description": "City",
+        "type": "string"
+      },
+      "170": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "173": {
+        "description": "If you have any questions about the collection or use of the personal information on this form,",
+        "type": "boolean"
+      },
+      "635": {
+        "description": "YYYY-MM-DD",
+        "type": "string"
+      },
+      "636": {
+        "description": "Gender           (M/F)     Birth Date",
+        "type": "string"
+      },
+      "637": {
+        "description": "Legal First Name                                                                     Preferred First Name",
+        "type": "string"
+      },
+      "638": {
+        "description": "Legal Last Name                                                                   Usual Last Name",
+        "type": "string"
+      },
+      "639": {
+        "description": "Legal Middle Name                                                                 Preferred Middle Name",
+        "type": "string"
+      },
+      "640": {
+        "description": "PREVIOUS SCHOOL INFORMATION",
+        "type": "string"
+      },
+      "641": {
+        "description": "Have you previously attended a Yukon or BC school?",
+        "type": "string"
+      },
+      "642": {
+        "description": "Last Name, Gender and Birthdate",
+        "type": "string"
+      },
+      "646": {
+        "description": "This information is being collected under the authority of the Yukon Education Act for statistical purposes and for Yukon Education\u2019s student information system. No personal",
+        "type": "string"
+      },
+      "647": {
+        "description": "information will be disclosed without the written consent of the child\u2019s parents/guardians, or from a student over the age of 19. Yukon Education is required under the Yukon",
+        "type": "string"
+      },
+      "650": {
+        "description": "Is there a court order relating to your child?",
+        "type": "string"
+      },
+      "651": {
+        "description": "City                                                                                           City",
+        "type": "string"
+      },
+      "652": {
+        "description": "Street                                                                                       Street",
+        "type": "string"
+      },
+      "653": {
+        "description": "PHYSICAL ADDRESS",
+        "type": "string"
+      },
+      "654": {
+        "description": "Home Phone                                                                            Home Phone",
+        "type": "string"
+      },
+      "655": {
+        "description": "Student Authorization from Immigration Canada.)",
+        "type": "string"
+      },
+      "656": {
+        "description": "Province/Territory                 Postal Code                                Province/Territory                 Postal Code",
+        "type": "string"
+      },
+      "657": {
+        "description": "PROOF OF AGE DOCUMENTATION",
+        "type": "string"
+      },
+      "658": {
+        "description": "Visitor (If \u201cVisitor\u201d you must provide a copy of your",
+        "type": "string"
+      },
+      "659": {
+        "description": "Other",
+        "type": "string"
+      },
+      "660": {
+        "description": "Passport",
+        "type": "string"
+      },
+      "667": {
+        "description": "Yukon Health Care Card may NOT be used as proof of age.",
+        "type": "string"
+      },
+      "676": {
+        "description": "No",
+        "type": "string"
+      },
+      "697": {
+        "description": "Other medical information you wish to provide",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

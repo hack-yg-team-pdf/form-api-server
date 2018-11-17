@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "330": {
+        "description": "IF ADDITIONAL SPACE IS REQUIRED TO LIST ALL PARTIES, complete and attach Schedule of Parties",
+        "type": "boolean"
+      },
+      "332": {
+        "description": "LAST NAME",
+        "type": "string"
+      },
+      "333": {
+        "description": "FIRST AND MIDDLE NAME(S)",
+        "type": "string"
+      },
+      "334": {
+        "description": "and the TENANT(S):",
+        "type": "string"
+      },
+      "335": {
+        "description": "FIRST AND MIDDLE NAME(S)",
+        "type": "string"
+      },
+      "336": {
+        "description": "LAST NAME",
+        "type": "string"
+      },
+      "337": {
+        "description": "FIRST AND MIDDLE NAME(S)",
+        "type": "string"
+      },
+      "338": {
+        "description": "LAST NAME",
+        "type": "string"
+      },
+      "339": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "340": {
+        "description": "UNIT #",
+        "type": "string"
+      },
+      "341": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "342": {
+        "description": "EMERGENCY CONTACT INFORMATION: (for tenant to contact landlord)",
+        "type": "string"
+      },
+      "343": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "344": {
+        "description": "TERRITORY",
+        "type": "string"
+      },
+      "345": {
+        "description": "ADDRESS FOR SERVICE of the             landlord             landlord\u2019s agent:",
+        "type": "string"
+      },
+      "350": {
+        "description": "DAYTIME PHONE NUMBER",
+        "type": "string"
+      },
+      "351": {
+        "description": "UNIT #",
+        "type": "string"
+      },
+      "352": {
+        "description": "FAX NUMBER FOR SERVICE",
+        "type": "string"
+      },
+      "353": {
+        "description": "MAXIMUM NUMBER OF OCCUPANTS PERMITTED IN THE RENTAL UNIT:",
+        "type": "string"
+      },
+      "354": {
+        "description": "TERRITORY",
+        "type": "string"
+      },
+      "355": {
+        "description": "If the amount of rent payable varies with the number of occupants, this must be specified below:",
+        "type": "string"
+      },
+      "356": {
+        "description": "YG(6037EQ)F11 Rev. 12/2015",
+        "type": "string"
+      },
+      "357": {
+        "description": "OTHER PHONE NUMBER",
+        "type": "string"
+      },
+      "358": {
+        "description": "Page 1 of 11",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "174": {
+        "description": "Print Name(s)  1.",
+        "type": "string"
+      },
+      "177": {
+        "description": "2.",
+        "type": "string"
+      },
+      "178": {
+        "description": "I understand that it is my responsibility to provide accurate personal and financial information on this application form.",
+        "type": "boolean"
+      },
+      "180": {
+        "description": "Print name:",
+        "type": "boolean"
+      },
+      "183": {
+        "description": "NOTE: It is your responsibility to contact the National Canada Student Loans Service Centre at 1-888-815-4514 to keep",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

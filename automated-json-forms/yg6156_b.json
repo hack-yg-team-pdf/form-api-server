@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "Manager, officer, attorney for service, or authorized agent / Directeur, dirigeant, fond\u00e9 de pouvoir aux fins de significationou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "39": {
+        "description": "9.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "42": {
+        "description": "purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "44": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for the",
+        "type": "boolean"
+      },
+      "45": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "47": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "50": {
+        "description": "8.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "53": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "188": {
+        "description": "1.  Name of extra-territorial LLC / D\u00e9nomination sociale de la c.r.l. extra-territoriale :",
+        "type": "string"
+      },
+      "189": {
+        "description": "3.  Assumed name, if any (must also be registered under section 87 of the Partnership and Business Names Act) :",
+        "type": "string"
+      },
+      "190": {
+        "description": "4.  Anniversary date / Date anniversaire :",
+        "type": "string"
+      },
+      "191": {
+        "description": "(Year of annual return)                         (Month and day of registration in Yukon)",
+        "type": "string"
+      },
+      "192": {
+        "description": "YYYY/AAAA                                               MM/MM                  DD/JJ",
+        "type": "string"
+      },
+      "198": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "199": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "200": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "201": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "202": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "203": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "204": {
+        "description": "Mailing Address/Adresse postale",
+        "type": "string"
+      },
+      "205": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "206": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "207": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "177": {
+        "description": "I recommend that the applicant named above be granted a licence as an agent in Yukon to solicit the following classes",
+        "type": "string"
+      },
+      "180": {
+        "description": "CLASSES OF INSURANCE",
+        "type": "string"
+      },
+      "181": {
+        "description": "of insurance on behalf of .",
+        "type": "boolean"
+      },
+      "183": {
+        "description": "NAME OF INSURANCE COMPANY (INSURER)",
+        "type": "boolean"
+      },
+      "184": {
+        "description": "Name of Applicant:",
+        "type": "boolean"
+      },
+      "185": {
+        "description": "Life",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "Restricted Life",
+        "type": "boolean"
+      },
+      "187": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "188": {
+        "description": "Name",
+        "type": "string"
+      },
+      "189": {
+        "description": "Date (YYYY/MM/DD)",
+        "type": "boolean"
+      },
+      "192": {
+        "description": "Personal information contained on this form is collected under the Insurance Act and will be used for the purpose of administering the Act. For further",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

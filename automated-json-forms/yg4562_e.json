@@ -1,0 +1,271 @@
+{
+  "fields": {
+    "properties": {
+      "18": {
+        "description": "$",
+        "type": "string"
+      },
+      "19": {
+        "description": "$",
+        "type": "string"
+      },
+      "20": {
+        "description": "$",
+        "type": "string"
+      },
+      "21": {
+        "description": "$",
+        "type": "string"
+      },
+      "22": {
+        "description": "$",
+        "type": "string"
+      },
+      "23": {
+        "description": "$",
+        "type": "string"
+      },
+      "24": {
+        "description": "$",
+        "type": "string"
+      },
+      "25": {
+        "description": "$",
+        "type": "string"
+      },
+      "26": {
+        "description": "$",
+        "type": "string"
+      },
+      "27": {
+        "description": "$",
+        "type": "string"
+      },
+      "28": {
+        "description": "$",
+        "type": "string"
+      },
+      "29": {
+        "description": "$",
+        "type": "string"
+      },
+      "30": {
+        "description": "$",
+        "type": "string"
+      },
+      "31": {
+        "description": "Other (please provide details)",
+        "type": "string"
+      },
+      "32": {
+        "description": "Expenditures from YIF funds",
+        "type": "string"
+      },
+      "33": {
+        "description": "$",
+        "type": "string"
+      },
+      "34": {
+        "description": "$",
+        "type": "string"
+      },
+      "35": {
+        "description": "Amount of funding provided by Youth Investment Fund:          $",
+        "type": "string"
+      },
+      "36": {
+        "description": "(e) Other (please specify)",
+        "type": "string"
+      },
+      "37": {
+        "description": "$",
+        "type": "string"
+      },
+      "38": {
+        "description": "$",
+        "type": "string"
+      },
+      "39": {
+        "description": "$",
+        "type": "string"
+      },
+      "40": {
+        "description": "$",
+        "type": "string"
+      },
+      "41": {
+        "description": "$",
+        "type": "string"
+      },
+      "42": {
+        "description": "$",
+        "type": "string"
+      },
+      "43": {
+        "description": "Other (please provide details)",
+        "type": "string"
+      },
+      "44": {
+        "description": "$",
+        "type": "string"
+      },
+      "45": {
+        "description": "$",
+        "type": "string"
+      },
+      "46": {
+        "description": "$",
+        "type": "string"
+      },
+      "47": {
+        "description": "$",
+        "type": "string"
+      },
+      "48": {
+        "description": "$",
+        "type": "string"
+      },
+      "49": {
+        "description": "$",
+        "type": "string"
+      },
+      "50": {
+        "description": "Expenditures (receipts must be included)",
+        "type": "string"
+      },
+      "51": {
+        "description": "$",
+        "type": "string"
+      },
+      "52": {
+        "description": "$",
+        "type": "string"
+      },
+      "53": {
+        "description": "$",
+        "type": "string"
+      },
+      "54": {
+        "description": "$",
+        "type": "string"
+      },
+      "55": {
+        "description": "$",
+        "type": "string"
+      },
+      "70": {
+        "description": "Total actual expenses using Youth Investment Fund money:    $",
+        "type": "string"
+      },
+      "71": {
+        "description": "Difference between expenses and funding provided:               $",
+        "type": "string"
+      },
+      "90": {
+        "description": "If your project cost less than expected, you must return any unspent funds of $25.00 or more.",
+        "type": "string"
+      },
+      "92": {
+        "description": "$",
+        "type": "string"
+      },
+      "93": {
+        "description": "Cheque should be made payable to \u201cTerritorial Treasurer, Yukon Government\u201d and should be",
+        "type": "string"
+      },
+      "101": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "103": {
+        "description": "Monitor",
+        "type": "boolean"
+      },
+      "104": {
+        "description": "Youth Investment Fund",
+        "type": "string"
+      },
+      "105": {
+        "description": "Date",
+        "type": "string"
+      },
+      "106": {
+        "description": "sent to the attention of the YIF administrator at the address below.",
+        "type": "string"
+      },
+      "368": {
+        "description": "Name of organization:",
+        "type": "string"
+      },
+      "369": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "370": {
+        "description": "President:            Secretary/treasurer:",
+        "type": "string"
+      },
+      "371": {
+        "description": "Phone number:             Phone number:",
+        "type": "string"
+      },
+      "372": {
+        "description": "Name of person who prepared this report:  Phone number:",
+        "type": "string"
+      },
+      "373": {
+        "description": "Amount of funds awarded:",
+        "type": "string"
+      },
+      "374": {
+        "description": "Date of project/duration:",
+        "type": "string"
+      },
+      "375": {
+        "description": "1. Description of project (this could be a report that you attach):",
+        "type": "string"
+      },
+      "376": {
+        "description": "Project:",
+        "type": "string"
+      },
+      "377": {
+        "description": "3. Did the project benefit marginalized youth?  Were there other benefits of the project?",
+        "type": "string"
+      },
+      "378": {
+        "description": "4. Attendance figures (if applicable):",
+        "type": "string"
+      },
+      "379": {
+        "description": "Youth age 19 and under",
+        "type": "string"
+      },
+      "380": {
+        "description": "Other participants",
+        "type": "string"
+      },
+      "381": {
+        "description": "Project staff",
+        "type": "string"
+      },
+      "382": {
+        "description": "5. Provide photos (if possible) of your project in action",
+        "type": "string"
+      },
+      "383": {
+        "description": "6. Would you recommend this type of project to other groups/communities?",
+        "type": "string"
+      },
+      "384": {
+        "description": "YG(4562EQ)F2 Rev.05/2018",
+        "type": "string"
+      },
+      "385": {
+        "description": "Page 1 of 2",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

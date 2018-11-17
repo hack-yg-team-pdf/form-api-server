@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "230": {
+        "description": "School year:",
+        "type": "string"
+      },
+      "231": {
+        "description": "Last Name:",
+        "type": "string"
+      },
+      "232": {
+        "description": "Grade:                      School:",
+        "type": "string"
+      },
+      "233": {
+        "description": "STUDENT #1:",
+        "type": "string"
+      },
+      "234": {
+        "description": "Important medical information that a driver would need to know in case of emergency:",
+        "type": "string"
+      },
+      "237": {
+        "description": "Important medical information that a driver would need to know in case of emergency:",
+        "type": "string"
+      },
+      "238": {
+        "description": "Grade:                      School:",
+        "type": "string"
+      },
+      "239": {
+        "description": "STUDENT #2:",
+        "type": "string"
+      },
+      "240": {
+        "description": "First Name:",
+        "type": "string"
+      },
+      "241": {
+        "description": "Important medical information that a driver would need to know in case of emergency:",
+        "type": "string"
+      },
+      "242": {
+        "description": "Last Name:",
+        "type": "string"
+      },
+      "243": {
+        "description": "Grade:                      School:",
+        "type": "string"
+      },
+      "244": {
+        "description": "First Name:",
+        "type": "string"
+      },
+      "245": {
+        "description": "STUDENT #3:",
+        "type": "string"
+      },
+      "246": {
+        "description": "Last Name:",
+        "type": "string"
+      },
+      "247": {
+        "description": "Home Address:",
+        "type": "string"
+      },
+      "248": {
+        "description": "Phone Number(s):",
+        "type": "string"
+      },
+      "249": {
+        "description": "Parent(s)/Guardian(s) Name:",
+        "type": "string"
+      },
+      "250": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "251": {
+        "description": "\u2022",
+        "type": "string"
+      },
+      "252": {
+        "description": "For busing questions and special requests, contact Standard Bus, 456-3210",
+        "type": "string"
+      },
+      "253": {
+        "description": "\u2022",
+        "type": "string"
+      },
+      "254": {
+        "description": "To submit registration, print form and:",
+        "type": "string"
+      },
+      "255": {
+        "description": "Scan and email it to student.transportation@gov.yk.ca",
+        "type": "string"
+      },
+      "256": {
+        "description": "Notice of Video Surveillance: School bus video surveillance is carried out under the authority of the Education Act to promote student safety.",
+        "type": "boolean"
+      },
+      "259": {
+        "description": "Collection and Use of Information: We are collecting this personal information to provide student transportation services in accordance with",
+        "type": "boolean"
+      },
+      "261": {
+        "description": "Fill out one form per family each school year.",
+        "type": "string"
+      },
+      "262": {
+        "description": "To be met at stop:",
+        "type": "string"
+      },
+      "263": {
+        "description": "Fax to 867-667-8243",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "64": {
+        "description": "Mineral Claim",
+        "type": "string"
+      },
+      "65": {
+        "description": "Situated in the   Mining District",
+        "type": "string"
+      },
+      "66": {
+        "description": "Take notice that I,",
+        "type": "string"
+      },
+      "67": {
+        "description": "Client I.D. Number",
+        "type": "string"
+      },
+      "68": {
+        "description": "intend, sixty days from the date hereof, to apply to the mining",
+        "type": "string"
+      },
+      "69": {
+        "description": "recorder for a certificate of improvements, for the purpose of",
+        "type": "string"
+      },
+      "70": {
+        "description": "obtaining a lease of the above claim.",
+        "type": "string"
+      },
+      "71": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "72": {
+        "description": "this  day of  , 20  .",
+        "type": "string"
+      },
+      "73": {
+        "description": "and Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "string"
+      },
+      "74": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Quartz Mining Act.",
+        "type": "string"
+      },
+      "75": {
+        "description": "Claim minier",
+        "type": "string"
+      },
+      "76": {
+        "description": "Situ\u00e9 dans le district minier de",
+        "type": "string"
+      },
+      "77": {
+        "description": "Prenez avis que je,",
+        "type": "string"
+      },
+      "78": {
+        "description": "Num\u00e9ro d\u2019identification du client",
+        "type": "string"
+      },
+      "79": {
+        "description": "d\u2019am\u00e9liorations dans le but d\u2019obtenir un bail pour le claim",
+        "type": "string"
+      },
+      "80": {
+        "description": "ai l\u2019intention, dans les 60 jours \u00e0 compter des pr\u00e9sentes,",
+        "type": "string"
+      },
+      "81": {
+        "description": "de m\u2019adresser au registraire minier pour avoir un certificat",
+        "type": "string"
+      },
+      "82": {
+        "description": "Dat\u00e9 \u00e0   ,",
+        "type": "string"
+      },
+      "83": {
+        "description": "Applicant Signature",
+        "type": "string"
+      },
+      "84": {
+        "description": "le  20   .",
+        "type": "string"
+      },
+      "85": {
+        "description": "Les renseignements personnels fournis dans les pr\u00e9sentes sont recueillis en application de la Loi sur l\u2019extraction du quartz exclusivement aux fins de son application.",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "Veuillez adresser toute demande concernant la collecte ou l\u2019utilisation de ces renseignements au bureau du registraire minier, minist\u00e8re de l\u2019\u00c9nergie, des Mines et des",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

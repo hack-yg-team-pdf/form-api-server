@@ -1,0 +1,159 @@
+{
+  "fields": {
+    "properties": {
+      "112": {
+        "description": "Jackpot",
+        "type": "string"
+      },
+      "114": {
+        "description": "Banking information",
+        "type": "string"
+      },
+      "119": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "123": {
+        "description": "From",
+        "type": "string"
+      },
+      "124": {
+        "description": "Address",
+        "type": "string"
+      },
+      "125": {
+        "description": "Weekly",
+        "type": "string"
+      },
+      "127": {
+        "description": "a.m.",
+        "type": "string"
+      },
+      "131": {
+        "description": "Note: can\u2019t exceed seven hours",
+        "type": "string"
+      },
+      "133": {
+        "description": "Member email",
+        "type": "string"
+      },
+      "138": {
+        "description": "Time of draw",
+        "type": "string"
+      },
+      "140": {
+        "description": "Lottery start date",
+        "type": "string"
+      },
+      "143": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "146": {
+        "description": "1. Confirm eligibility",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "3. Draw dates/locations",
+        "type": "string"
+      },
+      "148": {
+        "description": "YG(6588EQ)F3 05/2018",
+        "type": "string"
+      },
+      "153": {
+        "description": "Price of ticket: $ each or at a discounted price of $ for  (# of) tickets.",
+        "type": "string"
+      },
+      "156": {
+        "description": "Member contact phone number",
+        "type": "string"
+      },
+      "157": {
+        "description": "Enter your maximum jackpot amount: $. (Must not exceed $100,000).",
+        "type": "string"
+      },
+      "159": {
+        "description": "Member organizing this lottery",
+        "type": "string"
+      },
+      "165": {
+        "description": "Daily",
+        "type": "string"
+      },
+      "166": {
+        "description": "The licence fee for Chase the Ace-style lotteries is $100 plus 1% of your total ticket sales. You must provide the $100",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "6. Licence fee",
+        "type": "string"
+      },
+      "169": {
+        "description": "Personal information is collected, used and disclosed under the Lottery Licensing Act, RSY 2002, c.143 for the purposes of determining license eligibility and maintaining",
+        "type": "boolean"
+      },
+      "170": {
+        "description": "a public registry. For more information regarding the collection, use and disclosure of this information, contact the Director of Professional Licensing & Regulatory Affairs,",
+        "type": "boolean"
+      },
+      "172": {
+        "description": "Home phone                         Work phone",
+        "type": "string"
+      },
+      "176": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "177": {
+        "description": "Box 2703, Whitehorse, Yukon Y1A 2C6                                 307 Black Street, Whitehorse, Yukon Y1A 2N1",
+        "type": "string"
+      },
+      "179": {
+        "description": "Return your completed application package to:",
+        "type": "string"
+      },
+      "180": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "182": {
+        "description": "President (please print)",
+        "type": "string"
+      },
+      "183": {
+        "description": "I have included a cheque for $100 made out to Professional Licensing and Regulatory Affairs.",
+        "type": "boolean"
+      },
+      "723": {
+        "description": "For more information on how to apply for or hold a Chase the Ace-style lottery in Yukon, please visit our website.",
+        "type": "boolean"
+      },
+      "725": {
+        "description": "\u2022  Professional Licensing and Regulatory Affairs (PLRA) issues gaming licences to eligible charitable and religious",
+        "type": "boolean"
+      },
+      "727": {
+        "description": "A copy of your termination plan. (See the termination plan document included with this package for more information.)",
+        "type": "boolean"
+      },
+      "729": {
+        "description": "A mock-up of your proposed ticket. (Sample provided with this package for your reference.)",
+        "type": "boolean"
+      },
+      "731": {
+        "description": "A copy of your proposed rules of play. (See the rules of play document included with this package for more information.)",
+        "type": "boolean"
+      },
+      "733": {
+        "description": "A copy of your organization\u2019s meeting motion authorizing your application for a lottery licence.",
+        "type": "boolean"
+      },
+      "735": {
+        "description": "A completed copy of the application form.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

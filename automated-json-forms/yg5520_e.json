@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "185": {
+        "description": "B. REGISTRATION",
+        "type": "string"
+      },
+      "186": {
+        "description": "Submit one notice per registration number",
+        "type": "string"
+      },
+      "187": {
+        "description": "C. SECURED PARTY",
+        "type": "string"
+      },
+      "192": {
+        "description": "Signature of secured party or agent",
+        "type": "string"
+      },
+      "193": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "194": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "195": {
+        "description": "Branch File #     Registration #:",
+        "type": "string"
+      },
+      "196": {
+        "description": "Date Received:              /         /              Time Received:",
+        "type": "string"
+      },
+      "197": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "198": {
+        "description": "This Statutory Notice is issued pursuant to the Oil and Gas Act and the Oil and Gas Disposition Regulations. Personal information on this form is collected",
+        "type": "string"
+      },
+      "199": {
+        "description": "under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "200": {
+        "description": "Date:              /         /",
+        "type": "boolean"
+      },
+      "203": {
+        "description": "YG(5520EQ)F1 Rev.06/2017",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

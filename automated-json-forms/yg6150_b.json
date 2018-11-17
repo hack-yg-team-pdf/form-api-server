@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "43": {
+        "description": "Signature of manager, officer, or authorized agent / Directeur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "47": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "Signature of alternative attorney for service / Signature du fond\u00e9 de pouvoir suppl\u00e9ant",
+        "type": "string"
+      },
+      "51": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "52": {
+        "description": "Nom du signataire pour la c.r.l. extra-territoriale :",
+        "type": "string"
+      },
+      "55": {
+        "description": "7.  Name of individual signing for the extra-territorial LLC :",
+        "type": "string"
+      },
+      "59": {
+        "description": "D\u00e9nomination sociale de la soci\u00e9t\u00e9 de personnes dont le fond\u00e9 de pouvoir et le fond\u00e9 de pouvoir suppl\u00e9ant sont membres :",
+        "type": "string"
+      },
+      "61": {
+        "description": "Les nominations de fond\u00e9s de pouvoir ou de fond\u00e9s de pouvoir suppl\u00e9ants ant\u00e9rieurs \u00e0 la date de la",
+        "type": "string"
+      },
+      "689": {
+        "description": "2.  Yukon registry number /Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "690": {
+        "description": "3.  Attorney for service / Fond\u00e9 de pouvoir aux fins de signification :",
+        "type": "string"
+      },
+      "691": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "692": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "693": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "694": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "695": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "696": {
+        "description": "Effective date of appointement:",
+        "type": "string"
+      },
+      "697": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "698": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "699": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "700": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "701": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "702": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "703": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "704": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "705": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

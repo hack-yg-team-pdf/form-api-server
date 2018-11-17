@@ -1,0 +1,211 @@
+{
+  "fields": {
+    "properties": {
+      "111": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "119": {
+        "description": "Member responsible for this report",
+        "type": "string"
+      },
+      "122": {
+        "description": "Address",
+        "type": "string"
+      },
+      "123": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "124": {
+        "description": "Member contact phone number",
+        "type": "string"
+      },
+      "125": {
+        "description": "Report and licence information",
+        "type": "string"
+      },
+      "126": {
+        "description": "Member contact email",
+        "type": "string"
+      },
+      "127": {
+        "description": "Choose one:",
+        "type": "string"
+      },
+      "128": {
+        "description": "First quarter report",
+        "type": "string"
+      },
+      "133": {
+        "description": "Dates:  to",
+        "type": "string"
+      },
+      "134": {
+        "description": "Dates:  to",
+        "type": "string"
+      },
+      "135": {
+        "description": "Dates:  to",
+        "type": "string"
+      },
+      "136": {
+        "description": "Dates:  to",
+        "type": "string"
+      },
+      "137": {
+        "description": "Fourth quarter report",
+        "type": "string"
+      },
+      "138": {
+        "description": "Number and price of full price tickets sold:     @   $   =   $",
+        "type": "string"
+      },
+      "139": {
+        "description": "Number and price of discounted tickets sold:    @   $   =   $",
+        "type": "string"
+      },
+      "140": {
+        "description": "Total ticket sales:   =   $(A)",
+        "type": "string"
+      },
+      "141": {
+        "description": "Total amount of all prizes awarded over reporting period:",
+        "type": "string"
+      },
+      "142": {
+        "description": "Total printing costs:",
+        "type": "string"
+      },
+      "143": {
+        "description": "=   $(B)",
+        "type": "string"
+      },
+      "144": {
+        "description": "Total advertising costs:",
+        "type": "string"
+      },
+      "145": {
+        "description": "Net proceeds (A-(B+C)):   =   $(D)",
+        "type": "string"
+      },
+      "146": {
+        "description": "=   $",
+        "type": "string"
+      },
+      "147": {
+        "description": "=   $",
+        "type": "string"
+      },
+      "148": {
+        "description": "Total expenses:   =   $(C)",
+        "type": "string"
+      },
+      "149": {
+        "description": "Item:   Amount   =   $",
+        "type": "string"
+      },
+      "150": {
+        "description": "Item:   Amount   =   $",
+        "type": "string"
+      },
+      "151": {
+        "description": "Item:   Amount   =   $",
+        "type": "string"
+      },
+      "152": {
+        "description": "Total use of proceeds:   =   $(E)",
+        "type": "string"
+      },
+      "153": {
+        "description": "Remaining proceeds (D-E):   =   $",
+        "type": "string"
+      },
+      "154": {
+        "description": "Use of proceeds",
+        "type": "string"
+      },
+      "155": {
+        "description": "Personal information is collected, used and disclosed under the Lottery Licensing Act, Section 10, RSY 2002, c.143 for the purposes of managing lottery schemes and",
+        "type": "string"
+      },
+      "156": {
+        "description": "Refer to your licence",
+        "type": "string"
+      },
+      "157": {
+        "description": "allocation of profits. For more information regarding the collection, use and disclosure of this information, contact the Director of Professional Licensing and Regulatory",
+        "type": "string"
+      },
+      "158": {
+        "description": "for your approved",
+        "type": "string"
+      },
+      "159": {
+        "description": "Affairs branch of Community Services, 307 Black Street, Whitehorse YT, Y1A 2C6, by phone at 867-667-5111, by fax at 867-667-3609 or email at charitablegaming@gov.yk.ca.",
+        "type": "string"
+      },
+      "160": {
+        "description": "Note: Add additional sheet if necessary",
+        "type": "string"
+      },
+      "170": {
+        "description": "CITY/TOWN/VILLAGE",
+        "type": "string"
+      },
+      "172": {
+        "description": "I,  of , in Yukon, do solemnly declare that:",
+        "type": "string"
+      },
+      "174": {
+        "description": "licence number.",
+        "type": "string"
+      },
+      "179": {
+        "description": "A notary public in and for Yukon",
+        "type": "boolean"
+      },
+      "180": {
+        "description": "this  day of , 20",
+        "type": "boolean"
+      },
+      "181": {
+        "description": "1. I am the  of this organization and have knowledge of the matter herein declared to.",
+        "type": "string"
+      },
+      "183": {
+        "description": "and",
+        "type": "string"
+      },
+      "469": {
+        "description": "A completed financial report form, signed and accompanied by a notarized affidavit. A notary at PLRA can",
+        "type": "boolean"
+      },
+      "471": {
+        "description": "sign the form.",
+        "type": "boolean"
+      },
+      "472": {
+        "description": "A completed tracking sheet.",
+        "type": "boolean"
+      },
+      "473": {
+        "description": "A completed ticket inventory control sheet.",
+        "type": "boolean"
+      },
+      "474": {
+        "description": "Copy of a bank statement showing your account balance is at least equal to your unspent proceeds.",
+        "type": "boolean"
+      },
+      "475": {
+        "description": "Copies of paid invoices, cancelled cheques, and receipts verifying how you spent your proceeds.",
+        "type": "boolean"
+      },
+      "476": {
+        "description": "Copies of winning tickets.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

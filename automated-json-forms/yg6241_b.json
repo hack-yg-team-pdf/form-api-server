@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "45": {
+        "description": "I,                                                                                                                         [name], make oath and say as follows:",
+        "type": "string"
+      },
+      "46": {
+        "description": "3. Les faits \u00e9nonc\u00e9s dans [encercler l\u2019un des deux] la Revendication de privil\u00e8ge [ou] le Re\u00e7u de lib\u00e9ration de privil\u00e8ge",
+        "type": "string"
+      },
+      "47": {
+        "description": "co\u00fbt des mat\u00e9riaux ou des machines install\u00e9s ou fournis; ce montant m\u2019est d\u00fb suite aux travaux que j\u2019ai ex\u00e9cut\u00e9s sur",
+        "type": "string"
+      },
+      "60": {
+        "description": "D\u00e9clar\u00e9 sous serment devant moi \u00e0",
+        "type": "boolean"
+      },
+      "63": {
+        "description": "Signature of claimant or agent: (sign and print name)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

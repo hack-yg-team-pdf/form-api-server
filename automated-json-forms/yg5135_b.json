@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "62": {
+        "description": "Nom au long",
+        "type": "string"
+      },
+      "64": {
+        "description": "Please make your cheque payable to Government of Yukon, or,",
+        "type": "string"
+      },
+      "67": {
+        "description": "Date \u2022 Date",
+        "type": "string"
+      },
+      "68": {
+        "description": "Si vous avez des questions, veuillez communiquer avec les Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires : par t\u00e9l\u00e9phone, au 867-667-5111;",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "hereby declare that to the best of my knowledge the information given in",
+        "type": "string"
+      },
+      "73": {
+        "description": "I",
+        "type": "string"
+      },
+      "74": {
+        "description": "Secondhand Dealer       $10.00",
+        "type": "boolean"
+      },
+      "75": {
+        "description": "Je",
+        "type": "string"
+      },
+      "76": {
+        "description": "le formulaire d\u2019informations de paiement YG5924 \u00e0: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "77": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609 or e-mail PLRA@gov.yk.ca for inquiries.",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "Pawnbroker",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "Is the partnership or trade name registered pursuant to the Partnership and Business Names Act?",
+        "type": "string"
+      },
+      "89": {
+        "description": "Position in Firm \u2022 Poste occup\u00e9 dans l\u2019entreprise",
+        "type": "string"
+      },
+      "576": {
+        "description": "I",
+        "type": "string"
+      },
+      "577": {
+        "description": "Name in Full",
+        "type": "string"
+      },
+      "580": {
+        "description": "Name of Business",
+        "type": "string"
+      },
+      "581": {
+        "description": "Je",
+        "type": "string"
+      },
+      "582": {
+        "description": "Nom au long",
+        "type": "string"
+      },
+      "583": {
+        "description": "domicili\u00e9 au :",
+        "type": "string"
+      },
+      "584": {
+        "description": "Rue",
+        "type": "string"
+      },
+      "585": {
+        "description": "apply for a licence to be issued to:",
+        "type": "string"
+      },
+      "589": {
+        "description": "Adresse postale de l\u2019entreprise :    Num\u00e9ro de t\u00e9l\u00e9phone :",
+        "type": "string"
+      },
+      "590": {
+        "description": "Je r\u00e9side au Yukon de fa\u00e7on continue depuis :  pr\u00e9c\u00e9dant la date de la demande.",
+        "type": "string"
+      },
+      "592": {
+        "description": "Nom des propri\u00e9taires exploitants ou des associ\u00e9s :",
+        "type": "string"
+      },
+      "594": {
+        "description": "The business will be conducted in the name of a",
+        "type": "string"
+      },
+      "595": {
+        "description": "Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

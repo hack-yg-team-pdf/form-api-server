@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "Name and address of the owner of property to be charged / Nom et adresse du propri\u00e9taire du bien qui doit \u00eatre grev\u00e9 :",
+        "type": "string"
+      },
+      "38": {
+        "description": "Name and address of the person for whom work was done:",
+        "type": "string"
+      },
+      "39": {
+        "description": "Legal description of the property to be charged / Description officielle du bien qui doit \u00eatre grev\u00e9 :",
+        "type": "string"
+      },
+      "40": {
+        "description": "Montant des salaires r\u00e9clam\u00e9s comme \u00e9tant exigibles ou qui doivent le devenir :",
+        "type": "string"
+      },
+      "41": {
+        "description": "Describe the work done / Description des travaux ex\u00e9cut\u00e9s :",
+        "type": "string"
+      },
+      "42": {
+        "description": "Amount of wages claimed as due or to become due:",
+        "type": "string"
+      },
+      "43": {
+        "description": "If credit has been given by the claimant, the date that the period of credit will expire or expired:",
+        "type": "string"
+      },
+      "44": {
+        "description": "en caract\u00e8res d\u2019imprimerie)",
+        "type": "string"
+      },
+      "45": {
+        "description": "Date of signatures / Date des signatures :",
+        "type": "string"
+      },
+      "46": {
+        "description": "Signature of claimant: (sign and print name)",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "Signature of witness: (sign and print name)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

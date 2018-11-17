@@ -1,0 +1,231 @@
+{
+  "fields": {
+    "properties": {
+      "92": {
+        "description": "C",
+        "type": "string"
+      },
+      "93": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "96": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "97": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "98": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "99": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "100": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "101": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "102": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "103": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "106": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "107": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "110": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "111": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "114": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "115": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "116": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "117": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "118": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "119": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "120": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "121": {
+        "description": "E",
+        "type": "string"
+      },
+      "122": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "123": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "124": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "127": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "130": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "132": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "133": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "134": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "135": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "136": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "137": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "139": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "140": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "1742": {
+        "description": "1.  Name of society / D\u00e9nomination sociale de la soci\u00e9t\u00e9 :",
+        "type": "string"
+      },
+      "1743": {
+        "description": "DIRECTORS / ADMINISTRATEURS",
+        "type": "string"
+      },
+      "1744": {
+        "description": "3.  Individual ceasing to be a director (Please attach page if necessary) :",
+        "type": "string"
+      },
+      "1745": {
+        "description": "Particulier qui cesse d\u2019\u00eatre un administrateur (S.V.P. joindre autre page si n\u00e9cessaire) :",
+        "type": "string"
+      },
+      "1746": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "1747": {
+        "description": "Nouveau particulier \u00e9lu ou d\u00e9sign\u00e9 \u00e0 titre d\u2019administrateur (S.V.P. joindre autre page si n\u00e9cessaire) :",
+        "type": "string"
+      },
+      "1748": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "1749": {
+        "description": "4.  New individual elected or appointed to be a director (Please attach page if necessary) :",
+        "type": "string"
+      },
+      "1750": {
+        "description": "Effective date / Date de prise d\u2019effet :",
+        "type": "string"
+      },
+      "1751": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "1752": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "1756": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "1757": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "1758": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "1759": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1760": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1761": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "1762": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1763": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1764": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "1765": {
+        "description": "YG(6165Q)F4 06/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

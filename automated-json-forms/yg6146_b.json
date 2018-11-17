@@ -1,0 +1,251 @@
+{
+  "fields": {
+    "properties": {
+      "20": {
+        "description": "Nouvelle Adresse postale",
+        "type": "string"
+      },
+      "21": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "22": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "23": {
+        "description": "membre du corps dirigeant :",
+        "type": "string"
+      },
+      "24": {
+        "description": "Administrateur(s) ou membre(s) du corps dirigeant dont l\u2019adresse a chang\u00e9, le cas \u00e9ch\u00e9ant (Num\u00e9ro",
+        "type": "string"
+      },
+      "25": {
+        "description": "5.  Director(s) or member(s) of the governing body whose address has changed, if any (Yukon registry number (if",
+        "type": "string"
+      },
+      "26": {
+        "description": "Date person took office as a director or member of",
+        "type": "string"
+      },
+      "27": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "28": {
+        "description": "suppl\u00e9mentaire au besoin:",
+        "type": "string"
+      },
+      "29": {
+        "description": "director or member is a corporation or extra-territorial corporation)) (Attach additional page(s) if necessary) :",
+        "type": "string"
+      },
+      "30": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "31": {
+        "description": "territoriale)) (Annexer des feuilles suppl\u00e9mentaire au besoin :",
+        "type": "string"
+      },
+      "32": {
+        "description": "Date \u00e0 laquelle la personne a cess\u00e9 d\u2019\u00eatre administrateur ou",
+        "type": "string"
+      },
+      "33": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "34": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "39": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "40": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "44": {
+        "description": "Date person ceased to be a director or member of the",
+        "type": "string"
+      },
+      "49": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "50": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "51": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "52": {
+        "description": "Nouvelle Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "53": {
+        "description": "New Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "54": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "56": {
+        "description": "\u00c0 compter de la date de signature, le(s) administrateur(s) ou membre(s) du corps dirigeant de la soci\u00e9t\u00e9",
+        "type": "string"
+      },
+      "57": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "58": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "59": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "60": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "61": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "62": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "63": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "68": {
+        "description": "7.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "69": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "72": {
+        "description": "8.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "73": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "74": {
+        "description": "corporation are (if no directors, Form 10 must also be filed) (Yukon registry number (if director or member is a",
+        "type": "string"
+      },
+      "75": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "76": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "77": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "81": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "82": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "83": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "84": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "85": {
+        "description": "yukon (si l\u2019administrateur ou membre est une soci\u00e9t\u00e9 ou une soci\u00e9t\u00e9 extra-territoriale)) (Annexer des feuilles",
+        "type": "string"
+      },
+      "86": {
+        "description": "extra-territoriale est (sont) (s\u2019il n\u2019y en a aucun, la formule 10 doit aussi \u00eatre remplie) (Num\u00e9ro d\u2019enregistrement au",
+        "type": "string"
+      },
+      "87": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "89": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "242": {
+        "description": "2.  Yukon registry number /Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "243": {
+        "description": "d\u2019enregistrement au Yukon (si l\u2019administrateur ou membre est une soci\u00e9t\u00e9 ou une soci\u00e9t\u00e9 extra-territoriale)) (Annexer",
+        "type": "string"
+      },
+      "244": {
+        "description": "A",
+        "type": "string"
+      },
+      "245": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "246": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "247": {
+        "description": "membre du corps dirigeant :",
+        "type": "string"
+      },
+      "248": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "249": {
+        "description": "B",
+        "type": "string"
+      },
+      "250": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "251": {
+        "description": "governing body:",
+        "type": "string"
+      },
+      "252": {
+        "description": "membre du corps dirigeant :",
+        "type": "string"
+      },
+      "253": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "248": {
+        "description": "C. UPDATE MAIN ADDRESS",
+        "type": "string"
+      },
+      "250": {
+        "description": "Territory/Province/State",
+        "type": "string"
+      },
+      "251": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "252": {
+        "description": "Contact Name",
+        "type": "string"
+      },
+      "253": {
+        "description": "D. NEW CONTACT INFORMATION",
+        "type": "string"
+      },
+      "254": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "255": {
+        "description": "Add new contact persons, and how to reach them.",
+        "type": "string"
+      },
+      "256": {
+        "description": "Territory/Province/State",
+        "type": "string"
+      },
+      "257": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "258": {
+        "description": "Address",
+        "type": "string"
+      },
+      "259": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "260": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "261": {
+        "description": "Alternate Email",
+        "type": "string"
+      },
+      "262": {
+        "description": "Cell Phone",
+        "type": "string"
+      },
+      "263": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "264": {
+        "description": "Email",
+        "type": "string"
+      },
+      "265": {
+        "description": "YG(5491EQ)F1 Rev.06/2017",
+        "type": "string"
+      },
+      "272": {
+        "description": "Record #:    Date Received:             /        /            Time Received:",
+        "type": "string"
+      },
+      "273": {
+        "description": "YYYY      MM      DD",
+        "type": "string"
+      },
+      "274": {
+        "description": "Personal information on this form is collected under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "277": {
+        "description": "Field Phone",
+        "type": "boolean"
+      },
+      "280": {
+        "description": "COPY AND ADD ADDITIONAL PAGES IF NECESSARY",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

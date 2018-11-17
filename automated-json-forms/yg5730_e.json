@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "properties": {
+      "48": {
+        "description": "\u2022",
+        "type": "string"
+      },
+      "49": {
+        "description": "TICKET SALES",
+        "type": "string"
+      },
+      "50": {
+        "description": "\u2022",
+        "type": "string"
+      },
+      "51": {
+        "description": "licence holder has made with the volunteers who assist with the raffle. The Lottery Licensing Act,",
+        "type": "string"
+      },
+      "52": {
+        "description": "RESPONSIBILITY",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "The control of the raffle remains with the licence holder regardless of what arrangements the",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "343": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "344": {
+        "description": "3.  Current attorney for service / Fond\u00e9 de pouvoir aux fins de signification actuel :",
+        "type": "string"
+      },
+      "345": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "346": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "347": {
+        "description": "Nouvelle Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "348": {
+        "description": "Date d\u2019entr\u00e9e en vigueur de la nouvelle adresse :",
+        "type": "string"
+      },
+      "349": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "350": {
+        "description": "Effective date of new addresses :",
+        "type": "string"
+      },
+      "351": {
+        "description": "Nouvelle adresse postale",
+        "type": "string"
+      },
+      "352": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "353": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "354": {
+        "description": "Signature du fond\u00e9 de pouvoir aux fins de signification :",
+        "type": "string"
+      },
+      "355": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "356": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "359": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      },
+      "360": {
+        "description": "5.  Date of signature / Date de signature :",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

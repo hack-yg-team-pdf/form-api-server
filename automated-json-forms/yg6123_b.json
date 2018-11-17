@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "771": {
+        "description": "3.  Date written resignation was sent to the corporation (must be at least 90 days prior to date of this notice) :",
+        "type": "string"
+      },
+      "772": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "773": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "774": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "775": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "776": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "777": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "778": {
+        "description": "5.  New records office (if changed \u2013 see subsections 22.1(2) and (3) of the Business Corporations Act) :",
+        "type": "string"
+      },
+      "779": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "780": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "781": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "782": {
+        "description": "YG(6123Q)F2 03/2015",
+        "type": "string"
+      },
+      "783": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "784": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

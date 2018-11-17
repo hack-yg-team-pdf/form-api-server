@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "#  request the issuance of an Assistant Trapper Licence to  for the duration of:",
+        "type": "string"
+      },
+      "42": {
+        "description": "the  \u2013  season.",
+        "type": "string"
+      },
+      "43": {
+        "description": "the remainder of my concession term.",
+        "type": "string"
+      },
+      "44": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "45": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "52": {
+        "description": "Sincerely,",
+        "type": "string"
+      },
+      "53": {
+        "description": "Registered Trapping Concession Holder",
+        "type": "string"
+      },
+      "54": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the administration",
+        "type": "boolean"
+      },
+      "57": {
+        "description": "and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection of your infor-",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "45": {
+        "description": "9.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "48": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "448": {
+        "description": "1.  Name of (dissolved) society / D\u00e9nomination sociale de la soci\u00e9t\u00e9 (dissoute) :",
+        "type": "string"
+      },
+      "449": {
+        "description": "4.  Reason society was dissolved / Motif de la dissolution :",
+        "type": "string"
+      },
+      "450": {
+        "description": "3.  Date society was dissolved / Date de dissolution de la soci\u00e9t\u00e9 :",
+        "type": "string"
+      },
+      "455": {
+        "description": "5.  Name of applicant / Nom de l\u2019auteur de la demande :",
+        "type": "string"
+      },
+      "456": {
+        "description": "Soci\u00e9t\u00e9s) :",
+        "type": "string"
+      },
+      "457": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "458": {
+        "description": "7.  Mailing address of applicant / Adresse postale de l\u2019auteur de la demande :",
+        "type": "string"
+      },
+      "459": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "460": {
+        "description": "Postal Code / Code postale",
+        "type": "string"
+      },
+      "461": {
+        "description": "City / Ville",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

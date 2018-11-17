@@ -1,0 +1,179 @@
+{
+  "fields": {
+    "properties": {
+      "54": {
+        "description": "At what times are you interested in volunteering?",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "56": {
+        "description": "CONSENT AND RELEASE OF PHOTOGRAPHY",
+        "type": "string"
+      },
+      "58": {
+        "description": "Signature parent/guardian (if under 18):",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "Do you consent to the release of photographs, videos or other images you may be in for recognition or",
+        "type": "string"
+      },
+      "61": {
+        "description": "Name:      Phone:",
+        "type": "string"
+      },
+      "62": {
+        "description": "Do you have any physical limitations or are you under any course of treatment",
+        "type": "string"
+      },
+      "63": {
+        "description": "Signature:",
+        "type": "string"
+      },
+      "70": {
+        "description": "Prefer weekdays",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "Am flexible",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "Prefer evenings",
+        "type": "boolean"
+      },
+      "74": {
+        "description": "AVAILABILITY",
+        "type": "boolean"
+      },
+      "75": {
+        "description": "Other:",
+        "type": "boolean"
+      },
+      "76": {
+        "description": "Date:",
+        "type": "boolean"
+      },
+      "79": {
+        "description": "Name:      Phone:",
+        "type": "string"
+      },
+      "428": {
+        "description": "Full name",
+        "type": "string"
+      },
+      "431": {
+        "description": "Address (with postal code)",
+        "type": "string"
+      },
+      "432": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "433": {
+        "description": "Email",
+        "type": "string"
+      },
+      "434": {
+        "description": "Emergency contact name",
+        "type": "string"
+      },
+      "435": {
+        "description": "Emergency contact phone",
+        "type": "string"
+      },
+      "436": {
+        "description": "SKILLS AND INTERESTS",
+        "type": "string"
+      },
+      "437": {
+        "description": "Hobbies, skills, interests",
+        "type": "string"
+      },
+      "438": {
+        "description": "Previous volunteer experience",
+        "type": "string"
+      },
+      "439": {
+        "description": "PREFERENCES IN VOLUNTEERING",
+        "type": "string"
+      },
+      "440": {
+        "description": "Is there a particular type of volunteer work in which you are interested? Check all that apply.",
+        "type": "boolean"
+      },
+      "442": {
+        "description": "Working directly with staff to assist in programs",
+        "type": "boolean"
+      },
+      "443": {
+        "description": "In-house store",
+        "type": "boolean"
+      },
+      "444": {
+        "description": "Occasional special events",
+        "type": "boolean"
+      },
+      "445": {
+        "description": "Community outings",
+        "type": "boolean"
+      },
+      "446": {
+        "description": "Working one-to-one with a single resident",
+        "type": "boolean"
+      },
+      "447": {
+        "description": "No preference",
+        "type": "boolean"
+      },
+      "448": {
+        "description": "Is there a person or group with whom you are particularly interested in volunteering? Check all that apply.",
+        "type": "string"
+      },
+      "449": {
+        "description": "Seniors",
+        "type": "boolean"
+      },
+      "450": {
+        "description": "Children",
+        "type": "boolean"
+      },
+      "451": {
+        "description": "Males",
+        "type": "boolean"
+      },
+      "452": {
+        "description": "First Nation Elders",
+        "type": "boolean"
+      },
+      "453": {
+        "description": "Young adults",
+        "type": "boolean"
+      },
+      "454": {
+        "description": "Females",
+        "type": "boolean"
+      },
+      "455": {
+        "description": "Dementia Care Unit",
+        "type": "boolean"
+      },
+      "456": {
+        "description": "Adults",
+        "type": "boolean"
+      },
+      "457": {
+        "description": "No preference",
+        "type": "boolean"
+      },
+      "460": {
+        "description": "Are there any groups with which you would not feel comfortable volunteering?",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

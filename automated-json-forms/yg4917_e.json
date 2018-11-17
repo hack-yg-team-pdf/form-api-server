@@ -1,0 +1,327 @@
+{
+  "fields": {
+    "properties": {
+      "310": {
+        "description": "Tr\u2019ond\u00ebk Hw\u00ebch\u2019in First Nation",
+        "type": "string"
+      },
+      "320": {
+        "description": "or historical value related to the site or area?",
+        "type": "string"
+      },
+      "325": {
+        "description": "adjacent to the application area? (flooding,",
+        "type": "string"
+      },
+      "331": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "336": {
+        "description": "If yes, what was the outcome of any discussion?",
+        "type": "string"
+      },
+      "341": {
+        "description": "Map Sheet Quad:",
+        "type": "string"
+      },
+      "342": {
+        "description": "Latitude/Northing",
+        "type": "string"
+      },
+      "343": {
+        "description": "Longitude/ Easting",
+        "type": "string"
+      },
+      "344": {
+        "description": "Applicants Signature                                                                                                    Date",
+        "type": "string"
+      },
+      "345": {
+        "description": "* Applications not signed by the applicant will be returned for signing before they can proceed any further.",
+        "type": "string"
+      },
+      "346": {
+        "description": "Co-Applicants Signature                                                                                              Date",
+        "type": "string"
+      },
+      "347": {
+        "description": "PART 5 \u2013 SITE INFORMATION",
+        "type": "string"
+      },
+      "348": {
+        "description": "Answer the questions below to the best of your knowledge. Provide any supporting documentation you may have",
+        "type": "string"
+      },
+      "349": {
+        "description": "regarding geographical features, soil type, fish and wildlife information etc.",
+        "type": "string"
+      },
+      "350": {
+        "description": "Yes, if yes explain",
+        "type": "string"
+      },
+      "351": {
+        "description": "If yes, have you contacted the owner/operator of the trapping concession?",
+        "type": "string"
+      },
+      "352": {
+        "description": "within or near application area.",
+        "type": "string"
+      },
+      "357": {
+        "description": "game trails, mineral licks or populations",
+        "type": "string"
+      },
+      "358": {
+        "description": "Identify any known fish and wildlife habitat,",
+        "type": "string"
+      },
+      "384": {
+        "description": "To be completed by applicant prior to submission to the Land Management Branch:",
+        "type": "string"
+      },
+      "385": {
+        "description": "Nearest community:                                                  Distance:                km",
+        "type": "string"
+      },
+      "386": {
+        "description": "White River First Nation",
+        "type": "string"
+      },
+      "387": {
+        "description": "Vuntut Gwitchin First Nation",
+        "type": "string"
+      },
+      "394": {
+        "description": "on or adjacent to the application area?",
+        "type": "string"
+      },
+      "400": {
+        "description": "No If no, how and from where will water be provided?",
+        "type": "string"
+      },
+      "403": {
+        "description": "Unknown",
+        "type": "string"
+      },
+      "408": {
+        "description": "PART 6- SERVICING REQUIREMENTS",
+        "type": "string"
+      },
+      "410": {
+        "description": "No If yes, explain fully.",
+        "type": "string"
+      },
+      "415": {
+        "description": "No If yes, please describe the nature to the lines and their location.",
+        "type": "string"
+      },
+      "420": {
+        "description": "No If yes, will a petroleum fuel storage facility be established at the site?",
+        "type": "string"
+      },
+      "425": {
+        "description": "No If yes, give name and location",
+        "type": "string"
+      },
+      "426": {
+        "description": "What is the location of and distance to nearest school and school bus route? (Where applicable)",
+        "type": "string"
+      },
+      "431": {
+        "description": "No If yes, how will it be installed?",
+        "type": "string"
+      },
+      "440": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "446": {
+        "description": "If yes, what was the outcome of any discussion?",
+        "type": "string"
+      },
+      "449": {
+        "description": "If yes, have you contacted Environmental Health?",
+        "type": "string"
+      },
+      "450": {
+        "description": "Are there any overhead or underground utilities (e.g. electricity, telephone) located within or adjacent to the application area?",
+        "type": "string"
+      },
+      "455": {
+        "description": "Provide an estimated timeline to complete development, including site preparation, construction, operation,",
+        "type": "string"
+      },
+      "456": {
+        "description": "4 of 11",
+        "type": "string"
+      },
+      "463": {
+        "description": "5 of 11",
+        "type": "string"
+      },
+      "465": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "474": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "479": {
+        "description": "PART 6 \u2013 ACTIVITY INFORMATION",
+        "type": "string"
+      },
+      "487": {
+        "description": "FOR INTERNAL USE",
+        "type": "string"
+      },
+      "488": {
+        "description": "LMB or District Office Representative:         Date:",
+        "type": "string"
+      },
+      "492": {
+        "description": "TRAPPING OR BIG GAME OUTFITTER APPLICATIONS",
+        "type": "boolean"
+      },
+      "508": {
+        "description": "Copy of the underlying Placer Claim report showing ownership",
+        "type": "boolean"
+      },
+      "510": {
+        "description": "Proof of ownership for the buildings on the parcel",
+        "type": "boolean"
+      },
+      "532": {
+        "description": "RURAL RESIDENTIAL, COMMERCIAL OR INSTITUTIONAL APPLICATIONS FOR LAND PURCHASE",
+        "type": "boolean"
+      },
+      "647": {
+        "description": "APPLICATION NUMBER",
+        "type": "string"
+      },
+      "648": {
+        "description": "Given Name:",
+        "type": "string"
+      },
+      "649": {
+        "description": "Middle Name:",
+        "type": "string"
+      },
+      "650": {
+        "description": "Surname:",
+        "type": "string"
+      },
+      "651": {
+        "description": "Street/Box/Bag:",
+        "type": "string"
+      },
+      "652": {
+        "description": "City/Town:",
+        "type": "string"
+      },
+      "653": {
+        "description": "Country:",
+        "type": "string"
+      },
+      "654": {
+        "description": "Territory/Province/State:",
+        "type": "string"
+      },
+      "655": {
+        "description": "Postal/Zip Code:",
+        "type": "string"
+      },
+      "656": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "657": {
+        "description": "Home Phone:",
+        "type": "string"
+      },
+      "658": {
+        "description": "Bus. Phone:",
+        "type": "string"
+      },
+      "659": {
+        "description": "To be completed by co-applicant (If required)",
+        "type": "string"
+      },
+      "660": {
+        "description": "Middle Name:",
+        "type": "string"
+      },
+      "661": {
+        "description": "Given Name:",
+        "type": "string"
+      },
+      "662": {
+        "description": "Territory/Province/State:",
+        "type": "string"
+      },
+      "663": {
+        "description": "Postal/Zip Code:",
+        "type": "string"
+      },
+      "664": {
+        "description": "Registered or Incorporated Business Name:",
+        "type": "string"
+      },
+      "665": {
+        "description": "City/Town:",
+        "type": "string"
+      },
+      "666": {
+        "description": "Country:",
+        "type": "string"
+      },
+      "667": {
+        "description": "Home Phone:",
+        "type": "string"
+      },
+      "668": {
+        "description": "Bus. Phone:",
+        "type": "string"
+      },
+      "669": {
+        "description": "All trapping & Big Game Outfitter dispositions are issued under the name in which the Concession is registered.",
+        "type": "string"
+      },
+      "670": {
+        "description": "Lease",
+        "type": "string"
+      },
+      "671": {
+        "description": "Preferred method of contact:",
+        "type": "string"
+      },
+      "672": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "673": {
+        "description": "Tenancy: (For applications directly related to existing parcels, tenancy must be the same as currently on title).",
+        "type": "string"
+      },
+      "690": {
+        "description": "* Joint tenancy \u2013 upon death, co-owner interest passes to other co-owner",
+        "type": "string"
+      },
+      "691": {
+        "description": "Certificate of Title No.  Size of existing titled parcel (hectares)",
+        "type": "string"
+      },
+      "692": {
+        "description": "Applications must be made under one of the land application policies listed below. Please read the relevant policy and",
+        "type": "string"
+      },
+      "708": {
+        "description": "* If approved, only the use indicated in this application or as indicated by the Land Management Branch will be permitted.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

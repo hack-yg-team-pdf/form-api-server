@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "27": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "29": {
+        "description": "6.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "32": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "34": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "39": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "41": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "491": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "492": {
+        "description": "3.  New registered office in Yukon / Nouveau bureau enregistr\u00e9 au Yukon :",
+        "type": "string"
+      },
+      "493": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "494": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "495": {
+        "description": "Effective date of change:",
+        "type": "string"
+      },
+      "496": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "497": {
+        "description": "Yukon",
+        "type": "string"
+      },
+      "498": {
+        "description": "4.  New records office, if any (public corporations only, in or out of Yukon) :",
+        "type": "string"
+      },
+      "499": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "500": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "501": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "502": {
+        "description": "Effective date of change:",
+        "type": "string"
+      },
+      "503": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "504": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "505": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "506": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "507": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "508": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "509": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "510": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "511": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "512": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

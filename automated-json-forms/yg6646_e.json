@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "454": {
+        "description": "Other names by which you may be known",
+        "type": "string"
+      },
+      "457": {
+        "description": "To be filled out by applicant",
+        "type": "string"
+      },
+      "458": {
+        "description": "Yukon licence number",
+        "type": "string"
+      },
+      "459": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "460": {
+        "description": "Prov./terr.",
+        "type": "string"
+      },
+      "461": {
+        "description": "Email",
+        "type": "string"
+      },
+      "462": {
+        "description": "City",
+        "type": "string"
+      },
+      "463": {
+        "description": "Date of volunteer service",
+        "type": "string"
+      },
+      "464": {
+        "description": "Postal code Country",
+        "type": "string"
+      },
+      "465": {
+        "description": "From   Y Y Y Y/ M M/ D D     to   Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "466": {
+        "description": "Organization",
+        "type": "string"
+      },
+      "467": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "468": {
+        "description": "provide this information, and any other information PLRA may request, in regard to my application and verification of",
+        "type": "string"
+      },
+      "475": {
+        "description": "This is to verify that  is/was volunteering as",
+        "type": "string"
+      },
+      "476": {
+        "description": "for",
+        "type": "string"
+      },
+      "477": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "478": {
+        "description": "CITY/TOWN",
+        "type": "string"
+      },
+      "485": {
+        "description": "1. Year:       # of hours:",
+        "type": "string"
+      },
+      "486": {
+        "description": "2. Year:       # of hours:",
+        "type": "string"
+      },
+      "487": {
+        "description": "3. Year:       # of hours:",
+        "type": "string"
+      },
+      "488": {
+        "description": "4. Year:       # of hours:",
+        "type": "string"
+      },
+      "489": {
+        "description": "5. Year:       # of hours:",
+        "type": "string"
+      },
+      "490": {
+        "description": "Hours of service",
+        "type": "string"
+      },
+      "491": {
+        "description": "per year",
+        "type": "string"
+      },
+      "492": {
+        "description": "YG(6646EQ)F2 10/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

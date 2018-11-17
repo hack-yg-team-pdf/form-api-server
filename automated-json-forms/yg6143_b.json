@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "321": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "322": {
+        "description": "3.  Name under which extra-territorial corporation is registered in Yukon and under which it will here after",
+        "type": "string"
+      },
+      "323": {
+        "description": "carry on business in Yukon :",
+        "type": "string"
+      },
+      "324": {
+        "description": "5.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "325": {
+        "description": "Director, officer, attorney for service, or authorized agent / Administrateur, dirigeant, fond\u00e9 de pouvoir ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "326": {
+        "description": "6.  Signature / Signature :",
+        "type": "string"
+      },
+      "327": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "328": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "331": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

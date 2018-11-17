@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "105": {
+        "description": "Vice president",
+        "type": "string"
+      },
+      "106": {
+        "description": "Secretary",
+        "type": "string"
+      },
+      "107": {
+        "description": "Director",
+        "type": "string"
+      },
+      "108": {
+        "description": "Postal:",
+        "type": "string"
+      },
+      "109": {
+        "description": "box beside the position/title.",
+        "type": "boolean"
+      },
+      "111": {
+        "description": "City:",
+        "type": "string"
+      },
+      "112": {
+        "description": "Fax:",
+        "type": "string"
+      },
+      "117": {
+        "description": "Staff",
+        "type": "string"
+      },
+      "121": {
+        "description": "EXECUTIVE AND STAFF",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "149": {
+        "description": "Please indicate whose information you would like to appear in our Sport and Recreation Directory by checking in the text",
+        "type": "string"
+      },
+      "162": {
+        "description": "Staff",
+        "type": "string"
+      },
+      "163": {
+        "description": "Position / title",
+        "type": "boolean"
+      },
+      "172": {
+        "description": "President",
+        "type": "string"
+      },
+      "190": {
+        "description": "Month/day    M M/ D D",
+        "type": "string"
+      },
+      "191": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "192": {
+        "description": "YSGB email:",
+        "type": "string"
+      },
+      "201": {
+        "description": "Treasurer",
+        "type": "string"
+      },
+      "206": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "220": {
+        "description": "Director",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

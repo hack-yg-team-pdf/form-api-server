@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "31": {
+        "description": "Les renseignements personnels que renferme ce",
+        "type": "boolean"
+      },
+      "36": {
+        "description": "Personal information contained within this document is collected",
+        "type": "boolean"
+      },
+      "125": {
+        "description": "LEGAL DESCRIPTION                                                                      PLAN NUMBER",
+        "type": "string"
+      },
+      "126": {
+        "description": "MUNICIPAL ADDRESS (if applicable)",
+        "type": "string"
+      },
+      "127": {
+        "description": "ADRESSE MUNICIPALE (s\u2019il y lieu)",
+        "type": "string"
+      },
+      "128": {
+        "description": "NAME",
+        "type": "string"
+      },
+      "129": {
+        "description": "NOM  RAISON SOCIALE (s\u2019il y a lieu)",
+        "type": "string"
+      },
+      "130": {
+        "description": "MAILING ADDRESS",
+        "type": "string"
+      },
+      "131": {
+        "description": "PHONE No.",
+        "type": "string"
+      },
+      "132": {
+        "description": "T\u00c9L\u00c9PHONE   T\u00c9L\u00c9COPIEUR",
+        "type": "string"
+      },
+      "133": {
+        "description": "SAME AS PHONE #",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "Cabin             Residence         or           Other (describe)",
+        "type": "string"
+      },
+      "138": {
+        "description": "Number of bedrooms",
+        "type": "string"
+      },
+      "141": {
+        "description": "None              Other (describe)",
+        "type": "string"
+      },
+      "142": {
+        "description": "Voir le plan ci-joint",
+        "type": "string"
+      },
+      "143": {
+        "description": "Line drawing to include location residence/building,",
+        "type": "boolean"
+      },
+      "144": {
+        "description": "Le sch\u00e9ma simplifi\u00e9 doit montrer l\u2019emplacement de la",
+        "type": "boolean"
+      },
+      "145": {
+        "description": "PRINT NAME / \u00c9CRIRE EN LETTRES D\u00c9TACH\u00c9ES",
+        "type": "string"
+      },
+      "146": {
+        "description": "OFFICE USE ONLY - AUTHORIZATION \u2022 \u00c0 USAGE INTERNE SEULEMENT - AUTORISATION",
+        "type": "string"
+      },
+      "147": {
+        "description": "PRINT NAME / NOM EN LETTRES MOUL\u00c9ES",
+        "type": "string"
+      },
+      "148": {
+        "description": "DATE / DATE",
+        "type": "string"
+      },
+      "149": {
+        "description": "SIGNATURE OF ENVIRONMENTAL HEALTH OFFICER / SIGNATURE DE L\u2019AGENT D\u2019HYGI\u00c8NE DU MILIEU",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

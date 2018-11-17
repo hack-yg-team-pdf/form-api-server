@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "146": {
+        "description": "for the $500 and under level",
+        "type": "string"
+      },
+      "148": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "149": {
+        "description": "Project name:",
+        "type": "string"
+      },
+      "151": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "152": {
+        "description": "Contact person:                                                                                     Position:",
+        "type": "string"
+      },
+      "154": {
+        "description": "($5000 maximum)",
+        "type": "string"
+      },
+      "156": {
+        "description": "Is your organization registered, and in good standing with the Yukon Societies Act?",
+        "type": "string"
+      },
+      "157": {
+        "description": "Registered / legal name of group:",
+        "type": "string"
+      },
+      "159": {
+        "description": "Page 3 of 16",
+        "type": "string"
+      },
+      "165": {
+        "description": "YIF requires proof of recipient liability insurance that covers this project",
+        "type": "string"
+      },
+      "166": {
+        "description": "($500 maximum)",
+        "type": "string"
+      },
+      "169": {
+        "description": "City:                                                   Postal code:                               Phone:",
+        "type": "string"
+      },
+      "171": {
+        "description": "for the $501 to $5000 level",
+        "type": "string"
+      },
+      "175": {
+        "description": "Start date:                                                   End date:",
+        "type": "string"
+      },
+      "177": {
+        "description": "\u2022  Did your project accomplish what you wanted it to do?",
+        "type": "string"
+      },
+      "179": {
+        "description": "f)  Project success is more than just indicating the number of participants, providing photos or just having fun.",
+        "type": "string"
+      },
+      "180": {
+        "description": "Page 4 of 16",
+        "type": "string"
+      },
+      "181": {
+        "description": "e)  When will you start working on your project and when will the project be complete?",
+        "type": "string"
+      },
+      "182": {
+        "description": "c)  Where will your project take place?",
+        "type": "string"
+      },
+      "183": {
+        "description": "Male youth 18 and under",
+        "type": "string"
+      },
+      "186": {
+        "description": "b) Will there be other participants besides youth 18 and under in the project?",
+        "type": "string"
+      },
+      "187": {
+        "description": "age range",
+        "type": "string"
+      },
+      "189": {
+        "description": "\u2022",
+        "type": "string"
+      },
+      "190": {
+        "description": "If so, please state the expected age range of the other participants and how many participants are",
+        "type": "string"
+      },
+      "191": {
+        "description": "Female youth leaders 18 and under",
+        "type": "string"
+      },
+      "192": {
+        "description": "age range",
+        "type": "string"
+      },
+      "195": {
+        "description": "Female youth 18 and under",
+        "type": "string"
+      },
+      "196": {
+        "description": "age range",
+        "type": "string"
+      },
+      "199": {
+        "description": "3. Who are the resource people/instructors for your project and what will they be doing? What kind of certification,",
+        "type": "string"
+      },
+      "201": {
+        "description": "Please provide letters of support from your project partners.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

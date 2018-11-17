@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "299": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "300": {
+        "description": "3.  A certificate of intent to dissolve was issued on the",
+        "type": "string"
+      },
+      "301": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "302": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "303": {
+        "description": "6.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "304": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "305": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "306": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "309": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

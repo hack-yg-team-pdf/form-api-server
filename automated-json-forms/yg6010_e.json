@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "198": {
+        "description": "Literary",
+        "type": "string"
+      },
+      "207": {
+        "description": "Mailing Address:",
+        "type": "string"
+      },
+      "209": {
+        "description": "If yes, when?",
+        "type": "string"
+      },
+      "215": {
+        "description": "Telephone:                                                       Email:",
+        "type": "string"
+      },
+      "216": {
+        "description": "Artistic Category:",
+        "type": "string"
+      },
+      "217": {
+        "description": "Name of Applicant:",
+        "type": "string"
+      },
+      "223": {
+        "description": "Discipline:",
+        "type": "string"
+      },
+      "224": {
+        "description": "Town/City:                                                                                                                            Postal Code:",
+        "type": "string"
+      },
+      "228": {
+        "description": "X",
+        "type": "string"
+      },
+      "234": {
+        "description": "After Assessment is complete, I would like to:",
+        "type": "string"
+      },
+      "236": {
+        "description": "Applicant Level:",
+        "type": "string"
+      },
+      "238": {
+        "description": "Amount of Funding Requested $                                                  Total Budget of Project $",
+        "type": "string"
+      },
+      "247": {
+        "description": "NAME:",
+        "type": "string"
+      },
+      "253": {
+        "description": "List of appraisers:",
+        "type": "string"
+      },
+      "254": {
+        "description": "3.                                                                         4.",
+        "type": "string"
+      },
+      "257": {
+        "description": "1.                                                                        2.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

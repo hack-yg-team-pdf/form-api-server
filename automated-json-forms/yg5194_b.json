@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "340": {
+        "description": "1.  Name:                                                                                                                                                   Licence Number",
+        "type": "string"
+      },
+      "343": {
+        "description": "Nom :     num\u00e9ro de licence:",
+        "type": "string"
+      },
+      "344": {
+        "description": "2.  Business Name and address:",
+        "type": "string"
+      },
+      "345": {
+        "description": "Province/Territory \u2022 Province/territoire",
+        "type": "string"
+      },
+      "346": {
+        "description": "City \u2022 Ville",
+        "type": "string"
+      },
+      "347": {
+        "description": "3.  Phone number:                                                                                                  Email",
+        "type": "string"
+      },
+      "348": {
+        "description": "Num\u00e9ro de t\u00e9l\u00e9phone :   courriel :",
+        "type": "string"
+      },
+      "351": {
+        "description": "provide a copy of the discharge papers.)",
+        "type": "string"
+      },
+      "354": {
+        "description": "Avez-vous, au cours de la derni\u00e8re ann\u00e9e :",
+        "type": "string"
+      },
+      "355": {
+        "description": "Je, soussign\u00e9(e), certifie par les pr\u00e9sentesque les renseignements fournis ci-dessus sont, \u00e0 ma connaissance, v\u00e9ridiques et exacts.",
+        "type": "string"
+      },
+      "356": {
+        "description": "Il est entendu que si des changements doivent \u00eatre apport\u00e9s, j\u2019aviserai le gouvernement du Yukon par \u00e9crit sans tarder.",
+        "type": "string"
+      },
+      "357": {
+        "description": "Dated at                                                                                                             , this                                 day of                                  ,20",
+        "type": "string"
+      },
+      "358": {
+        "description": "to notify the Government of Yukon in writing of any change.",
+        "type": "string"
+      },
+      "359": {
+        "description": "Fait \u00e0 : , cejour de/d\u2019  , 20.",
+        "type": "string"
+      },
+      "360": {
+        "description": "The undersigned hereby certify that the foregoing information is true and correct to the best of my knowledge.  I hereby undertake",
+        "type": "string"
+      },
+      "361": {
+        "description": "Signature of Applicant \u2022 Signature du demandeur",
+        "type": "string"
+      },
+      "362": {
+        "description": "Note importante : Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires N\u2019ACCEPTERA PAS de paiement par courriel ou t\u00e9l\u00e9copier.",
+        "type": "string"
+      },
+      "363": {
+        "description": "le formulaire d\u2019informations de paiement YG5924 \u00e0: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "364": {
+        "description": "Personal information contained on this form is collected under the Real Estate Agents Act and",
+        "type": "boolean"
+      },
+      "367": {
+        "description": "Les renseignements personnels contenus dans le pr\u00e9sent formulaire sont recueillis en vertu",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

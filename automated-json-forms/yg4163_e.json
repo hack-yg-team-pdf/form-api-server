@@ -1,0 +1,315 @@
+{
+  "fields": {
+    "properties": {
+      "86": {
+        "description": "Security and public access restrictions",
+        "type": "string"
+      },
+      "87": {
+        "description": "Please indicate whether your depot will have any of the following and provide a brief description of each:",
+        "type": "string"
+      },
+      "88": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "89": {
+        "description": "Yes / No",
+        "type": "string"
+      },
+      "90": {
+        "description": "contract, approximately how often will you require the carrier to provide service?",
+        "type": "string"
+      },
+      "92": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "94": {
+        "description": "Describe",
+        "type": "string"
+      },
+      "95": {
+        "description": "On-site power",
+        "type": "boolean"
+      },
+      "96": {
+        "description": "In addition to collecting refundable beverage containers, will the depot collect non-refundable recyclables?",
+        "type": "string"
+      },
+      "97": {
+        "description": "Sunday",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "101": {
+        "description": "Winter",
+        "type": "string"
+      },
+      "102": {
+        "description": "By the Government of Yukon under a commercial transportation contract;",
+        "type": "string"
+      },
+      "103": {
+        "description": "On-site internet connection",
+        "type": "string"
+      },
+      "104": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "105": {
+        "description": "Cellular coverage",
+        "type": "string"
+      },
+      "106": {
+        "description": "(example: gates and fencing)",
+        "type": "string"
+      },
+      "107": {
+        "description": "How will the collected material be transported to a processing facility?",
+        "type": "string"
+      },
+      "108": {
+        "description": "4. TRANSPORTATION",
+        "type": "string"
+      },
+      "109": {
+        "description": "Equipment (example: fork lift/loader/scales)",
+        "type": "string"
+      },
+      "110": {
+        "description": "On-site computer",
+        "type": "string"
+      },
+      "112": {
+        "description": "If no, describe how materials will be loaded from the depot:",
+        "type": "string"
+      },
+      "113": {
+        "description": "Will the depot have a loading dock accessible to a standard cube van or 53-foot trailer?",
+        "type": "string"
+      },
+      "116": {
+        "description": "No",
+        "type": "string"
+      },
+      "118": {
+        "description": "If the material will be hauled by the Government of Yukon under a commercial transportation",
+        "type": "string"
+      },
+      "119": {
+        "description": "If the material is to be hauled under a Government of Yukon commercial transportation contract, the depot must",
+        "type": "string"
+      },
+      "120": {
+        "description": "Cardboard",
+        "type": "boolean"
+      },
+      "123": {
+        "description": "Baler(s)",
+        "type": "boolean"
+      },
+      "124": {
+        "description": "Monday",
+        "type": "boolean"
+      },
+      "126": {
+        "description": "Glass",
+        "type": "string"
+      },
+      "127": {
+        "description": "By the depot as described in a Transfer Payment Agreement from the Government of Yukon; or",
+        "type": "string"
+      },
+      "128": {
+        "description": "Boxboard",
+        "type": "string"
+      },
+      "129": {
+        "description": "If yes, confirm which products will be collected:",
+        "type": "string"
+      },
+      "130": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "131": {
+        "description": "How many staff will be involved in the day to day operation of the facility?",
+        "type": "string"
+      },
+      "132": {
+        "description": "Tuesday",
+        "type": "boolean"
+      },
+      "133": {
+        "description": "ensure that a standard cube van or 53-foot trailer can access and load the material.",
+        "type": "string"
+      },
+      "134": {
+        "description": "By the depot with reimbursement under the Government of Yukon Self-Haul Transportation Matrix.",
+        "type": "string"
+      },
+      "137": {
+        "description": "Hard mixed paper and office pack",
+        "type": "string"
+      },
+      "140": {
+        "description": "Mixed plastic",
+        "type": "string"
+      },
+      "142": {
+        "description": "A depot must be open to the public for drop-offs and refunds for a minimum of 12 hours per month. Indicate the",
+        "type": "boolean"
+      },
+      "144": {
+        "description": "Summer",
+        "type": "boolean"
+      },
+      "145": {
+        "description": "hours and days of the week when your depot will be open to the public. When a depot is open staff must be",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "be made available to the public in accordance with the Access to Information and Protection of Privacy Act. Questions about the collection or use of this information can be",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "#2 plastic (coloured ie. Milk2Go, juice)",
+        "type": "string"
+      },
+      "149": {
+        "description": "5. PROCESSING",
+        "type": "string"
+      },
+      "151": {
+        "description": "PRINT NAME OF BUSINESS OR SOCIETY THAT IS TO APPEAR ON PERMIT",
+        "type": "string"
+      },
+      "153": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "154": {
+        "description": "Identify your point of contact at the processing facility.",
+        "type": "string"
+      },
+      "155": {
+        "description": "representative of  , and that",
+        "type": "string"
+      },
+      "158": {
+        "description": "directed to Community Operations and Programs, Community Services Department at (867) 667-8945.",
+        "type": "string"
+      },
+      "159": {
+        "description": "This information is being collected under the authority of Section 9 of the Beverage Container Regulation and used for the purpose of administering the regulation. It may",
+        "type": "boolean"
+      },
+      "160": {
+        "description": "PRINT NAME",
+        "type": "string"
+      },
+      "161": {
+        "description": "To what processing facility will materials from the depot be transported?",
+        "type": "string"
+      },
+      "162": {
+        "description": "Date",
+        "type": "string"
+      },
+      "163": {
+        "description": "Tin (ie. tomato juice cans)",
+        "type": "string"
+      },
+      "164": {
+        "description": "Consent to publicly post the depot location and operating information on the Yukon government website.",
+        "type": "string"
+      },
+      "166": {
+        "description": "Mixed tetra paks/waxed milk cartons/foil packs",
+        "type": "string"
+      },
+      "167": {
+        "description": "Non-refundable recyclables",
+        "type": "string"
+      },
+      "168": {
+        "description": "I, , certify that I am the authorized",
+        "type": "string"
+      },
+      "169": {
+        "description": "Hard mixed paper and office pack",
+        "type": "string"
+      },
+      "170": {
+        "description": "#2 plastic (natural ie. milk jugs only)",
+        "type": "string"
+      },
+      "171": {
+        "description": "the information provided in this application is correct and complete to the best of my knowledge.",
+        "type": "string"
+      },
+      "172": {
+        "description": "Signature of applicant",
+        "type": "string"
+      },
+      "173": {
+        "description": "Cardboard",
+        "type": "boolean"
+      },
+      "747": {
+        "description": "Authorized representative",
+        "type": "string"
+      },
+      "748": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "749": {
+        "description": "Position/title",
+        "type": "string"
+      },
+      "750": {
+        "description": "Email address",
+        "type": "string"
+      },
+      "751": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "752": {
+        "description": "2. DEPOT INFORMATION",
+        "type": "string"
+      },
+      "753": {
+        "description": "Depot property owner* (who has title to the land on which the depot is located?)",
+        "type": "string"
+      },
+      "754": {
+        "description": "Phone #",
+        "type": "string"
+      },
+      "755": {
+        "description": "*If the applicant does not own the land on which the depot is located, written permission from the",
+        "type": "string"
+      },
+      "756": {
+        "description": "landowner to operate a depot must be submitted with this form. Permission form attached?",
+        "type": "string"
+      },
+      "764": {
+        "description": "Will the depot be located within municipal boundaries?",
+        "type": "string"
+      },
+      "765": {
+        "description": "Applicants must comply with any land use restrictions or zoning laws which apply pursuant to municipal or territorial",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

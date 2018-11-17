@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "73": {
+        "description": "situated at  claim sheet no.",
+        "type": "string"
+      },
+      "74": {
+        "description": "requested).",
+        "type": "string"
+      },
+      "75": {
+        "description": "(Here list claims to be renewed in numerical order, by grant number and claim name, showing renewal period",
+        "type": "string"
+      },
+      "76": {
+        "description": "since the   day of    20  ,",
+        "type": "string"
+      },
+      "77": {
+        "description": "to\trepresent\tthe\tfollowing\tmineral\tclaims\tunder\tthe\tauthority\tof\tGrouping\tCertificate\tNo. .",
+        "type": "string"
+      },
+      "78": {
+        "description": "section 56).",
+        "type": "string"
+      },
+      "79": {
+        "description": "work commenced and ended in the twelve months in which such work is required to be done as shown by",
+        "type": "string"
+      },
+      "80": {
+        "description": "3.  the following is a detailed statement of such work: (set out full particulars of the work done indicating dates",
+        "type": "string"
+      },
+      "81": {
+        "description": "sworn before me at   this   day of   20  .",
+        "type": "string"
+      },
+      "82": {
+        "description": "notary Public",
+        "type": "string"
+      },
+      "83": {
+        "description": "Yg(5049q)f2 rev. 04/2012",
+        "type": "string"
+      },
+      "84": {
+        "description": "and Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190",
+        "type": "string"
+      },
+      "85": {
+        "description": "Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines",
+        "type": "string"
+      },
+      "86": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Quartz Mining Act.",
+        "type": "string"
+      },
+      "87": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "88": {
+        "description": "owner or authorized agent",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

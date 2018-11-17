@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "306": {
+        "description": "Societies Regulations (Subsections 14(1) and 14(2)) Form 19",
+        "type": "string"
+      },
+      "307": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "308": {
+        "description": "4.  If fiscal year-end has changed / Si la date de fin d\u2019exercice a change :",
+        "type": "string"
+      },
+      "309": {
+        "description": "Ancienne date de fin d\u2019exercice",
+        "type": "string"
+      },
+      "310": {
+        "description": "Date de prise d\u2019effet du changement",
+        "type": "string"
+      },
+      "311": {
+        "description": "6.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "312": {
+        "description": "5.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "313": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "314": {
+        "description": "8.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "315": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the",
+        "type": "boolean"
+      },
+      "318": {
+        "description": "purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

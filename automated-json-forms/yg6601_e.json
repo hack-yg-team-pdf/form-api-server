@@ -1,0 +1,143 @@
+{
+  "fields": {
+    "properties": {
+      "506": {
+        "description": "TRANSFER PAYMENT AGREEMENT DETAILS",
+        "type": "string"
+      },
+      "509": {
+        "description": "Funding amount/project amount approved",
+        "type": "string"
+      },
+      "510": {
+        "description": "Project title",
+        "type": "string"
+      },
+      "511": {
+        "description": "Project number",
+        "type": "string"
+      },
+      "512": {
+        "description": "TPA number:  T000",
+        "type": "string"
+      },
+      "575": {
+        "description": "Expenditures (list expenditures / identify project phase)",
+        "type": "string"
+      },
+      "576": {
+        "description": "$",
+        "type": "string"
+      },
+      "577": {
+        "description": "$",
+        "type": "string"
+      },
+      "578": {
+        "description": "$",
+        "type": "string"
+      },
+      "579": {
+        "description": "$",
+        "type": "string"
+      },
+      "580": {
+        "description": "TOTAL EXPENDITURES $",
+        "type": "string"
+      },
+      "581": {
+        "description": "Percentage of the project that is complete:                                       %",
+        "type": "string"
+      },
+      "582": {
+        "description": "have more reporting periods, attach separately with the spreadsheet provided.",
+        "type": "string"
+      },
+      "583": {
+        "description": "No",
+        "type": "string"
+      },
+      "584": {
+        "description": "$",
+        "type": "string"
+      },
+      "585": {
+        "description": "Note: If your list of expenditures is greater than the space provided OR you                            Attached separately?",
+        "type": "string"
+      },
+      "586": {
+        "description": "Agreement. The information contained on this form is collected under Section 161 of the Keeping Canada\u2019s Economy and Jobs Growing Act, S.C. 2011, C.24 and the Canada-Yukon Gas Tax Administration Agreement",
+        "type": "string"
+      },
+      "587": {
+        "description": "and will be used for the purpose of administering the Gas Tax Fund. For further information, contact the Gas Tax Fund Administrator at (867) 336-0469, toll free within Yukon 1-800-661-0408, ext.5111.",
+        "type": "string"
+      },
+      "588": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "589": {
+        "description": "Additional information attached?",
+        "type": "string"
+      },
+      "590": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "591": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "592": {
+        "description": "All Claims \u2013 I certify that costs stated above have been incurred and paid and are attributable to this project, are eligible and net of tax and any other rebates/grants and are in accordance with the provisions of the",
+        "type": "string"
+      },
+      "593": {
+        "description": "Have there been any changes to the scope or the timing of the project?",
+        "type": "string"
+      },
+      "594": {
+        "description": "Canada/Yukon Gas Tax Administrative Agreement. I acknowledge that all claims made under this program are subject to all audit and records are being maintained as defined in Section 10 Schedule A of the funding",
+        "type": "string"
+      },
+      "595": {
+        "description": "No",
+        "type": "string"
+      },
+      "596": {
+        "description": "$",
+        "type": "string"
+      },
+      "597": {
+        "description": "No",
+        "type": "string"
+      },
+      "599": {
+        "description": "RECIPIENT CERTIFY / AUTHORIZED SIGNATURES",
+        "type": "string"
+      },
+      "600": {
+        "description": "Name and position:",
+        "type": "string"
+      },
+      "601": {
+        "description": "Signature:",
+        "type": "string"
+      },
+      "602": {
+        "description": "$",
+        "type": "string"
+      },
+      "603": {
+        "description": "Date  Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "604": {
+        "description": "YG(6601EQ)F1 10/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

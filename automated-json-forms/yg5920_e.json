@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "properties": {
+      "409": {
+        "description": "YG(5920EQ)F2 Rev.09/2013",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

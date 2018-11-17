@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "40": {
+        "description": "1.",
+        "type": "string"
+      },
+      "41": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "42": {
+        "description": "1.",
+        "type": "string"
+      },
+      "43": {
+        "description": "2.",
+        "type": "string"
+      },
+      "44": {
+        "description": "upon you,    intends to proceed with this action.",
+        "type": "string"
+      },
+      "45": {
+        "description": "Address for service:",
+        "type": "string"
+      },
+      "46": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "47": {
+        "description": "(optional) e-mail:",
+        "type": "string"
+      },
+      "48": {
+        "description": "(optional) fax:",
+        "type": "string"
+      },
+      "49": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "50": {
+        "description": "Print name",
+        "type": "string"
+      },
+      "51": {
+        "description": "Signature",
+        "type": "boolean"
+      },
+      "54": {
+        "description": "Plaintiff//Defendant/Third party address for service of further documents is:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

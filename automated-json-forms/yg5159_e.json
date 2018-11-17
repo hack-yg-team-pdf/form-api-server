@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "123": {
+        "description": "Feller buncher",
+        "type": "boolean"
+      },
+      "124": {
+        "description": "Line skidders",
+        "type": "boolean"
+      },
+      "130": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "133": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "134": {
+        "description": "Grapple skidders",
+        "type": "boolean"
+      },
+      "135": {
+        "description": "All season",
+        "type": "boolean"
+      },
+      "136": {
+        "description": "Power saws",
+        "type": "boolean"
+      },
+      "139": {
+        "description": "Contractor   Name:",
+        "type": "string"
+      },
+      "671": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "674": {
+        "description": "Phone 1",
+        "type": "string"
+      },
+      "675": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "676": {
+        "description": "APPLICATION VOLUME AND PRODUCT(S)",
+        "type": "string"
+      },
+      "682": {
+        "description": "Deciduous",
+        "type": "string"
+      },
+      "685": {
+        "description": "Deciduous",
+        "type": "string"
+      },
+      "688": {
+        "description": "Deciduous",
+        "type": "string"
+      },
+      "689": {
+        "description": "TIMBER HARVEST AREA",
+        "type": "string"
+      },
+      "692": {
+        "description": "An approved Timber Harvest Plan must be available prior to the authorization of any harvest activities for volumes greater than 25m3",
+        "type": "string"
+      },
+      "693": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "695": {
+        "description": "Proposed harvest area",
+        "type": "string"
+      },
+      "696": {
+        "description": "Preferred area or block",
+        "type": "string"
+      },
+      "697": {
+        "description": "Highway/road",
+        "type": "string"
+      },
+      "698": {
+        "description": "Km",
+        "type": "string"
+      },
+      "699": {
+        "description": "Adjacent lot #",
+        "type": "string"
+      },
+      "700": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "701": {
+        "description": "UTM coordinates",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

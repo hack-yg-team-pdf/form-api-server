@@ -1,0 +1,151 @@
+{
+  "fields": {
+    "properties": {
+      "35": {
+        "description": "Delays in receipt of this form will result in delays processing the application.",
+        "type": "boolean"
+      },
+      "37": {
+        "description": "(work)",
+        "type": "string"
+      },
+      "38": {
+        "description": "Telephone:",
+        "type": "string"
+      },
+      "39": {
+        "description": "5. Do you consider the applicant a person of good moral character, sound judgement and in all respects a fit and proper person to teach",
+        "type": "string"
+      },
+      "40": {
+        "description": "Nom de la personne qui fournit les r\u00e9f\u00e9rences",
+        "type": "string"
+      },
+      "41": {
+        "description": "4. Have you observed the applicant working with children or youth? In what situations?",
+        "type": "string"
+      },
+      "42": {
+        "description": "3. Are you in any way related to the applicant? \u2022 Avez-vous un lien de parent\u00e9 quelconque avec lui/elle?",
+        "type": "string"
+      },
+      "43": {
+        "description": "Name of Referee",
+        "type": "string"
+      },
+      "44": {
+        "description": "1. How long have you known the applicant? \u2022 Depuis combien de temps connaissez-vous le requ\u00e9rant/la requ\u00e9rante?",
+        "type": "string"
+      },
+      "45": {
+        "description": "Address: \u2022 Adresse :",
+        "type": "string"
+      },
+      "46": {
+        "description": "Avez-vous des raisons de croire que le requ\u00e9rant/la requ\u00e9rante ne devrait pas obtenir un brevet d\u2019enseignement?",
+        "type": "string"
+      },
+      "47": {
+        "description": "City \u2022 Ville",
+        "type": "string"
+      },
+      "48": {
+        "description": "(res.)",
+        "type": "string"
+      },
+      "50": {
+        "description": "To the best of my knowledge the above imformation is complete and correct.",
+        "type": "string"
+      },
+      "51": {
+        "description": "school students?",
+        "type": "string"
+      },
+      "52": {
+        "description": "Signature of Referee",
+        "type": "string"
+      },
+      "53": {
+        "description": "Selon vous, est-il/est-elle une personne de bonnes moeurs, dou\u00e9e de bon jugement et \u00e0 tous \u00e9gards comp\u00e9tente pour enseigner \u00e0",
+        "type": "string"
+      },
+      "54": {
+        "description": "Signature de la personne qui donne les r\u00e9f\u00e9rences",
+        "type": "string"
+      },
+      "55": {
+        "description": "6. Do you have any reason to believe the applicant should not be granted a teaching certificate?",
+        "type": "string"
+      },
+      "58": {
+        "description": "J\u2019affirme qu\u2019au meilleur de ma connaissance, les renseignements ci-dessus sont complets et corrects.",
+        "type": "string"
+      },
+      "59": {
+        "description": "Avez-vous eu l\u2019occasion d\u2019observer le requ\u00e9rant/la requ\u00e9rante travailler avec des enfants? Dans quelles situations?",
+        "type": "string"
+      },
+      "61": {
+        "description": "This form is to be mailed by the referee directly to the Registrar, Yukon Teacher Certification. P.O. Box 2703, Whitehorse,",
+        "type": "boolean"
+      },
+      "363": {
+        "description": "Surname \u2022 Nom de famille",
+        "type": "string"
+      },
+      "364": {
+        "description": "First \u2022 Pr\u00e9nom usuel",
+        "type": "string"
+      },
+      "365": {
+        "description": "(",
+        "type": "string"
+      },
+      "366": {
+        "description": "Home Telephone",
+        "type": "string"
+      },
+      "369": {
+        "description": "Mailing Address:",
+        "type": "string"
+      },
+      "370": {
+        "description": "No. & Street \u2022 N\u00b0 et rue",
+        "type": "string"
+      },
+      "373": {
+        "description": "Name used if educated or employed under a different name:",
+        "type": "string"
+      },
+      "376": {
+        "description": "Surname \u2022 Nom de famille",
+        "type": "string"
+      },
+      "377": {
+        "description": "First \u2022 Pr\u00e9nom usuel",
+        "type": "string"
+      },
+      "378": {
+        "description": "Nom du requ\u00e9rant/de la requ\u00e9rante (en lettres moul\u00e9es)",
+        "type": "string"
+      },
+      "379": {
+        "description": "Applicant Name (Please Print)",
+        "type": "string"
+      },
+      "380": {
+        "description": "to provide the Registrar, Yukon Teacher Certification with this",
+        "type": "string"
+      },
+      "381": {
+        "description": "confidential reference as part of my application for Certification to",
+        "type": "string"
+      },
+      "382": {
+        "description": "confidentielles qui fait partie de ma demande de brevet",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "Approval #:",
+        "type": "string"
+      },
+      "40": {
+        "description": "NTS#:",
+        "type": "string"
+      },
+      "41": {
+        "description": "Class:",
+        "type": "string"
+      },
+      "42": {
+        "description": "NAME",
+        "type": "string"
+      },
+      "43": {
+        "description": "NAME",
+        "type": "string"
+      },
+      "44": {
+        "description": "Assignee all interest in Operating Plan # entered in the Public Register of the Mining Land Use Division as:",
+        "type": "string"
+      },
+      "45": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "46": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "47": {
+        "description": "TELEPHONE #",
+        "type": "string"
+      },
+      "48": {
+        "description": "FAX  #",
+        "type": "string"
+      },
+      "49": {
+        "description": "EMAIL",
+        "type": "string"
+      },
+      "50": {
+        "description": "The Assignee covenants with the Assignor that ASSIGNEE will comply with the specific terms and conditions contained in the",
+        "type": "string"
+      },
+      "51": {
+        "description": "and valuable consideration as paid by the Assignee to the Assignor, the Assignor assigns, transfers and sets over to the",
+        "type": "string"
+      },
+      "52": {
+        "description": "This agreement acknowledges that in consideration of the sum of dollar(s) and other good",
+        "type": "string"
+      },
+      "53": {
+        "description": "EMAIL",
+        "type": "string"
+      },
+      "54": {
+        "description": "TELEPHONE #",
+        "type": "string"
+      },
+      "55": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "56": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "57": {
+        "description": "Operating Plan, a copy of which is attached to this instrument and further, to comply with all provisions in the PLACER Mining",
+        "type": "string"
+      },
+      "58": {
+        "description": "Undertaking by Assignee",
+        "type": "string"
+      },
+      "59": {
+        "description": "that this Assignment, signed and filed in the Mining Land Use office thisof ,20with the",
+        "type": "string"
+      },
+      "60": {
+        "description": "applicable fees, will be approved within 25 days of receipt , unless otherwise advised by the Chief.",
+        "type": "string"
+      },
+      "61": {
+        "description": "Chief Placer Land Use",
+        "type": "string"
+      },
+      "62": {
+        "description": "(Assignor)                                        (date)",
+        "type": "string"
+      },
+      "63": {
+        "description": "Dated this day  of  ,20  .",
+        "type": "string"
+      },
+      "64": {
+        "description": "about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines and",
+        "type": "string"
+      },
+      "65": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "66": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Placer Mining Act. Questions",
+        "type": "string"
+      },
+      "68": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

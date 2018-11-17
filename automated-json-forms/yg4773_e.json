@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "28": {
+        "description": "Permit          Gasoline            Dyed              Aviation                 Ethanol                    LPG                Other               Other                Total",
+        "type": "string"
+      },
+      "29": {
+        "description": "Total Exempt Sales (should equal line 10 on FTG-Tax)",
+        "type": "string"
+      },
+      "30": {
+        "description": "#",
+        "type": "string"
+      },
+      "31": {
+        "description": "SHOW TOTALS CARRIED FORWARD TO \u201cFUEL TAX SUMMARY FORM - FTG-TAX\u201d",
+        "type": "string"
+      },
+      "44": {
+        "description": "Finance",
+        "type": "string"
+      },
+      "45": {
+        "description": "Period Ended:",
+        "type": "string"
+      },
+      "46": {
+        "description": "Collector Name",
+        "type": "string"
+      },
+      "47": {
+        "description": "Exempt Sales By Distributor            Exempt Sales By Vendor",
+        "type": "string"
+      },
+      "48": {
+        "description": "Customer\u2019s Name",
+        "type": "string"
+      },
+      "49": {
+        "description": "Vendor\u2019s Name      Customer\u2019s Name",
+        "type": "string"
+      },
+      "50": {
+        "description": "YG(4773Q)F1 Rev. 07/2007",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

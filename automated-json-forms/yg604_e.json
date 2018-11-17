@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "100": {
+        "description": "F.O.T. APPLICATION 4",
+        "type": "string"
+      },
+      "101": {
+        "description": "2. Address (to which emblems should be mailed)",
+        "type": "string"
+      },
+      "102": {
+        "description": "3. Fuel Oil User Permit No.",
+        "type": "string"
+      },
+      "103": {
+        "description": "4. Description of vehicles for which emblems are required for the year April 1, 20  to March 31, 20 .",
+        "type": "string"
+      },
+      "104": {
+        "description": "YUKON LICENCE",
+        "type": "string"
+      },
+      "105": {
+        "description": "NOTE:  There is no charge for emblems.",
+        "type": "string"
+      },
+      "106": {
+        "description": "PROVINCE OR STATE",
+        "type": "string"
+      },
+      "107": {
+        "description": "MAKE &                                   UNIT",
+        "type": "string"
+      },
+      "114": {
+        "description": "* If no Yukon license plate number exists, please provide home jurisdiction license plate number.",
+        "type": "string"
+      },
+      "115": {
+        "description": "I,  as a duly authorized",
+        "type": "string"
+      },
+      "116": {
+        "description": "officer of  hereby CERTIFY that the information contained in this application is",
+        "type": "string"
+      },
+      "117": {
+        "description": "correct to the best of my knowledge and belief and hereby make application as required under the Fuel Oil Tax Act and",
+        "type": "string"
+      },
+      "118": {
+        "description": "Date",
+        "type": "string"
+      },
+      "119": {
+        "description": "undertake to comply with the provisions of this Act and the Regulations thereunder.",
+        "type": "string"
+      },
+      "120": {
+        "description": "Mail to:",
+        "type": "string"
+      },
+      "121": {
+        "description": "Date",
+        "type": "string"
+      },
+      "122": {
+        "description": "Phone (867) 667-5345",
+        "type": "string"
+      },
+      "123": {
+        "description": "Yukon, Y1A 2C6",
+        "type": "string"
+      },
+      "124": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "125": {
+        "description": "Fax (867) 456-6709",
+        "type": "string"
+      },
+      "126": {
+        "description": "(867) 667-5343.",
+        "type": "string"
+      },
+      "127": {
+        "description": "Deputy Head, Department of Finance",
+        "type": "string"
+      },
+      "128": {
+        "description": "Government of Yukon",
+        "type": "string"
+      },
+      "129": {
+        "description": "YG(604EQ) F1 Rev.11/2006",
+        "type": "string"
+      },
+      "130": {
+        "description": "P.O. Box 2703, Whitehorse,",
+        "type": "string"
+      },
+      "131": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Fuel Oil Tax Act.",
+        "type": "string"
+      },
+      "132": {
+        "description": "Questions about the collection or use of this information can be directed to the Yukon Department of Finance, Box 2703, Whitehorse, Yukon, Y1A 2C6,",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

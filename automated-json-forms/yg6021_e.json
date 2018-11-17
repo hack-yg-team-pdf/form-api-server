@@ -1,0 +1,143 @@
+{
+  "fields": {
+    "properties": {
+      "141": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "142": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "144": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "145": {
+        "description": "Comments:",
+        "type": "string"
+      },
+      "147": {
+        "description": "Working in Yukon - A guide for foreign workers Employment rights and responsibilities",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "161": {
+        "description": "Yukon Occupational Health and Safety Act and Regulations",
+        "type": "boolean"
+      },
+      "162": {
+        "description": "7a)  In general, are you satisfied with your working conditions?",
+        "type": "boolean"
+      },
+      "166": {
+        "description": "7b)  Are you aware of your rights as a worker? Check all that apply:",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "Yukon Employment Standards",
+        "type": "boolean"
+      },
+      "171": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "189": {
+        "description": "Monitor follow-up / comments",
+        "type": "string"
+      },
+      "191": {
+        "description": "When submitting this form by email, follow the instructions on your screen.",
+        "type": "boolean"
+      },
+      "192": {
+        "description": "9b) Date when you applied for permanent residence?",
+        "type": "string"
+      },
+      "193": {
+        "description": "You must apply for permanent residence no later than three to six months after signing your TPA.",
+        "type": "string"
+      },
+      "194": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "195": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "197": {
+        "description": "Comments:",
+        "type": "string"
+      },
+      "200": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "745": {
+        "description": "Please return this form by email, mail or fax to the following:",
+        "type": "string"
+      },
+      "746": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "747": {
+        "description": "\u2022 To improve the program.",
+        "type": "string"
+      },
+      "748": {
+        "description": "Date:                                        YNP file:",
+        "type": "string"
+      },
+      "749": {
+        "description": "Employee name",
+        "type": "string"
+      },
+      "750": {
+        "description": "Skilled worker",
+        "type": "string"
+      },
+      "753": {
+        "description": "Approval date",
+        "type": "string"
+      },
+      "754": {
+        "description": "1) Do the duties and tasks you perform in your position match those agreed to in the",
+        "type": "string"
+      },
+      "755": {
+        "description": "job description and/or employment contract?",
+        "type": "string"
+      },
+      "756": {
+        "description": "Start date",
+        "type": "string"
+      },
+      "757": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "758": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "760": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "764": {
+        "description": "3b) Are all deductions made in accordance with the TPA terms?",
+        "type": "string"
+      },
+      "768": {
+        "description": "YG(6021EQ)F3 Rev.10/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

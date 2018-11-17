@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "NAME",
+        "type": "string"
+      },
+      "41": {
+        "description": "of",
+        "type": "string"
+      },
+      "42": {
+        "description": "MAILING ADDRESS                                                                                 COMMUNITY                          POSTAL CODE",
+        "type": "string"
+      },
+      "43": {
+        "description": "HEREBY relinquish and abandon forever the sole and exclusive right and privilege of",
+        "type": "string"
+      },
+      "44": {
+        "description": "trapping furbearing animals within the area being the subject of a Trapping Concession,",
+        "type": "string"
+      },
+      "45": {
+        "description": "DECLARED before me this  day",
+        "type": "string"
+      },
+      "46": {
+        "description": "of , 20",
+        "type": "string"
+      },
+      "48": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the admin-",
+        "type": "boolean"
+      },
+      "50": {
+        "description": "istration and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

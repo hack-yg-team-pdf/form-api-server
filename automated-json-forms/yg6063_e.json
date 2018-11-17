@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "properties": {
+      "44": {
+        "description": "Organization:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

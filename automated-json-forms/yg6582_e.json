@@ -1,0 +1,151 @@
+{
+  "fields": {
+    "properties": {
+      "331": {
+        "description": "CLAIM HOLDER INFORMATION",
+        "type": "string"
+      },
+      "332": {
+        "description": "First name",
+        "type": "string"
+      },
+      "333": {
+        "description": "Client ID",
+        "type": "string"
+      },
+      "334": {
+        "description": "Company name",
+        "type": "string"
+      },
+      "335": {
+        "description": "Company role",
+        "type": "string"
+      },
+      "336": {
+        "description": "Fax Phone",
+        "type": "string"
+      },
+      "337": {
+        "description": "Email",
+        "type": "string"
+      },
+      "338": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "339": {
+        "description": "Agreement start date:         Agreement end date:",
+        "type": "string"
+      },
+      "346": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "353": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "354": {
+        "description": "I, , hereby authorize",
+        "type": "string"
+      },
+      "355": {
+        "description": "number listed above, in the matter of the submission of this Mining Land Use Application/Notification. Where I have signed",
+        "type": "string"
+      },
+      "356": {
+        "description": "as \u201cOperator\u201d identified below, to access my claim(s) within the boundaries of the notification ID/file number, or reference",
+        "type": "string"
+      },
+      "357": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "358": {
+        "description": "Claim holder signature",
+        "type": "string"
+      },
+      "359": {
+        "description": "Date of signing",
+        "type": "string"
+      },
+      "360": {
+        "description": "OPERATOR INFORMATION",
+        "type": "string"
+      },
+      "361": {
+        "description": "First name",
+        "type": "string"
+      },
+      "362": {
+        "description": "Company name",
+        "type": "string"
+      },
+      "363": {
+        "description": "Company role",
+        "type": "string"
+      },
+      "364": {
+        "description": "Fax Phone",
+        "type": "string"
+      },
+      "365": {
+        "description": "Email",
+        "type": "string"
+      },
+      "366": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "367": {
+        "description": "City/town",
+        "type": "string"
+      },
+      "374": {
+        "description": "Province/Territory/State",
+        "type": "string"
+      },
+      "381": {
+        "description": "Postal/Zip code",
+        "type": "string"
+      },
+      "382": {
+        "description": "If yes, Yukon corporate registry number",
+        "type": "string"
+      },
+      "383": {
+        "description": "Registered with Corporate Affairs to",
+        "type": "string"
+      },
+      "384": {
+        "description": "conduct business in Yukon?",
+        "type": "string"
+      },
+      "385": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "386": {
+        "description": "Regulation and/or Quartz Mining Land Use Regulation. For further information, contact the Department of Energy, Mines and Resources, Mining Lands Office at 867-667-",
+        "type": "string"
+      },
+      "390": {
+        "description": "No",
+        "type": "string"
+      },
+      "391": {
+        "description": "is to be used for the purpose of reviewing applications. The application may be made available to the public as part of a review process per the Placer Mining Land Use",
+        "type": "string"
+      },
+      "392": {
+        "description": "Access to Information and Protection of Privacy Act: I/we acknowledge that the information contained in or attached to this application is being collected under the",
+        "type": "boolean"
+      },
+      "395": {
+        "description": "authority of the Placer Mining Act sections 7 and 9, the Quartz Mining Act sections 3 and 5, and the Access to Information and Protection of Privacy Act section 29(c) and",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "36": {
+        "description": "MEP File #",
+        "type": "string"
+      },
+      "37": {
+        "description": "AND",
+        "type": "string"
+      },
+      "38": {
+        "description": "Claimant/Creditor (name of person to receive money)                                          Respondent/Debtor (name of person to pay money)",
+        "type": "string"
+      },
+      "39": {
+        "description": "I, , the Claimant/Creditor, MAKE OATH AND SAY THAT:",
+        "type": "string"
+      },
+      "40": {
+        "description": "1. A Maintenance Order/Agreement was made on the  day of  at",
+        "type": "string"
+      },
+      "41": {
+        "description": "ordering the above-named respondent/debtor to pay maintenance in the amount of $",
+        "type": "string"
+      },
+      "42": {
+        "description": "per  with said payments to commence.",
+        "type": "string"
+      },
+      "43": {
+        "description": "NAME OF COURT",
+        "type": "string"
+      },
+      "44": {
+        "description": "DAY                                       MONTH                                 YEAR",
+        "type": "string"
+      },
+      "45": {
+        "description": "2. The arrears which have accumulated under the said Order/Agreement and any Orders/Agreements",
+        "type": "string"
+      },
+      "46": {
+        "description": "or Variation are contained in the attached Record(s) of Payments as outlined below:",
+        "type": "string"
+      },
+      "47": {
+        "description": "FROM:        TO",
+        "type": "string"
+      },
+      "48": {
+        "description": "DAY                             MONTH                                YEAR                                                      DAY                             MONTH                                YEAR",
+        "type": "string"
+      },
+      "49": {
+        "description": "Total amount of arrears outstanding:  $",
+        "type": "string"
+      },
+      "50": {
+        "description": "3. I make this Affidavit for the purpose of proceeding against the respondent/debtor for enforcement of",
+        "type": "string"
+      },
+      "51": {
+        "description": "SWORN BEFORE ME THIS  day of",
+        "type": "string"
+      },
+      "52": {
+        "description": "MONTH                                                                          YEAR",
+        "type": "string"
+      },
+      "53": {
+        "description": "at  , Yukon.",
+        "type": "string"
+      },
+      "54": {
+        "description": "A Notary Public in and for the Yukon Territory                             Claimant (sign in front of a Notary Public)",
+        "type": "string"
+      },
+      "55": {
+        "description": "YG(4289EQ)F1 Rev. 11/2016",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

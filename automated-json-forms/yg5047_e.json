@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "109": {
+        "description": "Mining District",
+        "type": "string"
+      },
+      "110": {
+        "description": "I, ,",
+        "type": "string"
+      },
+      "111": {
+        "description": "Occupation of",
+        "type": "string"
+      },
+      "112": {
+        "description": "Phone Number () , Client I.D. Number  ,",
+        "type": "string"
+      },
+      "113": {
+        "description": "make oath and say that:",
+        "type": "string"
+      },
+      "114": {
+        "description": "At the hour of *  on the  day of  , 20  ,",
+        "type": "string"
+      },
+      "115": {
+        "description": "(Tag Number)",
+        "type": "string"
+      },
+      "117": {
+        "description": "1.",
+        "type": "string"
+      },
+      "118": {
+        "description": "Sheet no.:  Tag Number",
+        "type": "string"
+      },
+      "119": {
+        "description": "Described Area:",
+        "type": "string"
+      },
+      "120": {
+        "description": "I located the  mineral claim, situated on Claim",
+        "type": "string"
+      },
+      "121": {
+        "description": "(Sketch of group required showing position of claim as nearly as possible, direction of location line and name(s) of any claim(s) it may adjoin)",
+        "type": "string"
+      },
+      "122": {
+        "description": "2.",
+        "type": "string"
+      },
+      "123": {
+        "description": "This is a fractional claim bounded on the North by  on the South by   on the East by",
+        "type": "string"
+      },
+      "124": {
+        "description": "(Tag Number)",
+        "type": "string"
+      },
+      "125": {
+        "description": "on the West by  and  is more particularly  described on the sketch plan on the back of",
+        "type": "string"
+      },
+      "126": {
+        "description": "I have placed posts of legal dimensions with the tag clearly inscribed and affixed on each post as prescribed by the Quartz Mining Act.",
+        "type": "string"
+      },
+      "127": {
+        "description": "(or attached to as the case may be) this declaration.",
+        "type": "string"
+      },
+      "128": {
+        "description": "4.      I have inscribed on the tag for location Post No. 1: Claim Name and Number:",
+        "type": "string"
+      },
+      "129": {
+        "description": "Staked By:  Staking Date:",
+        "type": "string"
+      },
+      "130": {
+        "description": "I have inscribed on the tag for location post No. 2: Claim Name and Number:",
+        "type": "string"
+      },
+      "131": {
+        "description": "Direction:  Left:  Right:",
+        "type": "string"
+      },
+      "132": {
+        "description": "5.",
+        "type": "string"
+      },
+      "133": {
+        "description": "Staked By:  Staking Date:",
+        "type": "string"
+      },
+      "134": {
+        "description": "Witness Post Distance:   Direction:",
+        "type": "string"
+      },
+      "135": {
+        "description": "7.      I have marked the line between post No. 1 and post No. 2 as required by section 31 of the Quartz Mining Act.",
+        "type": "string"
+      },
+      "136": {
+        "description": "6.",
+        "type": "string"
+      },
+      "137": {
+        "description": "the Quartz Mining Act.",
+        "type": "string"
+      },
+      "138": {
+        "description": "To the best of my knowledge and belief the ground comprised within the boundaries of the said claim is unoccupied and unrecorded by any other person as a mineral",
+        "type": "string"
+      },
+      "139": {
+        "description": "claim; it is not occupied by any building or any land falling within the curtilage of any dwelling house or any land under cultivation or any land rserved from entry under",
+        "type": "string"
+      },
+      "140": {
+        "description": "The said claim has not heretofore been staked out by any one in my interest.",
+        "type": "string"
+      },
+      "141": {
+        "description": "Sworn before me at  this  day of  20  .",
+        "type": "string"
+      },
+      "142": {
+        "description": "Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190",
+        "type": "string"
+      },
+      "143": {
+        "description": "YG(5047EQ)F1 Rev.01 2012",
+        "type": "string"
+      },
+      "144": {
+        "description": "Applicant",
+        "type": "string"
+      },
+      "145": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "* Should be shown when possible",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

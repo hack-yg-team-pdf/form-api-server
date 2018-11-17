@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "20": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "21": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "22": {
+        "description": "Email",
+        "type": "string"
+      },
+      "23": {
+        "description": "Title",
+        "type": "string"
+      },
+      "26": {
+        "description": "Title",
+        "type": "string"
+      },
+      "27": {
+        "description": "G. DESIGNATED REPRESENTATIVE",
+        "type": "string"
+      },
+      "28": {
+        "description": "Authorized Signature of Bidder",
+        "type": "string"
+      },
+      "29": {
+        "description": "Title (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "32": {
+        "description": "Company/Person",
+        "type": "string"
+      },
+      "33": {
+        "description": "Official Service Address",
+        "type": "string"
+      },
+      "37": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "39": {
+        "description": "Name (please print)",
+        "type": "string"
+      },
+      "46": {
+        "description": "Contact Name",
+        "type": "string"
+      },
+      "49": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "50": {
+        "description": "H. SIGNATURE",
+        "type": "string"
+      },
+      "54": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "55": {
+        "description": "Personal information on this form is collected under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "434": {
+        "description": "B. BIDDER",
+        "type": "string"
+      },
+      "435": {
+        "description": "Address",
+        "type": "string"
+      },
+      "436": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "437": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "439": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "440": {
+        "description": "Contact Name",
+        "type": "string"
+      },
+      "441": {
+        "description": "C. PERMIT ISSUANCE",
+        "type": "string"
+      },
+      "442": {
+        "description": "Email",
+        "type": "string"
+      },
+      "443": {
+        "description": "Permit issuance fee of $500 is included in the form of:",
+        "type": "string"
+      },
+      "444": {
+        "description": "Work deposit submitted (25% of the work bid)",
+        "type": "string"
+      },
+      "449": {
+        "description": "Form of deposit:",
+        "type": "string"
+      },
+      "450": {
+        "description": "Bank Draft",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

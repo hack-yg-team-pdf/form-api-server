@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "206": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "207": {
+        "description": "City",
+        "type": "string"
+      },
+      "208": {
+        "description": "Prov./terr.",
+        "type": "string"
+      },
+      "209": {
+        "description": "Email",
+        "type": "string"
+      },
+      "210": {
+        "description": "Postal code Country",
+        "type": "string"
+      },
+      "211": {
+        "description": "Applicant\u2019s signature",
+        "type": "string"
+      },
+      "212": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "213": {
+        "description": "Explain why you are unable to meet your professional practice hours requirement.",
+        "type": "string"
+      },
+      "214": {
+        "description": "Date",
+        "type": "string"
+      },
+      "215": {
+        "description": "OFFICE USE ONLY      Approved:",
+        "type": "string"
+      },
+      "216": {
+        "description": "Explain why you are unable to meet your continuing education hours requirement.",
+        "type": "string"
+      },
+      "217": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "218": {
+        "description": "No       By:",
+        "type": "string"
+      },
+      "219": {
+        "description": "Government of Yukon, by mail at P.O. Box 2703, Whitehorse, YT, Y1A 2C6, by phone at 867-667-5111, by fax at 867-667-3609, or by email at inquiry.plra@gov.yk.ca.",
+        "type": "string"
+      },
+      "220": {
+        "description": "Personal information is collected, used, and disclosed under the authority of Section 29(a) and (c) of the Access to Information and Protection of Privacy Act and under the Act",
+        "type": "boolean"
+      },
+      "223": {
+        "description": "associated to the profession related to the licence being requested. It will be used for the purposes of these acts and their regulations, and to determine eligibility for licensure/",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "fields": {
+    "properties": {
+      "74": {
+        "description": "Energy, Mines and Resources",
+        "type": "string"
+      },
+      "75": {
+        "description": "Address \u2022 Adresse",
+        "type": "string"
+      },
+      "76": {
+        "description": "Customer Phone Number  \u2022 Num\u00e9ro de t\u00e9l\u00e9phone du client     E-mail \u2022 Courriel",
+        "type": "string"
+      },
+      "77": {
+        "description": "Contractor  \u2022 Nom de l'entrepreneur",
+        "type": "string"
+      },
+      "78": {
+        "description": "Telephone number - Business \u2022 T\u00e9l\u00e9phone- Bureau",
+        "type": "string"
+      },
+      "79": {
+        "description": "cubic metres (m3) of the following type(s) of materials",
+        "type": "string"
+      },
+      "80": {
+        "description": "is hereby authorized to extract",
+        "type": "string"
+      },
+      "81": {
+        "description": "est par les pr\u00e9sentes autoris\u00e9 \u00e0 extraire   m\u00e8tres cubes (m3) de mat\u00e9riaux de type(s) suivant(s):",
+        "type": "string"
+      },
+      "82": {
+        "description": "from the quarry area described and located at \u2022 de la carri\u00e8re d\u00e9crite ci-dessous :",
+        "type": "string"
+      },
+      "83": {
+        "description": "Name of Highway \u2022 Nom de la route",
+        "type": "string"
+      },
+      "84": {
+        "description": "Quarry Name \u2022 Nom de la carri\u00e8re",
+        "type": "string"
+      },
+      "87": {
+        "description": "Sous r\u00e9serve des conditions suivantes :",
+        "type": "string"
+      },
+      "88": {
+        "description": "Kilometre/Milepost \u2022 Borne kilom\u00e9trique/milliaire",
+        "type": "string"
+      },
+      "89": {
+        "description": "Approved subject to the following terms and Conditions:",
+        "type": "string"
+      },
+      "90": {
+        "description": "1.Le pr\u00e9sent permis est valide du  jour de   20",
+        "type": "string"
+      },
+      "91": {
+        "description": "1. This permit is valid from  day of  20",
+        "type": "string"
+      },
+      "92": {
+        "description": "to  day of  20  . or until the",
+        "type": "string"
+      },
+      "93": {
+        "description": "amount of material has been removed, whichever occurs first.",
+        "type": "string"
+      },
+      "94": {
+        "description": "3. Royalties must be paid in advance at the time the permit is issued",
+        "type": "string"
+      },
+      "95": {
+        "description": "at the following rates:",
+        "type": "string"
+      },
+      "96": {
+        "description": "a) permit to remove annually up to 35 cubic metres of granular",
+        "type": "string"
+      },
+      "97": {
+        "description": "au  jour de  20  ou jusqu\u2019\u00e0 ce que la",
+        "type": "string"
+      },
+      "98": {
+        "description": "quantit\u00e9 de mat\u00e9riaux pr\u00e9cis\u00e9e ci-dessus ait \u00e9t\u00e9 extraite, selon la premi\u00e8re",
+        "type": "string"
+      },
+      "99": {
+        "description": "\u00e9ventualit\u00e9.",
+        "type": "string"
+      },
+      "100": {
+        "description": "3.Les redevances sont payables \u00e0 l\u2019avance, \u00e0 la d\u00e9livrance du permis, selon les",
+        "type": "string"
+      },
+      "101": {
+        "description": "taux suivants:",
+        "type": "string"
+      },
+      "102": {
+        "description": "a) Enl\u00e8vement d'un maximum de 35 m\u00e8tres cubes de granulats par ann\u00e9e pour",
+        "type": "string"
+      },
+      "103": {
+        "description": "I hereby acknowledge and agree to the terms and conditions of this quarry permit",
+        "type": "string"
+      },
+      "104": {
+        "description": "Je d\u00e9clare, par les pr\u00e9sentes, que j'ai pris connaissance des conditions du pr\u00e9sent permis et que j'accepte de m'y conformer.",
+        "type": "string"
+      },
+      "105": {
+        "description": "Date \u2022 Date",
+        "type": "string"
+      },
+      "106": {
+        "description": "Signature of Permittee \u2022 Signature du titulaire de permis",
+        "type": "string"
+      },
+      "107": {
+        "description": "Issuing Agent Signature \u2022 Signature de l'agent d\u00e9livreur",
+        "type": "string"
+      },
+      "108": {
+        "description": "Payment: Receipt no. \u2022 Paiement: Re\u00e7u no :",
+        "type": "string"
+      },
+      "109": {
+        "description": "Date \u2022 Date",
+        "type": "string"
+      },
+      "110": {
+        "description": "YG(3463Q)F1 Rev. 06/2007",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

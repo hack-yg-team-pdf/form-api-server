@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "427": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "428": {
+        "description": "4.  Date use of business name began :",
+        "type": "string"
+      },
+      "429": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "430": {
+        "description": "Date \u00e0 laquelle l\u2019utilisation de la d\u00e9nomination",
+        "type": "string"
+      },
+      "431": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "432": {
+        "description": "sociale de l\u2019entreprise a d\u00e9but\u00e9 :",
+        "type": "string"
+      },
+      "433": {
+        "description": "5.  Person using the business name (if person is not an individual, include Yukon registry number, name and title",
+        "type": "string"
+      },
+      "434": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "435": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "436": {
+        "description": "Emplacement physique o\u00f9 sera exploit\u00e9e",
+        "type": "string"
+      },
+      "437": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "438": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "439": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "440": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "441": {
+        "description": "Last name and first name of the individual signing for the person",
+        "type": "string"
+      },
+      "442": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "443": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "444": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "445": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "446": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "447": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "448": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will be",
+        "type": "boolean"
+      },
+      "451": {
+        "description": "used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

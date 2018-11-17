@@ -1,0 +1,159 @@
+{
+  "fields": {
+    "properties": {
+      "91": {
+        "description": "BLOCK/GROUP/QUAD",
+        "type": "string"
+      },
+      "92": {
+        "description": "N",
+        "type": "string"
+      },
+      "94": {
+        "description": "BUSINESS PHONE / FAX",
+        "type": "string"
+      },
+      "95": {
+        "description": "HOME PHONE",
+        "type": "string"
+      },
+      "98": {
+        "description": "GENERAL LOCATION OF APPLICATION LAND (NAME OF COMMUNITY)",
+        "type": "string"
+      },
+      "100": {
+        "description": "ADDRESS",
+        "type": "string"
+      },
+      "103": {
+        "description": "T",
+        "type": "string"
+      },
+      "104": {
+        "description": "NAME OF PERSON OR AGENT AUTHORIZED TO ACT ON OWNER(S) BEHALF",
+        "type": "string"
+      },
+      "105": {
+        "description": "STREET / AVENUE NAME",
+        "type": "string"
+      },
+      "108": {
+        "description": "CITY / TOWN / COMMUNITY",
+        "type": "string"
+      },
+      "109": {
+        "description": "N",
+        "type": "string"
+      },
+      "111": {
+        "description": "BUSINESS PHONE / FAX",
+        "type": "string"
+      },
+      "113": {
+        "description": "CITY/TOWN",
+        "type": "string"
+      },
+      "115": {
+        "description": "STREET ADDRESS NO.",
+        "type": "string"
+      },
+      "116": {
+        "description": "NAME OF APPLICABLE DEVELOPMENT AREA REGULATION",
+        "type": "string"
+      },
+      "118": {
+        "description": "EXISTING PLAN DESIGNATION",
+        "type": "string"
+      },
+      "119": {
+        "description": "LOT NUMBER(S)",
+        "type": "string"
+      },
+      "122": {
+        "description": "INSTITUTIONAL         UTILITY OTHER:",
+        "type": "string"
+      },
+      "124": {
+        "description": "I",
+        "type": "string"
+      },
+      "126": {
+        "description": "LTO PLAN #",
+        "type": "string"
+      },
+      "128": {
+        "description": "COUNTRY RESIDENTIAL        COMMERCIAL       INDUSTRIAL",
+        "type": "string"
+      },
+      "130": {
+        "description": "CIVIC ADDRESS OF LANDS INCLUDED IN THIS APPLICATION (if applicable)",
+        "type": "string"
+      },
+      "131": {
+        "description": "ADDRESS",
+        "type": "string"
+      },
+      "132": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "133": {
+        "description": ", , , , .",
+        "type": "string"
+      },
+      "134": {
+        "description": "HOME PHONE",
+        "type": "string"
+      },
+      "136": {
+        "description": "INSTITUTIONAL         UTILITY OTHER:",
+        "type": "string"
+      },
+      "137": {
+        "description": "TERR / PROV",
+        "type": "string"
+      },
+      "138": {
+        "description": "CLSR PLAN #",
+        "type": "string"
+      },
+      "139": {
+        "description": "PROPOSED PLAN DESIGNATION",
+        "type": "string"
+      },
+      "140": {
+        "description": "L",
+        "type": "string"
+      },
+      "141": {
+        "description": "EXISTING ZONING",
+        "type": "string"
+      },
+      "142": {
+        "description": "ADDRESS",
+        "type": "string"
+      },
+      "143": {
+        "description": "NAME OF REGISTERED OWNER(S) OF LANDS",
+        "type": "string"
+      },
+      "146": {
+        "description": "Date (YYYY-MM-DD):",
+        "type": "boolean"
+      },
+      "149": {
+        "description": "X",
+        "type": "string"
+      },
+      "153": {
+        "description": "Date (YYYY-MM-DD):",
+        "type": "boolean"
+      },
+      "154": {
+        "description": "X",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

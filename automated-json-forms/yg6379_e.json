@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "24": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "25": {
+        "description": "Contact Information",
+        "type": "boolean"
+      },
+      "27": {
+        "description": "Mailing Address",
+        "type": "boolean"
+      },
+      "28": {
+        "description": "Address",
+        "type": "string"
+      },
+      "31": {
+        "description": "Signature of Authorized Individual",
+        "type": "string"
+      },
+      "34": {
+        "description": "information is about.",
+        "type": "string"
+      },
+      "111": {
+        "description": "Date of Birth (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "112": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "113": {
+        "description": "Address",
+        "type": "string"
+      },
+      "114": {
+        "description": "Phone Number",
+        "type": "string"
+      },
+      "115": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "116": {
+        "description": "If you are acting on behalf of another individual as their substitute decision-maker, please complete Section 2. If you",
+        "type": "string"
+      },
+      "117": {
+        "description": "are requesting your own personal health information, go to Section 3.",
+        "type": "string"
+      },
+      "118": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "119": {
+        "description": "Address",
+        "type": "string"
+      },
+      "120": {
+        "description": "SECTION 2: SUBSTITUTE DECISION-MAKER INFORMATION",
+        "type": "string"
+      },
+      "121": {
+        "description": "Phone Number",
+        "type": "string"
+      },
+      "122": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "123": {
+        "description": "I am the substitute decision-maker and authorized to make decisions on the individual\u2019s behalf. Please provide",
+        "type": "string"
+      },
+      "124": {
+        "description": "a copy of your statutory declaration form.",
+        "type": "string"
+      },
+      "125": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "126": {
+        "description": "SECTION 1: IDENTITY OF THE INDIVIDUAL WHOSE RECORD OF USER ACTIVITY IS BEING REQUESTED",
+        "type": "boolean"
+      },
+      "128": {
+        "description": "Indicate the HSS system(s) you would like a record of user activity for:",
+        "type": "boolean"
+      },
+      "130": {
+        "description": "Drug Information System (prescriptions)",
+        "type": "boolean"
+      },
+      "131": {
+        "description": "Chronic Disease Management Toolkit (CDM)",
+        "type": "boolean"
+      },
+      "132": {
+        "description": "Lab Information System (lab tests)",
+        "type": "boolean"
+      },
+      "133": {
+        "description": "Client Registry (e.g. name, address, phone number)",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "135": {
+        "description": "2 Years",
+        "type": "string"
+      },
+      "146": {
+        "description": "Record should show access between the dates of  and",
+        "type": "string"
+      },
+      "147": {
+        "description": "Please note: Different electronic systems retain information for different lengths of time, depending on the system",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "211": {
+        "description": "1. Please issue to the Bearer,",
+        "type": "string"
+      },
+      "212": {
+        "description": "en mon nom pour",
+        "type": "string"
+      },
+      "213": {
+        "description": "a Reception/Special Occasion Permit",
+        "type": "string"
+      },
+      "214": {
+        "description": "selon la description contenue dans la demande ci-jointe et d\u00fbment sign\u00e9e par moi.",
+        "type": "string"
+      },
+      "215": {
+        "description": "3.",
+        "type": "string"
+      },
+      "216": {
+        "description": "Title of Officer (where applicable)",
+        "type": "string"
+      },
+      "217": {
+        "description": "N.B.  Only the named person on the permit application (applicant) is authorized to pick up the liquor order. If this is not possible then a Bearers Order",
+        "type": "string"
+      },
+      "218": {
+        "description": "Remarque : Seule la personne dont le nom figure sur la demande de permis d\u2019alcool (le demandeur) est autoris\u00e9e \u00e0 prendre livraison des produits",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "command\u00e9s. En cas d\u2019impossibilit\u00e9 de sa part, elle doit remplir le formulaire Ordonnance au porteur autorisant une autre personne \u00e0 le faire \u00e0 sa place.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

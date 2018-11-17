@@ -1,0 +1,207 @@
+{
+  "fields": {
+    "properties": {
+      "307": {
+        "description": "of this application may be made available to the public in accordance with the Access to Information and Protection of Privacy Act. We declare that we",
+        "type": "string"
+      },
+      "309": {
+        "description": "Signature of applicant",
+        "type": "string"
+      },
+      "311": {
+        "description": "Please provide a one-sentence description of the project",
+        "type": "string"
+      },
+      "313": {
+        "description": "Position",
+        "type": "string"
+      },
+      "315": {
+        "description": "Project end date",
+        "type": "string"
+      },
+      "316": {
+        "description": "Total budget of project $",
+        "type": "string"
+      },
+      "317": {
+        "description": "Members of ensemble (if applicable)",
+        "type": "string"
+      },
+      "319": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "321": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "324": {
+        "description": "Email",
+        "type": "string"
+      },
+      "325": {
+        "description": "Name of project",
+        "type": "string"
+      },
+      "327": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "328": {
+        "description": "Contact name",
+        "type": "string"
+      },
+      "330": {
+        "description": "Amount of funding requested $",
+        "type": "string"
+      },
+      "331": {
+        "description": "Applicant name",
+        "type": "string"
+      },
+      "336": {
+        "description": "Project start date",
+        "type": "string"
+      },
+      "339": {
+        "description": "Physical address (if di erent from mailing address)",
+        "type": "string"
+      },
+      "340": {
+        "description": "Town/City",
+        "type": "string"
+      },
+      "341": {
+        "description": "owe no debts to the Government of Yukon.",
+        "type": "string"
+      },
+      "348": {
+        "description": "Earned Revenue (fees, etc.)",
+        "type": "string"
+      },
+      "349": {
+        "description": "Other government funding",
+        "type": "string"
+      },
+      "351": {
+        "description": "Number of events or activities",
+        "type": "string"
+      },
+      "354": {
+        "description": "Length of Tour (# days)",
+        "type": "string"
+      },
+      "380": {
+        "description": "/  /  /  /  /  /  /  /  /    /  /  /  /  /  /  /  /  /",
+        "type": "string"
+      },
+      "390": {
+        "description": "Audience/public attendance/participation",
+        "type": "string"
+      },
+      "391": {
+        "description": "Applicant in-kind equity",
+        "type": "string"
+      },
+      "392": {
+        "description": "Project Name",
+        "type": "string"
+      },
+      "393": {
+        "description": "TOTAL EXPENSES",
+        "type": "string"
+      },
+      "397": {
+        "description": "SHORTFALL = REQUEST TO TOURING ARTIST FUND",
+        "type": "string"
+      },
+      "398": {
+        "description": "Part 2:  Statistics - estimate the following event/activity statistics related to your project.  If",
+        "type": "string"
+      },
+      "404": {
+        "description": "Estimate -",
+        "type": "string"
+      },
+      "406": {
+        "description": "/  /  /  /  /  /  /  /  /    /  /  /  /  /  /  /  /  /",
+        "type": "string"
+      },
+      "415": {
+        "description": "Application",
+        "type": "string"
+      },
+      "419": {
+        "description": "Applicant cash equity",
+        "type": "string"
+      },
+      "425": {
+        "description": "Fundraising (i.e., donations and in-kind contributions)",
+        "type": "string"
+      },
+      "431": {
+        "description": "some items do not apply, please explain.",
+        "type": "string"
+      },
+      "440": {
+        "description": "REVENUE",
+        "type": "string"
+      },
+      "442": {
+        "description": "TOTAL  REVENUE",
+        "type": "string"
+      },
+      "450": {
+        "description": "A list of associated Yukon and non-Yukon ar sts who will accompany the applicant on",
+        "type": "boolean"
+      },
+      "453": {
+        "description": "COMPLETE CHECKLIST AND INCLUDE THIS PAGE AS PART OF YOUR APPLICATION",
+        "type": "boolean"
+      },
+      "455": {
+        "description": "A descrip on of the ar s c work that will be presented to the public",
+        "type": "boolean"
+      },
+      "458": {
+        "description": "A statement demonstra ng the host\u2019s selec on process and budget contribu on, and",
+        "type": "boolean"
+      },
+      "460": {
+        "description": "A detailed list of touring sites, including ci es, dates, and venues",
+        "type": "boolean"
+      },
+      "461": {
+        "description": "A completed and signed cover sheet (original signature required)",
+        "type": "boolean"
+      },
+      "463": {
+        "description": "A completed Budget Summary & Sta s cs form",
+        "type": "boolean"
+      },
+      "464": {
+        "description": "Your application must include:",
+        "type": "boolean"
+      },
+      "467": {
+        "description": "the tour",
+        "type": "boolean"
+      },
+      "468": {
+        "description": "objec ves as well as the objec ves of the Touring Ar st Program",
+        "type": "boolean"
+      },
+      "469": {
+        "description": "Applicant name :",
+        "type": "string"
+      },
+      "472": {
+        "description": "A statement describing how the proposed ac vi es meet the ar st\u2019s personal",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

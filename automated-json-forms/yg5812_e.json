@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "22": {
+        "description": "additional notes and/or documents attached",
+        "type": "string"
+      },
+      "27": {
+        "description": "Provoked exposure: A provoked exposure (attack) is one where the human did something to \u201cprovoke\u201d the animal",
+        "type": "boolean"
+      },
+      "28": {
+        "description": "COMMENTS / NOTES",
+        "type": "boolean"
+      },
+      "29": {
+        "description": "(even if the action was unintentional) and the attack would be the animal\u2019s normal response to such a human action.",
+        "type": "boolean"
+      },
+      "184": {
+        "description": "Location: (Medical Clinic/ER/Health Centre):",
+        "type": "string"
+      },
+      "185": {
+        "description": "Date Reported:                                   Health Care Provider:                                                        Phone:",
+        "type": "string"
+      },
+      "186": {
+        "description": "YYYY-MM-DD                                                                                             PLEASE PRINT NAME",
+        "type": "string"
+      },
+      "187": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "188": {
+        "description": "or mucous membrane",
+        "type": "string"
+      },
+      "189": {
+        "description": "YYYY-MM-DD",
+        "type": "string"
+      },
+      "190": {
+        "description": "Date of exposure:                                   Time:",
+        "type": "string"
+      },
+      "191": {
+        "description": "Yukon",
+        "type": "string"
+      },
+      "192": {
+        "description": "LOCATION/ADDRESS                                                            CITY OR COMMUNITY",
+        "type": "string"
+      },
+      "193": {
+        "description": "2) Type of exposure:",
+        "type": "string"
+      },
+      "194": {
+        "description": "Outside Yukon",
+        "type": "string"
+      },
+      "195": {
+        "description": "1) Where did the exposure occur?",
+        "type": "string"
+      },
+      "196": {
+        "description": "******** Thorough Completion of These Questions will Expedite Human Treatment and Animal Management ********",
+        "type": "string"
+      },
+      "197": {
+        "description": "Phone #: Home Work:                                                 Cell:                                                 Present Weight (kg):",
+        "type": "string"
+      },
+      "198": {
+        "description": "LOCATION/ADDRESS                                                            CITY OR COMMUNITY",
+        "type": "string"
+      },
+      "199": {
+        "description": "Province/Territory:                                                                                Postal Code:",
+        "type": "string"
+      },
+      "202": {
+        "description": "Head/Neck",
+        "type": "string"
+      },
+      "204": {
+        "description": "Physical location of exposure on client",
+        "type": "string"
+      },
+      "205": {
+        "description": "Address:                                                                                               City or Community:",
+        "type": "string"
+      },
+      "206": {
+        "description": "Bite",
+        "type": "string"
+      },
+      "214": {
+        "description": "Name:                                                                 DOB:                                   Gender:               YHCIP#:",
+        "type": "string"
+      },
+      "215": {
+        "description": "Describe exact location:",
+        "type": "string"
+      },
+      "218": {
+        "description": "3) Client vaccinated against rabies?",
+        "type": "string"
+      },
+      "219": {
+        "description": "Yes, date:                                   Vaccine type:                                     Proof of vaccination?",
+        "type": "string"
+      },
+      "227": {
+        "description": "Other",
+        "type": "string"
+      },
+      "235": {
+        "description": "6) If a domestic animal, is it vaccinated against rabies?",
+        "type": "string"
+      },
+      "236": {
+        "description": "NAME                                                                                  ADDRESS                                                                                                                                                               PHONE",
+        "type": "string"
+      },
+      "239": {
+        "description": "Description of animal (e.g., species, colour, size):",
+        "type": "string"
+      },
+      "242": {
+        "description": "Wild",
+        "type": "string"
+      },
+      "243": {
+        "description": "Other",
+        "type": "string"
+      },
+      "248": {
+        "description": "9) Where is the animal located now?",
+        "type": "string"
+      },
+      "251": {
+        "description": "Description of exposure:",
+        "type": "string"
+      },
+      "252": {
+        "description": "8) Was the exposure:",
+        "type": "string"
+      },
+      "253": {
+        "description": "Provoked (see reverse for examples), consistent with #",
+        "type": "string"
+      },
+      "257": {
+        "description": "7) Is the animal showing clinical signs consistent with rabies? (see reverse)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

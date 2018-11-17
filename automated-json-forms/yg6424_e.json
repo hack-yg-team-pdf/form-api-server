@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "46": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "47": {
+        "description": "the holders of the Trapping Concession in partnership for Trapping Concession Area # ,",
+        "type": "string"
+      },
+      "48": {
+        "description": "request the issuance of an Assistant Trapper Licence to  for the duration of:",
+        "type": "string"
+      },
+      "49": {
+        "description": "the remainder of our concession term.",
+        "type": "string"
+      },
+      "52": {
+        "description": "the  \u2013  season.",
+        "type": "string"
+      },
+      "53": {
+        "description": "YYYY",
+        "type": "string"
+      },
+      "56": {
+        "description": "This request may be revoked by either or both of the concession holders at any time by notifying the",
+        "type": "string"
+      },
+      "57": {
+        "description": "Department of Environment.",
+        "type": "string"
+      },
+      "58": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the administration",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection of your infor-",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "67": {
+        "description": "Name of organization",
+        "type": "string"
+      },
+      "70": {
+        "description": "Address of organization",
+        "type": "string"
+      },
+      "71": {
+        "description": "1. The initial test to determine \u201ccharitable status\u201d is for an organization to have a charitable objective/primary purpose.",
+        "type": "string"
+      },
+      "77": {
+        "description": "2. Describe the locations where the organization has delivered programs to the community (ex. recreation centre, library,",
+        "type": "string"
+      },
+      "78": {
+        "description": "3. How many people from the community participate in the programs or receive services from the organization?",
+        "type": "string"
+      },
+      "79": {
+        "description": "Page 2 of 4",
+        "type": "string"
+      },
+      "82": {
+        "description": "5. Is membership in the organization open to anyone in the community who wishes to become involved or are there",
+        "type": "string"
+      },
+      "83": {
+        "description": "6. Do any of the organization\u2019s board of directors/governing body receive compensation for their duties as members of",
+        "type": "string"
+      },
+      "86": {
+        "description": "7. How and by whom is the organization\u2019s board of directors / governing body chosen?",
+        "type": "string"
+      },
+      "87": {
+        "description": "8. How many persons may potentially benefit from the programs or services offered by your organization?",
+        "type": "string"
+      },
+      "88": {
+        "description": "9. List the programs or services that are restricted to members and those which are open to the general public.",
+        "type": "string"
+      },
+      "89": {
+        "description": "Page 3 of 4",
+        "type": "string"
+      },
+      "92": {
+        "description": "11. Describe how the organization\u2019s programs are distinct from any other similar programs already provided in the community:",
+        "type": "string"
+      },
+      "93": {
+        "description": "12. How does the organization plan to use the gaming proceeds?",
+        "type": "string"
+      },
+      "94": {
+        "description": "Name",
+        "type": "string"
+      },
+      "95": {
+        "description": "Email",
+        "type": "string"
+      },
+      "96": {
+        "description": "Signature: The president/director of the organization must sign and date this questionnaire to verify the information",
+        "type": "string"
+      },
+      "97": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "98": {
+        "description": "information regarding the collection, use and disclosure of this information, contact the Director of Professional Licensing & Regulatory Affairs, Community Services,",
+        "type": "boolean"
+      },
+      "101": {
+        "description": "Personal information is collected, used and disclosed under the Lottery Licensing Act, S.2, RSY 2002, c.143 for the purposes of determining license eligibility. For more",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

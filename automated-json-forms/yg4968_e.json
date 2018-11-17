@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "77": {
+        "description": "Religion",
+        "type": "string"
+      },
+      "81": {
+        "description": "Page 2 of 4",
+        "type": "string"
+      },
+      "82": {
+        "description": "Work telephone:   Religion:",
+        "type": "string"
+      },
+      "86": {
+        "description": "Yes             Confirmation",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "||      ||     ||",
+        "type": "string"
+      },
+      "90": {
+        "description": "Work telephone:   Religion:",
+        "type": "string"
+      },
+      "91": {
+        "description": "Father\u2019s Surname:   First Name:",
+        "type": "string"
+      },
+      "92": {
+        "description": "Postal Code              Home Phone No.",
+        "type": "string"
+      },
+      "97": {
+        "description": "||     ||",
+        "type": "string"
+      },
+      "98": {
+        "description": "No",
+        "type": "string"
+      },
+      "99": {
+        "description": "Mother\u2019s Surname:   First Name:",
+        "type": "string"
+      },
+      "102": {
+        "description": "Apt. No         Street or P.O. Box Number            City",
+        "type": "string"
+      },
+      "103": {
+        "description": "Male                 Birthdate",
+        "type": "string"
+      },
+      "108": {
+        "description": "same as student\u2019s or",
+        "type": "boolean"
+      },
+      "109": {
+        "description": "||     ||       ||    |||||||     |||| \u2013 |||||",
+        "type": "string"
+      },
+      "112": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "114": {
+        "description": "School currently attending                                                                                   Present Grade",
+        "type": "string"
+      },
+      "115": {
+        "description": "same as student\u2019s or",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

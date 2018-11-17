@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "292": {
+        "description": "Wholesaler Name",
+        "type": "string"
+      },
+      "293": {
+        "description": "Permit Number",
+        "type": "string"
+      },
+      "294": {
+        "description": "Page  of",
+        "type": "string"
+      },
+      "295": {
+        "description": "THE TOBACCO TAX ACT",
+        "type": "string"
+      },
+      "296": {
+        "description": "Address",
+        "type": "string"
+      },
+      "297": {
+        "description": "Month or Period Ending",
+        "type": "string"
+      },
+      "298": {
+        "description": "PRODUCT TOTAL (all retailers)",
+        "type": "string"
+      },
+      "299": {
+        "description": "MULTIPLY BY CURRENT TAX RATE - per Tobacco Tax Act Section 3(1)(1.01)",
+        "type": "string"
+      },
+      "300": {
+        "description": "TAX SUBTOTAL",
+        "type": "string"
+      },
+      "301": {
+        "description": "# cigarettes",
+        "type": "string"
+      },
+      "302": {
+        "description": "# grams",
+        "type": "string"
+      },
+      "303": {
+        "description": "**Taxable Price for Canadian Manufactured Cigars = 1.3 x manufacturer's selling price;",
+        "type": "string"
+      },
+      "304": {
+        "description": "**Taxable Price for Imported Cigars = 1.3 x importer's selling price",
+        "type": "string"
+      },
+      "305": {
+        "description": "$",
+        "type": "string"
+      },
+      "306": {
+        "description": "$",
+        "type": "string"
+      },
+      "307": {
+        "description": "$",
+        "type": "string"
+      },
+      "308": {
+        "description": "YG(1153EQ)F1 Rev.03/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

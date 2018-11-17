@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "33": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "828": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "829": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "830": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "831": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "832": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "833": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "834": {
+        "description": "3.  Records office, if any (public corporations only, in or out of Yukon) :",
+        "type": "string"
+      },
+      "835": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "836": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "837": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "838": {
+        "description": "4.  Address for service by mail, if any (in Yukon, only if different than registered office) :",
+        "type": "string"
+      },
+      "839": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "840": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "841": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "842": {
+        "description": "Adresse de signification par la poste, le cas \u00e9ch\u00e9ant (seulement si diff\u00e9rente du bureau enregistr\u00e9) :",
+        "type": "string"
+      },
+      "843": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "844": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "845": {
+        "description": "5.  Name of incorporator / Nom du fondateur :",
+        "type": "string"
+      },
+      "846": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "847": {
+        "description": "YG(6120Q)F2 03/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

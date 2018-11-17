@@ -1,0 +1,171 @@
+{
+  "fields": {
+    "properties": {
+      "129": {
+        "description": "11. Will any of the contaminated material treated at the facility be highly contaminated?",
+        "type": "string"
+      },
+      "131": {
+        "description": "Applicants not owning the land on which the facility is to be located, including when the applicant is leasing the land from",
+        "type": "string"
+      },
+      "133": {
+        "description": "GEOGRAPHIC COORDINATES (CENTRE OF SITE IN LAT/LONG, UTM (SPECIFY ZONE) OR YUKON ALBERS)",
+        "type": "string"
+      },
+      "134": {
+        "description": "LEGAL ADDRESS",
+        "type": "string"
+      },
+      "135": {
+        "description": "4. Who owns the land on which the Land Treatment Facility will be located?",
+        "type": "boolean"
+      },
+      "138": {
+        "description": "No",
+        "type": "string"
+      },
+      "141": {
+        "description": "16. How far is the site from the nearest surface water body (creek, pond, etc.)?  m",
+        "type": "string"
+      },
+      "143": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "144": {
+        "description": "12. What volume of soil is the facility designed to store and treat?  m3",
+        "type": "string"
+      },
+      "145": {
+        "description": "Dimensions:       Max pile height:",
+        "type": "string"
+      },
+      "146": {
+        "description": "Yes \u2013 please elaborate (attach additional pages if needed):",
+        "type": "string"
+      },
+      "147": {
+        "description": "same as (1) above, or (for multiple site locations, list on a separate sheet):",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "10. What sources of contaminated material have been identified? (e.g. locations, spill events)",
+        "type": "string"
+      },
+      "158": {
+        "description": "17. How far is the site from the nearest drinking water source?  m",
+        "type": "string"
+      },
+      "165": {
+        "description": "No",
+        "type": "string"
+      },
+      "167": {
+        "description": "28. Describe contingency and emergency plans which will be implemented in the event of a breach of the facility or",
+        "type": "string"
+      },
+      "169": {
+        "description": "equal to or less than 10-5 cm/sec (10-6 cm/sec for facilities accepting highly contaminated material) and a thickness",
+        "type": "string"
+      },
+      "174": {
+        "description": "20. What is the slope of the site?  percent grade      or        degrees",
+        "type": "string"
+      },
+      "176": {
+        "description": "Page 3 of 4",
+        "type": "string"
+      },
+      "177": {
+        "description": "21. What is the distance to the nearest residential property?",
+        "type": "string"
+      },
+      "178": {
+        "description": "19. What is the depth of the seasonal high water table? (in metres below the surface)  m",
+        "type": "string"
+      },
+      "179": {
+        "description": "22. What are the predominant soil types at the site? (Include approximate depths of each stratum,where known.)",
+        "type": "string"
+      },
+      "182": {
+        "description": "the facility.",
+        "type": "string"
+      },
+      "183": {
+        "description": "31. Describe the features of the site designed to control access and secure the facility (e.g. fencing, signage).",
+        "type": "string"
+      },
+      "185": {
+        "description": "NOTE that an impermeable synthetic liner (geomembrane) or natural compacted liner with a minimum permeability of",
+        "type": "string"
+      },
+      "186": {
+        "description": "30. Describe the methods to be used to determine that contaminated soil is sufficiently treated to be removed from",
+        "type": "string"
+      },
+      "187": {
+        "description": "29. Describe the training workers at the facility will have in handling contaminated material, spill prevention,",
+        "type": "string"
+      },
+      "916": {
+        "description": "CONTACT NAME AND POSITION TITLE",
+        "type": "string"
+      },
+      "919": {
+        "description": "BUSINESS NAME OR GOVERNMENT AGENCY/BRANCH/DEPARTMENT",
+        "type": "string"
+      },
+      "920": {
+        "description": "MAILING ADDRESS",
+        "type": "string"
+      },
+      "921": {
+        "description": "PHONE #",
+        "type": "string"
+      },
+      "922": {
+        "description": "EMAIL ADDRESS",
+        "type": "string"
+      },
+      "923": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "924": {
+        "description": "NAME (PERSON OR BUSINESS) TO APPEAR ON PERMIT",
+        "type": "string"
+      },
+      "925": {
+        "description": "2. Who will be operating the Land Treatment Facility?",
+        "type": "string"
+      },
+      "926": {
+        "description": "same as (1) above, or (for multiple site locations, list on a separate sheet):",
+        "type": "boolean"
+      },
+      "928": {
+        "description": "CONTACT NAME AND POSITION TITLE",
+        "type": "string"
+      },
+      "929": {
+        "description": "PHONE #",
+        "type": "string"
+      },
+      "930": {
+        "description": "BUSINESS NAME OR GOVERNMENT AGENCY/BRANCH/DEPARTMENT",
+        "type": "string"
+      },
+      "931": {
+        "description": "FAX #",
+        "type": "string"
+      },
+      "932": {
+        "description": "EMAIL ADDRESS",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

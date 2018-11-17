@@ -1,0 +1,227 @@
+{
+  "fields": {
+    "properties": {
+      "50": {
+        "description": "A",
+        "type": "string"
+      },
+      "54": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "55": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "56": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "57": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "58": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "59": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "60": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "61": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "62": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "65": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "66": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "67": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "69": {
+        "description": "D\u00e9nomination sociale si un commanditaire n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "70": {
+        "description": "Nom de famille et pr\u00e9nom du particulier qui signe pour le commanditaire",
+        "type": "string"
+      },
+      "72": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "73": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "76": {
+        "description": "Last name and first name of the individual signing for the general partner",
+        "type": "string"
+      },
+      "77": {
+        "description": "Nom de famille et pr\u00e9nom du particulier qui signe pour le commanditaire",
+        "type": "string"
+      },
+      "79": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "82": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "83": {
+        "description": "D\u00e9nomination sociale si un commanditaire n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "84": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "86": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "87": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "88": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "91": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "93": {
+        "description": "Last name and first name of the individual signing for the general partner",
+        "type": "string"
+      },
+      "94": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "98": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "99": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "101": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "103": {
+        "description": "8.  Name of individual signing :",
+        "type": "string"
+      },
+      "104": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "108": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "109": {
+        "description": "10. Certificate of limited partnership / Certificat de soci\u00e9t\u00e9 en commandite :",
+        "type": "string"
+      },
+      "111": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "112": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "113": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "114": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "115": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "120": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "121": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "123": {
+        "description": "sans frais au Yukon 1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "1120": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "1121": {
+        "description": "Date anniversaire (date du d\u00e9p\u00f4t du certificat de soci\u00e9t\u00e9 en commandite) :",
+        "type": "string"
+      },
+      "1122": {
+        "description": "5.  Anniversary date (date certificate of limited partnership was filed) :",
+        "type": "string"
+      },
+      "1123": {
+        "description": "Yukon (doit aussi \u00eatre enregistr\u00e9e en vertu de l\u2019article 87 de la Loi sur les d\u00e9nominations sociales et les soci\u00e9t\u00e9s de",
+        "type": "string"
+      },
+      "1124": {
+        "description": "4.  Business name, if any, under which the limited partnership carries on business in Yukon (must also be",
+        "type": "string"
+      },
+      "1125": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "1126": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1127": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1128": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "1129": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1130": {
+        "description": "Yukon",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

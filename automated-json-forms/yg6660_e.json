@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "properties": {
+      "115": {
+        "description": "I,  of  in Yukon Territory",
+        "type": "string"
+      },
+      "116": {
+        "description": "LAST NAME",
+        "type": "string"
+      },
+      "117": {
+        "description": "Mailing address:",
+        "type": "boolean"
+      },
+      "120": {
+        "description": "Physical address:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

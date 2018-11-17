@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "167": {
+        "description": "Please be advised that an Environmental Health Officer (EHO) was notified (prior to backfilling) that on",
+        "type": "string"
+      },
+      "168": {
+        "description": "NOTIFICATION:",
+        "type": "boolean"
+      },
+      "170": {
+        "description": "Name of installer:",
+        "type": "string"
+      },
+      "171": {
+        "description": "Phone number:",
+        "type": "string"
+      },
+      "172": {
+        "description": "Fax number:",
+        "type": "string"
+      },
+      "173": {
+        "description": "(legal description, municipal address, if applicable & plan number)",
+        "type": "string"
+      },
+      "174": {
+        "description": "and that said system was installed in accordance with the permit numbered",
+        "type": "string"
+      },
+      "175": {
+        "description": "at",
+        "type": "string"
+      },
+      "176": {
+        "description": "Phone number:",
+        "type": "string"
+      },
+      "177": {
+        "description": "Fax number:",
+        "type": "string"
+      },
+      "178": {
+        "description": "Or describe other arrangements:",
+        "type": "string"
+      },
+      "179": {
+        "description": "Signature of owner:",
+        "type": "string"
+      },
+      "180": {
+        "description": "Address:   Postal Code:",
+        "type": "string"
+      },
+      "181": {
+        "description": "Print name:",
+        "type": "string"
+      },
+      "182": {
+        "description": "Signature of witness:",
+        "type": "string"
+      },
+      "183": {
+        "description": "Print name:",
+        "type": "string"
+      },
+      "184": {
+        "description": "YG(4673EQ)F2 Rev. 01/2006",
+        "type": "string"
+      },
+      "185": {
+        "description": "As the owner of the above listed property, I undertake to:",
+        "type": "boolean"
+      },
+      "188": {
+        "description": "\u2022     inspect and monitor the septic system periodically for integrity and operation;",
+        "type": "boolean"
+      },
+      "190": {
+        "description": "Date signed:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

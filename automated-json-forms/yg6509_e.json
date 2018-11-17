@@ -1,0 +1,235 @@
+{
+  "fields": {
+    "properties": {
+      "70": {
+        "description": "Yes   *Please attach copy, or indicate date and place child support/custody was agreed to",
+        "type": "string"
+      },
+      "71": {
+        "description": "Yes     Approximate date:",
+        "type": "string"
+      },
+      "79": {
+        "description": "7. When did you begin receiving social assistance?",
+        "type": "string"
+      },
+      "86": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "89": {
+        "description": "No",
+        "type": "string"
+      },
+      "91": {
+        "description": "6. Do you have any concerns about attempting to obtain support from the other parent?",
+        "type": "string"
+      },
+      "93": {
+        "description": "Yes     The agreement states that:",
+        "type": "string"
+      },
+      "97": {
+        "description": "Social Worker Name",
+        "type": "string"
+      },
+      "100": {
+        "description": "Other, explain:",
+        "type": "string"
+      },
+      "102": {
+        "description": "4. Are there any written agreements or Court Orders in place pertaining to child support or custody for the child(ren)?",
+        "type": "string"
+      },
+      "104": {
+        "description": "3. Have you approached the other parent for support?",
+        "type": "string"
+      },
+      "108": {
+        "description": "5. Are there any verbal agreements in place pertaining to child support or custody of the child(ren)?",
+        "type": "string"
+      },
+      "110": {
+        "description": "Both: At applicant\u2019s  % of time. At paying parent\u2019s  % of time.",
+        "type": "string"
+      },
+      "111": {
+        "description": "Date:   Place:",
+        "type": "string"
+      },
+      "515": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "518": {
+        "description": "Name           D.O.B",
+        "type": "string"
+      },
+      "519": {
+        "description": "Name           D.O.B",
+        "type": "string"
+      },
+      "520": {
+        "description": "Name           D.O.B",
+        "type": "string"
+      },
+      "521": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "522": {
+        "description": "Place of Birth",
+        "type": "string"
+      },
+      "523": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "524": {
+        "description": "Email",
+        "type": "string"
+      },
+      "525": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "526": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "527": {
+        "description": "Other Phone",
+        "type": "string"
+      },
+      "528": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "529": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "530": {
+        "description": "APPLICANT INFORMATION",
+        "type": "string"
+      },
+      "531": {
+        "description": "Name and Address of Last Known Employer",
+        "type": "string"
+      },
+      "532": {
+        "description": "Email",
+        "type": "string"
+      },
+      "533": {
+        "description": "Address",
+        "type": "string"
+      },
+      "534": {
+        "description": "Place of Employment",
+        "type": "string"
+      },
+      "538": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "539": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "540": {
+        "description": "Place of Birth",
+        "type": "string"
+      },
+      "541": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "542": {
+        "description": "PAYING PARENT INFORMATION",
+        "type": "string"
+      },
+      "543": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "544": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "545": {
+        "description": "Last Known Address",
+        "type": "string"
+      },
+      "546": {
+        "description": "Last Known Phone",
+        "type": "string"
+      },
+      "547": {
+        "description": "ADDITIONAL INFORMATION",
+        "type": "string"
+      },
+      "548": {
+        "description": "Casual",
+        "type": "string"
+      },
+      "549": {
+        "description": "Occupation",
+        "type": "string"
+      },
+      "550": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "551": {
+        "description": "Other Phone",
+        "type": "string"
+      },
+      "554": {
+        "description": "1. What was the nature of your relationship with the other parent?",
+        "type": "string"
+      },
+      "555": {
+        "description": "Married",
+        "type": "string"
+      },
+      "556": {
+        "description": "Date:    Place:",
+        "type": "string"
+      },
+      "559": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "560": {
+        "description": "Cohabitated       Date:    to",
+        "type": "string"
+      },
+      "562": {
+        "description": "Separated",
+        "type": "string"
+      },
+      "564": {
+        "description": "Still together",
+        "type": "string"
+      },
+      "565": {
+        "description": "Date:    to",
+        "type": "string"
+      },
+      "567": {
+        "description": "Other, describe:",
+        "type": "string"
+      },
+      "568": {
+        "description": "YG(6509EQ)F2 12/2017",
+        "type": "string"
+      },
+      "571": {
+        "description": "Page 1 of 2",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

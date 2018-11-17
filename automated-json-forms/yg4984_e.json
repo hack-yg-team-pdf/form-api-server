@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "1.",
+        "type": "string"
+      },
+      "39": {
+        "description": "(Description and location of the Work)",
+        "type": "string"
+      },
+      "40": {
+        "description": "I,  OF",
+        "type": "string"
+      },
+      "41": {
+        "description": "TO WIT:",
+        "type": "string"
+      },
+      "42": {
+        "description": "by the Contractor/Subcontractor",
+        "type": "string"
+      },
+      "43": {
+        "description": "to the  day of   20",
+        "type": "string"
+      },
+      "44": {
+        "description": "from the    day of   20",
+        "type": "string"
+      },
+      "45": {
+        "description": "work done thereunder:",
+        "type": "string"
+      },
+      "46": {
+        "description": "(Full name of Contractor/Subcontractor)",
+        "type": "string"
+      },
+      "47": {
+        "description": "youth and/or Yukon Materials; in work done and/or Yukon manufactured materials incorporated into",
+        "type": "string"
+      },
+      "48": {
+        "description": "AND IN THE MATTER OF a Business Incentives Rebates Claim covering Yukon labour, apprentices,",
+        "type": "string"
+      },
+      "49": {
+        "description": "do solemnly declare:",
+        "type": "string"
+      },
+      "50": {
+        "description": "(Full name of Declarant)",
+        "type": "string"
+      },
+      "51": {
+        "description": "for",
+        "type": "string"
+      },
+      "52": {
+        "description": "dated the  day of  20",
+        "type": "string"
+      },
+      "53": {
+        "description": "IN THE MATTER OF a contract bearing No.",
+        "type": "string"
+      },
+      "54": {
+        "description": "If this Declaration is not complete in every detail, it may be returned for completion and payment will",
+        "type": "boolean"
+      },
+      "57": {
+        "description": "be delayed.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

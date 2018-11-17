@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "209": {
+        "description": "If you wish, a pamphlet which explains CASY in more detail will be given to you, along with a copy of this consent.",
+        "type": "string"
+      },
+      "210": {
+        "description": "The following birth defect was diagnosed in my baby:",
+        "type": "string"
+      },
+      "211": {
+        "description": "Name of patient                                                                    Date of birth (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "212": {
+        "description": "Yukon health care number",
+        "type": "string"
+      },
+      "213": {
+        "description": "(b)   \u2751",
+        "type": "boolean"
+      },
+      "215": {
+        "description": "Please answer (a) and (b) below:",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "Signature of patient",
+        "type": "string"
+      },
+      "218": {
+        "description": "Name of witness",
+        "type": "string"
+      },
+      "219": {
+        "description": "Signature of witness",
+        "type": "string"
+      },
+      "220": {
+        "description": "CONTACT INFORMATION",
+        "type": "boolean"
+      },
+      "223": {
+        "description": "CASY Coordinator",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

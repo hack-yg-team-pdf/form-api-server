@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "331": {
+        "description": "disposition l\u00e9gislative du Yukon ou du Canada?",
+        "type": "string"
+      },
+      "336": {
+        "description": "If yes, specify \u2022 Si oui, pr\u00e9cisez :",
+        "type": "string"
+      },
+      "337": {
+        "description": "Theory (classroom instruction) \u2022 Partie th\u00e9orique (formation en classe)",
+        "type": "string"
+      },
+      "338": {
+        "description": "Practical (if applicable) \u2022 Partie pratique (s\u2019il y a lieu)",
+        "type": "string"
+      },
+      "339": {
+        "description": "Full time (20 hours or more per week)                                      Part time (less than 20 hours per week)",
+        "type": "boolean"
+      },
+      "341": {
+        "description": "Temps plein (20 heures ou plus par semaine)                          Temps partiel (moins de 20 heures par semaine)",
+        "type": "boolean"
+      },
+      "342": {
+        "description": "Distance education                    Correspondence                    Other",
+        "type": "boolean"
+      },
+      "343": {
+        "description": "Cours \u00e0 distance                        Par correspondance              Autre",
+        "type": "boolean"
+      },
+      "344": {
+        "description": "Is the content/instruction of this course regulated by any governing body, regulatory authority,",
+        "type": "boolean"
+      },
+      "345": {
+        "description": "Kit/material/book fee(s) \u2022 Autres frais (trousse, mat\u00e9riel, livres)",
+        "type": "string"
+      },
+      "349": {
+        "description": "YG(6626Q)F2 08/2018",
+        "type": "string"
+      },
+      "351": {
+        "description": "1Le pr\u00e9sent document a \u00e9t\u00e9 r\u00e9dig\u00e9 sans distinction de genre.",
+        "type": "string"
+      },
+      "353": {
+        "description": "Total \u2022 Total $",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

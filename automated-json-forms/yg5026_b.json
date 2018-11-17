@@ -1,0 +1,203 @@
+{
+  "fields": {
+    "properties": {
+      "84": {
+        "description": "R",
+        "type": "string"
+      },
+      "85": {
+        "description": "Business Phone \u2022 T\u00e9l\u00e9phone (travail)",
+        "type": "string"
+      },
+      "86": {
+        "description": "Home Phone \u2022 T\u00e9l\u00e9phone (maison)",
+        "type": "string"
+      },
+      "87": {
+        "description": "E-mail address \u2022 Courriel",
+        "type": "string"
+      },
+      "88": {
+        "description": "Business fax \u2022 T\u00e9l\u00e9copieur (travail)",
+        "type": "string"
+      },
+      "89": {
+        "description": "Applicant Address \u2022 Adresse du demandeur             City/Town \u2022 Ville             Territory/Province \u2022 Territoire/province    Postal Code \u2022  Code postal",
+        "type": "string"
+      },
+      "90": {
+        "description": "Contractor Name \u2022 Nom de l'entrepreneur",
+        "type": "string"
+      },
+      "91": {
+        "description": "I hereby apply for a Quarry Permit for the purpose of taking:",
+        "type": "string"
+      },
+      "92": {
+        "description": "Contractor Phone Number \u2022 T\u00e9l\u00e9phone de l'entrepreneur",
+        "type": "string"
+      },
+      "93": {
+        "description": "Lat Degree \u2022 Degr\u00e9 lat.                   Pit Name \u2022 Nom de la carri\u00e8re            Kilometre \u2022 kilom\u00e8tre                         Highway \u2022 Route",
+        "type": "string"
+      },
+      "94": {
+        "description": "I",
+        "type": "string"
+      },
+      "95": {
+        "description": "Cubic metres of",
+        "type": "string"
+      },
+      "96": {
+        "description": "tit",
+        "type": "string"
+      },
+      "97": {
+        "description": "Cubic metres of",
+        "type": "string"
+      },
+      "98": {
+        "description": "o",
+        "type": "string"
+      },
+      "99": {
+        "description": "Cubic metres of",
+        "type": "string"
+      },
+      "100": {
+        "description": "\u2022",
+        "type": "string"
+      },
+      "101": {
+        "description": "Cubic metres of",
+        "type": "string"
+      },
+      "102": {
+        "description": "a",
+        "type": "string"
+      },
+      "103": {
+        "description": "Cubic metres of",
+        "type": "string"
+      },
+      "104": {
+        "description": "l",
+        "type": "string"
+      },
+      "105": {
+        "description": "m\u00e8tres cubes de",
+        "type": "string"
+      },
+      "106": {
+        "description": "c",
+        "type": "string"
+      },
+      "107": {
+        "description": "Long Degree \u2022  Degr\u00e9 long.            Pit Identifier \u2022 Carri\u00e8re no                     Map Sheet No. \u2022 Feuille de carte no   Community \u2022 Collectivit\u00e9",
+        "type": "string"
+      },
+      "108": {
+        "description": "Is any part of the land occupied? And if so, by whom and for what purpose?",
+        "type": "string"
+      },
+      "109": {
+        "description": "La terre est-elle en partie occup\u00e9e? Dans l\u2019affirmative, par qui et \u00e0 quelles fins?",
+        "type": "string"
+      },
+      "110": {
+        "description": "1.",
+        "type": "string"
+      },
+      "111": {
+        "description": "2.",
+        "type": "string"
+      },
+      "112": {
+        "description": "A. Nature of improvements:",
+        "type": "string"
+      },
+      "113": {
+        "description": "The only buildings or other improvements on the said lands are as follows:",
+        "type": "string"
+      },
+      "114": {
+        "description": "Les seuls b\u00e2timents ou am\u00e9liorations sur le site sont les suivants:",
+        "type": "string"
+      },
+      "115": {
+        "description": "B. Value of improvements:",
+        "type": "string"
+      },
+      "116": {
+        "description": "Valeur des am\u00e9liorations:",
+        "type": "string"
+      },
+      "117": {
+        "description": "Propri\u00e9taire des am\u00e9liorations:",
+        "type": "string"
+      },
+      "118": {
+        "description": "C. Owner of improvements:",
+        "type": "string"
+      },
+      "119": {
+        "description": "The land is/is not wooded. (If wooded, describe species of trees and approximate size).",
+        "type": "string"
+      },
+      "120": {
+        "description": "3.",
+        "type": "string"
+      },
+      "121": {
+        "description": "The attached plan is a sketch plan of the said land as required by the Quarry Regulations.",
+        "type": "string"
+      },
+      "122": {
+        "description": "4.",
+        "type": "string"
+      },
+      "123": {
+        "description": "I enclosed the required fees as indicated below: \u2022 J\u2019inclus les droits de permis indiqu\u00e9s ci-dessous :",
+        "type": "string"
+      },
+      "124": {
+        "description": "Un croquis de la terre est joint \u00e0 la pr\u00e9sente, tel que le prescrit le R\u00e8glement sur l\u2019exploitation de carri\u00e8res territoriales.",
+        "type": "string"
+      },
+      "125": {
+        "description": "Royalties on Sand, Gravel, Loam Per cubic metre \u2022 Redevances pour l\u2019extraction de sable, de gravier ou de terreau       $",
+        "type": "string"
+      },
+      "126": {
+        "description": "par m\u00e8tre cube",
+        "type": "string"
+      },
+      "127": {
+        "description": "Royalties on other building material \u2022 Redevances pour les autres mat\u00e9riaux de construction                                            $",
+        "type": "string"
+      },
+      "128": {
+        "description": "Signature of Applicant \u2022 Signature du demandeur",
+        "type": "string"
+      },
+      "132": {
+        "description": "Method of payment \u2022 Mode de paiement",
+        "type": "string"
+      },
+      "133": {
+        "description": "Date \u2022 Date",
+        "type": "string"
+      },
+      "134": {
+        "description": "1Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "$",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

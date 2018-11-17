@@ -1,0 +1,207 @@
+{
+  "fields": {
+    "properties": {
+      "46": {
+        "description": "Current resume detailing personal, employment, education and volunteer information and information about",
+        "type": "boolean"
+      },
+      "47": {
+        "description": "Personal statement including information as outlined in the application guidelines",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "your ties to your community",
+        "type": "boolean"
+      },
+      "52": {
+        "description": "Part-time bursary applicants",
+        "type": "boolean"
+      },
+      "54": {
+        "description": "Proof of enrolment in an early childhood education course(s).",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "institution in Canada",
+        "type": "boolean"
+      },
+      "56": {
+        "description": "Full-time bursary applicants",
+        "type": "boolean"
+      },
+      "58": {
+        "description": "contains your name and lists a Yukon address.",
+        "type": "boolean"
+      },
+      "59": {
+        "description": "Personal information contained in this form is collected under the authority of Section 29(c) of the Access to Information and Protection of Privacy Act, and used for the",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "purposes of determining eligibility for full and part-time early childhood education bursaries administered by the Child Care Services Unit. Questions on how this information",
+        "type": "boolean"
+      },
+      "583": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "584": {
+        "description": "City",
+        "type": "string"
+      },
+      "585": {
+        "description": "Province/territory",
+        "type": "string"
+      },
+      "586": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "587": {
+        "description": "Name of the institution you will be attending",
+        "type": "string"
+      },
+      "588": {
+        "description": "Email",
+        "type": "string"
+      },
+      "589": {
+        "description": "Certificate",
+        "type": "string"
+      },
+      "590": {
+        "description": "Name of the program/course(s) you will be taking",
+        "type": "string"
+      },
+      "591": {
+        "description": "Date of graduation",
+        "type": "string"
+      },
+      "592": {
+        "description": "Full-time onsite",
+        "type": "string"
+      },
+      "593": {
+        "description": "Type of program",
+        "type": "string"
+      },
+      "594": {
+        "description": "Full-time online",
+        "type": "string"
+      },
+      "599": {
+        "description": "How will you be completing your studies?",
+        "type": "string"
+      },
+      "602": {
+        "description": "Course start date",
+        "type": "string"
+      },
+      "603": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "604": {
+        "description": "Part-time onsite",
+        "type": "string"
+      },
+      "605": {
+        "description": "Course end date",
+        "type": "string"
+      },
+      "606": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "607": {
+        "description": "No",
+        "type": "string"
+      },
+      "614": {
+        "description": "If yes, where are you currently employed?",
+        "type": "string"
+      },
+      "619": {
+        "description": "If yes, what CCW level do you hold?",
+        "type": "string"
+      },
+      "620": {
+        "description": "Applicants attending or planning to attend Yukon College ONLY",
+        "type": "string"
+      },
+      "623": {
+        "description": "If yes, how much funding are you receiving?   $ per course / $ per term",
+        "type": "string"
+      },
+      "624": {
+        "description": "Part 2: To be completed by full-time bursary applicants ONLY",
+        "type": "string"
+      },
+      "627": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "628": {
+        "description": "City",
+        "type": "string"
+      },
+      "629": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "630": {
+        "description": "Provide the names of 2 individuals who will provide written references on your behalf.",
+        "type": "string"
+      },
+      "631": {
+        "description": "First name",
+        "type": "string"
+      },
+      "632": {
+        "description": "Province/territory",
+        "type": "string"
+      },
+      "633": {
+        "description": "Reference 2",
+        "type": "string"
+      },
+      "634": {
+        "description": "City",
+        "type": "string"
+      },
+      "635": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "636": {
+        "description": "Email",
+        "type": "string"
+      },
+      "637": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "638": {
+        "description": "Part 3: All applicants must sign and date below",
+        "type": "string"
+      },
+      "639": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "640": {
+        "description": "Date",
+        "type": "string"
+      },
+      "641": {
+        "description": "Print name",
+        "type": "string"
+      },
+      "642": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "fields": {
+    "properties": {
+      "36": {
+        "description": "10. If there is currently more than one name used locally, please list them in order of frequency use.",
+        "type": "string"
+      },
+      "38": {
+        "description": "12. Please note any reference material which could be consulted when considering this name.",
+        "type": "string"
+      },
+      "45": {
+        "description": "b)",
+        "type": "string"
+      },
+      "47": {
+        "description": "a)",
+        "type": "string"
+      },
+      "50": {
+        "description": "11. If you are not suggesting a particular name for this feature or place, please note any unique characteristic that would",
+        "type": "string"
+      },
+      "284": {
+        "description": "Name:      Phone:      Date:",
+        "type": "string"
+      },
+      "287": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "288": {
+        "description": "E-mail:",
+        "type": "string"
+      },
+      "289": {
+        "description": "1. What type of feature or place do you wish to have named? (Mountain, River, Lake, etc.)",
+        "type": "string"
+      },
+      "290": {
+        "description": "2. What is the name proposed or rescinded?",
+        "type": "string"
+      },
+      "291": {
+        "description": "5.Are you aware of any other name or names that have been used for this place?  If so please explain their meanings or origins.",
+        "type": "string"
+      },
+      "292": {
+        "description": "name",
+        "type": "string"
+      },
+      "293": {
+        "description": "3. Why do you wish this feature or place to be given the specific name suggested or the name to be changed?",
+        "type": "string"
+      },
+      "294": {
+        "description": "address",
+        "type": "string"
+      },
+      "295": {
+        "description": "phone",
+        "type": "string"
+      },
+      "296": {
+        "description": "Photocopy of part of map should be included indicating the location and extent of the feature or place 1: 50,000 scale maps",
+        "type": "string"
+      },
+      "297": {
+        "description": "Map number (National Topographic System Map or ArcView GIS), e.g. 105D03",
+        "type": "string"
+      },
+      "298": {
+        "description": "4. Where is the Feature or Place situated?",
+        "type": "string"
+      },
+      "299": {
+        "description": "This information is being collected under the authority of the Minister of Tourism and Culture for the purpose of determining the",
+        "type": "boolean"
+      },
+      "301": {
+        "description": "suitability of suggested names for geographical features in Yukon.",
+        "type": "boolean"
+      },
+      "302": {
+        "description": "Lat.   Long.   UTM Photo included      Y      N",
+        "type": "string"
+      },
+      "303": {
+        "description": "b)",
+        "type": "string"
+      },
+      "304": {
+        "description": "a)",
+        "type": "string"
+      },
+      "305": {
+        "description": "For further information contact/direct inquiries to Garry Njootli, Yukon Toponymist (L-1), Heritage Resources Unit, Cultural",
+        "type": "boolean"
+      },
+      "306": {
+        "description": "6. If your proposed name is in recognition of a particular person, is that person deceased?      Y,  When:       N",
+        "type": "string"
+      },
+      "307": {
+        "description": "Services Branch, Government of Yukon, P.O. Box 2703, Whitehorse, Yukon, Y1A 2C6. Telephone No. (867) 667-3099.",
+        "type": "boolean"
+      },
+      "308": {
+        "description": "7. Please give a list of the names and addresses of your informants for this proposed name:",
+        "type": "string"
+      },
+      "309": {
+        "description": "c)",
+        "type": "string"
+      },
+      "311": {
+        "description": "Correct spelling, if known:",
+        "type": "string"
+      },
+      "314": {
+        "description": "YG(5938EQ)F2 07/2013",
+        "type": "string"
+      },
+      "320": {
+        "description": "8. Is this the \u201ccorrect\u201d spelling for the place that you would like to be named?      Y      N      Don\u2019t know",
+        "type": "string"
+      },
+      "322": {
+        "description": "9. Is your proposed name located on Settlement Land?      Y, If known       N",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

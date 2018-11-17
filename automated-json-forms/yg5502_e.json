@@ -1,0 +1,403 @@
+{
+  "fields": {
+    "properties": {
+      "312": {
+        "description": "applicant in a sole proprietorship and for the manager of the premises.",
+        "type": "boolean"
+      },
+      "314": {
+        "description": "A lot plan or sketch showing the location of the property and building(s) that you wish to licence.",
+        "type": "boolean"
+      },
+      "315": {
+        "description": "check results for: each director or corporate officer of the company; each partner in a partnership; or for an",
+        "type": "boolean"
+      },
+      "316": {
+        "description": "Copy of your company or partnership registration or certificate of incorporation along with a list of officers and",
+        "type": "boolean"
+      },
+      "317": {
+        "description": "APPLICATION CHECKLIST",
+        "type": "boolean"
+      },
+      "318": {
+        "description": "Liquor Licence.",
+        "type": "boolean"
+      },
+      "319": {
+        "description": "you with the wording for the ad). All of the documents listed in the application package and the application fee",
+        "type": "boolean"
+      },
+      "320": {
+        "description": "Advertise your liquor application as a public notice, in local newspaper(s) for three consecutive weeks (we will assist",
+        "type": "boolean"
+      },
+      "321": {
+        "description": "Copy of food menu/list",
+        "type": "boolean"
+      },
+      "322": {
+        "description": "Permit to Operate from Environmental Health Office with Health and Social Services",
+        "type": "boolean"
+      },
+      "323": {
+        "description": "Approval from YG Building Safety Branch and/or Municipal Building Inspection Department",
+        "type": "boolean"
+      },
+      "324": {
+        "description": "Approval from fire authorities",
+        "type": "boolean"
+      },
+      "325": {
+        "description": "$150 non refundable application fee.",
+        "type": "boolean"
+      },
+      "327": {
+        "description": "Liquor Manufacturer\u2019s Retail Licence",
+        "type": "boolean"
+      },
+      "331": {
+        "description": "Name",
+        "type": "string"
+      },
+      "332": {
+        "description": "Recreation facility",
+        "type": "boolean"
+      },
+      "334": {
+        "description": "Email",
+        "type": "string"
+      },
+      "335": {
+        "description": "Special Licence",
+        "type": "boolean"
+      },
+      "336": {
+        "description": "Off premises liquor - beer/wine",
+        "type": "boolean"
+      },
+      "339": {
+        "description": "Liquor manufacturer\u2019s - winery",
+        "type": "boolean"
+      },
+      "340": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "342": {
+        "description": "Website",
+        "type": "string"
+      },
+      "343": {
+        "description": "Club Liquor Licence",
+        "type": "boolean"
+      },
+      "344": {
+        "description": "LIQUOR LICENCE APPLICATION",
+        "type": "boolean"
+      },
+      "345": {
+        "description": "Liquor primary - beer canteen",
+        "type": "boolean"
+      },
+      "346": {
+        "description": "Liquor manufacturer\u2019s - brewery",
+        "type": "boolean"
+      },
+      "347": {
+        "description": "RV Park Licence",
+        "type": "boolean"
+      },
+      "351": {
+        "description": "Off Premises Licence",
+        "type": "boolean"
+      },
+      "352": {
+        "description": "Off premises liquor",
+        "type": "boolean"
+      },
+      "353": {
+        "description": "FORM 1",
+        "type": "boolean"
+      },
+      "354": {
+        "description": "SECTION 1 \u2013 Classes of liquor licence requested (Liquor Act Section 23)",
+        "type": "boolean"
+      },
+      "358": {
+        "description": "Club - beer/wine",
+        "type": "boolean"
+      },
+      "360": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "362": {
+        "description": "Sports Stadium Licence",
+        "type": "boolean"
+      },
+      "366": {
+        "description": "Food primary - all liquor",
+        "type": "boolean"
+      },
+      "369": {
+        "description": "Liquor primary - mess",
+        "type": "boolean"
+      },
+      "370": {
+        "description": "Liquor manufacturer\u2019s - distillery",
+        "type": "boolean"
+      },
+      "373": {
+        "description": "Page 4 of 11",
+        "type": "string"
+      },
+      "376": {
+        "description": "SECTION 2 \u2013 Conditions of liquor licence requested",
+        "type": "boolean"
+      },
+      "377": {
+        "description": "SECTION 4 \u2013 Contact person (for processing application)",
+        "type": "string"
+      },
+      "378": {
+        "description": "Block",
+        "type": "string"
+      },
+      "380": {
+        "description": "Liquor manufacturer\u2019s retail - winery",
+        "type": "boolean"
+      },
+      "381": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "382": {
+        "description": "Website",
+        "type": "string"
+      },
+      "383": {
+        "description": "Name",
+        "type": "string"
+      },
+      "384": {
+        "description": "Street address",
+        "type": "string"
+      },
+      "385": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "387": {
+        "description": "Train, Ship or Aircraft Licence",
+        "type": "boolean"
+      },
+      "389": {
+        "description": "SECTION 5 \u2013 Business information",
+        "type": "string"
+      },
+      "390": {
+        "description": "Email",
+        "type": "string"
+      },
+      "391": {
+        "description": "Sole proprietorship",
+        "type": "string"
+      },
+      "393": {
+        "description": "Liquor Primary Licence",
+        "type": "boolean"
+      },
+      "396": {
+        "description": "Mailing address of establishment (if different from above)",
+        "type": "string"
+      },
+      "398": {
+        "description": "Food Primary Licence",
+        "type": "boolean"
+      },
+      "399": {
+        "description": "Liquor manufacturer\u2019s  retail - distillery",
+        "type": "string"
+      },
+      "401": {
+        "description": "Legal description",
+        "type": "string"
+      },
+      "402": {
+        "description": "Club - all liquor",
+        "type": "boolean"
+      },
+      "404": {
+        "description": "Liquor manufacturer\u2019s  retail - brewery",
+        "type": "boolean"
+      },
+      "407": {
+        "description": "Room service",
+        "type": "boolean"
+      },
+      "410": {
+        "description": "Liquor primary - all liquor",
+        "type": "boolean"
+      },
+      "411": {
+        "description": "Preferred",
+        "type": "string"
+      },
+      "412": {
+        "description": "Date of incorporation",
+        "type": "string"
+      },
+      "413": {
+        "description": "Common",
+        "type": "string"
+      },
+      "415": {
+        "description": "Page 5 of 11",
+        "type": "string"
+      },
+      "416": {
+        "description": "Preferred",
+        "type": "string"
+      },
+      "417": {
+        "description": "Territorial, provincial or federal charter (specify)",
+        "type": "string"
+      },
+      "419": {
+        "description": "Previous licences operated (Have you been granted a liquor licence previously by a Liquor Board or Commission;",
+        "type": "string"
+      },
+      "420": {
+        "description": "Preferred",
+        "type": "string"
+      },
+      "421": {
+        "description": "Public",
+        "type": "string"
+      },
+      "422": {
+        "description": "Common",
+        "type": "string"
+      },
+      "424": {
+        "description": "Applicant\u2019s position with",
+        "type": "string"
+      },
+      "426": {
+        "description": "Private",
+        "type": "string"
+      },
+      "427": {
+        "description": "Director",
+        "type": "string"
+      },
+      "428": {
+        "description": "Vice-president",
+        "type": "string"
+      },
+      "430": {
+        "description": "Common",
+        "type": "string"
+      },
+      "431": {
+        "description": "Name (attach list, including # shares held (common and preferred) if corporation)",
+        "type": "string"
+      },
+      "432": {
+        "description": "corporation",
+        "type": "string"
+      },
+      "433": {
+        "description": "Officers and directors",
+        "type": "string"
+      },
+      "434": {
+        "description": "Treasurer",
+        "type": "string"
+      },
+      "435": {
+        "description": "Director",
+        "type": "string"
+      },
+      "438": {
+        "description": "if so, provide details)",
+        "type": "string"
+      },
+      "441": {
+        "description": "IF CORPORATION OR NON-PROFIT ORGANIZATION",
+        "type": "string"
+      },
+      "442": {
+        "description": "Location of corporation",
+        "type": "string"
+      },
+      "443": {
+        "description": "President",
+        "type": "string"
+      },
+      "444": {
+        "description": "IF CORPORATION",
+        "type": "string"
+      },
+      "445": {
+        "description": "Number",
+        "type": "string"
+      },
+      "448": {
+        "description": "Secretary",
+        "type": "string"
+      },
+      "603": {
+        "description": "or change(s) to",
+        "type": "string"
+      },
+      "604": {
+        "description": "The second time of publication of notice is",
+        "type": "string"
+      },
+      "605": {
+        "description": "PHYSICAL ADDRESS",
+        "type": "string"
+      },
+      "606": {
+        "description": "The third time of publication of notice is",
+        "type": "string"
+      },
+      "607": {
+        "description": "objection by registered mail upon the applicant.",
+        "type": "string"
+      },
+      "608": {
+        "description": "no later than 4:30 pm on the day of , 20  and also serve a copy of the",
+        "type": "string"
+      },
+      "609": {
+        "description": "The first time of publication of notice is",
+        "type": "string"
+      },
+      "610": {
+        "description": "liquor licence(s), in respect of the premises known as",
+        "type": "string"
+      },
+      "612": {
+        "description": "Any questions concerning this specific notice are to be directed to Licensing and Inspections Branch, Yukon Liquor Corporation",
+        "type": "string"
+      },
+      "613": {
+        "description": "situated at   in   , Yukon.",
+        "type": "string"
+      },
+      "614": {
+        "description": "of  , is making application for",
+        "type": "string"
+      },
+      "618": {
+        "description": "TAKE NOTICE THAT",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

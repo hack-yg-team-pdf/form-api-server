@@ -1,0 +1,487 @@
+{
+  "fields": {
+    "properties": {
+      "340": {
+        "description": "6.  What factors would prevent you from expanding the number or type of livestock you raise?",
+        "type": "string"
+      },
+      "341": {
+        "description": "2 of 3",
+        "type": "string"
+      },
+      "342": {
+        "description": "7.  Do you keep health records on each of your individual animals?",
+        "type": "string"
+      },
+      "344": {
+        "description": "5.  What species have you considered adding to your premises in the future?",
+        "type": "string"
+      },
+      "349": {
+        "description": "Y",
+        "type": "string"
+      },
+      "350": {
+        "description": "Y",
+        "type": "string"
+      },
+      "351": {
+        "description": "Y",
+        "type": "string"
+      },
+      "352": {
+        "description": "Y",
+        "type": "string"
+      },
+      "353": {
+        "description": "Y",
+        "type": "string"
+      },
+      "355": {
+        "description": "Turkeys",
+        "type": "boolean"
+      },
+      "357": {
+        "description": "Year(s)",
+        "type": "string"
+      },
+      "358": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "360": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "361": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "362": {
+        "description": "Y",
+        "type": "string"
+      },
+      "368": {
+        "description": "Y",
+        "type": "string"
+      },
+      "369": {
+        "description": "Y",
+        "type": "string"
+      },
+      "370": {
+        "description": "Y",
+        "type": "string"
+      },
+      "371": {
+        "description": "Y",
+        "type": "string"
+      },
+      "372": {
+        "description": "Y",
+        "type": "string"
+      },
+      "373": {
+        "description": "Y",
+        "type": "string"
+      },
+      "374": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "375": {
+        "description": "Sheep",
+        "type": "boolean"
+      },
+      "376": {
+        "description": "Y",
+        "type": "string"
+      },
+      "377": {
+        "description": "Y",
+        "type": "string"
+      },
+      "384": {
+        "description": "Livestock",
+        "type": "boolean"
+      },
+      "389": {
+        "description": "Y",
+        "type": "string"
+      },
+      "390": {
+        "description": "Y",
+        "type": "string"
+      },
+      "391": {
+        "description": "Y",
+        "type": "string"
+      },
+      "392": {
+        "description": "Y",
+        "type": "string"
+      },
+      "393": {
+        "description": "Y",
+        "type": "string"
+      },
+      "394": {
+        "description": "Y",
+        "type": "string"
+      },
+      "395": {
+        "description": "Pneumonia/",
+        "type": "string"
+      },
+      "408": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "410": {
+        "description": "Y",
+        "type": "string"
+      },
+      "415": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "417": {
+        "description": "Year(s)",
+        "type": "string"
+      },
+      "418": {
+        "description": "Year(s)",
+        "type": "string"
+      },
+      "419": {
+        "description": "Swine",
+        "type": "boolean"
+      },
+      "420": {
+        "description": "Y",
+        "type": "string"
+      },
+      "421": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "433": {
+        "description": "Y",
+        "type": "string"
+      },
+      "434": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "435": {
+        "description": "Y",
+        "type": "string"
+      },
+      "436": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "437": {
+        "description": "Y",
+        "type": "string"
+      },
+      "438": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "443": {
+        "description": "Chickens \u2013 Eggs",
+        "type": "boolean"
+      },
+      "447": {
+        "description": "Chickens \u2013 Meat",
+        "type": "boolean"
+      },
+      "450": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "451": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "452": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "453": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "454": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "456": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "457": {
+        "description": "Year(s)",
+        "type": "string"
+      },
+      "458": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "459": {
+        "description": "Year(s)",
+        "type": "string"
+      },
+      "460": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "461": {
+        "description": "Year(s)",
+        "type": "string"
+      },
+      "463": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "464": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "465": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "467": {
+        "description": "Y",
+        "type": "string"
+      },
+      "468": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "469": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "470": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "471": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "472": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "473": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "476": {
+        "description": "Diarrhea/",
+        "type": "string"
+      },
+      "477": {
+        "description": "Wasting/",
+        "type": "string"
+      },
+      "478": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "479": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "480": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "482": {
+        "description": "Y",
+        "type": "string"
+      },
+      "483": {
+        "description": "Y",
+        "type": "string"
+      },
+      "484": {
+        "description": "Y",
+        "type": "string"
+      },
+      "485": {
+        "description": "Y",
+        "type": "string"
+      },
+      "486": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "487": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "488": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "502": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "503": {
+        "description": "Your personal information is protected in accordance with the Access to Information and Protection of Privacy Act.",
+        "type": "boolean"
+      },
+      "506": {
+        "description": "Information on this form is collected under the Animal Health Act. If you have any questions please contact the Chief",
+        "type": "boolean"
+      },
+      "514": {
+        "description": "Goats",
+        "type": "boolean"
+      },
+      "517": {
+        "description": "Y",
+        "type": "string"
+      },
+      "518": {
+        "description": "Y",
+        "type": "string"
+      },
+      "519": {
+        "description": "Y",
+        "type": "string"
+      },
+      "520": {
+        "description": "Y",
+        "type": "string"
+      },
+      "521": {
+        "description": "Y",
+        "type": "string"
+      },
+      "522": {
+        "description": "Y",
+        "type": "string"
+      },
+      "524": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "525": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "526": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "527": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "528": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "529": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "537": {
+        "description": "Y",
+        "type": "string"
+      },
+      "538": {
+        "description": "Y",
+        "type": "string"
+      },
+      "539": {
+        "description": "Y",
+        "type": "string"
+      },
+      "540": {
+        "description": "Y",
+        "type": "string"
+      },
+      "541": {
+        "description": "Y",
+        "type": "string"
+      },
+      "542": {
+        "description": "Y",
+        "type": "string"
+      },
+      "543": {
+        "description": "Other",
+        "type": "string"
+      },
+      "544": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "545": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "546": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "547": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "548": {
+        "description": "# animals",
+        "type": "string"
+      },
+      "628": {
+        "description": "Name(s)",
+        "type": "string"
+      },
+      "629": {
+        "description": "Farm Name",
+        "type": "string"
+      },
+      "630": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "631": {
+        "description": "Premises ID#",
+        "type": "string"
+      },
+      "632": {
+        "description": "Email address",
+        "type": "string"
+      },
+      "633": {
+        "description": "Telephone #",
+        "type": "string"
+      },
+      "634": {
+        "description": "Land Location",
+        "type": "string"
+      },
+      "635": {
+        "description": "2.  What services would help you maintain livestock health?",
+        "type": "string"
+      },
+      "636": {
+        "description": "3.  What products or facilities do you think you need better access to in order to support livestock health?",
+        "type": "string"
+      },
+      "637": {
+        "description": "YG(6259EQ)F3 09/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

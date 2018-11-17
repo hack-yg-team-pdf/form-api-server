@@ -1,0 +1,191 @@
+{
+  "fields": {
+    "properties": {
+      "791": {
+        "description": "NTS map number(s) (1:50,000 scale):",
+        "type": "string"
+      },
+      "792": {
+        "description": "Property name:",
+        "type": "string"
+      },
+      "793": {
+        "description": "PART B: DESCRIPTION OF OPERATION WORKPLAN",
+        "type": "string"
+      },
+      "794": {
+        "description": "completed, including \ufb01nal site decommissioning activities. Be as speci\ufb01c as possible.",
+        "type": "string"
+      },
+      "795": {
+        "description": "1.",
+        "type": "string"
+      },
+      "796": {
+        "description": "Annual start date: day:   month:",
+        "type": "string"
+      },
+      "797": {
+        "description": "4.",
+        "type": "string"
+      },
+      "798": {
+        "description": "Annual end date: day:  month:",
+        "type": "string"
+      },
+      "799": {
+        "description": "Outline a step by step chronological plan indicating all proposed activities and approximate dates of all work to be",
+        "type": "string"
+      },
+      "800": {
+        "description": "Duration of operation and length of seasons",
+        "type": "string"
+      },
+      "801": {
+        "description": "2.",
+        "type": "string"
+      },
+      "802": {
+        "description": "3.",
+        "type": "string"
+      },
+      "803": {
+        "description": "5.",
+        "type": "string"
+      },
+      "804": {
+        "description": "6.",
+        "type": "string"
+      },
+      "805": {
+        "description": "7.",
+        "type": "string"
+      },
+      "806": {
+        "description": "8.",
+        "type": "string"
+      },
+      "807": {
+        "description": "9.",
+        "type": "string"
+      },
+      "808": {
+        "description": "10.",
+        "type": "string"
+      },
+      "809": {
+        "description": "12.",
+        "type": "string"
+      },
+      "811": {
+        "description": "13.",
+        "type": "string"
+      },
+      "813": {
+        "description": "14.",
+        "type": "string"
+      },
+      "815": {
+        "description": "15.",
+        "type": "string"
+      },
+      "817": {
+        "description": "16.",
+        "type": "string"
+      },
+      "819": {
+        "description": "17.",
+        "type": "string"
+      },
+      "821": {
+        "description": "18.",
+        "type": "string"
+      },
+      "823": {
+        "description": "19.",
+        "type": "string"
+      },
+      "825": {
+        "description": "20.",
+        "type": "string"
+      },
+      "827": {
+        "description": "21.",
+        "type": "string"
+      },
+      "829": {
+        "description": "22.",
+        "type": "string"
+      },
+      "831": {
+        "description": "23.",
+        "type": "string"
+      },
+      "833": {
+        "description": "24.",
+        "type": "string"
+      },
+      "835": {
+        "description": "25.",
+        "type": "string"
+      },
+      "837": {
+        "description": "Attach additional pages as required.",
+        "type": "string"
+      },
+      "2348": {
+        "description": "Name of applicant",
+        "type": "string"
+      },
+      "2351": {
+        "description": "Yukon Corporate Registry number (if applicable)",
+        "type": "string"
+      },
+      "2352": {
+        "description": "Email",
+        "type": "string"
+      },
+      "2353": {
+        "description": "Alternate contact number",
+        "type": "string"
+      },
+      "2354": {
+        "description": "Length of approval being applied for (10 year max)",
+        "type": "string"
+      },
+      "2355": {
+        "description": "To whom should the approval be issued?",
+        "type": "string"
+      },
+      "2356": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "2357": {
+        "description": "Address and contact number (if different than above)",
+        "type": "string"
+      },
+      "2358": {
+        "description": "An Agent Authorization Form is required if an agent is applying on behalf of a claimholder/operator.",
+        "type": "string"
+      },
+      "2359": {
+        "description": "Name of agent",
+        "type": "string"
+      },
+      "2360": {
+        "description": "Registered owner of claims",
+        "type": "string"
+      },
+      "2362": {
+        "description": "A Claim Holder Authorization Form is required if the claimholder is not the operator or if there are multiple claimholders.",
+        "type": "string"
+      },
+      "2363": {
+        "description": "DEFINITIONS",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

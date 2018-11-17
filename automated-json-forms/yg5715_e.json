@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "63": {
+        "description": "(Full name of declarant)",
+        "type": "string"
+      },
+      "64": {
+        "description": "TO WIT:",
+        "type": "string"
+      },
+      "65": {
+        "description": "do solemnly declare:",
+        "type": "string"
+      },
+      "66": {
+        "description": "6.  That, the per diem charged is $.",
+        "type": "string"
+      },
+      "67": {
+        "description": "7.  That, the amount of people that meal costs covered are , as outlined on the travel itinerary.",
+        "type": "string"
+      },
+      "68": {
+        "description": "5.  That, the cost of meals were purchased as part of a program conducted and managed",
+        "type": "string"
+      },
+      "69": {
+        "description": "Yukon for employees who are on travel status.",
+        "type": "string"
+      },
+      "70": {
+        "description": "4.  That, the cost of meals calculated do not exceed the most current rate set by Government of",
+        "type": "string"
+      },
+      "71": {
+        "description": "Personal information contained on this form is collected under the Lottery Licensing Act and will be used for the purpose of administering the",
+        "type": "string"
+      },
+      "72": {
+        "description": "NOTARY PUBLIC in and for Yukon",
+        "type": "string"
+      },
+      "73": {
+        "description": "This  day of , 20   )",
+        "type": "string"
+      },
+      "74": {
+        "description": ")",
+        "type": "string"
+      },
+      "75": {
+        "description": "Declared before me at   )",
+        "type": "string"
+      },
+      "76": {
+        "description": "In the Territory of Yukon",
+        "type": "boolean"
+      },
+      "79": {
+        "description": "Act. For further information, contact the Registrar of Lotteries at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

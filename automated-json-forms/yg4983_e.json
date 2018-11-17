@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "55": {
+        "description": "PERIOD COVERED \u2013 FROM: TO:",
+        "type": "string"
+      },
+      "56": {
+        "description": "CONTRACTOR:",
+        "type": "string"
+      },
+      "57": {
+        "description": "PROJECT:",
+        "type": "string"
+      },
+      "58": {
+        "description": "BENEFITS PAID (I.E HEALTH, CAMP INVENTIVE, TRAVEL)",
+        "type": "string"
+      },
+      "59": {
+        "description": "Employee Name",
+        "type": "string"
+      },
+      "60": {
+        "description": "(v)",
+        "type": "string"
+      },
+      "61": {
+        "description": "Benefits",
+        "type": "string"
+      },
+      "62": {
+        "description": "Type of Work",
+        "type": "string"
+      },
+      "195": {
+        "description": "Submitted:",
+        "type": "string"
+      },
+      "196": {
+        "description": "YG(4983Q)F1 Rev.05/2014",
+        "type": "string"
+      },
+      "197": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "198": {
+        "description": "Verified:",
+        "type": "string"
+      },
+      "199": {
+        "description": "(iv) FWS Rate",
+        "type": "boolean"
+      },
+      "202": {
+        "description": "(v) Reg Hours Worked   = Regular Hours working during the period",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

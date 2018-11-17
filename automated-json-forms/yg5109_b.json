@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "91": {
+        "description": "Summer address \u2022 Adresse estivale",
+        "type": "string"
+      },
+      "92": {
+        "description": "Telephone \u2022 T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "93": {
+        "description": "Date \u2022 Date",
+        "type": "string"
+      },
+      "94": {
+        "description": "Name of contact \u2022 Nom de l\u2019agent de liaison",
+        "type": "string"
+      },
+      "95": {
+        "description": "E-Mail \u2022 Courrier \u00e9lectronique",
+        "type": "string"
+      },
+      "96": {
+        "description": "Name of alternate contact \u2022 Nom de son rempla\u00e7ant",
+        "type": "string"
+      },
+      "97": {
+        "description": "Proposed placer land use operation (attach additional pages as required)",
+        "type": "string"
+      },
+      "98": {
+        "description": "Telephone \u2022 T\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "99": {
+        "description": "Activit\u00e9s propos\u00e9es d\u2019utilisation des terres placers (annexer des pages additionnelles au besoin)",
+        "type": "string"
+      },
+      "100": {
+        "description": "Number of pages attached",
+        "type": "string"
+      },
+      "101": {
+        "description": "Emplacement (joindre une carte ou un croquis \u00e0 une \u00e9chelle appropri\u00e9e indiquant l\u2019emplacement des activit\u00e9s propos\u00e9es ainsi que celui des cours",
+        "type": "string"
+      },
+      "102": {
+        "description": "Nombre de pages annex\u00e9es\u203a",
+        "type": "string"
+      },
+      "103": {
+        "description": "the opinion of the applicant, may be affected by the land use operation)",
+        "type": "string"
+      },
+      "104": {
+        "description": "Proposed start date \u2022 Date pr\u00e9vue pour le d\u00e9but des travaux",
+        "type": "string"
+      },
+      "105": {
+        "description": "YG(5109Q) F3 Rev. 09/2004",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "275": {
+        "description": "3.  Date(s) of the special resolution(s) by each class of shareholders of the corporation (whether or not",
+        "type": "string"
+      },
+      "276": {
+        "description": "they are otherwise entitled to vote) to voluntarily dissolve the corporation :",
+        "type": "string"
+      },
+      "277": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "278": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "279": {
+        "description": "5.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "280": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "281": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "282": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "283": {
+        "description": "6.  I confirm that the corporation intends to voluntarily liquidate and dissolve under section 213 of the",
+        "type": "string"
+      },
+      "284": {
+        "description": "dissolution en vertu de l\u2019article 213 de la Loi sur les soci\u00e9t\u00e9s par actions.",
+        "type": "string"
+      },
+      "285": {
+        "description": "Business Corporations Act.",
+        "type": "string"
+      },
+      "286": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "287": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "290": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

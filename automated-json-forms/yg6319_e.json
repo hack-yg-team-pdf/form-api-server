@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "251": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "254": {
+        "description": "Position title",
+        "type": "string"
+      },
+      "255": {
+        "description": "Corporate  name",
+        "type": "string"
+      },
+      "256": {
+        "description": "Mailing address (if different from business address)",
+        "type": "string"
+      },
+      "257": {
+        "description": "Indicate which beverage containers you are supplying or intend to supply into Yukon",
+        "type": "string"
+      },
+      "258": {
+        "description": "Surcharge",
+        "type": "string"
+      },
+      "259": {
+        "description": "Refund",
+        "type": "string"
+      },
+      "260": {
+        "description": "Container size",
+        "type": "string"
+      },
+      "261": {
+        "description": "Supply or intent to",
+        "type": "boolean"
+      },
+      "263": {
+        "description": "supply into Yukon",
+        "type": "boolean"
+      },
+      "264": {
+        "description": "Other common business name (if applicable)",
+        "type": "boolean"
+      },
+      "265": {
+        "description": "CORPORATE NAME",
+        "type": "string"
+      },
+      "266": {
+        "description": ", and I certify that the information provided on",
+        "type": "string"
+      },
+      "267": {
+        "description": "This information is being collected under the authority of Section 4 of the Beverage Container Regulations. For further information, contact the",
+        "type": "boolean"
+      },
+      "270": {
+        "description": "Date",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

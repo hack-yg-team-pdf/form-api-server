@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "I                                                                      , of",
+        "type": "string"
+      },
+      "39": {
+        "description": "City, and Territory/Province",
+        "type": "string"
+      },
+      "40": {
+        "description": "SOLEMNLY DECLARE:  That I have been duly authorized as agent for",
+        "type": "string"
+      },
+      "41": {
+        "description": "Quartz / Placer                                                                                  Name of Mining District",
+        "type": "string"
+      },
+      "44": {
+        "description": "to transfer its                                       mineral claim(s) located in the                                               Mining District",
+        "type": "string"
+      },
+      "45": {
+        "description": "and listed on the attached transfer form to                                                                          .",
+        "type": "string"
+      },
+      "46": {
+        "description": "DECLARED before me",
+        "type": "string"
+      },
+      "47": {
+        "description": "at                                                     of                                                    ,",
+        "type": "string"
+      },
+      "48": {
+        "description": "City/Town/Village",
+        "type": "string"
+      },
+      "49": {
+        "description": "in the                                                    .",
+        "type": "string"
+      },
+      "50": {
+        "description": "Taking oaths in and for Yukon",
+        "type": "string"
+      },
+      "51": {
+        "description": "Notary Public or Commissioner for",
+        "type": "string"
+      },
+      "52": {
+        "description": "YG(6070EQ)F1 11/2014",
+        "type": "string"
+      },
+      "53": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

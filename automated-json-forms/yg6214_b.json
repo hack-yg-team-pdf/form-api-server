@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "1214": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "1215": {
+        "description": "3.  Fiscal year-end (if changed, a Form 19 must also be filed with this",
+        "type": "string"
+      },
+      "1216": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "1217": {
+        "description": "Anniversary month / Mois anniversaire",
+        "type": "string"
+      },
+      "1218": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "1219": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1220": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "1221": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "1222": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1223": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "1224": {
+        "description": "7 Directors of the extra-territorial society (as of the close of the annual general meeting) :",
+        "type": "string"
+      },
+      "1225": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1226": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1227": {
+        "description": "Administrateurs de la soci\u00e9t\u00e9 extra-territoriale (\u00e0 la cl\u00f4ture de l\u2019assembl\u00e9e g\u00e9n\u00e9rale annuelle) :",
+        "type": "string"
+      },
+      "1228": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "1229": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "1230": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "1231": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1232": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1233": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "1234": {
+        "description": "YG(6214Q)F4 04/2015",
+        "type": "string"
+      },
+      "1235": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "1236": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "1237": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

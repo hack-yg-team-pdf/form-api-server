@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "71": {
+        "description": "The following form must be completed by the certified electrician who installed all electrical related components for the",
+        "type": "string"
+      },
+      "72": {
+        "description": "pump-up system which was installed at:",
+        "type": "string"
+      },
+      "73": {
+        "description": "This is to certify that the items marked as follows were carried out in the above installation:",
+        "type": "boolean"
+      },
+      "75": {
+        "description": "Controls, floats, terminations in the tank are rated for location as per Section 22 of the Canadian Electrical Code,",
+        "type": "boolean"
+      },
+      "76": {
+        "description": "Level control switches are provided for pump start, pump stop and high level alarm with water system shut down.",
+        "type": "boolean"
+      },
+      "77": {
+        "description": "The pump stop level control switch is positioned above the pump to ensure that the pump is always kept cool",
+        "type": "boolean"
+      },
+      "78": {
+        "description": "while running.",
+        "type": "boolean"
+      },
+      "79": {
+        "description": "All electrical work was carried out under an electrical permit by a registered Class C electrical contractor (or higher)",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "are NEMA 4X.",
+        "type": "boolean"
+      },
+      "81": {
+        "description": "The electrical components comply with the CSA 22.1-12. Control and junction boxes located outside the building",
+        "type": "boolean"
+      },
+      "82": {
+        "description": "The warning light and audible alarm are placed in an appropriate location such that they can be readily seen and heard",
+        "type": "boolean"
+      },
+      "83": {
+        "description": "The high level warning light and audible alarm are wired separately from the pump. If outside, the audible alarm can be",
+        "type": "boolean"
+      },
+      "84": {
+        "description": "The high level control switch automatically shuts off the power to the water supply pump in the building.",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "The level control switches are supplied from a dedicated circuit separate from the pump circuit.",
+        "type": "boolean"
+      },
+      "86": {
+        "description": "Electrical Company:",
+        "type": "string"
+      },
+      "87": {
+        "description": "Signature of electrician:",
+        "type": "string"
+      },
+      "88": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "89": {
+        "description": "Phone No.",
+        "type": "string"
+      },
+      "90": {
+        "description": "YG(6326EQ)F1 05/2016",
+        "type": "string"
+      },
+      "91": {
+        "description": "Print name:",
+        "type": "boolean"
+      },
+      "94": {
+        "description": "Date signed:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "210": {
+        "description": "Telephone #:             Fax #:",
+        "type": "string"
+      },
+      "212": {
+        "description": "Site Location(s):",
+        "type": "string"
+      },
+      "214": {
+        "description": "Mailing Address:",
+        "type": "string"
+      },
+      "228": {
+        "description": "Products/Activities:",
+        "type": "string"
+      },
+      "230": {
+        "description": "Transport special wastes: yes:",
+        "type": "string"
+      },
+      "235": {
+        "description": "Telephone #:             Fax #:",
+        "type": "string"
+      },
+      "240": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "245": {
+        "description": "Site Location(s):",
+        "type": "string"
+      },
+      "252": {
+        "description": "q",
+        "type": "string"
+      },
+      "254": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "256": {
+        "description": "Mailing Address:",
+        "type": "string"
+      },
+      "258": {
+        "description": "Note:  additional information may be required depending on the nature of the change.",
+        "type": "string"
+      },
+      "275": {
+        "description": "no:",
+        "type": "string"
+      },
+      "285": {
+        "description": "I am no longer undertaking the activities authorized by the above permit. I understand that I will",
+        "type": "string"
+      },
+      "287": {
+        "description": "Renewal",
+        "type": "string"
+      },
+      "291": {
+        "description": "Please check (3) appropriate box:",
+        "type": "string"
+      },
+      "295": {
+        "description": "Permit number:",
+        "type": "string"
+      },
+      "300": {
+        "description": "q",
+        "type": "string"
+      },
+      "302": {
+        "description": "Amendment",
+        "type": "string"
+      },
+      "306": {
+        "description": "Permittee:",
+        "type": "string"
+      },
+      "308": {
+        "description": "Please complete the following and ensure that all information is legibly printed or typed:",
+        "type": "string"
+      },
+      "312": {
+        "description": "Environment",
+        "type": "string"
+      },
+      "317": {
+        "description": "APPLICATION FOR RENEWAL, AMENDMENT OR",
+        "type": "string"
+      },
+      "324": {
+        "description": "application for the renewal, amendment or cancellation of the above-noted permit, as indicated, and",
+        "type": "string"
+      },
+      "326": {
+        "description": "I,  [print name clearly], certify that I am an authorized",
+        "type": "string"
+      },
+      "328": {
+        "description": "Signature of applicant",
+        "type": "string"
+      },
+      "330": {
+        "description": "# of attachments",
+        "type": "string"
+      },
+      "334": {
+        "description": "This information is being collected under the authority of s.90 of the Environment Act. For further information contact the",
+        "type": "boolean"
+      },
+      "340": {
+        "description": "representative of [business name], and hereby make",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

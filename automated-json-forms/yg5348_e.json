@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "195": {
+        "description": "B. SOLE HOLDER / DESIGNATED REPRESENTATIVE",
+        "type": "string"
+      },
+      "196": {
+        "description": "Full name of sole holder or designated representative",
+        "type": "string"
+      },
+      "197": {
+        "description": "C. OFFICIAL SERVICE ADDRESS",
+        "type": "string"
+      },
+      "198": {
+        "description": "Address",
+        "type": "string"
+      },
+      "199": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "200": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "201": {
+        "description": "D. SIGNATURE OF SOLE HOLDER / DESIGNATED REPRESENTATIVE",
+        "type": "string"
+      },
+      "203": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "204": {
+        "description": "Name (please print)",
+        "type": "string"
+      },
+      "205": {
+        "description": "E. DISCLAIMER",
+        "type": "string"
+      },
+      "206": {
+        "description": "any regulations under it, the latter provision prevails.",
+        "type": "string"
+      },
+      "207": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "208": {
+        "description": "Date YYYY/MM/DD",
+        "type": "string"
+      },
+      "210": {
+        "description": "Branch File #:   Date Received:              /         /",
+        "type": "string"
+      },
+      "211": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "212": {
+        "description": "YG(5348EQ)F1 Rev.06/2017",
+        "type": "string"
+      },
+      "213": {
+        "description": "Registration #:",
+        "type": "string"
+      },
+      "215": {
+        "description": "Date Registered:            /        /",
+        "type": "string"
+      },
+      "216": {
+        "description": "Time Received:",
+        "type": "string"
+      },
+      "217": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "218": {
+        "description": "on this form is collected under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "This Notice is submitted pursuant to the Oil and Gas Act S.8 and S.21 and the Oil and Gas Disposition Regulations S.13 and 14. Personal information",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

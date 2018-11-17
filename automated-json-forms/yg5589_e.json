@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "128": {
+        "description": "legal description Lot #    Plan #    Lease #",
+        "type": "string"
+      },
+      "129": {
+        "description": "Mailing Address & Postal Code",
+        "type": "string"
+      },
+      "130": {
+        "description": "Telephone   E-mail address",
+        "type": "string"
+      },
+      "131": {
+        "description": "date of installation and permit Number",
+        "type": "string"
+      },
+      "132": {
+        "description": "Municipal Address (if applicable)",
+        "type": "string"
+      },
+      "133": {
+        "description": "Other (Describe)",
+        "type": "string"
+      },
+      "134": {
+        "description": "r",
+        "type": "string"
+      },
+      "135": {
+        "description": "Residence",
+        "type": "string"
+      },
+      "136": {
+        "description": "r",
+        "type": "string"
+      },
+      "137": {
+        "description": "type of premises",
+        "type": "boolean"
+      },
+      "139": {
+        "description": "The Sewage Disposal Systems Regulation requires the owner to notify a Health Officer when a sewage",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "r",
+        "type": "boolean"
+      },
+      "141": {
+        "description": "Business",
+        "type": "boolean"
+      },
+      "142": {
+        "description": "Which component(s) will you abandon? (check all that apply)",
+        "type": "string"
+      },
+      "143": {
+        "description": "Septic Tank",
+        "type": "string"
+      },
+      "144": {
+        "description": "r",
+        "type": "string"
+      },
+      "145": {
+        "description": "Work Camp",
+        "type": "boolean"
+      },
+      "146": {
+        "description": "Soil Absorption System (e.g., leaching pit)",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "proposed Reclamation of the Site",
+        "type": "string"
+      },
+      "148": {
+        "description": "Reason for abandonment",
+        "type": "boolean"
+      },
+      "149": {
+        "description": "r",
+        "type": "boolean"
+      },
+      "150": {
+        "description": "r",
+        "type": "boolean"
+      },
+      "151": {
+        "description": "Remove component(s) and fill in the excavation(s) with soil to 30 cm (12 inches) above original ground",
+        "type": "boolean"
+      },
+      "152": {
+        "description": "r",
+        "type": "boolean"
+      },
+      "153": {
+        "description": "r",
+        "type": "boolean"
+      },
+      "154": {
+        "description": "Otherwise reclaim the component(s), explain",
+        "type": "string"
+      },
+      "155": {
+        "description": "disposal system are correct and the requirements of the Sewage Disposal Systems Regulation have",
+        "type": "string"
+      },
+      "156": {
+        "description": "Signature of Property Owner or Contractor",
+        "type": "string"
+      },
+      "157": {
+        "description": "i hereby declare that the above noted details of abandonment and / or reclamation of this sewage",
+        "type": "boolean"
+      },
+      "160": {
+        "description": "been met.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

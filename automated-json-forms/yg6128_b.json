@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "28": {
+        "description": "11. Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "33": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for the",
+        "type": "boolean"
+      },
+      "36": {
+        "description": "purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "341": {
+        "description": "3.  The classes of shares that the corporation is authorized to issue (including the information required by",
+        "type": "string"
+      },
+      "342": {
+        "description": "para.8(1)(b) of the Business Corporations Act) :",
+        "type": "string"
+      },
+      "343": {
+        "description": "5.  Number of directors (or minimum and maximum number) :",
+        "type": "string"
+      },
+      "344": {
+        "description": "Nombre d\u2019administrateurs (ou le nombre minimal et maximal) :",
+        "type": "string"
+      },
+      "345": {
+        "description": "6.  Restrictions, if any, on business the corporation may carry on (including the restrictions in para.18(1)(h) of",
+        "type": "string"
+      },
+      "346": {
+        "description": "8.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "347": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "348": {
+        "description": "9. Title of individual signing / Titre du signataire  :",
+        "type": "string"
+      },
+      "349": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "350": {
+        "description": "YG(6128Q)F2 03/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

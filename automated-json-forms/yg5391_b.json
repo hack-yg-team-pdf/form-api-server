@@ -1,0 +1,323 @@
+{
+  "fields": {
+    "properties": {
+      "99": {
+        "description": "Have you previously held or applied for a security guard or security agency licence in any jurisdiction?",
+        "type": "string"
+      },
+      "100": {
+        "description": "P\u00e9riode d\u2019embauche :",
+        "type": "string"
+      },
+      "101": {
+        "description": "No                Yes          If yes, specify:",
+        "type": "string"
+      },
+      "102": {
+        "description": "Avez-vous d\u00e9j\u00e0 \u00e9t\u00e9 titulaire d\u2019une licence de gardien de s\u00e9curit\u00e9 ou d\u2019agence de s\u00e9curit\u00e9 au Yukon ou ailleurs, ou en avez-vous d\u00e9j\u00e0 fait la demande?",
+        "type": "string"
+      },
+      "103": {
+        "description": "Adresse :",
+        "type": "string"
+      },
+      "104": {
+        "description": "Name of employing agent:",
+        "type": "string"
+      },
+      "105": {
+        "description": "Period:",
+        "type": "string"
+      },
+      "106": {
+        "description": "Period:",
+        "type": "string"
+      },
+      "107": {
+        "description": "Titre du poste :",
+        "type": "string"
+      },
+      "108": {
+        "description": "Titre du poste :",
+        "type": "string"
+      },
+      "109": {
+        "description": "Adresse :",
+        "type": "string"
+      },
+      "110": {
+        "description": "Name of employing agent:",
+        "type": "string"
+      },
+      "111": {
+        "description": "Titre du poste :",
+        "type": "string"
+      },
+      "114": {
+        "description": "Employed as:",
+        "type": "string"
+      },
+      "115": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "116": {
+        "description": "Name of employing agent:",
+        "type": "string"
+      },
+      "117": {
+        "description": "Business Address in Yukon",
+        "type": "string"
+      },
+      "118": {
+        "description": "Nous, repr\u00e9sentant une entreprise de services de s\u00e9curit\u00e9 autoris\u00e9e,",
+        "type": "string"
+      },
+      "119": {
+        "description": "To Be Completed by Prospective Employer:",
+        "type": "string"
+      },
+      "120": {
+        "description": "Adresse de l\u2019entreprise au Yukon",
+        "type": "string"
+      },
+      "121": {
+        "description": "Business Name",
+        "type": "string"
+      },
+      "122": {
+        "description": "A Licensed Security Business, Hereby Advise That",
+        "type": "string"
+      },
+      "123": {
+        "description": "Applicant\u2019s Name",
+        "type": "string"
+      },
+      "124": {
+        "description": "R\u00e9serv\u00e9 \u00e0 l\u2019employeur \u00e9ventuel :",
+        "type": "string"
+      },
+      "125": {
+        "description": "Is Considered A Suitable Person for Employment with Our Company And",
+        "type": "string"
+      },
+      "126": {
+        "description": "Nom de l\u2019entreprise",
+        "type": "string"
+      },
+      "127": {
+        "description": "Signature of Company Representative \u2022 Signature du repr\u00e9sentant de l\u2019entreprise",
+        "type": "string"
+      },
+      "128": {
+        "description": "Date \u2022 Date",
+        "type": "string"
+      },
+      "145": {
+        "description": "FEES ENCLOSED \u2022 DROITS REQUIS",
+        "type": "boolean"
+      },
+      "152": {
+        "description": "I",
+        "type": "string"
+      },
+      "153": {
+        "description": "Je, soussign\u00e9,",
+        "type": "string"
+      },
+      "154": {
+        "description": "of",
+        "type": "string"
+      },
+      "159": {
+        "description": "in",
+        "type": "string"
+      },
+      "160": {
+        "description": "this",
+        "type": "string"
+      },
+      "161": {
+        "description": "de",
+        "type": "string"
+      },
+      "162": {
+        "description": "Sworn before me at",
+        "type": "string"
+      },
+      "163": {
+        "description": "20",
+        "type": "string"
+      },
+      "164": {
+        "description": "Name of Applicant \u2022 Nom du demandeur",
+        "type": "string"
+      },
+      "165": {
+        "description": "Notary Public in and for Yukon",
+        "type": "string"
+      },
+      "166": {
+        "description": "Notaire public du Yukon",
+        "type": "string"
+      },
+      "177": {
+        "description": "REGISTRAR OF PRIVATE INVESTGATORS AND SECURITY GUARDS ACT \u2013 OFFICE USE ONLY/",
+        "type": "string"
+      },
+      "178": {
+        "description": "REGISTRAIRE - LOI SUR LES D\u00c9TECTIVES PRIV\u00c9S ET LES GARDIENS DE S\u00c9CURIT\u00c9 - \u00c0 USAGE INTERNE SEULEMENT",
+        "type": "string"
+      },
+      "179": {
+        "description": "1.   Applicant\u2019s Name:",
+        "type": "string"
+      },
+      "180": {
+        "description": "APPROVED/APPROUV\u00c9 :                                                                                                         DATE:",
+        "type": "string"
+      },
+      "181": {
+        "description": "NOT APPROVED/NON APPROUV\u00c9 :                                                                                        DATE:",
+        "type": "string"
+      },
+      "182": {
+        "description": "COMMENTS FROM REGISTRAR/COMMENTAIRES DU REGISTRAIRE",
+        "type": "string"
+      },
+      "188": {
+        "description": "3.   Reason for Temporary Licence Request",
+        "type": "string"
+      },
+      "189": {
+        "description": "Signature of Company Representative \u2022 Signature du repr\u00e9sentant de l\u2019entreprise             Date",
+        "type": "string"
+      },
+      "193": {
+        "description": "2.   Company Name:",
+        "type": "string"
+      },
+      "194": {
+        "description": "1Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "string"
+      },
+      "311": {
+        "description": "AGENT APPLICATION",
+        "type": "boolean"
+      },
+      "313": {
+        "description": "DEMANDE DE LICENCE D\u2019AGENCE",
+        "type": "boolean"
+      },
+      "315": {
+        "description": "PRIVATE INVESTIGATORS AND SECURITY GUARDS ACT",
+        "type": "boolean"
+      },
+      "317": {
+        "description": "o Agence d\u2019avertissement antivol",
+        "type": "boolean"
+      },
+      "319": {
+        "description": "Period:",
+        "type": "boolean"
+      },
+      "321": {
+        "description": "o Agence de conseillers en s\u00e9curit\u00e9",
+        "type": "boolean"
+      },
+      "323": {
+        "description": "Titre du poste :",
+        "type": "boolean"
+      },
+      "325": {
+        "description": "o Agence de d\u00e9tectives priv\u00e9s",
+        "type": "boolean"
+      },
+      "327": {
+        "description": "Adresse :",
+        "type": "string"
+      },
+      "328": {
+        "description": "First \u2022 Pr\u00e9nom",
+        "type": "string"
+      },
+      "329": {
+        "description": "Indiquez, pour les deux ann\u00e9es pr\u00e9c\u00e9dant la date de la demande, tous les lieux de r\u00e9sidence et le nom de tous vos employeurs.",
+        "type": "string"
+      },
+      "330": {
+        "description": "Street \u2022 Rue",
+        "type": "string"
+      },
+      "331": {
+        "description": "Infraction(s) :",
+        "type": "string"
+      },
+      "332": {
+        "description": "Date :    Lieu :",
+        "type": "string"
+      },
+      "333": {
+        "description": "Offence(s):",
+        "type": "string"
+      },
+      "335": {
+        "description": "Si oui, fournissez des pr\u00e9cisions :",
+        "type": "string"
+      },
+      "336": {
+        "description": "Code criminel                  o  Oui          o   Non           Loi r\u00e9glementant certaines drogues et autres substances       o    Oui          o   Non",
+        "type": "string"
+      },
+      "337": {
+        "description": "If yes, provide details below:",
+        "type": "string"
+      },
+      "338": {
+        "description": "Couleur des yeux :  Couleur des cheveux :",
+        "type": "string"
+      },
+      "339": {
+        "description": "10. Have you ever been convicted under:",
+        "type": "string"
+      },
+      "340": {
+        "description": "Height:                                                                      Weight:",
+        "type": "string"
+      },
+      "341": {
+        "description": "Taille :     Poids :",
+        "type": "string"
+      },
+      "347": {
+        "description": "6. Telephone Number: (H)                                                                              (W)",
+        "type": "string"
+      },
+      "348": {
+        "description": "Num\u00e9ro de t\u00e9l\u00e9phone : (domicile)        (travail)",
+        "type": "string"
+      },
+      "349": {
+        "description": "6. Mailing Address:",
+        "type": "string"
+      },
+      "352": {
+        "description": "2. Other names Applicant has been known by:",
+        "type": "string"
+      },
+      "353": {
+        "description": "1. Applicant\u2019s Name:",
+        "type": "string"
+      },
+      "354": {
+        "description": "o Security Consultant",
+        "type": "string"
+      },
+      "355": {
+        "description": "o Private Investigator",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

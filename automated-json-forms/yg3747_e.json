@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "24": {
+        "description": "IN THE MATTER OF a contract bearing No.",
+        "type": "string"
+      },
+      "25": {
+        "description": "between the Government of the Yukon and",
+        "type": "string"
+      },
+      "26": {
+        "description": "for",
+        "type": "string"
+      },
+      "27": {
+        "description": "dated the",
+        "type": "string"
+      },
+      "28": {
+        "description": "AND IN THE MATTER OF the Certificate of Substantial Performance of the Work relating thereto.",
+        "type": "string"
+      },
+      "29": {
+        "description": "day of",
+        "type": "string"
+      },
+      "30": {
+        "description": "of",
+        "type": "string"
+      },
+      "31": {
+        "description": "I,",
+        "type": "string"
+      },
+      "32": {
+        "description": "(Print or type Declarant\u2019s title or position with the Contractor or state that the Declarant is the Contractor)",
+        "type": "string"
+      },
+      "33": {
+        "description": "(1)   I am",
+        "type": "string"
+      },
+      "34": {
+        "description": "If this Declaration is not complete in every detail, it will be returned for completion and payment will be delayed.",
+        "type": "boolean"
+      },
+      "37": {
+        "description": "NOTICE",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

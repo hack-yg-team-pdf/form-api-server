@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "451": {
+        "description": "Telephone",
+        "type": "string"
+      },
+      "452": {
+        "description": "on are you?  (Check one)",
+        "type": "string"
+      },
+      "453": {
+        "description": "What type of",
+        "type": "string"
+      },
+      "458": {
+        "description": "Email",
+        "type": "string"
+      },
+      "459": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "463": {
+        "description": "Project end date",
+        "type": "string"
+      },
+      "464": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "469": {
+        "description": "Amount of funding requested $",
+        "type": "string"
+      },
+      "472": {
+        "description": "Name of project",
+        "type": "string"
+      },
+      "473": {
+        "description": "Name of Board President or Chair",
+        "type": "string"
+      },
+      "475": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "476": {
+        "description": "Please provide a one-sentence descri",
+        "type": "string"
+      },
+      "480": {
+        "description": "Town/City",
+        "type": "string"
+      },
+      "481": {
+        "description": "Project start date",
+        "type": "string"
+      },
+      "482": {
+        "description": "Physical address (if di\ufb00erent from mailing address)",
+        "type": "string"
+      },
+      "487": {
+        "description": "checks, and to obtain all pe nent informa on necessary to evaluate this applica on.  We understand that all or part of this applica on may be made available to",
+        "type": "string"
+      },
+      "510": {
+        "description": "Fundraising (i.e.:",
+        "type": "string"
+      },
+      "530": {
+        "description": "# of",
+        "type": "string"
+      },
+      "539": {
+        "description": "on Fees and Expenses",
+        "type": "string"
+      },
+      "554": {
+        "description": "Applicant in-kind equity",
+        "type": "string"
+      },
+      "555": {
+        "description": "REVENUE",
+        "type": "string"
+      },
+      "560": {
+        "description": "personnel incl.",
+        "type": "string"
+      },
+      "573": {
+        "description": "categories. The totals should match your budget (please include). Fill in column A & B at",
+        "type": "string"
+      },
+      "575": {
+        "description": "the following eve",
+        "type": "string"
+      },
+      "582": {
+        "description": "# of audience/public",
+        "type": "string"
+      },
+      "583": {
+        "description": "Applicant cash equity",
+        "type": "string"
+      },
+      "591": {
+        "description": "and in-kind",
+        "type": "string"
+      },
+      "592": {
+        "description": "YG(5807EQ)F11 Rev.11/2017",
+        "type": "string"
+      },
+      "596": {
+        "description": "SHORTFALL = REQUEST TO AOF ANNUAL PROJECT",
+        "type": "string"
+      },
+      "598": {
+        "description": "TOTAL  REVENUE",
+        "type": "string"
+      },
+      "600": {
+        "description": "# of",
+        "type": "string"
+      },
+      "617": {
+        "description": "Other government funding",
+        "type": "string"
+      },
+      "623": {
+        "description": "Total number of volunteer hours",
+        "type": "string"
+      },
+      "643": {
+        "description": "# of events or",
+        "type": "string"
+      },
+      "645": {
+        "description": "/  /  /  /  /  /  /",
+        "type": "string"
+      },
+      "646": {
+        "description": "# of volunteers",
+        "type": "string"
+      },
+      "655": {
+        "description": "personnel incl. coordinators",
+        "type": "string"
+      },
+      "677": {
+        "description": "Part 2:",
+        "type": "string"
+      },
+      "678": {
+        "description": "Earned Revenue (fees,",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

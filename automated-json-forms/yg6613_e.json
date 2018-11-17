@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "2114": {
+        "description": "Licence number:      Maximum jackpot:",
+        "type": "string"
+      },
+      "2115": {
+        "description": "Organization:",
+        "type": "string"
+      },
+      "2116": {
+        "description": "Member organizing :     Member contact info:",
+        "type": "string"
+      },
+      "2117": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "2118": {
+        "description": "Winning ticket",
+        "type": "string"
+      },
+      "2119": {
+        "description": "20% of sales",
+        "type": "string"
+      },
+      "2120": {
+        "description": "Total ticket sales",
+        "type": "string"
+      },
+      "2121": {
+        "description": "Licence start date:     Licence end date:",
+        "type": "string"
+      },
+      "2122": {
+        "description": "50% of sales to",
+        "type": "string"
+      },
+      "2123": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "2124": {
+        "description": "Jackpot amount",
+        "type": "string"
+      },
+      "2125": {
+        "description": "1",
+        "type": "string"
+      },
+      "2126": {
+        "description": "Subtotal",
+        "type": "string"
+      },
+      "2127": {
+        "description": "5",
+        "type": "string"
+      },
+      "2128": {
+        "description": "Subtotal",
+        "type": "string"
+      },
+      "2129": {
+        "description": "8 events",
+        "type": "string"
+      },
+      "2130": {
+        "description": "YG(6613EQ)F5 Rev.08/2018",
+        "type": "string"
+      },
+      "2131": {
+        "description": "6",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

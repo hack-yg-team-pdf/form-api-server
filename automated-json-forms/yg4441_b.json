@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "348": {
+        "description": "on",
+        "type": "string"
+      },
+      "349": {
+        "description": "Day of week and date",
+        "type": "string"
+      },
+      "350": {
+        "description": "of",
+        "type": "string"
+      },
+      "351": {
+        "description": "ADDED to the list of electors for the municipality of",
+        "type": "string"
+      },
+      "352": {
+        "description": "Municipality",
+        "type": "string"
+      },
+      "353": {
+        "description": "of",
+        "type": "string"
+      },
+      "354": {
+        "description": "DELETED from the list of electors for the municipality of",
+        "type": "string"
+      },
+      "355": {
+        "description": "Municipality",
+        "type": "string"
+      },
+      "356": {
+        "description": "CHANGE (name)",
+        "type": "string"
+      },
+      "357": {
+        "description": "to (name)",
+        "type": "string"
+      },
+      "358": {
+        "description": "CHANGE (address)",
+        "type": "string"
+      },
+      "359": {
+        "description": "to (address)",
+        "type": "string"
+      },
+      "360": {
+        "description": "Date",
+        "type": "string"
+      },
+      "361": {
+        "description": "Name of applicant",
+        "type": "string"
+      },
+      "362": {
+        "description": "Street address",
+        "type": "string"
+      },
+      "363": {
+        "description": "Mailing address (if different)",
+        "type": "string"
+      },
+      "364": {
+        "description": "Adresse postale (si diff\u00e9rente de l\u2019adresse municipale)",
+        "type": "boolean"
+      },
+      "367": {
+        "description": "X",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

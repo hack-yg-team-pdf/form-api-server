@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "214": {
+        "description": "Please attach applicable copies of:",
+        "type": "string"
+      },
+      "217": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "218": {
+        "description": "B. Organization applicant",
+        "type": "string"
+      },
+      "219": {
+        "description": "A. Individual applicant",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "Legal Surname:",
+        "type": "boolean"
+      },
+      "222": {
+        "description": "Legal Given Names:",
+        "type": "boolean"
+      },
+      "223": {
+        "description": "Legal entity address",
+        "type": "string"
+      },
+      "224": {
+        "description": "Safety Fitness Rating and/or cancellation of the Safety Fitness",
+        "type": "string"
+      },
+      "225": {
+        "description": "Partnership registration or driver licence numbers of all principals, if not incorporated",
+        "type": "string"
+      },
+      "226": {
+        "description": "such sanction will result in the immediate cancellation of the",
+        "type": "string"
+      },
+      "227": {
+        "description": "C. All applicants",
+        "type": "string"
+      },
+      "228": {
+        "description": "applicable Acts and Regulations may result in a change of the",
+        "type": "string"
+      },
+      "229": {
+        "description": "Proof of valid and adequate insurance supplied       Yes         No",
+        "type": "string"
+      },
+      "230": {
+        "description": "Mexico. The applicant acknowledges that failure to disclose any",
+        "type": "string"
+      },
+      "231": {
+        "description": "issued pursuant to this application. Failure to comply with all the",
+        "type": "string"
+      },
+      "232": {
+        "description": "operation of a commercial motor vehicle under the authority of the",
+        "type": "string"
+      },
+      "233": {
+        "description": "Mailing address (if different)",
+        "type": "boolean"
+      },
+      "234": {
+        "description": "Business licence",
+        "type": "boolean"
+      },
+      "235": {
+        "description": "Name of Applicant (print)",
+        "type": "string"
+      },
+      "236": {
+        "description": "Title",
+        "type": "string"
+      },
+      "237": {
+        "description": "National Safety Code, (867)667-5066, PO Box 2703 (W-18) Whitehorse, Yukon, Y1A 2C6.",
+        "type": "string"
+      },
+      "238": {
+        "description": "This information is being collected under the authority of the Motor Vehicles Act, R.S.Y. 2002 c.153 the National Safety Code Regulation, OIC 2007/168",
+        "type": "boolean"
+      },
+      "241": {
+        "description": "and Part C section 2 of Standard 14 of the National Safety Code. Your information will be used for administration of the Motor Vehicles Act, the National",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

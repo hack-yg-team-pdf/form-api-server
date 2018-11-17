@@ -1,0 +1,311 @@
+{
+  "fields": {
+    "properties": {
+      "260": {
+        "description": "Phase 3: first draft",
+        "type": "string"
+      },
+      "262": {
+        "description": "$ Total",
+        "type": "string"
+      },
+      "267": {
+        "description": "Non-Yukon expenditures",
+        "type": "string"
+      },
+      "268": {
+        "description": "Total (must correspond to total development budget)",
+        "type": "string"
+      },
+      "269": {
+        "description": "Yukon expenditures",
+        "type": "string"
+      },
+      "270": {
+        "description": "$ Goods and services",
+        "type": "string"
+      },
+      "271": {
+        "description": "$ Labour",
+        "type": "string"
+      },
+      "272": {
+        "description": "Production company",
+        "type": "string"
+      },
+      "275": {
+        "description": "CND co-production company",
+        "type": "string"
+      },
+      "277": {
+        "description": "CND broadcaster or distributor",
+        "type": "string"
+      },
+      "278": {
+        "description": "%",
+        "type": "string"
+      },
+      "280": {
+        "description": "$",
+        "type": "string"
+      },
+      "281": {
+        "description": "%",
+        "type": "string"
+      },
+      "282": {
+        "description": "Canada Media Fund (CMF)",
+        "type": "string"
+      },
+      "283": {
+        "description": "%",
+        "type": "string"
+      },
+      "284": {
+        "description": "$",
+        "type": "string"
+      },
+      "285": {
+        "description": "Total foreign financing for this phase",
+        "type": "string"
+      },
+      "286": {
+        "description": "Breakdown of Yukon development expenditures",
+        "type": "string"
+      },
+      "287": {
+        "description": "$",
+        "type": "string"
+      },
+      "288": {
+        "description": "Total financing for this phase",
+        "type": "string"
+      },
+      "289": {
+        "description": "$ Amount",
+        "type": "string"
+      },
+      "290": {
+        "description": "Director",
+        "type": "string"
+      },
+      "291": {
+        "description": "Foreign co-production company",
+        "type": "string"
+      },
+      "292": {
+        "description": "Total Canadian financing for this phase",
+        "type": "string"
+      },
+      "293": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "294": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "295": {
+        "description": "This application is for the following phase:",
+        "type": "string"
+      },
+      "296": {
+        "description": "(Includes, but is not limited to, acquisition of financing, schedule development, casting and locations selection.)",
+        "type": "string"
+      },
+      "297": {
+        "description": "Scriptwriter(s)",
+        "type": "string"
+      },
+      "298": {
+        "description": "Phase 2: treatment to first draft script",
+        "type": "string"
+      },
+      "299": {
+        "description": "Executive producer",
+        "type": "string"
+      },
+      "300": {
+        "description": "B. FINANCING INFORMATION",
+        "type": "string"
+      },
+      "301": {
+        "description": "Phase 4: polish/re-writes and pre-production",
+        "type": "string"
+      },
+      "302": {
+        "description": "Co-producer",
+        "type": "string"
+      },
+      "303": {
+        "description": "Financing for this phase legal",
+        "type": "string"
+      },
+      "304": {
+        "description": "Name of company / organization",
+        "type": "string"
+      },
+      "305": {
+        "description": "Telefilm Canada",
+        "type": "string"
+      },
+      "306": {
+        "description": "Phase 1: concept to fully developed treatment",
+        "type": "string"
+      },
+      "307": {
+        "description": "Proposed locations and dates for shooting:",
+        "type": "string"
+      },
+      "308": {
+        "description": "Story editor",
+        "type": "string"
+      },
+      "1355": {
+        "description": "Log line (1-2 sentence project description)",
+        "type": "string"
+      },
+      "1356": {
+        "description": "If the project is based on original work",
+        "type": "string"
+      },
+      "1357": {
+        "description": "Title of original work",
+        "type": "string"
+      },
+      "1358": {
+        "description": "Author of original work",
+        "type": "string"
+      },
+      "1359": {
+        "description": "Legal name of production company",
+        "type": "string"
+      },
+      "1360": {
+        "description": "Legal name of co-production company(ies) as",
+        "type": "string"
+      },
+      "1361": {
+        "description": "Residency of author",
+        "type": "string"
+      },
+      "1362": {
+        "description": "Address",
+        "type": "string"
+      },
+      "1363": {
+        "description": "City",
+        "type": "string"
+      },
+      "1364": {
+        "description": "Prov",
+        "type": "string"
+      },
+      "1365": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "1366": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "1367": {
+        "description": "Email",
+        "type": "string"
+      },
+      "1368": {
+        "description": "Children",
+        "type": "string"
+      },
+      "1369": {
+        "description": "Project category",
+        "type": "string"
+      },
+      "1370": {
+        "description": "Web address",
+        "type": "string"
+      },
+      "1371": {
+        "description": "Address",
+        "type": "string"
+      },
+      "1372": {
+        "description": "City",
+        "type": "string"
+      },
+      "1373": {
+        "description": "Prov",
+        "type": "string"
+      },
+      "1374": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "1375": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "1376": {
+        "description": "Email",
+        "type": "string"
+      },
+      "1377": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "1378": {
+        "description": "Performing arts",
+        "type": "string"
+      },
+      "1379": {
+        "description": "Web address",
+        "type": "string"
+      },
+      "1394": {
+        "description": "Format",
+        "type": "string"
+      },
+      "1400": {
+        "description": "60 min",
+        "type": "string"
+      },
+      "1401": {
+        "description": "Total broadcast length for series  min",
+        "type": "string"
+      },
+      "1409": {
+        "description": "English",
+        "type": "string"
+      },
+      "1410": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "1411": {
+        "description": "Projected production financing   $",
+        "type": "string"
+      },
+      "1412": {
+        "description": "Projected shooting start date for this development request",
+        "type": "string"
+      },
+      "1413": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "1414": {
+        "description": "this information, contact Manager, Yukon Media Development in writing at 303 Alexander Street, or by phone at 667-5400 or toll free at 1-800-661-0408 ext. 5400.",
+        "type": "string"
+      },
+      "1415": {
+        "description": "information are managed in accordance with the ATIPP Act and all or part of this information may be made available to the public. For further information about the collection of",
+        "type": "string"
+      },
+      "1416": {
+        "description": "Privacy (ATIPP) Act for the purpose of carrying out a program and/or providing financial assistance to the applicant. The collection, use, and disclosure of your personal",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

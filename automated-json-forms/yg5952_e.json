@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "58": {
+        "description": "d) Describe the equipment staging area (e.g. is there an open area for equipment, manpower and fire vehicles",
+        "type": "string"
+      },
+      "59": {
+        "description": "c) Can the structure be entered safely and can the floors carry a load?",
+        "type": "string"
+      },
+      "60": {
+        "description": "Yes: Permit Number:",
+        "type": "string"
+      },
+      "70": {
+        "description": "7. Have you applied for a municipal or Yukon government burn permit?",
+        "type": "string"
+      },
+      "71": {
+        "description": "Yes:  Date of Approval:",
+        "type": "string"
+      },
+      "81": {
+        "description": "this application will be burned by the department for fire training purposes.",
+        "type": "string"
+      },
+      "83": {
+        "description": "[fire department], and I certify that the structure identified in",
+        "type": "string"
+      },
+      "92": {
+        "description": "Representative of Fire Department",
+        "type": "string"
+      },
+      "98": {
+        "description": "9. For structures located outside the city of Whitehorse boundaries, have you received approval from the Fire",
+        "type": "string"
+      },
+      "403": {
+        "description": "1. What is the approximate mass of solid waste that will be burned? kg",
+        "type": "string"
+      },
+      "404": {
+        "description": "a) Will the burning be conducted in batches or continuously?",
+        "type": "string"
+      },
+      "405": {
+        "description": "b) If conducted in batches, how often will the burning occur and over what period of time (e.g. days, weeks)?",
+        "type": "string"
+      },
+      "406": {
+        "description": "c) If conducted in batches, what is the approximate mass of solid waste that will be burned during each batch?",
+        "type": "string"
+      },
+      "407": {
+        "description": "2. Describe the precautions will be taken to ensure that the burn is conducted in a manner safe for humans and the",
+        "type": "string"
+      },
+      "410": {
+        "description": "environment. (Attach a separate sheet if necessary)",
+        "type": "string"
+      },
+      "411": {
+        "description": "3. Describe the specific types of solid waste that will be burned and approximate mass of each type.",
+        "type": "string"
+      },
+      "412": {
+        "description": "if necessary)",
+        "type": "string"
+      },
+      "413": {
+        "description": "4. Describe in detail any alternative options for disposing of the structure(s). Discuss feasibility, estimated cost,",
+        "type": "string"
+      },
+      "414": {
+        "description": "environmental concerns, and other relevant information of each option as compared to burning. (Attach a separate sheet",
+        "type": "string"
+      },
+      "415": {
+        "description": "5. Will the burn be conducted by a fire department for training purposes?",
+        "type": "string"
+      },
+      "416": {
+        "description": "Yes (continue to Part 2)",
+        "type": "string"
+      },
+      "417": {
+        "description": "No (skip to Part 3)",
+        "type": "string"
+      },
+      "418": {
+        "description": "YG(5952EQ)F2 Rev. 02/2014",
+        "type": "string"
+      },
+      "419": {
+        "description": "(Attach a separate sheet if necessary)",
+        "type": "string"
+      },
+      "420": {
+        "description": "Page 1 of 2",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

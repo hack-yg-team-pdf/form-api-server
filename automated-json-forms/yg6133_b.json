@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "239": {
+        "description": "3.  Date of Yukon Supreme Court order for reorganization (attach court-certified copy) :",
+        "type": "string"
+      },
+      "240": {
+        "description": "Date de l\u2019ordonnance de r\u00e9organisation de la Cour supr\u00eame du Yukon (joindre une copie certifi\u00e9e",
+        "type": "string"
+      },
+      "241": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "242": {
+        "description": "5.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "243": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "244": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "245": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "246": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "247": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "250": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

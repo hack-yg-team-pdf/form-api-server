@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "57": {
+        "description": "Burglar Alarm Agent\u2019s",
+        "type": "string"
+      },
+      "58": {
+        "description": "Residence Address",
+        "type": "string"
+      },
+      "62": {
+        "description": "Mailing Address (if different from above)",
+        "type": "string"
+      },
+      "64": {
+        "description": "Town/City",
+        "type": "string"
+      },
+      "66": {
+        "description": "Current Employer\u2019s Business Address",
+        "type": "string"
+      },
+      "67": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "70": {
+        "description": "PRINT NAME",
+        "type": "string"
+      },
+      "71": {
+        "description": "Make oath and say as follows:",
+        "type": "string"
+      },
+      "72": {
+        "description": "I am the Applicant for the renewal of a",
+        "type": "string"
+      },
+      "73": {
+        "description": "I  of",
+        "type": "string"
+      },
+      "74": {
+        "description": "Town/City",
+        "type": "string"
+      },
+      "76": {
+        "description": "Burglar Alarm",
+        "type": "string"
+      },
+      "78": {
+        "description": "AFFIDAVIT",
+        "type": "string"
+      },
+      "79": {
+        "description": "administering the Act. For further information, contact the Director of Professional Licensing and Regulatory Affairs at (867) 667-5111, toll free within",
+        "type": "boolean"
+      },
+      "84": {
+        "description": "Personal information contained on this form is collected under the Private Investigators and Security Guards Act and will be used for the purpose of",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "Security Consultant",
+        "type": "string"
+      },
+      "404": {
+        "description": "Agent\u2019s Name:",
+        "type": "string"
+      },
+      "407": {
+        "description": "Telephone Number:",
+        "type": "string"
+      },
+      "408": {
+        "description": "By signing below, I confirm that the above-named applicant is currently employed by me as an agent, as",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

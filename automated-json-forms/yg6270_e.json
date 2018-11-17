@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "69": {
+        "description": "Application date",
+        "type": "string"
+      },
+      "70": {
+        "description": "resides more than 3.2 kilometres from the nearest loading point or bus route, the Department of Education shall pay a",
+        "type": "string"
+      },
+      "71": {
+        "description": "\u2022  Fax it to 867-667-8243 or",
+        "type": "string"
+      },
+      "72": {
+        "description": "Phone Number:",
+        "type": "string"
+      },
+      "73": {
+        "description": "City or Town:",
+        "type": "string"
+      },
+      "74": {
+        "description": "Complete Mailing Address (if different from residence address):",
+        "type": "string"
+      },
+      "75": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "76": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "77": {
+        "description": "Prov./Terr.:",
+        "type": "string"
+      },
+      "78": {
+        "description": "Residence Address:",
+        "type": "string"
+      },
+      "79": {
+        "description": "Email Address:",
+        "type": "string"
+      },
+      "80": {
+        "description": "Grade  School",
+        "type": "string"
+      },
+      "81": {
+        "description": "Parent/Guardian Name:",
+        "type": "string"
+      },
+      "82": {
+        "description": "City or Town:",
+        "type": "string"
+      },
+      "83": {
+        "description": "I live",
+        "type": "string"
+      },
+      "84": {
+        "description": "kilometres (one way) from my child\u2019s school. (If you have more than one child attending different",
+        "type": "string"
+      },
+      "85": {
+        "description": "declaration knowing it to be of the same force and effect as it made under oath by virtue of the Canadian Evidence Act.",
+        "type": "string"
+      },
+      "86": {
+        "description": "schools, enter the distance from the school that is farthest from your home.)",
+        "type": "string"
+      },
+      "87": {
+        "description": "I live",
+        "type": "string"
+      },
+      "88": {
+        "description": "DECLARATION",
+        "type": "string"
+      },
+      "89": {
+        "description": "I declare that the information in this application is true, correct and complete to the best of my knowledge. I make this",
+        "type": "string"
+      },
+      "90": {
+        "description": "Signature of parent/guardian",
+        "type": "string"
+      },
+      "91": {
+        "description": "If you need to provide additional information about your application, or if you want someone other than you to",
+        "type": "string"
+      },
+      "92": {
+        "description": "receive payment, please use the back of this form.",
+        "type": "string"
+      },
+      "93": {
+        "description": "YG(6270EQ)F2 10/2015",
+        "type": "string"
+      },
+      "94": {
+        "description": "kilometres (one way) from the closest school bus stop.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

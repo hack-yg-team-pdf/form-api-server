@@ -1,0 +1,247 @@
+{
+  "fields": {
+    "properties": {
+      "99": {
+        "description": "SUPPORTING DOCUMENTS CHECKLIST (attachments)",
+        "type": "string"
+      },
+      "104": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "106": {
+        "description": "Expenses",
+        "type": "boolean"
+      },
+      "108": {
+        "description": "Reason not completed",
+        "type": "string"
+      },
+      "109": {
+        "description": "$",
+        "type": "string"
+      },
+      "110": {
+        "description": "Position:",
+        "type": "string"
+      },
+      "115": {
+        "description": "GOVERNMENT OF YUKON/SPORT AND RECREATION OFFICE USE",
+        "type": "string"
+      },
+      "118": {
+        "description": "Date submitted:",
+        "type": "string"
+      },
+      "122": {
+        "description": "AUTHORIZED REPRESENTATIVE",
+        "type": "string"
+      },
+      "123": {
+        "description": "YRAC GRANT SPECIAL RECREATION GROUPS",
+        "type": "boolean"
+      },
+      "128": {
+        "description": "Date submitted:",
+        "type": "string"
+      },
+      "132": {
+        "description": "SUPPORTING DOCUMENTS CHECKLIST (attachments)",
+        "type": "string"
+      },
+      "133": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "135": {
+        "description": "Expenses",
+        "type": "boolean"
+      },
+      "136": {
+        "description": "Position:",
+        "type": "string"
+      },
+      "140": {
+        "description": "AUTHORIZED REPRESENTATIVE",
+        "type": "string"
+      },
+      "145": {
+        "description": "Reason not completed",
+        "type": "string"
+      },
+      "146": {
+        "description": "YRAC GRANT SPECIAL RECREATION GROUPS",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "GOVERNMENT OF YUKON/SPORT AND RECREATION OFFICE USE",
+        "type": "string"
+      },
+      "148": {
+        "description": "$",
+        "type": "string"
+      },
+      "153": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "154": {
+        "description": "Date submitted:",
+        "type": "string"
+      },
+      "157": {
+        "description": "Expenses",
+        "type": "boolean"
+      },
+      "161": {
+        "description": "SUPPORTING DOCUMENTS CHECKLIST (attachments)",
+        "type": "string"
+      },
+      "163": {
+        "description": "AUTHORIZED REPRESENTATIVE",
+        "type": "string"
+      },
+      "166": {
+        "description": "$",
+        "type": "string"
+      },
+      "168": {
+        "description": "GOVERNMENT OF YUKON/SPORT AND RECREATION OFFICE USE",
+        "type": "string"
+      },
+      "171": {
+        "description": "Position:",
+        "type": "string"
+      },
+      "174": {
+        "description": "YRAC GRANT SPECIAL RECREATION GROUPS",
+        "type": "boolean"
+      },
+      "178": {
+        "description": "Reason not completed",
+        "type": "string"
+      },
+      "187": {
+        "description": "Expenses",
+        "type": "boolean"
+      },
+      "188": {
+        "description": "SUPPORTING DOCUMENTS CHECKLIST (attachments)",
+        "type": "string"
+      },
+      "190": {
+        "description": "YRAC GRANT SPECIAL RECREATION GROUPS",
+        "type": "boolean"
+      },
+      "192": {
+        "description": "AUTHORIZED REPRESENTATIVE",
+        "type": "string"
+      },
+      "193": {
+        "description": "Position:",
+        "type": "string"
+      },
+      "194": {
+        "description": "GOVERNMENT OF YUKON/SPORT AND RECREATION OFFICE USE",
+        "type": "string"
+      },
+      "195": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "198": {
+        "description": "Date submitted:",
+        "type": "string"
+      },
+      "200": {
+        "description": "$",
+        "type": "string"
+      },
+      "201": {
+        "description": "Reason not completed",
+        "type": "string"
+      },
+      "207": {
+        "description": "YRAC GRANT SPECIAL RECREATION GROUPS",
+        "type": "boolean"
+      },
+      "208": {
+        "description": "SUPPORTING DOCUMENTS CHECKLIST (attachments)",
+        "type": "string"
+      },
+      "209": {
+        "description": "Name:",
+        "type": "boolean"
+      },
+      "212": {
+        "description": "I certify that the financial information described in this form and attached documents is accurate and has been applied",
+        "type": "boolean"
+      },
+      "213": {
+        "description": "Expenses",
+        "type": "boolean"
+      },
+      "216": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "220": {
+        "description": "Reason not completed",
+        "type": "string"
+      },
+      "221": {
+        "description": "$",
+        "type": "string"
+      },
+      "222": {
+        "description": "Date submitted:",
+        "type": "string"
+      },
+      "230": {
+        "description": "AUTHORIZED REPRESENTATIVE",
+        "type": "string"
+      },
+      "236": {
+        "description": "GOVERNMENT OF YUKON/SPORT AND RECREATION OFFICE USE",
+        "type": "string"
+      },
+      "239": {
+        "description": "Position:",
+        "type": "string"
+      },
+      "1136": {
+        "description": "Fiscal year:",
+        "type": "string"
+      },
+      "1137": {
+        "description": "Month/day:",
+        "type": "string"
+      },
+      "1138": {
+        "description": "Month/day:",
+        "type": "string"
+      },
+      "1139": {
+        "description": "YRAC GRANT",
+        "type": "boolean"
+      },
+      "1141": {
+        "description": "Administration/organization development",
+        "type": "boolean"
+      },
+      "1143": {
+        "description": "Participant development",
+        "type": "boolean"
+      },
+      "1145": {
+        "description": "Leadership development",
+        "type": "boolean"
+      },
+      "1147": {
+        "description": "Special project/community development",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

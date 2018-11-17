@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "258": {
+        "description": "TT4",
+        "type": "string"
+      },
+      "259": {
+        "description": "Page  of",
+        "type": "string"
+      },
+      "260": {
+        "description": "Name",
+        "type": "string"
+      },
+      "261": {
+        "description": "Address",
+        "type": "string"
+      },
+      "262": {
+        "description": "DATE OF SUPPLY",
+        "type": "string"
+      },
+      "263": {
+        "description": "SUPPLIER\u2019S NAME AND ADDRESS",
+        "type": "string"
+      },
+      "264": {
+        "description": "CIGARETTES",
+        "type": "string"
+      },
+      "265": {
+        "description": "PRODUCT TOTAL",
+        "type": "string"
+      },
+      "266": {
+        "description": "MULTIPLY BY CURRENT TAX RATE - per Tobacco Tax Act Section 3(1)(1.01)",
+        "type": "string"
+      },
+      "267": {
+        "description": "# cigarettes",
+        "type": "string"
+      },
+      "268": {
+        "description": "B) ACQUISITIONS \u2013 Tobacco Tax Regulations Section 14 requires remittance within 28 days of acquisition.",
+        "type": "string"
+      },
+      "269": {
+        "description": "# grams",
+        "type": "string"
+      },
+      "270": {
+        "description": "**Taxable Price for Canadian Manufactured Cigars = 1.3 x manufacturer's selling price;",
+        "type": "string"
+      },
+      "271": {
+        "description": "**Taxable Price for Imported Cigars = 1.3 x importer's selling price",
+        "type": "string"
+      },
+      "272": {
+        "description": "I hereby certify that the information given above is true, correct and complete in every respect and fully discloses the taxes",
+        "type": "string"
+      },
+      "273": {
+        "description": "$",
+        "type": "string"
+      },
+      "274": {
+        "description": "$",
+        "type": "string"
+      },
+      "275": {
+        "description": "due and payable under the Tobacco Tax Act for the period up to the date of this return.",
+        "type": "string"
+      },
+      "276": {
+        "description": "Date                                                 Signed                                                                   Title",
+        "type": "string"
+      },
+      "277": {
+        "description": "YG(5894EQ)F1 Rev.03/2018",
+        "type": "string"
+      },
+      "278": {
+        "description": "TOTAL TAX PAYABLE    $",
+        "type": "string"
+      },
+      "279": {
+        "description": "$",
+        "type": "string"
+      },
+      "280": {
+        "description": "TAX SUBTOTAL",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

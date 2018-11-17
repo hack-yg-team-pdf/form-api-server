@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "47": {
+        "description": "of the gravel pits. All collected information will be managed in accordance with the Access to Information and Protection of Privacy Act. For further information please",
+        "type": "boolean"
+      },
+      "48": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "51": {
+        "description": "Intended use of pit run:",
+        "type": "string"
+      },
+      "52": {
+        "description": "agents in consequence of and incidental to, the granting of this permit, if issued and l further agree to conform to all",
+        "type": "string"
+      },
+      "53": {
+        "description": "Type/brand",
+        "type": "string"
+      },
+      "54": {
+        "description": "Start date",
+        "type": "string"
+      },
+      "55": {
+        "description": "Reason for access (storage, pit run, etc):",
+        "type": "string"
+      },
+      "56": {
+        "description": "Proposed schedule",
+        "type": "string"
+      },
+      "57": {
+        "description": "The personal information gathered on this form will be used for the purposes of administering Highways Act and associated regulations that relate to the use and occupancy",
+        "type": "boolean"
+      },
+      "58": {
+        "description": "Type/brand",
+        "type": "string"
+      },
+      "59": {
+        "description": "Highway name",
+        "type": "string"
+      },
+      "60": {
+        "description": "Model #",
+        "type": "string"
+      },
+      "61": {
+        "description": "YESAB #",
+        "type": "string"
+      },
+      "63": {
+        "description": "Quantity of pit run requested in m3:",
+        "type": "string"
+      },
+      "69": {
+        "description": "Type",
+        "type": "string"
+      },
+      "70": {
+        "description": "Email",
+        "type": "string"
+      },
+      "71": {
+        "description": "Location of gravel pit",
+        "type": "string"
+      },
+      "72": {
+        "description": "If applicable, note side of road \u2013 right or left side is determined when looking in the direction of increasing km.",
+        "type": "string"
+      },
+      "73": {
+        "description": "Model #",
+        "type": "string"
+      },
+      "74": {
+        "description": "Other",
+        "type": "string"
+      },
+      "75": {
+        "description": "Type/brand",
+        "type": "string"
+      },
+      "76": {
+        "description": "Type/brand",
+        "type": "string"
+      },
+      "77": {
+        "description": "Associated permits and screening (if applicable)",
+        "type": "string"
+      },
+      "78": {
+        "description": "Name of applicant/company",
+        "type": "string"
+      },
+      "79": {
+        "description": "Map coordinates/datum (if no km available)",
+        "type": "string"
+      },
+      "80": {
+        "description": "Model #",
+        "type": "string"
+      },
+      "81": {
+        "description": "List all equipment to be used in pit",
+        "type": "string"
+      },
+      "82": {
+        "description": "requirements of Highway Act and Regulations and all other Statutes and by-laws applicable to this project.",
+        "type": "string"
+      },
+      "83": {
+        "description": "I hereby agree to indemnify and keep harmless the Government of the Yukon and its agents against all claims, liabilities,",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "19": {
+        "description": ", this",
+        "type": "boolean"
+      },
+      "22": {
+        "description": "I hereby certify that the foregoing statements are true and correct",
+        "type": "string"
+      },
+      "23": {
+        "description": "on a salary basis only, and shall not be paid any commission or",
+        "type": "string"
+      },
+      "25": {
+        "description": "Signature of Employer \u2022 Signature de l\u2019employeur",
+        "type": "string"
+      },
+      "26": {
+        "description": "Please print name \u2022 Nom en lettres d\u00e9tach\u00e9es",
+        "type": "string"
+      },
+      "27": {
+        "description": "bonus based on production.",
+        "type": "string"
+      },
+      "28": {
+        "description": "sera au service de",
+        "type": "string"
+      },
+      "31": {
+        "description": "day of",
+        "type": "boolean"
+      },
+      "33": {
+        "description": "Fait \u00e0  , ce    jour de/d\u2019    20  .",
+        "type": "string"
+      },
+      "34": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "38": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "39": {
+        "description": ".",
+        "type": "string"
+      },
+      "43": {
+        "description": "Il est convenu que",
+        "type": "string"
+      },
+      "44": {
+        "description": "shall be employed by",
+        "type": "string"
+      },
+      "98": {
+        "description": "6. Name of insurance agent or broker for whom you have been duly appointed to act as a salesperson in Yukon:",
+        "type": "string"
+      },
+      "99": {
+        "description": "5. Email address:",
+        "type": "string"
+      },
+      "100": {
+        "description": "T\u00e9l\u00e9phone au bureau :",
+        "type": "string"
+      },
+      "101": {
+        "description": "Adresse :",
+        "type": "string"
+      },
+      "102": {
+        "description": "Nom :",
+        "type": "string"
+      },
+      "103": {
+        "description": "LOI SUR LES ASSURANCES",
+        "type": "string"
+      },
+      "104": {
+        "description": "INSURANCE ACT",
+        "type": "string"
+      },
+      "105": {
+        "description": "RENEWAL",
+        "type": "string"
+      },
+      "106": {
+        "description": "Dated at,",
+        "type": "string"
+      },
+      "107": {
+        "description": "this",
+        "type": "string"
+      },
+      "108": {
+        "description": ".",
+        "type": "string"
+      },
+      "109": {
+        "description": "day of                                                           , 20",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

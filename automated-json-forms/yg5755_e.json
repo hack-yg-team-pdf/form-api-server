@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "42": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "43": {
+        "description": "1.",
+        "type": "string"
+      },
+      "44": {
+        "description": "(Name)",
+        "type": "string"
+      },
+      "45": {
+        "description": "2.",
+        "type": "string"
+      },
+      "46": {
+        "description": "Plaintiff(s):",
+        "type": "string"
+      },
+      "47": {
+        "description": ", Yukon )",
+        "type": "string"
+      },
+      "48": {
+        "description": ")                      day, the",
+        "type": "string"
+      },
+      "49": {
+        "description": "BEFORE HIS/HER HONOUR JUDGE or",
+        "type": "string"
+      },
+      "50": {
+        "description": "JUSTICE OF THE PEACE",
+        "type": "string"
+      },
+      "51": {
+        "description": ")",
+        "type": "string"
+      },
+      "52": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "53": {
+        "description": "(b) no party is under a legal disability",
+        "type": "string"
+      },
+      "54": {
+        "description": "(a) all parties have consented to this order,",
+        "type": "string"
+      },
+      "55": {
+        "description": "WHEREAS:",
+        "type": "string"
+      },
+      "56": {
+        "description": "AT A PRE-TRIAL CONFERENCE conducted on (date)  at Whitehorse,",
+        "type": "string"
+      },
+      "57": {
+        "description": "Reference: Section 41 Small Claims Court Regulations",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "Judge Small Claims Court of Yukon",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "fields": {
+    "properties": {
+      "175": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "176": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "179": {
+        "description": "Last name and first name of the individual signing for the partnership",
+        "type": "string"
+      },
+      "180": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "182": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "183": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "185": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "186": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "192": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "193": {
+        "description": "6.  The partners of the partnership are the same as in :",
+        "type": "string"
+      },
+      "194": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "195": {
+        "description": "If a prescribed profession (if an exception is claimed under subsection 80(1.1), attached written authority to",
+        "type": "string"
+      },
+      "196": {
+        "description": "D\u00e9nomination sociale si un commanditaire n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "197": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "220": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "221": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "222": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "223": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "224": {
+        "description": "Date d\u2019entr\u00e9e en vigueur du changement",
+        "type": "string"
+      },
+      "225": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "226": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "227": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "228": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "229": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "230": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "233": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "234": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "235": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "236": {
+        "description": "Director, officer, or authorized agent OR prescribed profession",
+        "type": "string"
+      },
+      "237": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "238": {
+        "description": "B",
+        "type": "string"
+      },
+      "241": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "242": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "243": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "244": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "245": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "246": {
+        "description": "Director, officer, or authorized agent OR prescribed profession",
+        "type": "string"
+      },
+      "247": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "248": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "249": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "250": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "251": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "252": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "255": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "256": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "257": {
+        "description": "Director, officer, or authorized agent OR prescribed profession",
+        "type": "string"
+      },
+      "258": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "261": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "265": {
+        "description": "Date of signature  (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "266": {
+        "description": "Signature of partner or individual signing for the partner",
+        "type": "string"
+      },
+      "267": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "268": {
+        "description": "Signature of designated representative, or of partner",
+        "type": "string"
+      },
+      "269": {
+        "description": "Director, officer, or authorized agent OR prescribed profession",
+        "type": "string"
+      },
+      "272": {
+        "description": "D",
+        "type": "string"
+      },
+      "273": {
+        "description": "Director, officer, or authorized agent OR prescribed profession",
+        "type": "string"
+      },
+      "275": {
+        "description": "Director, officer, or authorized agent OR prescribed profession",
+        "type": "string"
+      },
+      "276": {
+        "description": "Date of signature  (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "280": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "281": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "282": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "283": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "288": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "289": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "290": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "291": {
+        "description": "Last name and first name of the individual signing",
+        "type": "string"
+      },
+      "292": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "293": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "296": {
+        "description": "Director, officer, or authorized agent OR prescribed profession",
+        "type": "string"
+      },
+      "297": {
+        "description": "Date of signature  (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "2142": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "2143": {
+        "description": "3.  Date of original declaration of partnership and date of last renewal:",
+        "type": "string"
+      },
+      "2144": {
+        "description": "Original date of registration / Date d\u2019enregistrement",
+        "type": "string"
+      },
+      "2145": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "2152": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "2153": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "2154": {
+        "description": "Effective date of change :",
+        "type": "string"
+      },
+      "2155": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "2156": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "2157": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "2158": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "2159": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "2160": {
+        "description": "Address / Adresse",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

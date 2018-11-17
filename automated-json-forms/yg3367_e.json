@@ -1,0 +1,171 @@
+{
+  "fields": {
+    "properties": {
+      "541": {
+        "description": "Your address while at school",
+        "type": "string"
+      },
+      "544": {
+        "description": "Postal/zip code",
+        "type": "string"
+      },
+      "548": {
+        "description": "Which of the following applies to you:",
+        "type": "string"
+      },
+      "550": {
+        "description": "Email",
+        "type": "string"
+      },
+      "552": {
+        "description": "Other information",
+        "type": "string"
+      },
+      "554": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "559": {
+        "description": "Previous last name (if applicable)",
+        "type": "string"
+      },
+      "561": {
+        "description": "Terr/prov/state",
+        "type": "string"
+      },
+      "563": {
+        "description": "SECTION 1 \u2013 PERSONAL INFORMATION",
+        "type": "string"
+      },
+      "565": {
+        "description": "Page 2 of 8",
+        "type": "string"
+      },
+      "566": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "567": {
+        "description": "Social insurance number",
+        "type": "string"
+      },
+      "568": {
+        "description": "City",
+        "type": "string"
+      },
+      "570": {
+        "description": "permanent mailing address you provided above. Do not use the institution\u2019s address.",
+        "type": "string"
+      },
+      "571": {
+        "description": "Middle name(s)",
+        "type": "string"
+      },
+      "573": {
+        "description": "First name",
+        "type": "string"
+      },
+      "574": {
+        "description": "Terr/prov/state",
+        "type": "string"
+      },
+      "578": {
+        "description": "Postal/zip code",
+        "type": "string"
+      },
+      "579": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "587": {
+        "description": "Email",
+        "type": "string"
+      },
+      "602": {
+        "description": "SECTION 4 \u2013 INSTITUTION/PROGRAM INFORMATION",
+        "type": "string"
+      },
+      "604": {
+        "description": "Name of program (i.e. science, geography, engineering)",
+        "type": "string"
+      },
+      "608": {
+        "description": "2016",
+        "type": "string"
+      },
+      "609": {
+        "description": "City",
+        "type": "string"
+      },
+      "612": {
+        "description": "Terr/prov/state",
+        "type": "string"
+      },
+      "617": {
+        "description": "How many years is your program? (i.e. 1, 2, 3 or 4-year duration)",
+        "type": "string"
+      },
+      "619": {
+        "description": "Name of institution",
+        "type": "string"
+      },
+      "620": {
+        "description": "July",
+        "type": "string"
+      },
+      "626": {
+        "description": "Enter the end date for your entire school year, including exam dates.",
+        "type": "string"
+      },
+      "665": {
+        "description": "What is the end date of your classes?        Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "672": {
+        "description": "What is the start date of your classes?       Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "675": {
+        "description": "When did you become a resident of Yukon?   Y Y Y Y/ M M",
+        "type": "string"
+      },
+      "678": {
+        "description": "Are you taking this program by correspondence or distance education?",
+        "type": "string"
+      },
+      "687": {
+        "description": "Student ID number",
+        "type": "string"
+      },
+      "688": {
+        "description": "Which year of the program are you entering? (i.e. 1st year of a 2, 3 or 4-year program)",
+        "type": "string"
+      },
+      "689": {
+        "description": "Campus (if applicable)",
+        "type": "string"
+      },
+      "2026": {
+        "description": "Student name:",
+        "type": "string"
+      },
+      "2029": {
+        "description": "ALL APPLICANTS MUST FILL OUT SECTIONS 1 THROUGH 5, AND PAGE 7",
+        "type": "boolean"
+      },
+      "2031": {
+        "description": "Yukon Grant",
+        "type": "boolean"
+      },
+      "2032": {
+        "description": "YUKON STUDENT FINANCIAL ASSISTANCE APPLICATION",
+        "type": "boolean"
+      },
+      "2033": {
+        "description": "Yukon Excellence Awards",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

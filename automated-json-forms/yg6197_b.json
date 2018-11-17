@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "351": {
+        "description": "Partnership and Business Names Act (Section 87(1.2)) Form 9",
+        "type": "string"
+      },
+      "352": {
+        "description": "4.  Effective date of change :",
+        "type": "string"
+      },
+      "353": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "354": {
+        "description": "3.  The declaration of business name filed on this date is amended",
+        "type": "string"
+      },
+      "355": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "356": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "357": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "358": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "359": {
+        "description": "A",
+        "type": "string"
+      },
+      "360": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "361": {
+        "description": "YG(6197Q)F1 04/2013",
+        "type": "string"
+      },
+      "362": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "365": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

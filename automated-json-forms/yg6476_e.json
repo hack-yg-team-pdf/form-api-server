@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "1193": {
+        "description": "B. LICENSEE INFORMATION",
+        "type": "string"
+      },
+      "1194": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "1195": {
+        "description": "Contact Name",
+        "type": "string"
+      },
+      "1196": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "1197": {
+        "description": "Address",
+        "type": "string"
+      },
+      "1198": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "1199": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "1200": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "1204": {
+        "description": "Name of Contact Person at the Official Service Address",
+        "type": "string"
+      },
+      "1205": {
+        "description": "Legal Name of the Authorized Authority at the Official Service Address (if different from the applicant):",
+        "type": "string"
+      },
+      "1206": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "1207": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "1209": {
+        "description": "Main Office Phone",
+        "type": "string"
+      },
+      "1210": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "1211": {
+        "description": "D. CONTRACTOR INFORMATION",
+        "type": "string"
+      },
+      "1212": {
+        "description": "Full Legal Name of Well Operations Contractor",
+        "type": "string"
+      },
+      "1213": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "1214": {
+        "description": "Territory/Province",
+        "type": "string"
+      },
+      "1217": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "1218": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "1219": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "1220": {
+        "description": "Address",
+        "type": "string"
+      },
+      "1221": {
+        "description": "Email",
+        "type": "string"
+      },
+      "1222": {
+        "description": "Personal information on this form is collected under the authority of section 29 of the Access to Information and Protection of Privacy Act. If there is any conflict or",
+        "type": "string"
+      },
+      "1223": {
+        "description": "inconsistency between this application form and any provision of the Yukon Oil and Gas Act or its regulations, the Yukon Oil and Gas Act and its regulations prevail.",
+        "type": "string"
+      },
+      "1224": {
+        "description": "YG(6476EQ)F4 06/2017",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

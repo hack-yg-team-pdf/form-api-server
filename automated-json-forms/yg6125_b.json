@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "23": {
+        "description": "3.  Name of incorporator / Nom du fondateur :",
+        "type": "string"
+      },
+      "26": {
+        "description": "Signature of incorporator / Signature du fondateur",
+        "type": "string"
+      },
+      "33": {
+        "description": "4.  Signature of incorporator / Signature du fondateur :",
+        "type": "string"
+      },
+      "34": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "236": {
+        "description": "2. First director(s) of the corporation (Yukon registry number (if director is a corporation or extra-territorial",
+        "type": "string"
+      },
+      "237": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "238": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "239": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "240": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "241": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "242": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "243": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "244": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "245": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "246": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "247": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "248": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "249": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "250": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "251": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "252": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "253": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "254": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "255": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "256": {
+        "description": "YG(6125Q)F2 03/2015",
+        "type": "string"
+      },
+      "257": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "258": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "259": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "260": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

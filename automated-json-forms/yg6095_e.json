@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "239": {
+        "description": "SELLER(S) INFORMATION",
+        "type": "string"
+      },
+      "242": {
+        "description": "Apartment",
+        "type": "string"
+      },
+      "243": {
+        "description": "Address",
+        "type": "string"
+      },
+      "244": {
+        "description": "Year",
+        "type": "string"
+      },
+      "245": {
+        "description": "City/town",
+        "type": "string"
+      },
+      "246": {
+        "description": "Make",
+        "type": "string"
+      },
+      "247": {
+        "description": "Name(s) Last, first",
+        "type": "string"
+      },
+      "248": {
+        "description": "Postal code/zip code",
+        "type": "string"
+      },
+      "249": {
+        "description": "VEHICLE INFORMATION",
+        "type": "string"
+      },
+      "250": {
+        "description": "Vehicle identification number/serial number",
+        "type": "string"
+      },
+      "251": {
+        "description": "Model or series",
+        "type": "string"
+      },
+      "252": {
+        "description": "Style",
+        "type": "string"
+      },
+      "253": {
+        "description": "BUYER(S) INFORMATION",
+        "type": "string"
+      },
+      "254": {
+        "description": "Body colour",
+        "type": "string"
+      },
+      "255": {
+        "description": "Odometer reading",
+        "type": "string"
+      },
+      "256": {
+        "description": "Address",
+        "type": "string"
+      },
+      "257": {
+        "description": "Apartment",
+        "type": "string"
+      },
+      "258": {
+        "description": "This vehicle was sold for the sum of:",
+        "type": "string"
+      },
+      "259": {
+        "description": "1. The vehicle described on the front of this form is free of all liens and encumbrances:",
+        "type": "string"
+      },
+      "260": {
+        "description": "City/town",
+        "type": "string"
+      },
+      "261": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "262": {
+        "description": "No",
+        "type": "string"
+      },
+      "263": {
+        "description": "Postal code/zip code",
+        "type": "string"
+      },
+      "264": {
+        "description": "SUM WRITTEN IN FULL",
+        "type": "string"
+      },
+      "265": {
+        "description": "Dollars $:",
+        "type": "string"
+      },
+      "268": {
+        "description": "If no, please give name of lien holders:",
+        "type": "string"
+      },
+      "269": {
+        "description": "Vehicle was last registered in:",
+        "type": "string"
+      },
+      "270": {
+        "description": "PROVINCE/STATE",
+        "type": "string"
+      },
+      "271": {
+        "description": "This form is furnished to the general public as a convenience for use when buying or selling a motor vehicle and by no means represents the",
+        "type": "boolean"
+      },
+      "274": {
+        "description": "Signature of Seller",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

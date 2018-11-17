@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "properties": {
+      "131": {
+        "description": "Applicant\u2019s Name:",
+        "type": "string"
+      },
+      "138": {
+        "description": "Print Name:",
+        "type": "string"
+      },
+      "139": {
+        "description": "Collection and Use of Information: We are collecting your personal information for use only by the Student Financial",
+        "type": "boolean"
+      },
+      "142": {
+        "description": "Assistance Unit and, in case of an appeal, by the Student Financial Assistance Committee. Your information will not be",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

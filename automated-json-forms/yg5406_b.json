@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "Status",
+        "type": "string"
+      },
+      "37": {
+        "description": "Date limite",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "No",
+        "type": "string"
+      },
+      "39": {
+        "description": "If no, comments:",
+        "type": "string"
+      },
+      "40": {
+        "description": "Licence Type",
+        "type": "string"
+      },
+      "41": {
+        "description": "Registration #",
+        "type": "string"
+      },
+      "42": {
+        "description": "Certificat d\u00e9livr\u00e9",
+        "type": "string"
+      },
+      "47": {
+        "description": "FOR OFFICE USE",
+        "type": "boolean"
+      },
+      "48": {
+        "description": "Approved by Elevator Inspector   Approuv\u00e9 par l'inspecteur des ascenseurs",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "Expiry Date",
+        "type": "string"
+      },
+      "56": {
+        "description": "Expiry Date",
+        "type": "string"
+      },
+      "60": {
+        "description": "Num\u00e9ro d'enregistrement",
+        "type": "boolean"
+      },
+      "63": {
+        "description": "Certificate Issued",
+        "type": "string"
+      },
+      "124": {
+        "description": "Date",
+        "type": "string"
+      },
+      "125": {
+        "description": "Date       Nom de l'entreprise",
+        "type": "string"
+      },
+      "126": {
+        "description": "Name of Applicant",
+        "type": "string"
+      },
+      "127": {
+        "description": "Courriel",
+        "type": "string"
+      },
+      "128": {
+        "description": "E-mail",
+        "type": "string"
+      },
+      "129": {
+        "description": "T\u00e9l\u00e9phone    Cellulaire    T\u00e9l\u00e9copieur",
+        "type": "string"
+      },
+      "130": {
+        "description": "Phone Number                                         Cell Number                                               Fax Number",
+        "type": "string"
+      },
+      "131": {
+        "description": "Adresse postale",
+        "type": "string"
+      },
+      "132": {
+        "description": "Company Information / Renseignements sur l'entreprise",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "Mailing Address",
+        "type": "boolean"
+      },
+      "136": {
+        "description": "Nom du demandeur1",
+        "type": "boolean"
+      },
+      "138": {
+        "description": "Class C",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "Class A",
+        "type": "boolean"
+      },
+      "142": {
+        "description": "Class RA",
+        "type": "boolean"
+      },
+      "144": {
+        "description": "Class M",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

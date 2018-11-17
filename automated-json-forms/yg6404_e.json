@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "173": {
+        "description": "Effective the , I,  authorize",
+        "type": "string"
+      },
+      "174": {
+        "description": "DAY                             MONTH                              YEAR",
+        "type": "string"
+      },
+      "175": {
+        "description": "the Maintenance Enforcement Program to debit my credit card in the amount of  $  for payment",
+        "type": "string"
+      },
+      "176": {
+        "description": "AMOUNT",
+        "type": "string"
+      },
+      "177": {
+        "description": "on MEP file   on the  of each month starting",
+        "type": "string"
+      },
+      "178": {
+        "description": "FILE NUMBER                                                         DAY",
+        "type": "string"
+      },
+      "179": {
+        "description": "DAY                             MONTH                              YEAR",
+        "type": "string"
+      },
+      "180": {
+        "description": "until the account is paid in full (or stop payments on ).",
+        "type": "string"
+      },
+      "181": {
+        "description": "Name on card:",
+        "type": "string"
+      },
+      "186": {
+        "description": "Submit this completed form to the Maintenance Enforcement Program (email or fax is not acceptable)",
+        "type": "string"
+      },
+      "187": {
+        "description": "Whitehorse, Yukon Y1A 2C6",
+        "type": "string"
+      },
+      "188": {
+        "description": "Your personal information is being collected under the authority of the Financial Administration Act. If you have any questions about the collection or use of this information,",
+        "type": "boolean"
+      },
+      "191": {
+        "description": "Mail:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "fields": {
+    "properties": {
+      "284": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "285": {
+        "description": "GENERAL INFORMATION (PLEASE PRINT)",
+        "type": "string"
+      },
+      "286": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "289": {
+        "description": "Grade",
+        "type": "string"
+      },
+      "291": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "292": {
+        "description": "Email",
+        "type": "string"
+      },
+      "294": {
+        "description": "School Attended This Year",
+        "type": "string"
+      },
+      "295": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "298": {
+        "description": "No",
+        "type": "string"
+      },
+      "299": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "304": {
+        "description": "PARTICIPANT AGREEMENT (to be read and signed by the applicant)",
+        "type": "string"
+      },
+      "305": {
+        "description": "preference may also be given to First Nations candidates.",
+        "type": "string"
+      },
+      "306": {
+        "description": "Classroom presentation",
+        "type": "string"
+      },
+      "308": {
+        "description": "Poster",
+        "type": "boolean"
+      },
+      "309": {
+        "description": "No",
+        "type": "boolean"
+      },
+      "310": {
+        "description": "Friend",
+        "type": "boolean"
+      },
+      "312": {
+        "description": "Other (specify)",
+        "type": "boolean"
+      },
+      "314": {
+        "description": "Radio",
+        "type": "boolean"
+      },
+      "315": {
+        "description": "Sourdough         (currently Grades 8 -9)       August 1 \u2013 10",
+        "type": "boolean"
+      },
+      "317": {
+        "description": "Conservation Officer",
+        "type": "boolean"
+      },
+      "318": {
+        "description": "Teacher",
+        "type": "boolean"
+      },
+      "319": {
+        "description": "ADDITIONAL INFORMATION",
+        "type": "string"
+      },
+      "322": {
+        "description": "How did you hear about the Conservation Action Team?",
+        "type": "boolean"
+      },
+      "324": {
+        "description": "YG(6104EQ)F8 Rev.02/2018",
+        "type": "string"
+      },
+      "325": {
+        "description": "Yukon Department of Environment. I have read the Description: Activities, Responsibilities and Potential Risks on the",
+        "type": "string"
+      },
+      "326": {
+        "description": "MEDICAL CONSTRAINTS",
+        "type": "string"
+      },
+      "327": {
+        "description": "Are there any medical (mental/physical/emotional) reasons that your son/daughter might not be able to take part in all",
+        "type": "string"
+      },
+      "328": {
+        "description": "I hereby give my consent to my son/daughter participating in the Conservation Action Team summer program run by the",
+        "type": "string"
+      },
+      "333": {
+        "description": "APPLICATIONS MUST BE RECEIVED BY THE YUKON DEPARTMENT OF ENVIRONMENT BY MAY 14, 2018",
+        "type": "string"
+      },
+      "334": {
+        "description": "High",
+        "type": "string"
+      },
+      "341": {
+        "description": "NOMINATOR INFORMATION",
+        "type": "string"
+      },
+      "342": {
+        "description": "Low",
+        "type": "boolean"
+      },
+      "351": {
+        "description": "Ability to cooperate with others",
+        "type": "boolean"
+      },
+      "361": {
+        "description": "Address",
+        "type": "string"
+      },
+      "363": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "364": {
+        "description": "Email",
+        "type": "string"
+      },
+      "366": {
+        "description": "How long have you known the applicant?",
+        "type": "string"
+      },
+      "367": {
+        "description": "EVALUATION OF APPLICANT",
+        "type": "string"
+      },
+      "370": {
+        "description": "In what capacity have you known this person?",
+        "type": "string"
+      },
+      "375": {
+        "description": "Applicant\u2019s Name:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "422": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "423": {
+        "description": "4.  Name of person using business name (if person is not an individual, include Yukon registry number, name and title",
+        "type": "string"
+      },
+      "424": {
+        "description": "fin :",
+        "type": "string"
+      },
+      "425": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "426": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "427": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "428": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "429": {
+        "description": "A",
+        "type": "string"
+      },
+      "430": {
+        "description": "Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "431": {
+        "description": "Signature of person using business name",
+        "type": "string"
+      },
+      "432": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "435": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

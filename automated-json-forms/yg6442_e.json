@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "181": {
+        "description": "Name",
+        "type": "string"
+      },
+      "184": {
+        "description": "Business name (if applicable)",
+        "type": "string"
+      },
+      "185": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "186": {
+        "description": "Email",
+        "type": "string"
+      },
+      "187": {
+        "description": "City",
+        "type": "string"
+      },
+      "188": {
+        "description": "Website",
+        "type": "string"
+      },
+      "189": {
+        "description": "Literary arts",
+        "type": "string"
+      },
+      "190": {
+        "description": "I am a:",
+        "type": "string"
+      },
+      "194": {
+        "description": "The product(s) which will bear the Created in the Yukon logo are:",
+        "type": "boolean"
+      },
+      "195": {
+        "description": "Visual arts",
+        "type": "boolean"
+      },
+      "196": {
+        "description": "Performing arts",
+        "type": "boolean"
+      },
+      "197": {
+        "description": "Postal code",
+        "type": "boolean"
+      },
+      "198": {
+        "description": "The use of this logo on individual artists\u2019 product is permitted, providing that the standards of use, in the program",
+        "type": "string"
+      },
+      "199": {
+        "description": "guidelines are adhered to. Program guidelines are available from the Arts Section.",
+        "type": "string"
+      },
+      "200": {
+        "description": "I certify that the logo and promotional items I am using as part of the Created in the Yukon program will be used only",
+        "type": "string"
+      },
+      "201": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "boolean"
+      },
+      "204": {
+        "description": "Print name",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

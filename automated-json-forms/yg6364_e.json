@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "65": {
+        "description": "SECTION 1: ABOUT YOU",
+        "type": "string"
+      },
+      "66": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "67": {
+        "description": "Date of Birth (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "68": {
+        "description": "Company/Organization (if applicable)",
+        "type": "string"
+      },
+      "69": {
+        "description": "Phone Number (day)",
+        "type": "string"
+      },
+      "70": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "71": {
+        "description": "If you are acting on behalf of another individual as their substitute decision-maker, please complete Section 2. If you",
+        "type": "string"
+      },
+      "72": {
+        "description": "are requesting your own personal health information, go to Section 3.",
+        "type": "string"
+      },
+      "73": {
+        "description": "Phone Number (evening)",
+        "type": "string"
+      },
+      "74": {
+        "description": "SECTION 2: SUBSTITUTE DECISION-MAKER INFORMATION",
+        "type": "string"
+      },
+      "75": {
+        "description": "Last Name",
+        "type": "string"
+      },
+      "76": {
+        "description": "Date of Birth (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "77": {
+        "description": "Address",
+        "type": "string"
+      },
+      "78": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "79": {
+        "description": "I am the substitute decision-maker and authorized to make decisions on the individual\u2019s behalf.",
+        "type": "string"
+      },
+      "80": {
+        "description": "Phone Number (day)",
+        "type": "string"
+      },
+      "81": {
+        "description": "Receive it by Registered Mail?",
+        "type": "string"
+      },
+      "82": {
+        "description": "First Name",
+        "type": "boolean"
+      },
+      "96": {
+        "description": "SECTION 4:  ABOUT THE INFORMATION YOU WANT",
+        "type": "string"
+      },
+      "97": {
+        "description": "SECTION 5:  YOUR SIGNATURE",
+        "type": "string"
+      },
+      "98": {
+        "description": "Date",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

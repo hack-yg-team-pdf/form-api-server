@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "273": {
+        "description": "subsection 30(5) / du paragraphe 30(5);",
+        "type": "string"
+      },
+      "274": {
+        "description": "3.  The articles of the corporation are amended under / Les statuts constitutifs sont modifi\u00e9s en vertu :",
+        "type": "string"
+      },
+      "280": {
+        "description": "4.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "281": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "282": {
+        "description": "5.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "283": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "284": {
+        "description": "DD/JJ",
+        "type": "string"
+      },
+      "285": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "288": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

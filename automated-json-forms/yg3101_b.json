@@ -1,0 +1,159 @@
+{
+  "fields": {
+    "properties": {
+      "36": {
+        "description": "7   What area of your dwelling, or of buildings on your property, is used for",
+        "type": "string"
+      },
+      "37": {
+        "description": "superficie de 1 000 pi. ca. au sous-sol servant de garderie, superficie de",
+        "type": "string"
+      },
+      "38": {
+        "description": "Faites parvenir vos demandes de subvention aux propr\u00e9taires d\u2019habitation \u00e0 l\u2019adresse suivante :",
+        "type": "boolean"
+      },
+      "41": {
+        "description": "5  I am, or will become, 65 years of age in the calendar year 20 .",
+        "type": "string"
+      },
+      "43": {
+        "description": "5  Je suis \u00e2g\u00e9(e), ou je serai \u00e2g\u00e9(e), de 65 ans au cours de l\u2019ann\u00e9e civile 20 .",
+        "type": "string"
+      },
+      "44": {
+        "description": "signature of applicant",
+        "type": "string"
+      },
+      "47": {
+        "description": "Gouvernement du Yukon",
+        "type": "boolean"
+      },
+      "48": {
+        "description": "MULTI-USE PROPERTIES:",
+        "type": "string"
+      },
+      "49": {
+        "description": "What buildings are used for personal use?",
+        "type": "string"
+      },
+      "50": {
+        "description": "6  Quelle superficie de votre habitation, ou des b\u00e2timents situ\u00e9s sur votre",
+        "type": "string"
+      },
+      "178": {
+        "description": "ROLL NUMBER:",
+        "type": "string"
+      },
+      "181": {
+        "description": "APPLICANT\u2019S FULL NAME:",
+        "type": "string"
+      },
+      "182": {
+        "description": "please print",
+        "type": "string"
+      },
+      "183": {
+        "description": "1  I  (print name) am a qualified",
+        "type": "string"
+      },
+      "184": {
+        "description": "THE FOLLOWING DECLARATION MUST BE FILLED IN AND SIGNED:",
+        "type": "string"
+      },
+      "185": {
+        "description": "ADDRESS OF PROPERTY FOR WHICH GRANT APPLICATION IS BEING MADE:",
+        "type": "string"
+      },
+      "186": {
+        "description": "applicant as (check one):",
+        "type": "string"
+      },
+      "194": {
+        "description": "Other (please specify)",
+        "type": "string"
+      },
+      "195": {
+        "description": "Further proof of qualification may be requested",
+        "type": "string"
+      },
+      "196": {
+        "description": "3  I lived at the Property as my normal residence from:",
+        "type": "string"
+      },
+      "197": {
+        "description": "20  to",
+        "type": "string"
+      },
+      "198": {
+        "description": "Yukon for this calendar year?",
+        "type": "string"
+      },
+      "199": {
+        "description": "4  Have you applied for a Home Owners Grant on any other property in the",
+        "type": "string"
+      },
+      "200": {
+        "description": "Office for more information).",
+        "type": "string"
+      },
+      "202": {
+        "description": "NUM\u00c9RO AU R\u00d4LE :",
+        "type": "string"
+      },
+      "203": {
+        "description": "qui appara\u00eet sur l\u2019avis de taxes fonci\u00e8res",
+        "type": "string"
+      },
+      "204": {
+        "description": "ann\u00e9e civile?",
+        "type": "string"
+      },
+      "205": {
+        "description": "CURRENT MAILING ADDRESS:",
+        "type": "string"
+      },
+      "206": {
+        "description": "4   Avez-vous fait une demande de subvention destin\u00e9e aux propri\u00e9taires",
+        "type": "string"
+      },
+      "207": {
+        "description": "si diff\u00e9rente de l\u2019adresse domiciliaire actuelle, une preuve de r\u00e9sidence peut \u00eatre requise",
+        "type": "string"
+      },
+      "208": {
+        "description": "afin d\u2019\u00eatre admissible \u00e0 une subvention destin\u00e9e aux propri\u00e9taires d\u2019habitations",
+        "type": "string"
+      },
+      "215": {
+        "description": "Autre (pr\u00e9ciser)",
+        "type": "string"
+      },
+      "216": {
+        "description": "Une preuve d\u2019admissibilit\u00e9 suppl\u00e9mentaire peut \u00eatre demand\u00e9e.",
+        "type": "string"
+      },
+      "217": {
+        "description": "2  La(Les) personne(s) suivante(s) est/sont aussi, selon le cas, propri\u00e9taire(s)",
+        "type": "string"
+      },
+      "218": {
+        "description": "inscrit(s)/acqu\u00e9reur(s) au titre d\u2019une convention ex\u00e9cutoire de vente/",
+        "type": "string"
+      },
+      "219": {
+        "description": "occupant(s) d\u2019une terre de la Couronne au titre d\u2019un bail de la Couronne/",
+        "type": "string"
+      },
+      "220": {
+        "description": "demandeur(s) admissible(s) du bien :",
+        "type": "string"
+      },
+      "221": {
+        "description": "3  Le bien m\u2019a servi de r\u00e9sidence habituelle pendant la p\u00e9riode suivante :",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "41": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "42": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "43": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "44": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "45": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "46": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "47": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "49": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "50": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "51": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "52": {
+        "description": "Delivery Address (Physical Location)",
+        "type": "string"
+      },
+      "53": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "54": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "55": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "56": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "58": {
+        "description": "Mailing Address / Adresse postale",
+        "type": "string"
+      },
+      "59": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "60": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "61": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "62": {
+        "description": "B",
+        "type": "string"
+      },
+      "63": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "64": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "65": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "66": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "67": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "72": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "77": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "83": {
+        "description": "C",
+        "type": "string"
+      },
+      "84": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "88": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "960": {
+        "description": "l\u2019autorit\u00e9 l\u00e9gislative comp\u00e9tente :",
+        "type": "string"
+      },
+      "961": {
+        "description": "Autorit\u00e9 l\u00e9gislative de constitution, de prorogation ou de fusion :",
+        "type": "string"
+      },
+      "962": {
+        "description": "commerciales au Yukon (doit aussi \u00eatre enregistr\u00e9e en vertu de l\u2019article 87 de la Loi sur les d\u00e9nominations",
+        "type": "string"
+      },
+      "963": {
+        "description": "2.  Assumed name, if any, under which the extra-territorial corporation will carry on business in Yukon",
+        "type": "string"
+      },
+      "964": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "965": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "966": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "967": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "968": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "969": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "970": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "971": {
+        "description": "Effective date of change (if form 32 is required):",
+        "type": "string"
+      },
+      "972": {
+        "description": "La soci\u00e9t\u00e9 extra-territoriale a-t-elle d\u00e9j\u00e0 \u00e9t\u00e9 enregistr\u00e9e au Yukon?",
+        "type": "string"
+      },
+      "977": {
+        "description": "If yes, under what name? / Le cas \u00e9ch\u00e9ant, sous quelle d\u00e9nomination sociale?",
+        "type": "string"
+      },
+      "978": {
+        "description": "Previous extra-territorial name / Nom extra-territoriale pr\u00e9c\u00e9dente",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

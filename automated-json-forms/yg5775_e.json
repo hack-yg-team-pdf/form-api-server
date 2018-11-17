@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "62": {
+        "description": "NOTICE OF APPOINTMENT OR CHANGE OF LAWYER",
+        "type": "string"
+      },
+      "63": {
+        "description": "Plaintiff(s):",
+        "type": "string"
+      },
+      "64": {
+        "description": "1.",
+        "type": "string"
+      },
+      "65": {
+        "description": "2.",
+        "type": "string"
+      },
+      "66": {
+        "description": "2.",
+        "type": "string"
+      },
+      "67": {
+        "description": "Third party(s):",
+        "type": "string"
+      },
+      "68": {
+        "description": "2.",
+        "type": "string"
+      },
+      "69": {
+        "description": "has been retained to act as the lawyer for",
+        "type": "string"
+      },
+      "70": {
+        "description": "Lawyer\u2019s address for service of further documents is:",
+        "type": "string"
+      },
+      "71": {
+        "description": "Physical address:",
+        "type": "string"
+      },
+      "72": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "73": {
+        "description": "(optional) e-mail:",
+        "type": "string"
+      },
+      "74": {
+        "description": "(optional) fax:",
+        "type": "string"
+      },
+      "75": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "76": {
+        "description": "Reference: Section 2 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "77": {
+        "description": "Signature of lawyer",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "Print name of lawyer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "64": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "66": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "67": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "68": {
+        "description": "9.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "69": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "82": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "215": {
+        "description": "1.  Name of corporation / D\u00e9nomination sociale de la soci\u00e9t\u00e9 par actions :",
+        "type": "string"
+      },
+      "216": {
+        "description": "3.  Anniversary date / Date anniversaire :",
+        "type": "string"
+      },
+      "217": {
+        "description": "(Year of annual return)              (Month and day of incorporation, amalgamation or continuance)",
+        "type": "string"
+      },
+      "218": {
+        "description": "YYYY/AAAA                                                     MM/MM                  DD/JJ",
+        "type": "string"
+      },
+      "226": {
+        "description": "All unanimous shareholder agreements by which all the rights, powers, duties of the directors of the corporation are abrogated,",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

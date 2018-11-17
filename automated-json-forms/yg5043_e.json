@@ -1,0 +1,203 @@
+{
+  "fields": {
+    "properties": {
+      "46": {
+        "description": "of   % (   percent)",
+        "type": "string"
+      },
+      "47": {
+        "description": "Postal address",
+        "type": "string"
+      },
+      "48": {
+        "description": "% (   percent)",
+        "type": "string"
+      },
+      "49": {
+        "description": ",",
+        "type": "string"
+      },
+      "50": {
+        "description": "of",
+        "type": "string"
+      },
+      "51": {
+        "description": "Postal address",
+        "type": "string"
+      },
+      "52": {
+        "description": "Occupation,",
+        "type": "string"
+      },
+      "53": {
+        "description": "transfers to the TRANSFEREE,",
+        "type": "string"
+      },
+      "54": {
+        "description": "of",
+        "type": "string"
+      },
+      "55": {
+        "description": "The TRANSFEROR,",
+        "type": "string"
+      },
+      "56": {
+        "description": "Occupation,",
+        "type": "string"
+      },
+      "57": {
+        "description": "(  ) dollars or other good and valuable consideration therefore, and is",
+        "type": "string"
+      },
+      "58": {
+        "description": "$",
+        "type": "string"
+      },
+      "59": {
+        "description": "entitled to transfer the above unencumbered interest.",
+        "type": "string"
+      },
+      "60": {
+        "description": "Located in the  Mining District,Yukon Territory under the Placer Mining Act.",
+        "type": "string"
+      },
+      "61": {
+        "description": "Grant numbers",
+        "type": "string"
+      },
+      "62": {
+        "description": "Claim Names",
+        "type": "string"
+      },
+      "63": {
+        "description": "Grant numbers",
+        "type": "string"
+      },
+      "64": {
+        "description": "Location Description  Map Number(s)",
+        "type": "string"
+      },
+      "65": {
+        "description": "IN WITNESS WHEREOF the Transferor has set its hand and seal at",
+        "type": "string"
+      },
+      "66": {
+        "description": "on the   day of   ,20   .",
+        "type": "string"
+      },
+      "67": {
+        "description": "SIGNED, SEALED, AND DELIVERED by the Transferor in the presence of",
+        "type": "string"
+      },
+      "68": {
+        "description": "(document executed under corporate seal need not be witnessed)",
+        "type": "string"
+      },
+      "69": {
+        "description": "Witness",
+        "type": "string"
+      },
+      "70": {
+        "description": "AFFIDAVIT OF WITNESS FOR THE TRANSFEROR",
+        "type": "string"
+      },
+      "71": {
+        "description": "Name",
+        "type": "string"
+      },
+      "72": {
+        "description": "make oath and say THAT:",
+        "type": "string"
+      },
+      "73": {
+        "description": "1.",
+        "type": "string"
+      },
+      "74": {
+        "description": "Transferor",
+        "type": "string"
+      },
+      "75": {
+        "description": "Complete postal address",
+        "type": "string"
+      },
+      "76": {
+        "description": "of",
+        "type": "string"
+      },
+      "77": {
+        "description": "instrument.",
+        "type": "string"
+      },
+      "78": {
+        "description": "I, , ,",
+        "type": "string"
+      },
+      "79": {
+        "description": "The Identity of the person whose signature I witnessed has been proven to me to my satisfaction.",
+        "type": "string"
+      },
+      "80": {
+        "description": "OR",
+        "type": "string"
+      },
+      "81": {
+        "description": "I personally know the person whose signature I witnessed.",
+        "type": "string"
+      },
+      "82": {
+        "description": "2.",
+        "type": "string"
+      },
+      "83": {
+        "description": "instrument.",
+        "type": "string"
+      },
+      "84": {
+        "description": "I was personally present and did see , the person",
+        "type": "string"
+      },
+      "85": {
+        "description": "named as the Transferor in the attached Transfer Form duly sign that instrument at the time and place indicated in the",
+        "type": "string"
+      },
+      "86": {
+        "description": "3.  To the best of my knowledge and belief, the person whose signature I witnessed is of the legal age to execute the",
+        "type": "string"
+      },
+      "87": {
+        "description": "Notary Public",
+        "type": "string"
+      },
+      "88": {
+        "description": "YG(5043EQ)F1 Rev. 05/2015",
+        "type": "string"
+      },
+      "89": {
+        "description": "Sworn before me at this  day of   20  .",
+        "type": "string"
+      },
+      "90": {
+        "description": "Witness",
+        "type": "string"
+      },
+      "91": {
+        "description": "ment of Energy, Mines and Resources, Mining Recorders Office at 867-667-3190 or toll free at 1-800-661-0408 extension 3190.",
+        "type": "string"
+      },
+      "92": {
+        "description": "Occupation",
+        "type": "string"
+      },
+      "99": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "boolean"
+      },
+      "102": {
+        "description": "This information is being collected under the authority of the Placer Mining Act, SY 2003, c.13. For further information contact the Depart-",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

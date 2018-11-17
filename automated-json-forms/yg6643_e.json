@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "231": {
+        "description": "Organization information",
+        "type": "string"
+      },
+      "232": {
+        "description": "Contact name",
+        "type": "string"
+      },
+      "233": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "234": {
+        "description": "Email",
+        "type": "string"
+      },
+      "235": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "236": {
+        "description": "Location information",
+        "type": "string"
+      },
+      "243": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "244": {
+        "description": "Size of proposed treatment area (ha) Will >1000 m3 be removed?",
+        "type": "string"
+      },
+      "245": {
+        "description": "Land tenure/designation",
+        "type": "string"
+      },
+      "246": {
+        "description": "Briefly describe proposed treatment",
+        "type": "string"
+      },
+      "247": {
+        "description": "Describe values (infrastructure, resources, heritage or structures) the project would protect",
+        "type": "string"
+      },
+      "250": {
+        "description": "Amount of funding requested",
+        "type": "string"
+      },
+      "253": {
+        "description": "$",
+        "type": "string"
+      },
+      "254": {
+        "description": "The treatment will be conducted by:",
+        "type": "string"
+      },
+      "255": {
+        "description": "the best of our knowledge, true and correct. We submit that, to the best of our knowledge, all aspects of this proposed",
+        "type": "string"
+      },
+      "257": {
+        "description": "The treatment will go to bid",
+        "type": "string"
+      },
+      "259": {
+        "description": "Community Services, Wildland Fire Management, in order to administer the FireSmart program. Under the provisions of Section 29(c) of the Yukon Access to Information and",
+        "type": "boolean"
+      },
+      "262": {
+        "description": "Personal information contained in the application will be used for administration purposes. This information is being collected by the Government of Yukon\u2019s Department of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

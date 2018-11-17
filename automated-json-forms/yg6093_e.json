@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "88": {
+        "description": "to the registration",
+        "type": "string"
+      },
+      "91": {
+        "description": "VIN#",
+        "type": "string"
+      },
+      "92": {
+        "description": "Signed",
+        "type": "string"
+      },
+      "93": {
+        "description": "Print name",
+        "type": "string"
+      },
+      "94": {
+        "description": "Date:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

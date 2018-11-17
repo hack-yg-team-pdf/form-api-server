@@ -1,0 +1,259 @@
+{
+  "fields": {
+    "properties": {
+      "61": {
+        "description": "3rd Prize:",
+        "type": "string"
+      },
+      "62": {
+        "description": "Number of tickets printed (if applicable)",
+        "type": "string"
+      },
+      "63": {
+        "description": "Price of ticket: $ each or at a discounted price of # tickets for $",
+        "type": "string"
+      },
+      "64": {
+        "description": "2nd Prize:",
+        "type": "string"
+      },
+      "65": {
+        "description": "Proceeds must be used for a charitable or religious purpose that advances a program or activity which will",
+        "type": "string"
+      },
+      "66": {
+        "description": "are terms and conditions for the use of these government funds, please provide the information with this",
+        "type": "string"
+      },
+      "67": {
+        "description": "1st Prize:",
+        "type": "string"
+      },
+      "68": {
+        "description": "Name of Printer:",
+        "type": "string"
+      },
+      "69": {
+        "description": "5th Prize:",
+        "type": "string"
+      },
+      "70": {
+        "description": "$5,001 \u2013 10,000 .............................. $50",
+        "type": "string"
+      },
+      "71": {
+        "description": "NOTE: Gaming proceeds shall not be applied to programs that are funded by government: i.e. grants. If there",
+        "type": "string"
+      },
+      "72": {
+        "description": "6.  FEE SCHEDULE",
+        "type": "string"
+      },
+      "73": {
+        "description": "$20,001 \u2013 25,000 ............................ $125",
+        "type": "string"
+      },
+      "74": {
+        "description": "50/50 Raffle - Indicate 7 hour time period from to",
+        "type": "string"
+      },
+      "75": {
+        "description": "Organization",
+        "type": "string"
+      },
+      "76": {
+        "description": "Time",
+        "type": "string"
+      },
+      "77": {
+        "description": "pleted travel itinerary form must be included with your application.",
+        "type": "string"
+      },
+      "78": {
+        "description": "benefit the community at large. Please be as specific as possible. If proceeds are to be used for travel, a com-",
+        "type": "string"
+      },
+      "80": {
+        "description": "application for review.",
+        "type": "string"
+      },
+      "81": {
+        "description": "(You are required to keep all receipts on file for auditing purposes)",
+        "type": "string"
+      },
+      "82": {
+        "description": "$15,001 \u2013 20,000 ............................ $100",
+        "type": "string"
+      },
+      "83": {
+        "description": "4.  PRIZES",
+        "type": "string"
+      },
+      "84": {
+        "description": "Location(s) of draw",
+        "type": "string"
+      },
+      "85": {
+        "description": "$10,001 \u2013 15,000 ............................ $75",
+        "type": "string"
+      },
+      "86": {
+        "description": "$40,001 \u2013 45,000 ........................... $225",
+        "type": "string"
+      },
+      "87": {
+        "description": "$35,001 \u2013 40,000 ........................... $200",
+        "type": "string"
+      },
+      "88": {
+        "description": "Date(s) of draw",
+        "type": "string"
+      },
+      "89": {
+        "description": "4th Prize:",
+        "type": "string"
+      },
+      "90": {
+        "description": "Description of Prizes (attach list if more space required)                          Retail Value                      Cost to",
+        "type": "string"
+      },
+      "91": {
+        "description": "Maximum total value of tickets $",
+        "type": "string"
+      },
+      "92": {
+        "description": "\u2610 Rules Governing operation of raffle",
+        "type": "boolean"
+      },
+      "95": {
+        "description": "Residence Number",
+        "type": "string"
+      },
+      "96": {
+        "description": "Treasurer (Please Print)",
+        "type": "string"
+      },
+      "97": {
+        "description": "President (Please Print)",
+        "type": "string"
+      },
+      "98": {
+        "description": "Business Number",
+        "type": "string"
+      },
+      "99": {
+        "description": "All applications must include:",
+        "type": "boolean"
+      },
+      "101": {
+        "description": "And include the following appropriate to your application:",
+        "type": "boolean"
+      },
+      "103": {
+        "description": "We, the undersigned President and Treasurer, certify that the foregoing and all documents supplied are cor-",
+        "type": "boolean"
+      },
+      "105": {
+        "description": "\u2610 Marketing Plan for ticket sales, including advertising and promotion of the event",
+        "type": "boolean"
+      },
+      "107": {
+        "description": "For raffle applications with a ticket price of $50.00 or more, or if total ticket value exceeds $25,000 also in-",
+        "type": "boolean"
+      },
+      "108": {
+        "description": "Business Number",
+        "type": "string"
+      },
+      "109": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "110": {
+        "description": "Please make your cheque payable to Government of Yukon, or, complete payment information form YG5924 at:",
+        "type": "string"
+      },
+      "111": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609",
+        "type": "boolean"
+      },
+      "114": {
+        "description": "or e-mail PLRA@gov.yk.ca for inquiries.",
+        "type": "boolean"
+      },
+      "116": {
+        "description": "\u2610 Terms & Conditions for single day event raffle - required for 50/50 & roll ticket draws only (form online)",
+        "type": "boolean"
+      },
+      "118": {
+        "description": "\u2610 Copy of ticket format (if applicable)",
+        "type": "boolean"
+      },
+      "120": {
+        "description": "\u2610 Travel Itinerary Form - required if proceeds are to be used for travel (form online)",
+        "type": "boolean"
+      },
+      "122": {
+        "description": "\u2610 Copy of meeting motion authorizing application for raffle",
+        "type": "boolean"
+      },
+      "125": {
+        "description": "7.   CHECKLIST",
+        "type": "boolean"
+      },
+      "184": {
+        "description": "Is your Society registered with Professional Licensing and Regulatory Affairs?                         \u2610  Yes   \u2610  No",
+        "type": "string"
+      },
+      "185": {
+        "description": "\u2610  Hold licence for pickup",
+        "type": "string"
+      },
+      "186": {
+        "description": "or",
+        "type": "string"
+      },
+      "187": {
+        "description": "\u2610 Forward licence by mail",
+        "type": "string"
+      },
+      "188": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "189": {
+        "description": "Member organizing this raffle:   Phone:",
+        "type": "string"
+      },
+      "190": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "193": {
+        "description": "Organization Name:",
+        "type": "string"
+      },
+      "196": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "201": {
+        "description": "Total revenue must be deposited to the bank account of the society and payment of all expenses and dis-",
+        "type": "string"
+      },
+      "202": {
+        "description": "2.  RAFFLE TYPE",
+        "type": "string"
+      },
+      "203": {
+        "description": "Financial Institution:",
+        "type": "boolean"
+      },
+      "205": {
+        "description": "Bank Account Number:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

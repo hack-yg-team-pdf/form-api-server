@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "62": {
+        "description": "YES",
+        "type": "boolean"
+      },
+      "64": {
+        "description": "-",
+        "type": "boolean"
+      },
+      "67": {
+        "description": "PLACE OF ADOPTION",
+        "type": "string"
+      },
+      "68": {
+        "description": "MAIDEN NAME OF ADOPTIVE MOTHER",
+        "type": "string"
+      },
+      "70": {
+        "description": "APPLICANT BORN IN YUKON?",
+        "type": "boolean"
+      },
+      "75": {
+        "description": "BIRTH REGISTRATION NUMBER",
+        "type": "string"
+      },
+      "76": {
+        "description": "BIRTH NAME",
+        "type": "string"
+      },
+      "77": {
+        "description": "GIVEN NAME(S)",
+        "type": "string"
+      },
+      "78": {
+        "description": "BIRTHPLACE OF ADOPTIVE FATHER",
+        "type": "string"
+      },
+      "79": {
+        "description": "SURNAME OF ADOPTIVE FATHER",
+        "type": "string"
+      },
+      "80": {
+        "description": "MAILING ADDRESS",
+        "type": "string"
+      },
+      "86": {
+        "description": "SURNAME:",
+        "type": "string"
+      },
+      "87": {
+        "description": "HOME PHONE NUMBER",
+        "type": "boolean"
+      },
+      "89": {
+        "description": "CITY/PROV/TERR/STATE/COUNTRY",
+        "type": "boolean"
+      },
+      "93": {
+        "description": "FEMALE",
+        "type": "string"
+      },
+      "95": {
+        "description": "MALE",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "The information on this form is collected under the authority of the Children and Family Services Act (Sec. 144).  The information provided will be used",
+        "type": "boolean"
+      },
+      "102": {
+        "description": "INFORMATION ABOUT THE PERSON APPLYING",
+        "type": "string"
+      },
+      "104": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "108": {
+        "description": "BIRTHPLACE",
+        "type": "boolean"
+      },
+      "109": {
+        "description": "DATE OF BIRTH",
+        "type": "string"
+      },
+      "110": {
+        "description": "SECTION B: to be completed by birth parents \u2013 as applicant (PLEASE PRINT)",
+        "type": "string"
+      },
+      "121": {
+        "description": "PARTICULARS OF ADOPTED PERSON PRIOR TO ADOPTION",
+        "type": "string"
+      },
+      "127": {
+        "description": "register a NO-CONTACT DECLARATION prohibiting my contact as specified by the Child and Family Services Act.",
+        "type": "string"
+      },
+      "130": {
+        "description": "Telephone: 867-667-3002",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "\u2022  Any other relevant non-identifying information.",
+        "type": "string"
+      },
+      "135": {
+        "description": "Adoption Disclosure",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

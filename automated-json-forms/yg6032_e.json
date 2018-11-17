@@ -1,0 +1,191 @@
+{
+  "fields": {
+    "properties": {
+      "1144": {
+        "description": "LAST NAME, FIRST NAME, MIDDLE NAMES",
+        "type": "string"
+      },
+      "1145": {
+        "description": "MOVE-IN INSPECTION DATE",
+        "type": "string"
+      },
+      "1146": {
+        "description": "UNIT #",
+        "type": "string"
+      },
+      "1147": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "1148": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "1149": {
+        "description": "TERRITORY",
+        "type": "string"
+      },
+      "1150": {
+        "description": "TERRITORY",
+        "type": "string"
+      },
+      "1151": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "1152": {
+        "description": "LAST NAME, FIRST NAME, MIDDLE NAMES",
+        "type": "string"
+      },
+      "1153": {
+        "description": "MOVE-OUT INSPECTION DATE",
+        "type": "string"
+      },
+      "1154": {
+        "description": "UNIT #",
+        "type": "string"
+      },
+      "1155": {
+        "description": "STREET ADDRESS",
+        "type": "string"
+      },
+      "1156": {
+        "description": "LEGAL NAME OF TENANT\u2019S AGENT (if applicable)",
+        "type": "string"
+      },
+      "1157": {
+        "description": "CONDITION AT BEGINNING",
+        "type": "string"
+      },
+      "1158": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "1159": {
+        "description": "OF TENANCY",
+        "type": "string"
+      },
+      "1160": {
+        "description": "M = Missing",
+        "type": "string"
+      },
+      "1161": {
+        "description": "ON MOVE-OUT",
+        "type": "string"
+      },
+      "1162": {
+        "description": "Windows/Coverings/Screens",
+        "type": "string"
+      },
+      "1163": {
+        "description": "Walls and Trim",
+        "type": "string"
+      },
+      "1164": {
+        "description": "Ceilings",
+        "type": "string"
+      },
+      "1165": {
+        "description": "Closets",
+        "type": "string"
+      },
+      "1166": {
+        "description": "Windows/Coverings/Screens",
+        "type": "string"
+      },
+      "1167": {
+        "description": "Lighting Fixtures/Ceiling Fan/Bulbs",
+        "type": "string"
+      },
+      "1168": {
+        "description": "Floor Carpet",
+        "type": "string"
+      },
+      "1169": {
+        "description": "Ceiling",
+        "type": "string"
+      },
+      "1170": {
+        "description": "Windows/Coverings/Screens",
+        "type": "string"
+      },
+      "1171": {
+        "description": "Door/Exterior",
+        "type": "string"
+      },
+      "1172": {
+        "description": "Refrigerator",
+        "type": "string"
+      },
+      "1173": {
+        "description": "Walls and Trim",
+        "type": "string"
+      },
+      "1174": {
+        "description": "Lighting Fixtures/Bulbs",
+        "type": "string"
+      },
+      "1175": {
+        "description": "Freezer",
+        "type": "string"
+      },
+      "1176": {
+        "description": "Taps, Sink and Stoppers",
+        "type": "string"
+      },
+      "1177": {
+        "description": "Floor/Carpet",
+        "type": "string"
+      },
+      "1178": {
+        "description": "Dishwasher",
+        "type": "string"
+      },
+      "1179": {
+        "description": "Crisper/Shelves",
+        "type": "string"
+      },
+      "1180": {
+        "description": "Exhaust Hood and Fan",
+        "type": "string"
+      },
+      "1181": {
+        "description": "Countertop",
+        "type": "string"
+      },
+      "1182": {
+        "description": "Closet(s)",
+        "type": "string"
+      },
+      "1183": {
+        "description": "Oven",
+        "type": "string"
+      },
+      "1184": {
+        "description": "Stove/Stove Top",
+        "type": "string"
+      },
+      "1185": {
+        "description": "Cabinets and Doors",
+        "type": "string"
+      },
+      "1186": {
+        "description": "KITCHEN",
+        "type": "string"
+      },
+      "1187": {
+        "description": "YG(6032EQ)F5 09/2015",
+        "type": "string"
+      },
+      "1188": {
+        "description": "Electrical Outlets",
+        "type": "string"
+      },
+      "1189": {
+        "description": "Page 1 of 5",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

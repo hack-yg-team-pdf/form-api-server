@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "19": {
+        "description": "Hand Delivery  Yukon Education/Advanced Education",
+        "type": "boolean"
+      },
+      "20": {
+        "description": "SUBMIT REPORT",
+        "type": "string"
+      },
+      "21": {
+        "description": "Submitting the CJG Employer Activity Report:",
+        "type": "string"
+      },
+      "25": {
+        "description": "By Fax",
+        "type": "string"
+      },
+      "26": {
+        "description": "CANADA-YUKON JOB GRANT (CJG) \u2013 EMPLOYER ACTIVITY REPORT (12-MONTHS FOLLOWING TRAINING)    |    2",
+        "type": "boolean"
+      },
+      "151": {
+        "description": "Course/Training Name",
+        "type": "string"
+      },
+      "152": {
+        "description": "EMPLOYMENT OUTCOMES 12 MONTHS AFTER TRAINING",
+        "type": "string"
+      },
+      "153": {
+        "description": "Type of Skills Learned from training (Select all that apply):",
+        "type": "string"
+      },
+      "154": {
+        "description": "Essential Skills",
+        "type": "boolean"
+      },
+      "156": {
+        "description": "EMPLOYER/EMPLOYEE INFORMATION",
+        "type": "boolean"
+      },
+      "157": {
+        "description": "Participant Name",
+        "type": "boolean"
+      },
+      "158": {
+        "description": "Management Skills",
+        "type": "boolean"
+      },
+      "177": {
+        "description": "Job title 12 months after training",
+        "type": "string"
+      },
+      "178": {
+        "description": "Gross Weekly Wage 12 months after training:",
+        "type": "string"
+      },
+      "179": {
+        "description": "** The National Occupational Classification (NOC) website can be found at http://www5.hrsdc.gc.ca/NOC/English/NOC/2011/Welcome.aspx",
+        "type": "string"
+      },
+      "180": {
+        "description": "PARTICIPANT/EMPLOYER SATISFACTION RATE",
+        "type": "string"
+      },
+      "181": {
+        "description": "Participant Level of Satisfaction (Select all that apply):",
+        "type": "string"
+      },
+      "182": {
+        "description": "Employment Status 12 months after training:",
+        "type": "boolean"
+      },
+      "184": {
+        "description": "Retained current job",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "Better equipped to do current job",
+        "type": "boolean"
+      },
+      "188": {
+        "description": "Increased sense of job security",
+        "type": "boolean"
+      },
+      "190": {
+        "description": "Advanced or Promoted",
+        "type": "boolean"
+      },
+      "192": {
+        "description": "Obtained a better job",
+        "type": "boolean"
+      },
+      "194": {
+        "description": "Increased Productivity",
+        "type": "boolean"
+      },
+      "196": {
+        "description": "Employer Level of Satisfaction (Select all that apply):",
+        "type": "boolean"
+      },
+      "198": {
+        "description": "Training needs met",
+        "type": "boolean"
+      },
+      "200": {
+        "description": "Expectations of the CJG met",
+        "type": "boolean"
+      },
+      "202": {
+        "description": "Able to  hire additional employees",
+        "type": "boolean"
+      },
+      "204": {
+        "description": "Would not have accessed this training had funding NOT been available:",
+        "type": "boolean"
+      },
+      "206": {
+        "description": "Increase in investment in training",
+        "type": "boolean"
+      },
+      "208": {
+        "description": "Skills needs met",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

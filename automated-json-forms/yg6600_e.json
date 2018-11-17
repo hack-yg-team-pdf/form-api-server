@@ -1,0 +1,171 @@
+{
+  "fields": {
+    "properties": {
+      "68": {
+        "description": "PROJECT DESCRIPTION (continued)",
+        "type": "string"
+      },
+      "71": {
+        "description": "Please indicate if photos are attached separately.                                         Attached?",
+        "type": "string"
+      },
+      "77": {
+        "description": "project authorized in the agreement. I /We also understand that further documentation may be requested from Yukon",
+        "type": "string"
+      },
+      "82": {
+        "description": "under Section 161 of the Keeping Canada\u2019s Economy and Jobs Growing Act, S.C. 2011, C.24 and the Canada-Yukon",
+        "type": "string"
+      },
+      "90": {
+        "description": "Total \u201cother\u201d revenue sources",
+        "type": "string"
+      },
+      "110": {
+        "description": "Description of expenditures",
+        "type": "string"
+      },
+      "125": {
+        "description": "Remaining funds available (this represents the final payment / holdback to be received)",
+        "type": "string"
+      },
+      "135": {
+        "description": "$",
+        "type": "string"
+      },
+      "137": {
+        "description": "$",
+        "type": "string"
+      },
+      "139": {
+        "description": "$",
+        "type": "string"
+      },
+      "151": {
+        "description": "EXPENDITURE REPORT",
+        "type": "string"
+      },
+      "163": {
+        "description": "the value of the actual description for the phase identified)",
+        "type": "string"
+      },
+      "168": {
+        "description": "(Identify phase \u2013 all supporting receipts and invoices must equal",
+        "type": "string"
+      },
+      "170": {
+        "description": "$",
+        "type": "string"
+      },
+      "173": {
+        "description": "$",
+        "type": "string"
+      },
+      "174": {
+        "description": "4.",
+        "type": "string"
+      },
+      "175": {
+        "description": "$",
+        "type": "string"
+      },
+      "178": {
+        "description": "Y Y Y Y / M M / D D $",
+        "type": "string"
+      },
+      "180": {
+        "description": "5.",
+        "type": "string"
+      },
+      "182": {
+        "description": "I certify that the financial information described in this form were incurred under the transfer payment agreement",
+        "type": "string"
+      },
+      "183": {
+        "description": "Government at any given time in respect to the authorized project. The information contained on this form is collected",
+        "type": "string"
+      },
+      "191": {
+        "description": "$",
+        "type": "string"
+      },
+      "193": {
+        "description": "Gas Tax Administration Agreement and will be used for the purpose of administering the Gas Tax Fund. For further",
+        "type": "string"
+      },
+      "195": {
+        "description": "$",
+        "type": "string"
+      },
+      "196": {
+        "description": "information, contact the Gas Tax Fund Administrator at (867) 336-0469, toll free within Yukon 1-800-661-0408, ext.5111.",
+        "type": "string"
+      },
+      "197": {
+        "description": "ACTUAL",
+        "type": "string"
+      },
+      "198": {
+        "description": "Y Y Y Y / M M / D D $",
+        "type": "string"
+      },
+      "202": {
+        "description": "2.",
+        "type": "string"
+      },
+      "213": {
+        "description": "Y Y Y Y / M M / D D $",
+        "type": "string"
+      },
+      "223": {
+        "description": "Y Y Y Y / M M / D D $",
+        "type": "string"
+      },
+      "226": {
+        "description": "1.",
+        "type": "string"
+      },
+      "228": {
+        "description": "Y Y Y Y / M M / D D $",
+        "type": "string"
+      },
+      "678": {
+        "description": "TRANSFER PAYMENT AGREEMENT DETAILS",
+        "type": "string"
+      },
+      "681": {
+        "description": "Funding amount",
+        "type": "string"
+      },
+      "682": {
+        "description": "Project title",
+        "type": "string"
+      },
+      "683": {
+        "description": "TPA number",
+        "type": "string"
+      },
+      "684": {
+        "description": "Project completion date:  Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "685": {
+        "description": "Project start date:  Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "686": {
+        "description": "YG(6600EQ)F3 09/2018",
+        "type": "string"
+      },
+      "687": {
+        "description": "Describe the project in detail                                                           Additional information attached?",
+        "type": "string"
+      },
+      "691": {
+        "description": "PROJECT DESCRIPTION",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

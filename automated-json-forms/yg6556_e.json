@@ -1,0 +1,135 @@
+{
+  "fields": {
+    "properties": {
+      "84": {
+        "description": "The personal information gathered on this form is collected under the authority of s29(c) of the Access to Information and Protection of Privacy Act and will be used for the",
+        "type": "boolean"
+      },
+      "91": {
+        "description": "purposes of administering any Yukon highway right-of-way under the Highways Act and associated regulations. All collected information will be managed in accordance",
+        "type": "boolean"
+      },
+      "93": {
+        "description": "YESAA #",
+        "type": "string"
+      },
+      "94": {
+        "description": "Temporary lane closure",
+        "type": "boolean"
+      },
+      "95": {
+        "description": "TYPE OF WORK (CHECK ALL THAT APPLY)",
+        "type": "boolean"
+      },
+      "96": {
+        "description": "Complete mailing address",
+        "type": "string"
+      },
+      "98": {
+        "description": "Temporary road closure",
+        "type": "boolean"
+      },
+      "99": {
+        "description": "Other: Type:",
+        "type": "boolean"
+      },
+      "100": {
+        "description": "Highway / road name (if access is not to a main or secondary highway, provide normally used road name)",
+        "type": "string"
+      },
+      "101": {
+        "description": "Road maintenance (winter)",
+        "type": "boolean"
+      },
+      "102": {
+        "description": "Email",
+        "type": "string"
+      },
+      "103": {
+        "description": "WORK DETAILS",
+        "type": "string"
+      },
+      "104": {
+        "description": "Receipt of the signed permit from the Transportation Maintenance Branch will constitute permission to perform",
+        "type": "string"
+      },
+      "105": {
+        "description": "TRAFFIC DETAILS (CHECK ALL THAT APPLY)",
+        "type": "boolean"
+      },
+      "106": {
+        "description": "Equipment to be utilized:",
+        "type": "string"
+      },
+      "107": {
+        "description": "Right side",
+        "type": "string"
+      },
+      "108": {
+        "description": "Work off roadway",
+        "type": "boolean"
+      },
+      "109": {
+        "description": "Phone number",
+        "type": "string"
+      },
+      "110": {
+        "description": "Right/left side is determined when looking in direction of increasing Kms",
+        "type": "string"
+      },
+      "111": {
+        "description": "Brushing/clearing/tree removal",
+        "type": "boolean"
+      },
+      "112": {
+        "description": "Road maintenance (summer)",
+        "type": "boolean"
+      },
+      "113": {
+        "description": "Proposed schedule:     Start date:     Duration:",
+        "type": "string"
+      },
+      "116": {
+        "description": "Work on roadway",
+        "type": "boolean"
+      },
+      "117": {
+        "description": "Map coordinates\\datum (if no km available)",
+        "type": "string"
+      },
+      "118": {
+        "description": "Contractor name (if applicable):",
+        "type": "string"
+      },
+      "119": {
+        "description": "LOCATION OF WORK",
+        "type": "string"
+      },
+      "120": {
+        "description": "Installation of utilities/infrastructure",
+        "type": "boolean"
+      },
+      "121": {
+        "description": "Left side",
+        "type": "boolean"
+      },
+      "122": {
+        "description": "Name of applicant / company",
+        "type": "string"
+      },
+      "123": {
+        "description": "PERFORMANCE OF WORK WITHIN HIGHWAY RIGHT-OF-WAY",
+        "type": "boolean"
+      },
+      "124": {
+        "description": "Earthworks (not road surface)",
+        "type": "boolean"
+      },
+      "125": {
+        "description": "Road surface",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

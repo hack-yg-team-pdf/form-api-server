@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "63": {
+        "description": "Government of Yukon in writing of any change.",
+        "type": "string"
+      },
+      "68": {
+        "description": "I hereby certify that the foregoing information is true and correct to the best of my knowledge.  I hereby undertake to notify the",
+        "type": "string"
+      },
+      "70": {
+        "description": "Si vous avez des questions, veuillez communiquer avec Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires : par t\u00e9l\u00e9phone, au 867-667-5111; par t\u00e9l\u00e9copieur,",
+        "type": "boolean"
+      },
+      "73": {
+        "description": "Je soussign\u00e9 certifie par la pr\u00e9sente que les renseignements fournis ci-dessus sont \u00e0 ma connaissance v\u00e9ridiques et exacts. Il est",
+        "type": "string"
+      },
+      "81": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609 or e-mail PLRA@gov.yk.ca for inquiries.",
+        "type": "boolean"
+      },
+      "83": {
+        "description": "entendu que j\u2019aviserai par \u00e9crit le gouvernement du Yukon de tout changement, s\u2019il y a lieu.",
+        "type": "string"
+      },
+      "519": {
+        "description": "1. Name:",
+        "type": "string"
+      },
+      "520": {
+        "description": "Yukon Licence Number:",
+        "type": "string"
+      },
+      "521": {
+        "description": "2. Clinic address:",
+        "type": "string"
+      },
+      "522": {
+        "description": "Adresse de la clinique:  Envoyer le courrier \u00e0",
+        "type": "string"
+      },
+      "523": {
+        "description": "Nom :  Licence du Yukon no",
+        "type": "boolean"
+      },
+      "525": {
+        "description": "Province/Territory \u2022",
+        "type": "string"
+      },
+      "526": {
+        "description": "Postal code \u2022 Code postal",
+        "type": "string"
+      },
+      "527": {
+        "description": "Clinic telephone number \u2022 T\u00e9l\u00e9phone au travail",
+        "type": "string"
+      },
+      "528": {
+        "description": "Adresse du domiciliaire :",
+        "type": "string"
+      },
+      "529": {
+        "description": "Province/Territory \u2022",
+        "type": "string"
+      },
+      "530": {
+        "description": "Postal code \u2022 Code postal",
+        "type": "string"
+      },
+      "531": {
+        "description": "Home telephone number \u2022 T\u00e9l\u00e9phone (domicile)",
+        "type": "string"
+      },
+      "534": {
+        "description": "\u00cates-vous pr\u00e9sentement titulaire d\u2019une licence d\u00e9livr\u00e9e dans une autre r\u00e9gion administrative?         \u2610 No/Non         \u2610 Yes/Oui",
+        "type": "string"
+      },
+      "537": {
+        "description": "6. Renewal of Therapeutic Pharmaceutical Agent designation: please provide a copy of current CPR certificate.",
+        "type": "string"
+      },
+      "538": {
+        "description": "cours la derni\u00e8re ann\u00e9e vis\u00e9e par une licence :",
+        "type": "string"
+      },
+      "539": {
+        "description": "Annual Practice Hours: please enter the total number of hours you practised during the last licensing year (in Yukon and elsewhere);",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "115": {
+        "description": "3.  Location of Generator",
+        "type": "string"
+      },
+      "116": {
+        "description": "4.  Operating season (in months)   From  to",
+        "type": "string"
+      },
+      "117": {
+        "description": "5.  Mailing address",
+        "type": "string"
+      },
+      "118": {
+        "description": "6.  Permanent address (if different from 5)",
+        "type": "string"
+      },
+      "119": {
+        "description": "7.  Telephone     Fax Email",
+        "type": "string"
+      },
+      "120": {
+        "description": "8.  Generator(s) details: (Briefly describe the purpose of each generator; attach another list if more space is required.)",
+        "type": "string"
+      },
+      "121": {
+        "description": "MAKE/MODEL/YEAR",
+        "type": "string"
+      },
+      "122": {
+        "description": "SERIAL NUMBER",
+        "type": "string"
+      },
+      "123": {
+        "description": "FUEL TYPE:",
+        "type": "string"
+      },
+      "124": {
+        "description": "1.",
+        "type": "string"
+      },
+      "125": {
+        "description": "Purpose:",
+        "type": "string"
+      },
+      "126": {
+        "description": "Gas or Diesel",
+        "type": "string"
+      },
+      "127": {
+        "description": "2.",
+        "type": "string"
+      },
+      "128": {
+        "description": "Purpose:",
+        "type": "string"
+      },
+      "129": {
+        "description": "9.  The Fuel Oil Tax Act Section 6(1) states that tax exempt permits may be issued for stationary generators of",
+        "type": "string"
+      },
+      "130": {
+        "description": "electricity. These generator permits may be issued only if the generator meets certain criteria as assessed by the",
+        "type": "string"
+      },
+      "131": {
+        "description": "3.",
+        "type": "string"
+      },
+      "132": {
+        "description": "Purpose:",
+        "type": "string"
+      },
+      "133": {
+        "description": "following questions:",
+        "type": "string"
+      },
+      "134": {
+        "description": "a) Is the generator(s) stationary?  Yes   No",
+        "type": "string"
+      },
+      "135": {
+        "description": "b) Is the generator(s) permanently located on land or in a building?   Yes   No",
+        "type": "string"
+      },
+      "136": {
+        "description": "4.",
+        "type": "string"
+      },
+      "137": {
+        "description": "c) Is the generator(s) intended to remain so located?   Yes   No",
+        "type": "string"
+      },
+      "138": {
+        "description": "d) Is the generator(s) used for temporary service work?   Yes   No",
+        "type": "string"
+      },
+      "139": {
+        "description": "e) Is the generator used for the temporary supply of electricity?  Yes   No",
+        "type": "string"
+      },
+      "140": {
+        "description": "YG(5802EQ)F2 Rev 12/2011",
+        "type": "string"
+      },
+      "141": {
+        "description": "Purpose:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

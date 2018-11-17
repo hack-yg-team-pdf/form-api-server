@@ -1,0 +1,175 @@
+{
+  "fields": {
+    "properties": {
+      "118": {
+        "description": "Describe your organization\u2019s mandate in relation to this project",
+        "type": "string"
+      },
+      "119": {
+        "description": "How many people will be employed for this project?",
+        "type": "string"
+      },
+      "120": {
+        "description": "the Yukon Employment Standards Act, including the minimum wage order, and b) maintain good standing with Yukon Workers Health and Safety",
+        "type": "string"
+      },
+      "121": {
+        "description": "Page 2 of 4",
+        "type": "string"
+      },
+      "141": {
+        "description": "Name of organization",
+        "type": "string"
+      },
+      "143": {
+        "description": "Title of project",
+        "type": "string"
+      },
+      "144": {
+        "description": "Mailing address (as listed with YG Corporate Affairs)",
+        "type": "string"
+      },
+      "145": {
+        "description": "Phone #",
+        "type": "string"
+      },
+      "146": {
+        "description": "Email",
+        "type": "string"
+      },
+      "147": {
+        "description": "Name of signing authority",
+        "type": "string"
+      },
+      "148": {
+        "description": "Applicant equity",
+        "type": "string"
+      },
+      "149": {
+        "description": "Funding amount",
+        "type": "string"
+      },
+      "150": {
+        "description": "Start date of project",
+        "type": "string"
+      },
+      "151": {
+        "description": "Page 3 of 4",
+        "type": "string"
+      },
+      "152": {
+        "description": "Describe how the tourism sector in Yukon will benefit from this project?",
+        "type": "string"
+      },
+      "153": {
+        "description": "What objectives do you hope to achieve from doing this project? (These must be measureable)",
+        "type": "string"
+      },
+      "154": {
+        "description": "What performance measures will you use to measure your objectives?",
+        "type": "string"
+      },
+      "157": {
+        "description": "A 10% administration fee (to a maximum $1000) will be added to the final payment, based on the actual total project cost.",
+        "type": "string"
+      },
+      "158": {
+        "description": "Provide written quotes from contractors and third-party suppliers with your application submission. Including any in-kind",
+        "type": "string"
+      },
+      "159": {
+        "description": "$",
+        "type": "string"
+      },
+      "160": {
+        "description": "Final payments will be based on actual costs incurred. Retain copies of paid invoices for items approved for funding as",
+        "type": "string"
+      },
+      "161": {
+        "description": "Estimated total",
+        "type": "string"
+      },
+      "162": {
+        "description": "project costs",
+        "type": "string"
+      },
+      "163": {
+        "description": "$",
+        "type": "string"
+      },
+      "164": {
+        "description": "$",
+        "type": "string"
+      },
+      "165": {
+        "description": "\u2022 Projects that start in one fiscal year and are not completed that fiscal year, must be reported on by March 15 and",
+        "type": "string"
+      },
+      "166": {
+        "description": "include the financial status of the project.",
+        "type": "string"
+      },
+      "167": {
+        "description": "accordance with the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "168": {
+        "description": "submitted with application.",
+        "type": "string"
+      },
+      "169": {
+        "description": "\u2022 Payments are provided in installments upon receipt of scheduled deliverables and an invoice.",
+        "type": "string"
+      },
+      "170": {
+        "description": "\u2022 All projects have a 15% hold back until the project is completed as described in the transfer payment agreement.",
+        "type": "string"
+      },
+      "171": {
+        "description": "\u2022 The payment schedule in the transfer payment agreement will be based upon the project duration and completion of tasks.",
+        "type": "string"
+      },
+      "172": {
+        "description": "contributions. Budgeted in-kind contributions, must be assigned a dollar value.",
+        "type": "string"
+      },
+      "173": {
+        "description": "per the project budget.",
+        "type": "string"
+      },
+      "174": {
+        "description": "SCHEDULE C \u2013 PAYMENTS",
+        "type": "string"
+      },
+      "175": {
+        "description": "\u2022 Projects over four months in duration and valued at $10,000.00 or more, will require a cash flow statement to be",
+        "type": "string"
+      },
+      "179": {
+        "description": "$",
+        "type": "string"
+      },
+      "181": {
+        "description": "bookkeeping and records, to make inquiries and credit checks and, to obtain all other pertinent information necessary",
+        "type": "string"
+      },
+      "183": {
+        "description": "Additional comments or context to support your application",
+        "type": "string"
+      },
+      "307": {
+        "description": "to evaluate this application. We understand that all or part of this application may be made available to the public in",
+        "type": "string"
+      },
+      "311": {
+        "description": "of the Yukon government access to the site and premises of the project described in this application, to inspect the",
+        "type": "string"
+      },
+      "314": {
+        "description": "is in good standing and any debts owed the Yukon government are in good standing. We agree to allow representatives",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

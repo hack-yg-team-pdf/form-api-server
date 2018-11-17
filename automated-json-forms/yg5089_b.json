@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "293": {
+        "description": "1.  Name of applicant",
+        "type": "string"
+      },
+      "294": {
+        "description": "Business Address",
+        "type": "string"
+      },
+      "295": {
+        "description": "Nom commercial",
+        "type": "string"
+      },
+      "296": {
+        "description": "Business Name",
+        "type": "string"
+      },
+      "297": {
+        "description": "Resident Address                                                                                              Telephone Number",
+        "type": "string"
+      },
+      "298": {
+        "description": "Telephone Number",
+        "type": "string"
+      },
+      "299": {
+        "description": "Num\u00e9ro de t\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "300": {
+        "description": "Province/Territory \u2022 Province/territoire",
+        "type": "string"
+      },
+      "301": {
+        "description": "2.  Provide proof (certified copies) that applicant has attended a recognized school of mortuary science in any province for at least two full",
+        "type": "string"
+      },
+      "302": {
+        "description": "4.  State chartered bank that trust account is located in, must be in Yukon:",
+        "type": "string"
+      },
+      "303": {
+        "description": "Dated at                                                                                         , this",
+        "type": "string"
+      },
+      "304": {
+        "description": "day of                                           20",
+        "type": "string"
+      },
+      "305": {
+        "description": "\u2610Registration ($100) \u2022 Inscription au registre 100 $                    \u2610Annual fee ($50) \u2022 Licence annuelle 50 $",
+        "type": "string"
+      },
+      "306": {
+        "description": "Please make your cheque payable to Government of Yukon, or, complete payment information form YG5924 at: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "307": {
+        "description": "FEES ENCLOSED \u2022 DROITS REQUIS",
+        "type": "string"
+      },
+      "311": {
+        "description": "Veuillez faire votre ch\u00e8que \u00e0 l\u2019ordre du gouvernement du Yukon, ou fournir les renseignements demand\u00e9s ci-dessous remplissez",
+        "type": "string"
+      },
+      "312": {
+        "description": "le formulaire d\u2019informations de paiement YG5924 \u00e0: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "313": {
+        "description": "Personal information contained on this form is collected under the Funeral",
+        "type": "boolean"
+      },
+      "316": {
+        "description": "Les renseignements personnels demand\u00e8s dans les pr\u00e9sentes sont recueil-",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

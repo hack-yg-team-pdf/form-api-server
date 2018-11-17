@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "299": {
+        "description": "SECTION 1: CHILD\u2019S PERSONAL INFORMATION",
+        "type": "string"
+      },
+      "300": {
+        "description": "Name of parent/guardian",
+        "type": "string"
+      },
+      "301": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "302": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "303": {
+        "description": "Health card #",
+        "type": "string"
+      },
+      "306": {
+        "description": "Day phone",
+        "type": "string"
+      },
+      "307": {
+        "description": "Cell phone",
+        "type": "string"
+      },
+      "308": {
+        "description": "Has your child had previous reaction to immunization?",
+        "type": "string"
+      },
+      "309": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "310": {
+        "description": "Alert: Has your child ever had a serious or life threatening allergic reaction?",
+        "type": "string"
+      },
+      "311": {
+        "description": "Evening phone",
+        "type": "string"
+      },
+      "312": {
+        "description": "Chronic condition:",
+        "type": "string"
+      },
+      "317": {
+        "description": "Allergies:",
+        "type": "string"
+      },
+      "320": {
+        "description": "Date",
+        "type": "string"
+      },
+      "321": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "322": {
+        "description": "Date",
+        "type": "string"
+      },
+      "325": {
+        "description": "Nurse\u2019s signature:",
+        "type": "string"
+      },
+      "326": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "327": {
+        "description": "No",
+        "type": "string"
+      },
+      "328": {
+        "description": "SECTION 3: Community Health Use Only \u2013 TELEPHONE CONSENT",
+        "type": "string"
+      },
+      "331": {
+        "description": "Relationship to child:",
+        "type": "string"
+      },
+      "334": {
+        "description": "Information contained in this form is collected, used and disclosed in accordance with Yukon\u2019s Health Information Privacy and Management Act and other applicable laws.",
+        "type": "string"
+      },
+      "335": {
+        "description": "A written statement of Health and Social Services information practices can viewed at www.hss.gov.yk.ca/healthprivacy.php or by contacting the department\u2019s privacy officer",
+        "type": "boolean"
+      },
+      "338": {
+        "description": "at healthprivacy@gov.yk.ca.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

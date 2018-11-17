@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "Energy, Mines and Resources",
+        "type": "string"
+      },
+      "34": {
+        "description": "I,  of",
+        "type": "string"
+      },
+      "35": {
+        "description": ",",
+        "type": "string"
+      },
+      "36": {
+        "description": ",",
+        "type": "string"
+      },
+      "37": {
+        "description": "follows (State exact position of area, in relation to a prominent topographical feature or other known point)",
+        "type": "string"
+      },
+      "38": {
+        "description": "2. That I did on the  day of  ,20",
+        "type": "string"
+      },
+      "39": {
+        "description": "duly stake out in accordance with the requirements of this Regulation, a coal mining location, described as",
+        "type": "string"
+      },
+      "40": {
+        "description": "lease and is not being used by any person as a source of coal, except as follows:",
+        "type": "string"
+      },
+      "41": {
+        "description": "5. To the best of my information and belief, the location applied for is not already included in an existing coal",
+        "type": "string"
+      },
+      "42": {
+        "description": "Unoccupied, or state occupancy",
+        "type": "string"
+      },
+      "43": {
+        "description": "with dimensions feet by  feet,",
+        "type": "string"
+      },
+      "44": {
+        "description": "4. To the best of my information and belief, the location applied for is situated on land which is",
+        "type": "string"
+      },
+      "45": {
+        "description": "3. Attached hereto is a sketch of the said area.",
+        "type": "string"
+      },
+      "46": {
+        "description": ",",
+        "type": "string"
+      },
+      "47": {
+        "description": "and I make this solemn declaration conscientiously believing it to be true and knowing that it is of the same",
+        "type": "string"
+      },
+      "48": {
+        "description": "Declared before me at  in  this  day of  20  .",
+        "type": "string"
+      },
+      "49": {
+        "description": "A notary Public, or a person duly",
+        "type": "string"
+      },
+      "50": {
+        "description": "authorized to take statutory declarations",
+        "type": "string"
+      },
+      "51": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "52": {
+        "description": "Regulation. Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of",
+        "type": "string"
+      },
+      "53": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "boolean"
+      },
+      "56": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Territorial Coal",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

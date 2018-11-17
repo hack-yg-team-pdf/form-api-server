@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "54": {
+        "description": "Name of Organization:",
+        "type": "string"
+      },
+      "57": {
+        "description": "SCP Job Title:",
+        "type": "string"
+      },
+      "58": {
+        "description": "Claim Period Start",
+        "type": "string"
+      },
+      "59": {
+        "description": "Did you receive any funding from other sources for this position?",
+        "type": "string"
+      },
+      "60": {
+        "description": "been/will be paid their total earnings for the employment",
+        "type": "string"
+      },
+      "61": {
+        "description": "that the EMPLOYEE for which this subsidy is claimed has",
+        "type": "string"
+      },
+      "62": {
+        "description": "and CORRECT to the best of my knowledge and further certify",
+        "type": "string"
+      },
+      "63": {
+        "description": "In accordance with the Agreement with the Government of",
+        "type": "string"
+      },
+      "64": {
+        "description": "Yukon, I certify that the information provided above is TRUE",
+        "type": "string"
+      },
+      "65": {
+        "description": "Y Y Y Y/ M M/ D D Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "66": {
+        "description": "IS PROOF OF PAYROLL attached?",
+        "type": "string"
+      },
+      "67": {
+        "description": "Record of Employment must accompany the claim form.",
+        "type": "string"
+      },
+      "68": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "74": {
+        "description": "*Please use one Claim Form per employee*",
+        "type": "boolean"
+      },
+      "77": {
+        "description": "Less Advance  =",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

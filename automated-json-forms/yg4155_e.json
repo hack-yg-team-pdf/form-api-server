@@ -1,0 +1,243 @@
+{
+  "fields": {
+    "properties": {
+      "165": {
+        "description": "COMPANY NAME:",
+        "type": "string"
+      },
+      "169": {
+        "description": "OWNER NAME:",
+        "type": "string"
+      },
+      "170": {
+        "description": "ADDRESS:",
+        "type": "string"
+      },
+      "171": {
+        "description": "POSTAL",
+        "type": "string"
+      },
+      "172": {
+        "description": "CODE",
+        "type": "string"
+      },
+      "173": {
+        "description": "EMAN",
+        "type": "string"
+      },
+      "174": {
+        "description": "Company Principals",
+        "type": "string"
+      },
+      "175": {
+        "description": "ORIGINAL APPLICATION",
+        "type": "boolean"
+      },
+      "176": {
+        "description": "1. MOTOR VEHICLE 4500 kg",
+        "type": "boolean"
+      },
+      "177": {
+        "description": "2. MOTOR VEHICLE GREATER THAN 4500 kg",
+        "type": "boolean"
+      },
+      "178": {
+        "description": "RENEWAL APPLICATION",
+        "type": "boolean"
+      },
+      "179": {
+        "description": "THAN 10 PASSENGERS",
+        "type": "boolean"
+      },
+      "180": {
+        "description": "FACILITY",
+        "type": "string"
+      },
+      "181": {
+        "description": "CERTIFICATE NOS.",
+        "type": "string"
+      },
+      "182": {
+        "description": "(RENEWAL ONLY)",
+        "type": "string"
+      },
+      "183": {
+        "description": "INDICATE ENDORSEMENTS",
+        "type": "string"
+      },
+      "184": {
+        "description": "TERR:",
+        "type": "string"
+      },
+      "185": {
+        "description": "ADDRESS:",
+        "type": "string"
+      },
+      "186": {
+        "description": "2.  PRESSURE FUEL",
+        "type": "string"
+      },
+      "187": {
+        "description": "PMVI INSPECTOR",
+        "type": "string"
+      },
+      "188": {
+        "description": "MECHANIC\u02bcS NAME",
+        "type": "string"
+      },
+      "189": {
+        "description": "MEASURING TOOL",
+        "type": "string"
+      },
+      "190": {
+        "description": "AUTHORIZATION NUMBER",
+        "type": "string"
+      },
+      "191": {
+        "description": "TORQUE WRENCH",
+        "type": "string"
+      },
+      "193": {
+        "description": "FACILITY NO.",
+        "type": "string"
+      },
+      "196": {
+        "description": "POSTAL",
+        "type": "string"
+      },
+      "197": {
+        "description": "CODE",
+        "type": "string"
+      },
+      "198": {
+        "description": "SSERDDA",
+        "type": "boolean"
+      },
+      "199": {
+        "description": "FREE PLAY",
+        "type": "string"
+      },
+      "200": {
+        "description": "Inspection Facility",
+        "type": "string"
+      },
+      "201": {
+        "description": "BUSINESS LICENCE    EXPIRES",
+        "type": "string"
+      },
+      "202": {
+        "description": "1.  AIR BRAKES",
+        "type": "boolean"
+      },
+      "203": {
+        "description": "SIGNATURE",
+        "type": "string"
+      },
+      "204": {
+        "description": "DEVICE",
+        "type": "string"
+      },
+      "205": {
+        "description": "TIRE DEPTH",
+        "type": "string"
+      },
+      "206": {
+        "description": "LIFTING DEVICE",
+        "type": "string"
+      },
+      "207": {
+        "description": "HEADLIGHT ALIGNMENT",
+        "type": "string"
+      },
+      "208": {
+        "description": "TOOLS",
+        "type": "string"
+      },
+      "209": {
+        "description": "GAUGE",
+        "type": "string"
+      },
+      "210": {
+        "description": "BRAKE DRUM/CALIPER",
+        "type": "string"
+      },
+      "211": {
+        "description": "MEASURING DEVICE",
+        "type": "string"
+      },
+      "212": {
+        "description": "I CERTIFY THAT THE ABOVE INFORMATION IS CORRECT. DATE",
+        "type": "string"
+      },
+      "213": {
+        "description": "CITY:",
+        "type": "boolean"
+      },
+      "214": {
+        "description": "Equipment Check List",
+        "type": "boolean"
+      },
+      "215": {
+        "description": "Staff List",
+        "type": "boolean"
+      },
+      "216": {
+        "description": "AUTOMOTIVE HAND",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "WHEEL ASSEMBLY",
+        "type": "boolean"
+      },
+      "218": {
+        "description": "HOISTING OR",
+        "type": "boolean"
+      },
+      "219": {
+        "description": ".ON ECNECIL",
+        "type": "boolean"
+      },
+      "220": {
+        "description": "GAUGE",
+        "type": "boolean"
+      },
+      "221": {
+        "description": "TIRE PRESSURE",
+        "type": "boolean"
+      },
+      "222": {
+        "description": "STEERING/SUSPENSION",
+        "type": "string"
+      },
+      "223": {
+        "description": "PERSON RESPONSIBLE",
+        "type": "string"
+      },
+      "224": {
+        "description": "FOR PROGRAM/FACILITY TITLE  TEL. NUMBER",
+        "type": "string"
+      },
+      "227": {
+        "description": "RECEIPT #  AMOUNT",
+        "type": "string"
+      },
+      "228": {
+        "description": "LICENCE EXPIRES",
+        "type": "string"
+      },
+      "230": {
+        "description": "This information is being collected under the authority of the Motor Vehicles Act, R.S.Y. 2002 c.116, the National Safety Code Regulation, OIC 2007/168 and Part B of Standard 11 of the",
+        "type": "string"
+      },
+      "234": {
+        "description": "National Safety Code. Your information will be used for administration of the Motor Vehicles Act, the National Safety Code Regulations and the National Safety COde. If you have questions",
+        "type": "boolean"
+      },
+      "237": {
+        "description": "about why your information is being collected you may contact the Manager, National Safety Code, (867)667-5066, PO Box 2703 (W-17) Whitehorse, Yukon, Y1A 2C6.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

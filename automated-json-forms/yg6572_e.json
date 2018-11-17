@@ -1,0 +1,123 @@
+{
+  "fields": {
+    "properties": {
+      "18": {
+        "description": "Supervised exercise includes 16 sessions (1.5 hours 2x/week) of group exercise classes. It is designed to teach",
+        "type": "boolean"
+      },
+      "19": {
+        "description": "Supervised exercise",
+        "type": "boolean"
+      },
+      "191": {
+        "description": "PHN #",
+        "type": "string"
+      },
+      "192": {
+        "description": "Primary reason for referral/diagnosis:",
+        "type": "string"
+      },
+      "193": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "194": {
+        "description": "Pre-diabetes",
+        "type": "string"
+      },
+      "195": {
+        "description": "Hypertension",
+        "type": "string"
+      },
+      "196": {
+        "description": "(see contraindications on reverse)",
+        "type": "string"
+      },
+      "197": {
+        "description": "Address",
+        "type": "string"
+      },
+      "198": {
+        "description": "Family practitioner",
+        "type": "string"
+      },
+      "199": {
+        "description": "Hypercholesterolemia",
+        "type": "string"
+      },
+      "200": {
+        "description": "PATIENT INFORMATION",
+        "type": "boolean"
+      },
+      "202": {
+        "description": "CVD risk factors",
+        "type": "boolean"
+      },
+      "203": {
+        "description": "COPD",
+        "type": "boolean"
+      },
+      "204": {
+        "description": "Diabetes",
+        "type": "boolean"
+      },
+      "205": {
+        "description": "Name",
+        "type": "boolean"
+      },
+      "206": {
+        "description": "Referring practitioner (if different)",
+        "type": "boolean"
+      },
+      "207": {
+        "description": "Date of birth",
+        "type": "boolean"
+      },
+      "208": {
+        "description": "Smoker",
+        "type": "boolean"
+      },
+      "209": {
+        "description": "Sedentary",
+        "type": "boolean"
+      },
+      "210": {
+        "description": "Overweight/obesity",
+        "type": "boolean"
+      },
+      "211": {
+        "description": "Other:",
+        "type": "string"
+      },
+      "212": {
+        "description": "CCSP available programming: (see reverse for details)",
+        "type": "string"
+      },
+      "213": {
+        "description": "Comments/special instructions:",
+        "type": "boolean"
+      },
+      "214": {
+        "description": "Diabetes Wellness Series",
+        "type": "boolean"
+      },
+      "215": {
+        "description": "Supervised exercise",
+        "type": "boolean"
+      },
+      "216": {
+        "description": "Your Health! Your Way!",
+        "type": "boolean"
+      },
+      "217": {
+        "description": "(Stanford Chronic Disease Self-Management Program)",
+        "type": "boolean"
+      },
+      "218": {
+        "description": "Pulmonary rehabilitation program",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

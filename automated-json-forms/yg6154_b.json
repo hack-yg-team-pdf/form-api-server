@@ -1,0 +1,211 @@
+{
+  "fields": {
+    "properties": {
+      "21": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "24": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "25": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "26": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "27": {
+        "description": "\u00c0 compter de la date de signature, le(s) directeur(s) de la c.r.l. extra-territoriale est (sont) :",
+        "type": "string"
+      },
+      "29": {
+        "description": "7.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "31": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "34": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "35": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "36": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "37": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "39": {
+        "description": "8.  Title of individual signing / Titre du signataire :",
+        "type": "string"
+      },
+      "40": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "41": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "42": {
+        "description": "6.  As of the date of signature, the manager(s) of the extra-territorial LLC are :",
+        "type": "string"
+      },
+      "43": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "44": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "45": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "46": {
+        "description": "5.  Manager(s) whose address has changed, if any :",
+        "type": "string"
+      },
+      "47": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "49": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "50": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "51": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "54": {
+        "description": "Nouvelle adresse postale",
+        "type": "string"
+      },
+      "55": {
+        "description": "Date d\u2019entr\u00e9e en vigueur du changement :",
+        "type": "string"
+      },
+      "57": {
+        "description": "Directeur(s) dont l\u2019adresse a chang\u00e9, le cas \u00e9ch\u00e9ant :",
+        "type": "string"
+      },
+      "58": {
+        "description": "Manager, officer, or authorized agent / Directeur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "59": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "62": {
+        "description": "Your personal information contained in this form is collected under the authority of the Business Corporations Act RSY 2002, c.20. It will be used for",
+        "type": "boolean"
+      },
+      "63": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "66": {
+        "description": "the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to",
+        "type": "boolean"
+      },
+      "347": {
+        "description": "2.  Yukon registry number / Num\u00e9ro d\u2019enregistrement au Yukon :",
+        "type": "string"
+      },
+      "348": {
+        "description": "3.  Outgoing manager(s) of the extra-territorial LLC, if any :",
+        "type": "string"
+      },
+      "349": {
+        "description": "Date \u00e0 laquelle la personne cesse d\u2019\u00eatre directeur :",
+        "type": "string"
+      },
+      "350": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "351": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "352": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "353": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "354": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "355": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "356": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "357": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "358": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "359": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "360": {
+        "description": "Date de d\u00e9but du mandat du particulier \u00e0 titre de directeur :",
+        "type": "string"
+      },
+      "361": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "362": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "363": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "364": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "365": {
+        "description": "Date person took office as a manager :",
+        "type": "string"
+      },
+      "366": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

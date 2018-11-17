@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "(for amount to be assessed)",
+        "type": "string"
+      },
+      "39": {
+        "description": "Plaintiff(s) :                       (Name)",
+        "type": "string"
+      },
+      "40": {
+        "description": "1.",
+        "type": "string"
+      },
+      "41": {
+        "description": "1.",
+        "type": "string"
+      },
+      "42": {
+        "description": "2.",
+        "type": "string"
+      },
+      "43": {
+        "description": "The defendant/third party, , not having filed a reply to the",
+        "type": "string"
+      },
+      "44": {
+        "description": "THIS COURT ORDERS that recovers an amount to be assessed by the",
+        "type": "string"
+      },
+      "45": {
+        "description": "court and costs against the defendant/third party, .",
+        "type": "string"
+      },
+      "46": {
+        "description": "Dated this  day of , 20",
+        "type": "string"
+      },
+      "49": {
+        "description": "at , Yukon",
+        "type": "string"
+      },
+      "50": {
+        "description": "LOCATION OF COURT :",
+        "type": "string"
+      },
+      "51": {
+        "description": "Dated this  day of , 20",
+        "type": "string"
+      },
+      "52": {
+        "description": "at , Yukon",
+        "type": "string"
+      },
+      "53": {
+        "description": "YG(4524QE)F1 Rev. 05/2015",
+        "type": "string"
+      },
+      "54": {
+        "description": "Reference: Sections 33 and 43 Small Claims Court Regulations",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "270": {
+        "description": "FULL LEGAL NAME OF PARENT/GUARDIAN - PLEASE PRINT",
+        "type": "string"
+      },
+      "271": {
+        "description": "\u2019s driver licence and/or general identification card.",
+        "type": "string"
+      },
+      "272": {
+        "description": "FULL LEGAL NAME OF APPLICANT-PLEASE PRINT",
+        "type": "string"
+      },
+      "275": {
+        "description": "PHONE NUMBER OF PARENT/GUARDIAN",
+        "type": "string"
+      },
+      "276": {
+        "description": "NOM L\u00c9GAL COMPLET DU T\u00c9MOIN",
+        "type": "string"
+      },
+      "277": {
+        "description": "FULL LEGAL NAME OF WITNESS",
+        "type": "string"
+      },
+      "278": {
+        "description": "DATE SIGNED (YYYY-MM-DD)",
+        "type": "string"
+      },
+      "279": {
+        "description": "SIGNATURE OF WITNESS",
+        "type": "string"
+      },
+      "280": {
+        "description": "FULL LEGAL NAME OF PARENT/GUARDIAN - PLEASE PRINT",
+        "type": "string"
+      },
+      "281": {
+        "description": "\u2019s driver licence and/or general identification card.",
+        "type": "string"
+      },
+      "282": {
+        "description": "MAILING ADDRESS OF PARENT/GUARDIAN",
+        "type": "string"
+      },
+      "283": {
+        "description": "PHONE NUMBER OF PARENT/GUARDIAN",
+        "type": "string"
+      },
+      "284": {
+        "description": "SIGNATURE OF PARENT/GUARDIAN",
+        "type": "string"
+      },
+      "285": {
+        "description": "FULL LEGAL NAME OF WITNESS",
+        "type": "string"
+      },
+      "286": {
+        "description": "DATE SIGNED (YYYY-MM-DD)",
+        "type": "string"
+      },
+      "287": {
+        "description": "SIGNATURE OF WITNESS",
+        "type": "string"
+      },
+      "288": {
+        "description": "Les renseignements personnels fournis dans les pr\u00e9sentes sont recueillis en vertu de la Loi sur les v\u00e9hicules automobiles du Yukon, L.R.Y. 2002, ch.153 (dans sa version modifi\u00e9e), et en",
+        "type": "boolean"
+      },
+      "291": {
+        "description": "conformit\u00e9 avec la Loi sur l\u2019acc\u00e8s \u00e0 l\u2019information et la protection de la vie priv\u00e9e du Yukon, L.R.Y. 2002, ch. 1 (dans sa version modifi\u00e9e). En fournissant lesdits renseignements, vous consentez",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

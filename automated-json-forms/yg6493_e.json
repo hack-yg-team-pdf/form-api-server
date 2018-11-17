@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "275": {
+        "description": "STEP position title:",
+        "type": "string"
+      },
+      "276": {
+        "description": "Total hours",
+        "type": "string"
+      },
+      "277": {
+        "description": "Employee name:",
+        "type": "string"
+      },
+      "280": {
+        "description": "Name of organization:",
+        "type": "string"
+      },
+      "281": {
+        "description": "Employer contact name:",
+        "type": "string"
+      },
+      "282": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "283": {
+        "description": "employment period indicated.",
+        "type": "string"
+      },
+      "284": {
+        "description": "has been/will be paid their total earnings for the",
+        "type": "string"
+      },
+      "285": {
+        "description": "that the EMPLOYEE for which this subsidy is claimed",
+        "type": "string"
+      },
+      "286": {
+        "description": "CORRECT to the best of my knowledge and further certify",
+        "type": "string"
+      },
+      "287": {
+        "description": "In accordance with the Agreement with the Yukon Government,",
+        "type": "string"
+      },
+      "288": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "289": {
+        "description": "IS PROOF OF PAYROLL ATTACHED? Record of employment must accompany final form.",
+        "type": "string"
+      },
+      "290": {
+        "description": "Have you completed and submitted your employer survey?",
+        "type": "string"
+      },
+      "291": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "298": {
+        "description": "Subsidy remaining  =",
+        "type": "boolean"
+      },
+      "301": {
+        "description": "hours at   =",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

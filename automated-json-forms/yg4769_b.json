@@ -1,0 +1,95 @@
+{
+  "fields": {
+    "properties": {
+      "363": {
+        "description": "To \u2022 \u00c0",
+        "type": "string"
+      },
+      "364": {
+        "description": "of \u2022 de",
+        "type": "string"
+      },
+      "365": {
+        "description": "situated at \u2022 situ\u00e9e \u00e0",
+        "type": "string"
+      },
+      "366": {
+        "description": "Num\u00e9ro d\u2019immatriculation et ann\u00e9e    Territoire, province, \u00c9tat",
+        "type": "string"
+      },
+      "367": {
+        "description": "Territory, province, state",
+        "type": "string"
+      },
+      "368": {
+        "description": "Serial number \u2022 Num\u00e9ro de s\u00e9rie",
+        "type": "string"
+      },
+      "369": {
+        "description": "was impounded on \u2022 a \u00e9t\u00e9 mis en fourri\u00e8re le",
+        "type": "string"
+      },
+      "370": {
+        "description": "D \u2022 J",
+        "type": "string"
+      },
+      "371": {
+        "description": "Y \u2022 A",
+        "type": "string"
+      },
+      "374": {
+        "description": "Name \u2022 Nom",
+        "type": "string"
+      },
+      "375": {
+        "description": "Name \u2022 Nom",
+        "type": "string"
+      },
+      "377": {
+        "description": "Address \u2022 Adresse",
+        "type": "string"
+      },
+      "378": {
+        "description": "Valid vehicle registration",
+        "type": "string"
+      },
+      "379": {
+        "description": "on \u2022 le",
+        "type": "string"
+      },
+      "380": {
+        "description": "D \u2022 J",
+        "type": "boolean"
+      },
+      "381": {
+        "description": "Valid vehicle insurance",
+        "type": "boolean"
+      },
+      "382": {
+        "description": "Assurance du v\u00e9hicule valide",
+        "type": "boolean"
+      },
+      "383": {
+        "description": "Valid operator\u2019s licence",
+        "type": "boolean"
+      },
+      "384": {
+        "description": "Bill of sale",
+        "type": "boolean"
+      },
+      "385": {
+        "description": "mainlev\u00e9e du v\u00e9hicule.",
+        "type": "boolean"
+      },
+      "386": {
+        "description": "Copy 1: Impoundment or immobilization operator                      Copy 2: Registrar of Motor Vehicles",
+        "type": "boolean"
+      },
+      "389": {
+        "description": "Copie 1 : Responsable de la fourri\u00e8re ou de l\u2019immobilisation",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

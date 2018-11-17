@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "38": {
+        "description": "I hereby certify that the foregoing information is true and correct to the best of my knowledge. I am not subject to criminal",
+        "type": "string"
+      },
+      "350": {
+        "description": "All information requested in this application must be provided.  If application is not complete it will be",
+        "type": "string"
+      },
+      "351": {
+        "description": "returned or rejected.  Appropriate annual licence fee must be enclosed.",
+        "type": "string"
+      },
+      "352": {
+        "description": "2.  Home address of Applicant:",
+        "type": "string"
+      },
+      "353": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "354": {
+        "description": "Email address:   Date of birth:",
+        "type": "string"
+      },
+      "355": {
+        "description": "Home telephone number",
+        "type": "string"
+      },
+      "356": {
+        "description": "I am practising in:",
+        "type": "string"
+      },
+      "358": {
+        "description": "4.  Clinic Address:",
+        "type": "string"
+      },
+      "359": {
+        "description": "Mail to Clinic \u2610",
+        "type": "boolean"
+      },
+      "363": {
+        "description": "Are you presently licensed to practise in another jurisdiction?               \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "366": {
+        "description": "Limitations, restrictions or conditions on this licence:       \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "367": {
+        "description": "7.  Annual Practice Hours: please enter the total number of hours you practised during the last licensing year (in Yukon and elsewhere);",
+        "type": "string"
+      },
+      "368": {
+        "description": "Hours",
+        "type": "string"
+      },
+      "369": {
+        "description": "8.  Annual Practice Hours in Yukon only: Please enter only the number of hours you practised in Yukon during the last licensing year:",
+        "type": "string"
+      },
+      "372": {
+        "description": "Hours",
+        "type": "string"
+      },
+      "373": {
+        "description": "contact the Director of Professional Licensing and Regulatory Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "374": {
+        "description": "Personal information contained on this form is collected under the Denturists Act and will be used for the purpose of administering the Act. For further information,",
+        "type": "string"
+      },
+      "375": {
+        "description": "YG(5059EQ)F2 Rev.3/2014",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

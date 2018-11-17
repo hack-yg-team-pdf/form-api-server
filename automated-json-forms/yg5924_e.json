@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "196": {
+        "description": "If applicable, organization name",
+        "type": "string"
+      },
+      "199": {
+        "description": "Payment for the following individuals (name and Yukon licence number)",
+        "type": "string"
+      },
+      "200": {
+        "description": "If applicable, profession",
+        "type": "string"
+      },
+      "201": {
+        "description": "Payment by cheque. Include a copy of this page and the cheque with your application package.",
+        "type": "string"
+      },
+      "202": {
+        "description": "Daytime phone",
+        "type": "string"
+      },
+      "203": {
+        "description": "Select one only:",
+        "type": "string"
+      },
+      "207": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "208": {
+        "description": "Payment by credit card if submitting application package by mail, courier or in person. Do not fill out this",
+        "type": "string"
+      },
+      "209": {
+        "description": "Daytime phone",
+        "type": "string"
+      },
+      "210": {
+        "description": "Alternate phone",
+        "type": "string"
+      },
+      "211": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "212": {
+        "description": "By fax:",
+        "type": "string"
+      },
+      "213": {
+        "description": "Submit completed form:",
+        "type": "string"
+      },
+      "214": {
+        "description": "By email:",
+        "type": "string"
+      },
+      "215": {
+        "description": "Government of Yukon does not permit physical or electronic storage of cardholder data. This information will be destroyed in accordance with Government",
+        "type": "boolean"
+      },
+      "218": {
+        "description": "By mail:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

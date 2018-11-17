@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "53": {
+        "description": "RESPONSE",
+        "type": "string"
+      },
+      "54": {
+        "description": "Plaintiff(s):",
+        "type": "string"
+      },
+      "55": {
+        "description": "1.",
+        "type": "string"
+      },
+      "56": {
+        "description": "2.",
+        "type": "string"
+      },
+      "57": {
+        "description": "2.",
+        "type": "string"
+      },
+      "58": {
+        "description": "Check one box:",
+        "type": "string"
+      },
+      "62": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "63": {
+        "description": "Reference: Section 39 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "64": {
+        "description": "Signature of Party",
+        "type": "boolean"
+      },
+      "67": {
+        "description": "Print name",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

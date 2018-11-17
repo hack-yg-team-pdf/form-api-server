@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "257": {
+        "description": "2. Business address:",
+        "type": "string"
+      },
+      "258": {
+        "description": "1. Corporation name:                                                                                                                                               Licence Number:",
+        "type": "string"
+      },
+      "260": {
+        "description": "Province/Territory \u2022 Province/territoire",
+        "type": "string"
+      },
+      "261": {
+        "description": "Num\u00e9ro de t\u00e9l\u00e9phone:",
+        "type": "string"
+      },
+      "262": {
+        "description": "3. Phone number:",
+        "type": "string"
+      },
+      "264": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "265": {
+        "description": ".",
+        "type": "string"
+      },
+      "266": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "267": {
+        "description": "Signature of Applicant",
+        "type": "string"
+      },
+      "268": {
+        "description": "Renewal Fee: $50.00",
+        "type": "string"
+      },
+      "269": {
+        "description": "Veuillez faire votre ch\u00e8que \u00e0 l\u2019ordre du gouvernement du Yukon, ou fournir les renseignements demand\u00e9s ci-dessous remplissez",
+        "type": "string"
+      },
+      "270": {
+        "description": "Personal information contained on this form is collected under the Dental Profession Act and will",
+        "type": "boolean"
+      },
+      "273": {
+        "description": "Les renseignements personnels demand\u00e9s dans les pr\u00e9sentes sont recueillis en vertu de la Loi sur",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

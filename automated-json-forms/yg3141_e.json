@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "65": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "66": {
+        "description": "Plaintiff(s) :                       (Name)",
+        "type": "string"
+      },
+      "67": {
+        "description": "1.",
+        "type": "string"
+      },
+      "68": {
+        "description": "1.",
+        "type": "string"
+      },
+      "69": {
+        "description": "2.",
+        "type": "string"
+      },
+      "70": {
+        "description": "TAKE NOTICE THAT THE TRIAL OF THIS ACTION will be held on :",
+        "type": "string"
+      },
+      "71": {
+        "description": "TIME :",
+        "type": "string"
+      },
+      "72": {
+        "description": "LOCATION OF COURT :",
+        "type": "string"
+      },
+      "73": {
+        "description": "at  , Yukon",
+        "type": "string"
+      },
+      "74": {
+        "description": "YG(3141QE)F2 Rev. 12/2015",
+        "type": "string"
+      },
+      "76": {
+        "description": "Dated this  day of  , 20",
+        "type": "string"
+      },
+      "77": {
+        "description": "Reference : Section 51 Small Claims Court Regulations",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "TAKE NOTICE: IF YOU FAIL TO APPEAR, THIS ACTION MAY BE DISPOSED OF WITHOUT FURTHER",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

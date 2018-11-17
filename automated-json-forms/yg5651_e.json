@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "34": {
+        "description": "Signature of lawyer, Notary Public or Commissioner for Taking Affidavits",
+        "type": "string"
+      },
+      "35": {
+        "description": "Declared before me at",
+        "type": "string"
+      },
+      "37": {
+        "description": "APPLICANT BORN IN YUKON?",
+        "type": "boolean"
+      },
+      "38": {
+        "description": "application, or in connection with an application for a copy of a birth registration, or other records under Part 5 of the Child and Family Services Act",
+        "type": "string"
+      },
+      "39": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "42": {
+        "description": "Fax: 867-393-6204",
+        "type": "boolean"
+      },
+      "46": {
+        "description": "office in advance to determine this fee.",
+        "type": "string"
+      },
+      "48": {
+        "description": "I make this solemn declaration conscientiously believing it to be true, and knowing that it is of the same force and effect as if made under oath.",
+        "type": "string"
+      },
+      "52": {
+        "description": "from Family and Children\u2019s Services, or for filing a disclosure veto, or no-contact declaration.",
+        "type": "string"
+      },
+      "56": {
+        "description": "INFORMATION ABOUT THE PERSON APPLYING",
+        "type": "string"
+      },
+      "57": {
+        "description": "NOTE: legislation allows those who are specifically authorized to witness signatures to charge a fee for this service.  You may wish to check with the",
+        "type": "string"
+      },
+      "58": {
+        "description": "A person who contravenes this section of the Act commits an offence and is liable on conviction to a fine of up to $10,000 or up to one year of",
+        "type": "string"
+      },
+      "59": {
+        "description": "GIVEN NAME(S)",
+        "type": "string"
+      },
+      "61": {
+        "description": "MAKING A FALSE STATEMENT:",
+        "type": "string"
+      },
+      "64": {
+        "description": "The information on this form is collected under the authority of the Child and Family Services Act (Sec. 144). The information will be used to fulfill the",
+        "type": "boolean"
+      },
+      "65": {
+        "description": "Telephone: 867-667-3002",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

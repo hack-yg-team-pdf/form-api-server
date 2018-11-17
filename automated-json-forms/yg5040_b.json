@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "75": {
+        "description": "Mining District",
+        "type": "string"
+      },
+      "78": {
+        "description": "Applicant\u2019s Full Name",
+        "type": "string"
+      },
+      "79": {
+        "description": "Applicant\u2019s Full Mailing Address",
+        "type": "string"
+      },
+      "80": {
+        "description": "Num\u00e9ro de t\u00e9l\u00e9phone du requ\u00e9rant : (domicile)  (travail)",
+        "type": "string"
+      },
+      "81": {
+        "description": "City \u2022 Ville",
+        "type": "string"
+      },
+      "82": {
+        "description": "Applicant\u2019s Phone no: (home)",
+        "type": "string"
+      },
+      "83": {
+        "description": "Claim Owner(s) Full Name (if different from applicant)",
+        "type": "string"
+      },
+      "84": {
+        "description": "NOTA:",
+        "type": "string"
+      },
+      "85": {
+        "description": "NOTE:",
+        "type": "string"
+      },
+      "86": {
+        "description": "Veuillez utiliser un formulaire par concession.",
+        "type": "string"
+      },
+      "87": {
+        "description": "Please use separate form for additional claims.",
+        "type": "string"
+      },
+      "88": {
+        "description": "There must be sufficient excess work credits filed with the Mining Recorder in order for claims to be renewed using this form.",
+        "type": "string"
+      },
+      "89": {
+        "description": "Il doit y avoir un nombre de cr\u00e9dits de travail en surplus suffisant inscrits aupr\u00e8s du Registraire minier pour que ce formulaire puisse \u00eatre",
+        "type": "string"
+      },
+      "90": {
+        "description": "utilis\u00e9 pour le renouvellement des concessions.",
+        "type": "string"
+      },
+      "91": {
+        "description": "Signature of Applicant (Owner or Agent)",
+        "type": "string"
+      },
+      "92": {
+        "description": "YG(5040Q) F1 04/2003",
+        "type": "string"
+      },
+      "93": {
+        "description": "des Mines et des Ressources, Ressources mini\u00e8res, C.P. 2703, Whitehorse (Yukon), Y1A 2C6, (867) 667-3190.",
+        "type": "string"
+      },
+      "94": {
+        "description": "administration. Veuillez adresser toute demande concernant la collecte ou l\u2019utilisation de ces renseignements au bureau du registraire minier, minist\u00e8re de l\u2019\u00c9nergie,",
+        "type": "string"
+      },
+      "95": {
+        "description": "Signature du requ\u00e9rant (Propri\u00e9taire ou mandataire)",
+        "type": "string"
+      },
+      "96": {
+        "description": "Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "string"
+      },
+      "97": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Placer Mining Act. Questions",
+        "type": "string"
+      },
+      "98": {
+        "description": "about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines and",
+        "type": "string"
+      },
+      "99": {
+        "description": "Date",
+        "type": "string"
+      },
+      "100": {
+        "description": "Les renseignements personnels fournis dans les pr\u00e9sentes sont recueillis en application de la Loi sur l\u2019extraction de l\u2019or dans le Yukon exclusivement aux fins de son",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

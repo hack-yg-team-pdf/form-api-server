@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "69": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "70": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "71": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "72": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "73": {
+        "description": "Nom de chaque associ\u00e9 signataire (lorsqu\u2019un associ\u00e9 n\u2019est pas un particulier, inscrire le nom et le titre de chaque",
+        "type": "string"
+      },
+      "74": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "75": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "76": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "77": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "78": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "79": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "82": {
+        "description": "8.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "86": {
+        "description": "used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "87": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will be",
+        "type": "boolean"
+      },
+      "97": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "98": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "921": {
+        "description": "1.  Name of partnership / D\u00e9nomination sociale de la soci\u00e9t\u00e9 :",
+        "type": "string"
+      },
+      "922": {
+        "description": "3.  Prescribed profession which one or more partners practice in Yukon :",
+        "type": "string"
+      },
+      "923": {
+        "description": "le num\u00e9ro d\u2019enregistrement au Yukon de l\u2019associ\u00e9 et le nom de chaque particulier qui exerce la profession au nom de",
+        "type": "string"
+      },
+      "924": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "925": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "926": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "927": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "928": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "929": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "930": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "931": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "932": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "933": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "934": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "935": {
+        "description": "Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "936": {
+        "description": "Name of partner who is not an individual",
+        "type": "string"
+      },
+      "937": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "938": {
+        "description": "D\u00e9nomination sociale si un associ\u00e9 n\u2019est pas un particulier",
+        "type": "string"
+      },
+      "939": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "940": {
+        "description": "Last name and first name of the individual signing for the partner",
+        "type": "string"
+      },
+      "941": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

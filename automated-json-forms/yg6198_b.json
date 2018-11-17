@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "47": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will be",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "50": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "51": {
+        "description": "Last name and first name of the individual signing for the person",
+        "type": "string"
+      },
+      "53": {
+        "description": "Director, officer, or authorized agent",
+        "type": "string"
+      },
+      "54": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "55": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "56": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "57": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "58": {
+        "description": "Signature of person using business name",
+        "type": "string"
+      },
+      "61": {
+        "description": "used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "62": {
+        "description": "6.  Person using the business name (if person is not an individual, include Yukon registry number, name and title of",
+        "type": "string"
+      },
+      "63": {
+        "description": "Name of person who is not an individual",
+        "type": "string"
+      },
+      "64": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "73": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "74": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "75": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "76": {
+        "description": "Effective date of change :",
+        "type": "string"
+      },
+      "842": {
+        "description": "1.  Business name / D\u00e9nomination sociale :",
+        "type": "string"
+      },
+      "843": {
+        "description": "3.  Date of original declaration of partnership and date of last renewal:",
+        "type": "string"
+      },
+      "844": {
+        "description": "Date d\u2019enregistrement de la d\u00e9claration d\u2019association originale et date du dernier renouvellement :",
+        "type": "string"
+      },
+      "845": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "852": {
+        "description": "Effective date of change :",
+        "type": "string"
+      },
+      "853": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "854": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "855": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "856": {
+        "description": "5.  The mailing address of the business is the same as in :",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

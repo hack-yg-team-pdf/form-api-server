@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "50": {
+        "description": "Distance from closest community?",
+        "type": "string"
+      },
+      "51": {
+        "description": "What is the closest community?",
+        "type": "string"
+      },
+      "52": {
+        "description": "c) Planned solid waste disposal (garbage, etc.)",
+        "type": "string"
+      },
+      "53": {
+        "description": "page 3",
+        "type": "string"
+      },
+      "54": {
+        "description": "b) Describe the type of improvements (clearing, fencing, buildings, etc.) you plan over a seven year period and indicate what",
+        "type": "string"
+      },
+      "55": {
+        "description": "5. Water supply and waste disposal (Please describe the following)",
+        "type": "string"
+      },
+      "56": {
+        "description": "b) Planned sewage and liquid waste disposal",
+        "type": "string"
+      },
+      "57": {
+        "description": "preliminary accepted.",
+        "type": "string"
+      },
+      "58": {
+        "description": "8.",
+        "type": "string"
+      },
+      "63": {
+        "description": "a)",
+        "type": "boolean"
+      },
+      "65": {
+        "description": "Joint tenancy (upon the death of one, the whole share will pass to the other individual)",
+        "type": "boolean"
+      },
+      "66": {
+        "description": "9. Tenants",
+        "type": "string"
+      },
+      "67": {
+        "description": "\u2022 You will be advised within 10 days of submitting this application if there are immediate obvious reasons why it cannot be",
+        "type": "boolean"
+      },
+      "68": {
+        "description": "b) Tenancy in common (upon the death of one individual, the deceased\u2019s share will pass to his or her estate)",
+        "type": "boolean"
+      },
+      "113": {
+        "description": "Name(s)",
+        "type": "string"
+      },
+      "114": {
+        "description": "or corporate name",
+        "type": "string"
+      },
+      "115": {
+        "description": "Address",
+        "type": "string"
+      },
+      "116": {
+        "description": "N\u00b0 de t\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "117": {
+        "description": "Telephone",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

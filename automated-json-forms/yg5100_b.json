@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "Si vous avez des questions, communiquez avec Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires par t\u00e9l\u00e9phone au (867) 667-5111, par",
+        "type": "boolean"
+      },
+      "39": {
+        "description": "Nom de l\u2019administrateur \u2022 EN LETTRES MOUL\u00c9ES",
+        "type": "string"
+      },
+      "47": {
+        "description": "Director \u2022 PLEASE PRINT",
+        "type": "string"
+      },
+      "48": {
+        "description": "in Yukon, this                                                                           day of                                                                    ,20                        .",
+        "type": "string"
+      },
+      "49": {
+        "description": "Director \u2022 SIGNATURE",
+        "type": "string"
+      },
+      "50": {
+        "description": "au Yukon, ce  jour de/d\u2019  20  .",
+        "type": "string"
+      },
+      "51": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "52": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609 or e-mail PLRA@gov.yk.ca for inquiries.",
+        "type": "boolean"
+      },
+      "388": {
+        "description": "hereby certify that the information and particulars to follow are",
+        "type": "string"
+      },
+      "389": {
+        "description": "a dentist duly registered pursuant to the Dental Profession",
+        "type": "string"
+      },
+      "390": {
+        "description": "provisions of the Dental Profession Act.",
+        "type": "string"
+      },
+      "391": {
+        "description": "complete and correct:",
+        "type": "string"
+      },
+      "392": {
+        "description": "certifie par les pr\u00e9sentes que les informations et les",
+        "type": "string"
+      },
+      "393": {
+        "description": "Je, \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+        "type": "string"
+      },
+      "394": {
+        "description": "4.  The following dentists are directors of the Corporation:",
+        "type": "string"
+      },
+      "395": {
+        "description": "Les dentistes nomm\u00e9s ci-dessous composent le conseil d\u2019administration de la soci\u00e9t\u00e9:",
+        "type": "string"
+      },
+      "396": {
+        "description": "Name",
+        "type": "string"
+      },
+      "397": {
+        "description": "Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "398": {
+        "description": "affaires r\u00e9glementaires \u00e0 :(867) 667-5111 ou, sans frais au Yukon, au",
+        "type": "string"
+      },
+      "399": {
+        "description": "further information, contact the Director of Professional Licensing and Regulatory",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

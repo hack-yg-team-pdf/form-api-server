@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "255": {
+        "description": "3.  Date corporation was dissolved :",
+        "type": "string"
+      },
+      "256": {
+        "description": "Date de dissolution de la soci\u00e9t\u00e9 par actions :",
+        "type": "string"
+      },
+      "257": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "262": {
+        "description": "6.  Interest of applicant in the corporation (see definition of \u201cinterested person\u201d in section 1 of the Business",
+        "type": "string"
+      },
+      "263": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "264": {
+        "description": "7.  Mailing address of applicant / Adresse postale du requ\u00e9rant :",
+        "type": "string"
+      },
+      "265": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "266": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "267": {
+        "description": "8.  Signature of applicant / Signature du requ\u00e9rant :",
+        "type": "string"
+      },
+      "268": {
+        "description": "examine the information contained in this public registry, and make copies or extracts thereof. For further information, contact the Manager, Corporate",
+        "type": "string"
+      },
+      "269": {
+        "description": "YYYY/AAAA           MM/MM",
+        "type": "string"
+      },
+      "270": {
+        "description": "Les renseignements personnels contenus dans la pr\u00e9sente formule sont recueillis sous le r\u00e9gime de la Loi sur les soci\u00e9t\u00e9s par actions, LRY 2002,",
+        "type": "boolean"
+      },
+      "273": {
+        "description": "ch. 20. Ils seront utilis\u00e9s aux fins de cette loi et de ses r\u00e8glements et \u00e0 d\u2019autres fins l\u00e9gitimes, notamment pour constituer un registre public. Il est",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

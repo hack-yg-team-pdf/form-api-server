@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "237": {
+        "description": "Number of sections cleaned:",
+        "type": "string"
+      },
+      "238": {
+        "description": "I,  (group supervisor, print name), certify that our organization has completely",
+        "type": "string"
+      },
+      "239": {
+        "description": "cleaned the assigned area(s) and have returned the safety apparel, signs, and unused garbage bags to TMB",
+        "type": "string"
+      },
+      "240": {
+        "description": "Maintenance and Planning or the local Highway Foreman, and have removed all garbage to an appropriate disposal site.",
+        "type": "string"
+      },
+      "241": {
+        "description": "Signature:",
+        "type": "string"
+      },
+      "242": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "243": {
+        "description": "Please make cheque payable to:",
+        "type": "string"
+      },
+      "244": {
+        "description": "Name of non-profit organization",
+        "type": "string"
+      },
+      "245": {
+        "description": "Contact phone",
+        "type": "string"
+      },
+      "246": {
+        "description": "Group registry #",
+        "type": "string"
+      },
+      "247": {
+        "description": "Comments:",
+        "type": "string"
+      },
+      "248": {
+        "description": "In compliance",
+        "type": "string"
+      },
+      "249": {
+        "description": "DEPARTMENT USE ONLY",
+        "type": "string"
+      },
+      "252": {
+        "description": "Authorized by: Project Inspector  Authorized Officer Section 24 (Commitment Authority)",
+        "type": "string"
+      },
+      "253": {
+        "description": "(address to which donation should be sent)",
+        "type": "string"
+      },
+      "254": {
+        "description": "Approved by: Project Manager, M & P  Authorized Officer Section 29 (Certification Authority)",
+        "type": "string"
+      },
+      "255": {
+        "description": "Batch #",
+        "type": "string"
+      },
+      "256": {
+        "description": "Coding: 551-260001-0208-7228-0921",
+        "type": "string"
+      },
+      "257": {
+        "description": "Date",
+        "type": "string"
+      },
+      "258": {
+        "description": "Approved by: Authorized Officer   Authorized Officer Section 30 (Payment Authority)",
+        "type": "string"
+      },
+      "259": {
+        "description": "Date",
+        "type": "string"
+      },
+      "260": {
+        "description": "The personal information gathered on this form is collected under the authority of s29(c) of the Access to Information and Protection of Privacy Act and will be used for the",
+        "type": "boolean"
+      },
+      "263": {
+        "description": "purposes of administering any Yukon highway right-of-way under the Highways Act and associated regulations. All collected information will be managed in accordance",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

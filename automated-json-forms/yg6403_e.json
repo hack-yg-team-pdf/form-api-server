@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "180": {
+        "description": "MEP File #",
+        "type": "string"
+      },
+      "181": {
+        "description": "Account number:     Branch transit number:",
+        "type": "string"
+      },
+      "184": {
+        "description": "Branch mailing address:",
+        "type": "string"
+      },
+      "185": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "186": {
+        "description": "STREET OR BOX NUMBER",
+        "type": "string"
+      },
+      "188": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "189": {
+        "description": "TERRITORY/PROVINCE",
+        "type": "string"
+      },
+      "191": {
+        "description": "Name:        Signature:",
+        "type": "string"
+      },
+      "192": {
+        "description": "Name(s) on account:",
+        "type": "string"
+      },
+      "194": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "195": {
+        "description": "or",
+        "type": "string"
+      },
+      "200": {
+        "description": "The information on this form is collected under the authority of the Maintenance Enforcement Act (Sec. 6). The information will be used to fulfill the requirements of the Maintenance Enforcement Act for",
+        "type": "boolean"
+      },
+      "202": {
+        "description": "the enforcement of maintenance orders or agreements and managed in accordance with the Access to Information and Protection of Privacy Act. If you have any questions about the collection or use of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

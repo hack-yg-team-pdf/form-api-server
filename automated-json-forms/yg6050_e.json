@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "258": {
+        "description": "Other events / achievements / training / certification",
+        "type": "string"
+      },
+      "263": {
+        "description": "IDENTIFICATION",
+        "type": "string"
+      },
+      "265": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "267": {
+        "description": "Note: \u2018outcome\u2019 column should be used to indicate the result, certification or achievement",
+        "type": "string"
+      },
+      "269": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "270": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "272": {
+        "description": "Event/activity",
+        "type": "string"
+      },
+      "274": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "275": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "276": {
+        "description": "Purpose",
+        "type": "string"
+      },
+      "278": {
+        "description": "YG(6050EQ)F4 Rev.11/2018",
+        "type": "string"
+      },
+      "283": {
+        "description": "competition",
+        "type": "string"
+      },
+      "285": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "287": {
+        "description": "Location",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

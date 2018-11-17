@@ -1,0 +1,283 @@
+{
+  "fields": {
+    "properties": {
+      "115": {
+        "description": "City",
+        "type": "boolean"
+      },
+      "116": {
+        "description": "I hereby certify that I am a:",
+        "type": "string"
+      },
+      "117": {
+        "description": "Lawyer \u2013 Law Society of Yukon",
+        "type": "boolean"
+      },
+      "118": {
+        "description": "Birth - long form (includes parental information)",
+        "type": "boolean"
+      },
+      "120": {
+        "description": "$10 fee to amend registration of birth",
+        "type": "string"
+      },
+      "122": {
+        "description": "Cash (in person)",
+        "type": "boolean"
+      },
+      "123": {
+        "description": "at 1-867-667-5207 or toll free (Yukon Only) 1-800-661-0408 extension 5207 to provide details.",
+        "type": "string"
+      },
+      "124": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "125": {
+        "description": "(Do not send cash in the mail)                                                     (Drawn on a Canadian bank)",
+        "type": "string"
+      },
+      "127": {
+        "description": "Mailing Address (street address or postal box #)",
+        "type": "string"
+      },
+      "128": {
+        "description": "Province/State Country",
+        "type": "string"
+      },
+      "129": {
+        "description": "Signature of confirminig adult                                                      Date",
+        "type": "string"
+      },
+      "130": {
+        "description": "I confirm that I have met with , and in my opinion the young person",
+        "type": "string"
+      },
+      "131": {
+        "description": "Cheque",
+        "type": "boolean"
+      },
+      "135": {
+        "description": "Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "137": {
+        "description": "5. CONFIRMING ADULT\u2019S STATEMENT",
+        "type": "boolean"
+      },
+      "138": {
+        "description": "Medical practitioner \u2013 YMC information:",
+        "type": "string"
+      },
+      "139": {
+        "description": "4. CERTIFICATES REQUESTED",
+        "type": "string"
+      },
+      "140": {
+        "description": "Registered nurse \u2013 YRNA registration:",
+        "type": "string"
+      },
+      "141": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "142": {
+        "description": "School Counsellor \u2013 Name of Yukon school:",
+        "type": "boolean"
+      },
+      "143": {
+        "description": "Psychologist \u2013 Name of licensing/registering body:",
+        "type": "string"
+      },
+      "144": {
+        "description": "Social Worker \u2013 Qualifications and/or experience acceptable to the Registrar:",
+        "type": "boolean"
+      },
+      "145": {
+        "description": "If you are requesting a new certificate:",
+        "type": "string"
+      },
+      "146": {
+        "description": "Chief or councillor \u2013 Name of Yukon First Nation:",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "Birth - short form (individual information only)",
+        "type": "string"
+      },
+      "149": {
+        "description": "Male to Female  OR",
+        "type": "string"
+      },
+      "153": {
+        "description": "must be accompanied by the required fee in Canadian dollars.",
+        "type": "boolean"
+      },
+      "154": {
+        "description": "would like a notation of change of sex on their birth registration from:",
+        "type": "string"
+      },
+      "155": {
+        "description": "Nurse Practitioner \u2013 YRNA registration:",
+        "type": "boolean"
+      },
+      "157": {
+        "description": "(PRINT NAME OF YOUNG PERSON)",
+        "type": "string"
+      },
+      "158": {
+        "description": "Teacher \u2013 Yukon school:",
+        "type": "boolean"
+      },
+      "159": {
+        "description": "Forms of Payment",
+        "type": "boolean"
+      },
+      "160": {
+        "description": "Full Legal Name of Confirming Adult",
+        "type": "boolean"
+      },
+      "161": {
+        "description": "Applications in the form required by the Registrar of Vital Statistics",
+        "type": "string"
+      },
+      "162": {
+        "description": "$10 fee to obtain a new birth certificate",
+        "type": "boolean"
+      },
+      "163": {
+        "description": "Page 2 of 3",
+        "type": "boolean"
+      },
+      "164": {
+        "description": "Money Order",
+        "type": "boolean"
+      },
+      "165": {
+        "description": "If you are paying by credit card please attend at the Vital Statistics Office or phone the office",
+        "type": "string"
+      },
+      "794": {
+        "description": "1. APPLICANT INFORMATION (A person who has custody or is authorized by the Supreme Court applying for the young person)",
+        "type": "string"
+      },
+      "797": {
+        "description": "Relationship to Young Person",
+        "type": "string"
+      },
+      "798": {
+        "description": "Mailing Address (street address or postal box #)",
+        "type": "string"
+      },
+      "799": {
+        "description": "Y Y Y Y / M M / D D",
+        "type": "string"
+      },
+      "800": {
+        "description": "Surname of young person (as stated on current registration of birth) Given Names",
+        "type": "string"
+      },
+      "801": {
+        "description": "Province/State Country",
+        "type": "string"
+      },
+      "802": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "803": {
+        "description": "Male",
+        "type": "string"
+      },
+      "804": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "809": {
+        "description": "2. DETAILS OF BIRTH OF YOUNG PERSON AS CURRENTLY REGISTERED",
+        "type": "string"
+      },
+      "810": {
+        "description": "Place of Birth (city, town, village)",
+        "type": "string"
+      },
+      "813": {
+        "description": "3. The written consent of all persons having custody of the young person and/or the Supreme Court Order",
+        "type": "string"
+      },
+      "814": {
+        "description": "change of sex on their registration of birth and the young person would like to make the change.",
+        "type": "string"
+      },
+      "815": {
+        "description": "Female",
+        "type": "string"
+      },
+      "816": {
+        "description": "Surname of Parent (as stated on your current registration of birth)       Given Name",
+        "type": "string"
+      },
+      "817": {
+        "description": "Surname of Parent (as stated on your current registration of birth)       Given Name",
+        "type": "string"
+      },
+      "818": {
+        "description": "Surname of Parent (as stated on your current registration of birth)       Given Name",
+        "type": "string"
+      },
+      "819": {
+        "description": "Birthplace of Parent",
+        "type": "string"
+      },
+      "820": {
+        "description": "Surname of Parent (as stated on your current registration of birth)       Given Name",
+        "type": "string"
+      },
+      "821": {
+        "description": "Male to Female  OR",
+        "type": "string"
+      },
+      "822": {
+        "description": "Birthplace of Parent",
+        "type": "string"
+      },
+      "823": {
+        "description": "3. WRITTEN DECLARATION BY APPLICANT",
+        "type": "string"
+      },
+      "824": {
+        "description": "Female to Male",
+        "type": "string"
+      },
+      "825": {
+        "description": "Birthplace of Parent",
+        "type": "string"
+      },
+      "826": {
+        "description": "2. I confirm that the young person meets all of the criteria in section 12(2) of the Vital Statistics Act to make a",
+        "type": "string"
+      },
+      "827": {
+        "description": "(PRINT NAME OF YOUNG PERSON)",
+        "type": "string"
+      },
+      "828": {
+        "description": "from:",
+        "type": "string"
+      },
+      "829": {
+        "description": "(PRINT FULL LEGAL NAME)",
+        "type": "string"
+      },
+      "830": {
+        "description": "1. I make this application to make a notation of change of sex on the birth registration of",
+        "type": "string"
+      },
+      "833": {
+        "description": "(if 12 years of age or over)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

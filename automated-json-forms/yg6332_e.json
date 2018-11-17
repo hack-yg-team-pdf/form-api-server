@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "Applicant\u2019s Name:",
+        "type": "string"
+      },
+      "42": {
+        "description": "From:              /         /          (yyyy-mm-dd) to              /         /          (yyyy-mm-dd)",
+        "type": "string"
+      },
+      "43": {
+        "description": "I solemnly declare that:",
+        "type": "string"
+      },
+      "44": {
+        "description": "1.  The program in which I am enrolled is not available in my home community; and",
+        "type": "string"
+      },
+      "45": {
+        "description": "I must maintain a residence in both my home community and in the community where I will be attending",
+        "type": "string"
+      },
+      "46": {
+        "description": "In the event that I no longer maintain two residences, I will immediately inform the Department of Education,",
+        "type": "string"
+      },
+      "47": {
+        "description": "Student Financial Assistance Office.",
+        "type": "string"
+      },
+      "48": {
+        "description": "Print Name:",
+        "type": "string"
+      },
+      "49": {
+        "description": "Collection and Use of Information: We are collecting this personal information to determine and verify the applicant\u2019s eligibility for financial assistance",
+        "type": "boolean"
+      },
+      "52": {
+        "description": "in accordance with the Student Training Allowance Regulations (Yukon). The collection, use and disclosure of personal information is done under",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

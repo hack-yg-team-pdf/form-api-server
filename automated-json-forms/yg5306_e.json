@@ -1,0 +1,135 @@
+{
+  "fields": {
+    "properties": {
+      "17": {
+        "description": "Legal Name of Holder",
+        "type": "string"
+      },
+      "19": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "21": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "22": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "24": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "26": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "28": {
+        "description": "Legal Name of Holder",
+        "type": "string"
+      },
+      "29": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "32": {
+        "description": "Legal Name of Holder",
+        "type": "string"
+      },
+      "33": {
+        "description": "H. DISCLAIMER",
+        "type": "string"
+      },
+      "34": {
+        "description": "Legal Name of Holder",
+        "type": "string"
+      },
+      "35": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "37": {
+        "description": "Legal Name of Holder",
+        "type": "string"
+      },
+      "39": {
+        "description": "Date Received:              /         /              Time Received:",
+        "type": "string"
+      },
+      "40": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "41": {
+        "description": "If there is any conflict or inconsistency between this form or the document entitled Guidelines: Disposition Surrender",
+        "type": "string"
+      },
+      "42": {
+        "description": "Branch File #     Record #:",
+        "type": "string"
+      },
+      "48": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "51": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "52": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "53": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      },
+      "401": {
+        "description": "E. DESCRIPTION OF LOCATION",
+        "type": "string"
+      },
+      "402": {
+        "description": "D. DISPOSITION",
+        "type": "string"
+      },
+      "408": {
+        "description": "G. HOLDERS",
+        "type": "string"
+      },
+      "409": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "410": {
+        "description": "Capacity",
+        "type": "string"
+      },
+      "411": {
+        "description": "Legal Name of Holder",
+        "type": "string"
+      },
+      "412": {
+        "description": "Legal Name of Holder",
+        "type": "string"
+      },
+      "413": {
+        "description": "Oil and Gas Act Section 28(1) and Oil and Gas Disposition Regulations Section 23. Personal information on this form is collected under the authority of",
+        "type": "string"
+      },
+      "414": {
+        "description": "Client I.D.",
+        "type": "string"
+      },
+      "415": {
+        "description": "section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "416": {
+        "description": "YG(5306EQ)F2 Rev.06/2017",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

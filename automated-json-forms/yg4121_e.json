@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "63": {
+        "description": "Distance from Community  km",
+        "type": "string"
+      },
+      "64": {
+        "description": "TELL US ABOUT YOU",
+        "type": "string"
+      },
+      "66": {
+        "description": "TELL US WHAT YOU WOULD LIKE DONE",
+        "type": "string"
+      },
+      "67": {
+        "description": "Community",
+        "type": "string"
+      },
+      "68": {
+        "description": "other educational experiences could you provide (e.g. workshops, talks, tours, etc.)?",
+        "type": "string"
+      },
+      "71": {
+        "description": "Nearest Community",
+        "type": "string"
+      },
+      "74": {
+        "description": "4. Benefits to Yukon environment, and quality of life of Yukoners (including economic)",
+        "type": "string"
+      },
+      "75": {
+        "description": "5. What kind of learning opportunities does this project offer to the Y2C2 workers? What skills, safety training, and",
+        "type": "string"
+      },
+      "76": {
+        "description": "2. Project Location",
+        "type": "string"
+      },
+      "77": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "78": {
+        "description": "1. Project Title (8 words maximum)",
+        "type": "string"
+      },
+      "79": {
+        "description": "YG(4121EQ)F4 Rev 01/2018",
+        "type": "string"
+      },
+      "80": {
+        "description": "Address",
+        "type": "string"
+      },
+      "81": {
+        "description": "(attach map if possible)",
+        "type": "string"
+      },
+      "83": {
+        "description": "Telephone (day)",
+        "type": "string"
+      },
+      "84": {
+        "description": "E-mail",
+        "type": "string"
+      },
+      "85": {
+        "description": "3. Brief description of project (200 words maximum)",
+        "type": "string"
+      },
+      "86": {
+        "description": "Youth Programs Coordinator",
+        "type": "boolean"
+      },
+      "87": {
+        "description": "5. What are the potential environmental hazards?",
+        "type": "string"
+      },
+      "90": {
+        "description": "6. How will the potential hazards be improved/prevented?",
+        "type": "string"
+      },
+      "92": {
+        "description": "When are the best dates for completing this project?",
+        "type": "string"
+      },
+      "96": {
+        "description": "If no, how many Green Team workers would be a good fit?    How many days would you need them?",
+        "type": "string"
+      },
+      "97": {
+        "description": "E-mail: Morris.Lamrock@gov.yk.ca",
+        "type": "boolean"
+      },
+      "101": {
+        "description": "2. What equipment is involved/required?",
+        "type": "string"
+      },
+      "102": {
+        "description": "That\u2019s it!  Please submit by April 30 to:",
+        "type": "string"
+      },
+      "103": {
+        "description": "No",
+        "type": "string"
+      },
+      "104": {
+        "description": "4. How will the worksite be safely accessed?",
+        "type": "string"
+      },
+      "105": {
+        "description": "SAFETY FOR OUR YOUTH IS OUR MAIN CONCERN.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

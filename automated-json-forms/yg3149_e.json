@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "properties": {
+      "51": {
+        "description": "The defendant in this action:",
+        "type": "string"
+      },
+      "52": {
+        "description": "TO THE THIRD PARTY:",
+        "type": "string"
+      },
+      "53": {
+        "description": "ENTERED AGAINST YOU. There is a $25.00 fee to file a Reply if you disagree with the third party claim.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

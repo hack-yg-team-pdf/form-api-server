@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "54": {
+        "description": "I, , of",
+        "type": "string"
+      },
+      "57": {
+        "description": "ADDRESS OF PREMISES",
+        "type": "string"
+      },
+      "59": {
+        "description": "hereby consent to the exchange of relevant information between Health and Social Services, Environmental Health",
+        "type": "string"
+      },
+      "61": {
+        "description": "Services and",
+        "type": "string"
+      },
+      "63": {
+        "description": ".",
+        "type": "string"
+      },
+      "65": {
+        "description": "This consent becomes effective  and will be in effect for:",
+        "type": "string"
+      },
+      "66": {
+        "description": "Y Y Y Y  / M M  / D D",
+        "type": "string"
+      },
+      "67": {
+        "description": "12 months",
+        "type": "string"
+      },
+      "76": {
+        "description": "office at (867) 667-8391.",
+        "type": "string"
+      },
+      "77": {
+        "description": "PRINT NAME",
+        "type": "boolean"
+      },
+      "79": {
+        "description": "This consent may be revoked by the undersigned at any time upon written notification to Health and Social Services,",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "370": {
+        "description": "2. Agency Name:",
+        "type": "string"
+      },
+      "371": {
+        "description": "1. Name of Applicant:",
+        "type": "string"
+      },
+      "372": {
+        "description": "License Number:",
+        "type": "string"
+      },
+      "373": {
+        "description": "Business Address:",
+        "type": "string"
+      },
+      "374": {
+        "description": "If yes, give particulars:",
+        "type": "string"
+      },
+      "375": {
+        "description": "Code (Canada)                                                                     Yes        No",
+        "type": "string"
+      },
+      "377": {
+        "description": "a) within the past year been convicted of an offence under the Criminal",
+        "type": "string"
+      },
+      "379": {
+        "description": "assignment in bankruptcy?                                                  Yes        No",
+        "type": "string"
+      },
+      "380": {
+        "description": "Adresse de l\u2019entreprise :",
+        "type": "string"
+      },
+      "381": {
+        "description": "2. Nom de l\u2019agence :",
+        "type": "string"
+      },
+      "382": {
+        "description": "1. Nom du demandeur :",
+        "type": "string"
+      },
+      "383": {
+        "description": "LOI SUR LA PROTECTION DES CONSOMMATEUR",
+        "type": "string"
+      },
+      "384": {
+        "description": "D\u2019UNE AGENCE DE RECOUVREMENT",
+        "type": "string"
+      },
+      "385": {
+        "description": "RENEWAL",
+        "type": "string"
+      },
+      "387": {
+        "description": "la derni\u00e8re ann\u00e9e?                                                                 Oui        Non",
+        "type": "string"
+      },
+      "389": {
+        "description": "a) a \u00e9t\u00e9 d\u00e9clar\u00e9 coupable d\u2019une infraction au Code criminel du Canada",
+        "type": "string"
+      },
+      "390": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "391": {
+        "description": "Fait \u00e0  , le  jour de  , 20",
+        "type": "string"
+      },
+      "392": {
+        "description": ", this                             day of                                                                           , 20         .",
+        "type": "string"
+      },
+      "393": {
+        "description": "Signature of Partner or Authorized Officer \u2022 Signature de l\u2019associ\u00e9 ou du repr\u00e9sentant autoris\u00e9",
+        "type": "string"
+      },
+      "396": {
+        "description": "Name of Partner or Authorized Officer \u2022 Nom de l\u2019associ\u00e9 ou du repr\u00e9sentant autoris\u00e9",
+        "type": "string"
+      },
+      "401": {
+        "description": "Veuillez vous assurer que nous avons en main tous les documents et votre paiement d\u2019ici le 30 juin afin de pouvoir renouveler votre licence.",
+        "type": "string"
+      },
+      "402": {
+        "description": "le formulaire d\u2019informations de paiement YG5924 \u00e0: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "403": {
+        "description": "Personal information contained on this form is collected under the Consumer",
+        "type": "boolean"
+      },
+      "406": {
+        "description": "Les renseignements personnels demand\u00e9s dans les pr\u00e9sentes sont recueillis en",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

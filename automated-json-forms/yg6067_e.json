@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "207": {
+        "description": "Scientific Name:",
+        "type": "string"
+      },
+      "208": {
+        "description": "Common Name:",
+        "type": "string"
+      },
+      "213": {
+        "description": "Phone/Fax:",
+        "type": "string"
+      },
+      "214": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "215": {
+        "description": "Name(s):",
+        "type": "string"
+      },
+      "216": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "217": {
+        "description": "Site Name:                                                                                                          NTS mapsheet #",
+        "type": "string"
+      },
+      "218": {
+        "description": "General location description:",
+        "type": "string"
+      },
+      "230": {
+        "description": "If yes, repository name:",
+        "type": "string"
+      },
+      "231": {
+        "description": "Collection sex",
+        "type": "string"
+      },
+      "236": {
+        "description": "Elevation (include units):",
+        "type": "string"
+      },
+      "237": {
+        "description": "Elevation source:",
+        "type": "string"
+      },
+      "238": {
+        "description": "or in the GPS\u2019s settings. WGS84 is recommended for GPS)",
+        "type": "string"
+      },
+      "239": {
+        "description": "(datum is found below contour interval scale on NTS mapsheets and/",
+        "type": "string"
+      },
+      "242": {
+        "description": "UTM Zone:",
+        "type": "string"
+      },
+      "243": {
+        "description": "UTM Easting:                             Northing:",
+        "type": "string"
+      },
+      "244": {
+        "description": "Longitude:",
+        "type": "string"
+      },
+      "245": {
+        "description": "Location captured as a POINT",
+        "type": "string"
+      },
+      "246": {
+        "description": "Latitude:",
+        "type": "string"
+      },
+      "247": {
+        "description": "Location captured as an AREA (Polygon) (submit digital file or hardcopy map, sketch, etc.)",
+        "type": "string"
+      },
+      "250": {
+        "description": "Google Earth",
+        "type": "string"
+      },
+      "253": {
+        "description": "GPS accuracy:",
+        "type": "string"
+      },
+      "258": {
+        "description": "NTS map scale:",
+        "type": "string"
+      },
+      "259": {
+        "description": "Map Datum used: NAD27 / NAD83 / WGS84 / Other",
+        "type": "string"
+      },
+      "270": {
+        "description": "GPS trackfile accuracy:                                                   trackfile ID:",
+        "type": "string"
+      },
+      "271": {
+        "description": "Paper map with sketch (attach hard copy)",
+        "type": "string"
+      },
+      "276": {
+        "description": "YG(6067EQ)F1 01/2015",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

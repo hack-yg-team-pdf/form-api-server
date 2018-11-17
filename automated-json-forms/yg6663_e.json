@@ -1,0 +1,163 @@
+{
+  "fields": {
+    "properties": {
+      "36": {
+        "description": "ADMINISTRATION DEPOSIT \u2013 RETURNED OR FORFEITED",
+        "type": "boolean"
+      },
+      "37": {
+        "description": "1-800-661-0408 extension 5215.",
+        "type": "string"
+      },
+      "40": {
+        "description": "12",
+        "type": "string"
+      },
+      "42": {
+        "description": "13",
+        "type": "string"
+      },
+      "45": {
+        "description": "Date returned:   Client signature:  Processed by:",
+        "type": "boolean"
+      },
+      "46": {
+        "description": "16",
+        "type": "string"
+      },
+      "47": {
+        "description": "11",
+        "type": "string"
+      },
+      "48": {
+        "description": "10",
+        "type": "string"
+      },
+      "49": {
+        "description": "For further information, contact the Department of Energy, Mines and Resources, Land Management Branch at 867-667-5215 or toll free at",
+        "type": "string"
+      },
+      "50": {
+        "description": "20",
+        "type": "string"
+      },
+      "52": {
+        "description": "17",
+        "type": "string"
+      },
+      "53": {
+        "description": "18",
+        "type": "string"
+      },
+      "54": {
+        "description": "19",
+        "type": "string"
+      },
+      "55": {
+        "description": "8",
+        "type": "string"
+      },
+      "56": {
+        "description": "5",
+        "type": "string"
+      },
+      "57": {
+        "description": "2",
+        "type": "string"
+      },
+      "58": {
+        "description": "7",
+        "type": "string"
+      },
+      "59": {
+        "description": "3",
+        "type": "string"
+      },
+      "60": {
+        "description": "1",
+        "type": "string"
+      },
+      "61": {
+        "description": "15",
+        "type": "string"
+      },
+      "62": {
+        "description": "9",
+        "type": "string"
+      },
+      "63": {
+        "description": "6",
+        "type": "string"
+      },
+      "454": {
+        "description": "APPLICANT INFORMATION",
+        "type": "string"
+      },
+      "455": {
+        "description": "Address",
+        "type": "string"
+      },
+      "456": {
+        "description": "Email",
+        "type": "string"
+      },
+      "457": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "458": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "461": {
+        "description": "Middle name",
+        "type": "string"
+      },
+      "462": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "463": {
+        "description": "First name",
+        "type": "string"
+      },
+      "464": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "465": {
+        "description": "Email",
+        "type": "string"
+      },
+      "466": {
+        "description": "Tenants in common",
+        "type": "string"
+      },
+      "467": {
+        "description": "Tenant type as described in the lottery guidelines:",
+        "type": "string"
+      },
+      "468": {
+        "description": "Joint tenants",
+        "type": "string"
+      },
+      "469": {
+        "description": "For statistical purposes only, please tell us how you heard about this lottery.",
+        "type": "string"
+      },
+      "470": {
+        "description": "1.  I/We have read, understood and agree to comply with the terms of this land lottery sale. I/We agree to enter into a",
+        "type": "string"
+      },
+      "474": {
+        "description": "Government of Yukon Agreement for Sale with the Commissioner of the Yukon Territory with respect to the selected",
+        "type": "string"
+      },
+      "475": {
+        "description": "3.  (Fill in if applicable, otherwise leave blank.) I/We authorize  [print name]",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

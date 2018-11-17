@@ -1,0 +1,175 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "Approval #:",
+        "type": "string"
+      },
+      "40": {
+        "description": "NTS #:",
+        "type": "string"
+      },
+      "41": {
+        "description": "Class:",
+        "type": "string"
+      },
+      "42": {
+        "description": "NAME",
+        "type": "string"
+      },
+      "43": {
+        "description": "ADDRESS",
+        "type": "string"
+      },
+      "44": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "45": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "46": {
+        "description": "TELEPHONE #",
+        "type": "string"
+      },
+      "47": {
+        "description": "FAX #",
+        "type": "string"
+      },
+      "48": {
+        "description": "EMAIL",
+        "type": "string"
+      },
+      "49": {
+        "description": "the Assignee(s) all interest in Operating Plan # entered in the Public Register of the Mining Land Use",
+        "type": "string"
+      },
+      "50": {
+        "description": "ADDRESS",
+        "type": "string"
+      },
+      "51": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "52": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "53": {
+        "description": "FAX #",
+        "type": "string"
+      },
+      "54": {
+        "description": "EMAIL",
+        "type": "string"
+      },
+      "55": {
+        "description": "This agreement acknowledges that in consideration of the sum of dollar(s) and other good",
+        "type": "string"
+      },
+      "56": {
+        "description": "and valuable consideration as paid by the Assignee(s) to the Assignor, the Assignor assigns, transfers and sets over to",
+        "type": "string"
+      },
+      "57": {
+        "description": "ADDRESS",
+        "type": "string"
+      },
+      "58": {
+        "description": "CITY",
+        "type": "string"
+      },
+      "59": {
+        "description": "POSTAL CODE",
+        "type": "string"
+      },
+      "60": {
+        "description": "FAX #",
+        "type": "string"
+      },
+      "61": {
+        "description": "EMAIL",
+        "type": "string"
+      },
+      "62": {
+        "description": "under the authority of operating plan #.",
+        "type": "string"
+      },
+      "63": {
+        "description": "limited to, the operating conditions governing the reclamation of all areas affected by the mining activities conducted",
+        "type": "string"
+      },
+      "64": {
+        "description": "to comply with all provisions in the Quartz Mining Act and the Quartz Mining Land Use Regulation, including, but not",
+        "type": "string"
+      },
+      "65": {
+        "description": "extent as if the operating plan approval had been originally granted to the Assignee(s). Further, the Assignee(s) undertake",
+        "type": "string"
+      },
+      "66": {
+        "description": "The Assignee(s) undertake to assume, on a joint and several liability basis, all obligations contained in operating",
+        "type": "string"
+      },
+      "67": {
+        "description": "plan #, including all amendments thereto, a copy of which is attached to this instrument, to the same",
+        "type": "string"
+      },
+      "68": {
+        "description": "Undertaking by Assignee(s)",
+        "type": "string"
+      },
+      "69": {
+        "description": "that this Assignment, signed and filed in the Mining Land Use office this  day of , 20, with",
+        "type": "string"
+      },
+      "70": {
+        "description": "Effective Date",
+        "type": "string"
+      },
+      "71": {
+        "description": "As per subsection 16(1) of the Quartz Mining Land Use Regulation, both the Assignor and the Assignee(s) acknowledge",
+        "type": "string"
+      },
+      "72": {
+        "description": "Dated this day   of ,20  .",
+        "type": "string"
+      },
+      "73": {
+        "description": "(Assignor)                                        (date)",
+        "type": "string"
+      },
+      "74": {
+        "description": "(Assignee)                                       (date)",
+        "type": "string"
+      },
+      "75": {
+        "description": "Chief, Mining Land Use",
+        "type": "string"
+      },
+      "76": {
+        "description": "Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy,",
+        "type": "string"
+      },
+      "77": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "78": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Quartz Mining Act.",
+        "type": "string"
+      },
+      "79": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "82": {
+        "description": "Mines and Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

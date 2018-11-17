@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "88": {
+        "description": "Plaintiff(s) (name):",
+        "type": "string"
+      },
+      "89": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "90": {
+        "description": "2.",
+        "type": "string"
+      },
+      "91": {
+        "description": "1.",
+        "type": "string"
+      },
+      "92": {
+        "description": "TO THE PLAINTIFF(S):",
+        "type": "string"
+      },
+      "93": {
+        "description": "2.",
+        "type": "string"
+      },
+      "94": {
+        "description": "1.",
+        "type": "string"
+      },
+      "103": {
+        "description": "REASONS FOR COUNTERCLAIM AND DETAILS:",
+        "type": "string"
+      },
+      "104": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "105": {
+        "description": "Phone (867) 667-5619",
+        "type": "string"
+      },
+      "106": {
+        "description": "Print Name",
+        "type": "string"
+      },
+      "107": {
+        "description": "Dawson City Court Registry",
+        "type": "boolean"
+      },
+      "110": {
+        "description": "P.O. Box 651",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

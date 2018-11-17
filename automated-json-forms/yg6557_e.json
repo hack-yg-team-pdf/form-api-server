@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "85": {
+        "description": "Road surface",
+        "type": "boolean"
+      },
+      "88": {
+        "description": "No Location:",
+        "type": "string"
+      },
+      "89": {
+        "description": "Name of applicant / company",
+        "type": "string"
+      },
+      "90": {
+        "description": "Right/left side is determined when looking in direction of increasing Kms",
+        "type": "string"
+      },
+      "95": {
+        "description": "Number of support vehicles Number of work force on hwy",
+        "type": "string"
+      },
+      "96": {
+        "description": "purposes of administering any Yukon highway right-of-way under the Highways Act and associated regulations. All collected information will be managed in accordance",
+        "type": "boolean"
+      },
+      "99": {
+        "description": "DECLARATION",
+        "type": "string"
+      },
+      "100": {
+        "description": "The personal information gathered on this form is collected under the authority of s29(c) of the Access to Information and Protection of Privacy Act and will be used for the",
+        "type": "boolean"
+      },
+      "101": {
+        "description": "No Location:",
+        "type": "string"
+      },
+      "103": {
+        "description": "Proposed schedule:     Start date:      Duration:",
+        "type": "string"
+      },
+      "108": {
+        "description": "LOCATION OF EVENT",
+        "type": "string"
+      },
+      "110": {
+        "description": "Left side",
+        "type": "boolean"
+      },
+      "111": {
+        "description": "Phone number",
+        "type": "string"
+      },
+      "112": {
+        "description": "Right side",
+        "type": "string"
+      },
+      "114": {
+        "description": "Email",
+        "type": "string"
+      },
+      "115": {
+        "description": "Description of event:",
+        "type": "boolean"
+      },
+      "116": {
+        "description": "EVENT DETAILS",
+        "type": "string"
+      },
+      "118": {
+        "description": "Temporary road closure",
+        "type": "string"
+      },
+      "119": {
+        "description": "Complete mailing address",
+        "type": "string"
+      },
+      "120": {
+        "description": "Highway / road name (if not a main or secondary highway, provide normally used road name)",
+        "type": "string"
+      },
+      "124": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "125": {
+        "description": "the signed permit from the Transportation Maintenance Branch will constitute permission to hold the event, subject to",
+        "type": "string"
+      },
+      "128": {
+        "description": "No Location:",
+        "type": "string"
+      },
+      "130": {
+        "description": "the conditions attached to the permit.",
+        "type": "string"
+      },
+      "131": {
+        "description": "No Location:",
+        "type": "string"
+      },
+      "133": {
+        "description": "No Location:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

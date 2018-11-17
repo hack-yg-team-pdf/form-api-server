@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "36": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "37": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "38": {
+        "description": "Signature / Signature",
+        "type": "string"
+      },
+      "40": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "41": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "43": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant, ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "44": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "46": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "49": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "50": {
+        "description": "be used for the purposes of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is",
+        "type": "boolean"
+      },
+      "51": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "52": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "53": {
+        "description": "C",
+        "type": "string"
+      },
+      "54": {
+        "description": "Your personal information contained in this form is collected under the authority of the Partnership and Business Names Act RSY 2002, c.166. It will",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "D",
+        "type": "string"
+      },
+      "778": {
+        "description": "Partnership and Business Names Act Form 1",
+        "type": "string"
+      },
+      "779": {
+        "description": "Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "780": {
+        "description": "3.  Name(s) and signature(s) of all general partner(s) (if a general partner is not an individual, include Yukon registry",
+        "type": "string"
+      },
+      "781": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "782": {
+        "description": "Nom(s) et signtature(s) de tous les commanditaire(s) (si un commanditaire n\u2019est pas un particulier, inscrire le",
+        "type": "string"
+      },
+      "783": {
+        "description": "Postal Code / Code Postal",
+        "type": "string"
+      },
+      "784": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "785": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "786": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "787": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "788": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "789": {
+        "description": "A",
+        "type": "string"
+      },
+      "790": {
+        "description": "Director, officer,or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "791": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "792": {
+        "description": "Name of general partner who is not an individual",
+        "type": "string"
+      },
+      "793": {
+        "description": "First Name of general partner / Pr\u00e9nom du commanditaire",
+        "type": "string"
+      },
+      "794": {
+        "description": "Last Name of general partner / Nom de famille du commanditaire",
+        "type": "string"
+      },
+      "795": {
+        "description": "Yukon Registry Number / Num\u00e9ro d\u2019enregistrement",
+        "type": "string"
+      },
+      "796": {
+        "description": "B",
+        "type": "string"
+      },
+      "797": {
+        "description": "Director, officer,or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "798": {
+        "description": "Signature / Signature",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

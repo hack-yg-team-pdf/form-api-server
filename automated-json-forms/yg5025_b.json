@@ -1,0 +1,659 @@
+{
+  "fields": {
+    "properties": {
+      "284": {
+        "description": "Pumps and Piping Information \u2022 Renseignements sur les pompes et la tuyauterie",
+        "type": "boolean"
+      },
+      "285": {
+        "description": "Fibreglass reinforced plastic (FRP)",
+        "type": "boolean"
+      },
+      "286": {
+        "description": "Steel (plastic coated/yellow jacket)",
+        "type": "boolean"
+      },
+      "287": {
+        "description": "Galvanized Steel",
+        "type": "boolean"
+      },
+      "288": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "289": {
+        "description": "Copper",
+        "type": "boolean"
+      },
+      "290": {
+        "description": "Enviroflex/Bufflex",
+        "type": "boolean"
+      },
+      "291": {
+        "description": "Aboveground tank pressure pump",
+        "type": "boolean"
+      },
+      "292": {
+        "description": "None",
+        "type": "boolean"
+      },
+      "293": {
+        "description": "Autre",
+        "type": "string"
+      },
+      "294": {
+        "description": "No pump",
+        "type": "boolean"
+      },
+      "295": {
+        "description": "Type of pump or pumps \u2022 Type de pompe(s)",
+        "type": "boolean"
+      },
+      "296": {
+        "description": "Dispenser system - submersible turbine or pressure pump",
+        "type": "boolean"
+      },
+      "297": {
+        "description": "Heating oil - suction pump",
+        "type": "boolean"
+      },
+      "298": {
+        "description": "Type of vapour recovery and control \u2022 Dispositif de r\u00e9cup\u00e9ration et de contr\u00f4le des vapeurs",
+        "type": "boolean"
+      },
+      "299": {
+        "description": "Co-axial vapour return line (at fill pipe)",
+        "type": "boolean"
+      },
+      "300": {
+        "description": "Dual point vapour return line (at fill pipe)",
+        "type": "boolean"
+      },
+      "301": {
+        "description": "None",
+        "type": "boolean"
+      },
+      "302": {
+        "description": "inventory control (manual dipping)",
+        "type": "boolean"
+      },
+      "303": {
+        "description": "Automatic tank gauge",
+        "type": "boolean"
+      },
+      "304": {
+        "description": "Interstitial leak detection",
+        "type": "boolean"
+      },
+      "305": {
+        "description": "Monitoring sump",
+        "type": "boolean"
+      },
+      "306": {
+        "description": "Monitoring wells w/instruments",
+        "type": "boolean"
+      },
+      "307": {
+        "description": "Monitoring wells w/visual observation",
+        "type": "boolean"
+      },
+      "308": {
+        "description": "Statistical inventory reconciliation",
+        "type": "boolean"
+      },
+      "309": {
+        "description": "Rapprochement statistique de stock",
+        "type": "boolean"
+      },
+      "310": {
+        "description": "Precision leak test",
+        "type": "boolean"
+      },
+      "311": {
+        "description": "Other compliant element",
+        "type": "boolean"
+      },
+      "312": {
+        "description": "Tank Corrosion Protection \u2022  Protection du r\u00e9servoir contre la corrosion",
+        "type": "string"
+      },
+      "313": {
+        "description": "Vapour monitoring system",
+        "type": "boolean"
+      },
+      "314": {
+        "description": "Other noncompliant element",
+        "type": "string"
+      },
+      "315": {
+        "description": "None",
+        "type": "boolean"
+      },
+      "316": {
+        "description": "Tank with primer coating only",
+        "type": "boolean"
+      },
+      "317": {
+        "description": "Tank with primer coating and enamel paint",
+        "type": "boolean"
+      },
+      "318": {
+        "description": "Other compliant element",
+        "type": "boolean"
+      },
+      "319": {
+        "description": "Autre \u00e9l\u00e9ment conforme",
+        "type": "string"
+      },
+      "320": {
+        "description": "Other noncompliant element",
+        "type": "boolean"
+      },
+      "321": {
+        "description": "Autre \u00e9l\u00e9ment non conforme",
+        "type": "string"
+      },
+      "322": {
+        "description": "Dike present? \u2022 Y a-t-il un merlon?",
+        "type": "boolean"
+      },
+      "323": {
+        "description": "Yes \u2022 Oui",
+        "type": "boolean"
+      },
+      "324": {
+        "description": "Earth only",
+        "type": "boolean"
+      },
+      "325": {
+        "description": "Earth with clay liner",
+        "type": "boolean"
+      },
+      "326": {
+        "description": "Concrete",
+        "type": "boolean"
+      },
+      "327": {
+        "description": "Steel",
+        "type": "boolean"
+      },
+      "328": {
+        "description": "Synthetic membrane liner",
+        "type": "boolean"
+      },
+      "329": {
+        "description": "Double",
+        "type": "boolean"
+      },
+      "330": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "331": {
+        "description": "Autre",
+        "type": "string"
+      },
+      "332": {
+        "description": "Earth only",
+        "type": "boolean"
+      },
+      "333": {
+        "description": "Earth with clay liner",
+        "type": "boolean"
+      },
+      "334": {
+        "description": "Concrete block",
+        "type": "boolean"
+      },
+      "335": {
+        "description": "Synthetic membrane liner",
+        "type": "boolean"
+      },
+      "336": {
+        "description": "Steel",
+        "type": "boolean"
+      },
+      "337": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "338": {
+        "description": "Autre",
+        "type": "string"
+      },
+      "339": {
+        "description": "No dike",
+        "type": "boolean"
+      },
+      "340": {
+        "description": "Earth dike (permeable)",
+        "type": "boolean"
+      },
+      "341": {
+        "description": "Earth dike with impermeable liner or clay under tank",
+        "type": "boolean"
+      },
+      "342": {
+        "description": "Concrete dike walls and floor",
+        "type": "boolean"
+      },
+      "343": {
+        "description": "Double bottom tank within earth dike",
+        "type": "boolean"
+      },
+      "344": {
+        "description": "Other compliant element",
+        "type": "boolean"
+      },
+      "345": {
+        "description": "Autre \u00e9l\u00e9ment conforme",
+        "type": "string"
+      },
+      "346": {
+        "description": "Other noncompliant element",
+        "type": "boolean"
+      },
+      "347": {
+        "description": "Autre \u00e9l\u00e9ment non conforme",
+        "type": "string"
+      },
+      "350": {
+        "description": "None",
+        "type": "boolean"
+      },
+      "351": {
+        "description": "Level gauge with audible and visual alarm",
+        "type": "boolean"
+      },
+      "352": {
+        "description": "Overfill Protection \u2022 Protection contre les d\u00e9bordements",
+        "type": "boolean"
+      },
+      "353": {
+        "description": "High level alarm with automatic shut-off",
+        "type": "boolean"
+      },
+      "354": {
+        "description": "Autre \u00e9l\u00e9ment conforme",
+        "type": "string"
+      },
+      "355": {
+        "description": "Level gauge only",
+        "type": "boolean"
+      },
+      "356": {
+        "description": "Audible and visual alarm (light and horn)",
+        "type": "boolean"
+      },
+      "357": {
+        "description": "Other compliant element",
+        "type": "boolean"
+      },
+      "358": {
+        "description": "Single wall tank with concrete dike walls and floor",
+        "type": "boolean"
+      },
+      "359": {
+        "description": "Single wall tank with concrete dike walls and synthetic membrane liner floor",
+        "type": "boolean"
+      },
+      "360": {
+        "description": "Other noncompliant element",
+        "type": "string"
+      },
+      "361": {
+        "description": "Shop Fabricated Tank \u2022 R\u00e9servoir pr\u00e9fabriqu\u00e9",
+        "type": "boolean"
+      },
+      "362": {
+        "description": "Clay/impermeable liner underneath tank",
+        "type": "boolean"
+      },
+      "363": {
+        "description": "Single wall tank with impermeable liner or clay walls and floor",
+        "type": "boolean"
+      },
+      "364": {
+        "description": "Single wall tank with an earth dike",
+        "type": "boolean"
+      },
+      "365": {
+        "description": "Impermeable liner with double bottom tank",
+        "type": "boolean"
+      },
+      "366": {
+        "description": "Self contained steel tank",
+        "type": "boolean"
+      },
+      "367": {
+        "description": "Concrete encased",
+        "type": "boolean"
+      },
+      "368": {
+        "description": "Double wall tank",
+        "type": "boolean"
+      },
+      "369": {
+        "description": "Other compliant element",
+        "type": "boolean"
+      },
+      "370": {
+        "description": "Indicateur de niveau seulement",
+        "type": "string"
+      },
+      "371": {
+        "description": "Other noncompliant element",
+        "type": "boolean"
+      },
+      "372": {
+        "description": "Fill pipe shut-off device",
+        "type": "string"
+      },
+      "373": {
+        "description": "None",
+        "type": "boolean"
+      },
+      "374": {
+        "description": "Level gauge only",
+        "type": "boolean"
+      },
+      "375": {
+        "description": "Overfill Protection \u2022 Protection contre les d\u00e9bordements",
+        "type": "boolean"
+      },
+      "376": {
+        "description": "sonore (klaxon, vibreur)",
+        "type": "boolean"
+      },
+      "377": {
+        "description": "Level gauge with alarm/pump interlock",
+        "type": "boolean"
+      },
+      "378": {
+        "description": "Audible and visual alarm (light and horn)",
+        "type": "boolean"
+      },
+      "379": {
+        "description": "Audible alarm (including vent whistle)",
+        "type": "boolean"
+      },
+      "380": {
+        "description": "Other compliant element",
+        "type": "boolean"
+      },
+      "381": {
+        "description": "Autre \u00e9l\u00e9ment conforme",
+        "type": "string"
+      },
+      "382": {
+        "description": "Other noncompliant element",
+        "type": "boolean"
+      },
+      "383": {
+        "description": "Location of wells \u2022 Emplacement des puits",
+        "type": "string"
+      },
+      "384": {
+        "description": "Present \u2022 Y a-t-il des puits?",
+        "type": "boolean"
+      },
+      "385": {
+        "description": "Yes \u2022 Oui",
+        "type": "boolean"
+      },
+      "386": {
+        "description": "No \u2022 Non",
+        "type": "string"
+      },
+      "387": {
+        "description": "Number of Wells \u2022 Nombre de puits",
+        "type": "string"
+      },
+      "388": {
+        "description": "Certification \u2022 Attestation",
+        "type": "string"
+      },
+      "389": {
+        "description": "Signature of Owner \u2022 Signature du propri\u00e9taire",
+        "type": "boolean"
+      },
+      "392": {
+        "description": "changement sera rapport\u00e9 au minist\u00e8re de l\u2019\u00c9nergie, des Mines et des Ressources.",
+        "type": "boolean"
+      },
+      "556": {
+        "description": "Bulk plant",
+        "type": "boolean"
+      },
+      "558": {
+        "description": "Cardlock / keylock",
+        "type": "boolean"
+      },
+      "559": {
+        "description": "Generator Site",
+        "type": "boolean"
+      },
+      "560": {
+        "description": "Highway maintenance",
+        "type": "boolean"
+      },
+      "561": {
+        "description": "Farm",
+        "type": "boolean"
+      },
+      "562": {
+        "description": "Residential",
+        "type": "boolean"
+      },
+      "563": {
+        "description": "Commercial",
+        "type": "boolean"
+      },
+      "564": {
+        "description": "Service station / gas bar",
+        "type": "boolean"
+      },
+      "565": {
+        "description": "Other Industrial",
+        "type": "boolean"
+      },
+      "566": {
+        "description": "Park",
+        "type": "boolean"
+      },
+      "567": {
+        "description": "Marina / port",
+        "type": "boolean"
+      },
+      "568": {
+        "description": "Airport",
+        "type": "boolean"
+      },
+      "569": {
+        "description": "Institutional",
+        "type": "boolean"
+      },
+      "570": {
+        "description": "School",
+        "type": "boolean"
+      },
+      "571": {
+        "description": "Railroad",
+        "type": "boolean"
+      },
+      "572": {
+        "description": "Military base",
+        "type": "boolean"
+      },
+      "573": {
+        "description": "Forestry Industry",
+        "type": "boolean"
+      },
+      "574": {
+        "description": "Public works yard",
+        "type": "boolean"
+      },
+      "575": {
+        "description": "Office",
+        "type": "boolean"
+      },
+      "576": {
+        "description": "Garage",
+        "type": "boolean"
+      },
+      "577": {
+        "description": "Other",
+        "type": "boolean"
+      },
+      "578": {
+        "description": "Autre",
+        "type": "string"
+      },
+      "579": {
+        "description": "Address \u2022 Adresse",
+        "type": "string"
+      },
+      "580": {
+        "description": "Person with the custody to control, care for, manage, or dispose of the AST (if different than owner) Telephone Number \u2022 Num\u00e9ro de t\u00e9l\u00e9phone",
+        "type": "string"
+      },
+      "581": {
+        "description": "Personne responsable du contr\u00f4le, de l\u2019entretien, de la gestion ou de l\u2019enl\u00e8vement du r\u00e9servoir",
+        "type": "string"
+      },
+      "582": {
+        "description": "Address \u2022 Adresse",
+        "type": "string"
+      },
+      "583": {
+        "description": "Name of Tank Manufacturer \u2022 Fabricant du r\u00e9servoir",
+        "type": "string"
+      },
+      "584": {
+        "description": "Name of holder of interest in land \u2022 Nom du titulaire d\u2019int\u00e9r\u00eat foncier",
+        "type": "string"
+      },
+      "585": {
+        "description": "Tank Specific Information \u2022 Renseignements pr\u00e9cis sur le r\u00e9servoir",
+        "type": "string"
+      },
+      "586": {
+        "description": "Specific location of storage tank system \u2022 Emplacement pr\u00e9cis du syst\u00e8me de r\u00e9servoir d\u2019entreposage",
+        "type": "string"
+      },
+      "587": {
+        "description": "Type of Tank \u2022 Type de r\u00e9servoir",
+        "type": "string"
+      },
+      "588": {
+        "description": "Vertical de surface (\u00e9rig\u00e9 sur place)",
+        "type": "string"
+      },
+      "589": {
+        "description": "Aboveground-vertical (shop fabricated)",
+        "type": "boolean"
+      },
+      "590": {
+        "description": "Aboveground-vertical (field erected)",
+        "type": "boolean"
+      },
+      "591": {
+        "description": "Aboveground-horizontal",
+        "type": "boolean"
+      },
+      "592": {
+        "description": "Steel",
+        "type": "boolean"
+      },
+      "593": {
+        "description": "Fibreglass",
+        "type": "boolean"
+      },
+      "594": {
+        "description": "Fibreglass reinforced plastic (FRP)",
+        "type": "boolean"
+      },
+      "595": {
+        "description": "Other compliant element",
+        "type": "boolean"
+      },
+      "596": {
+        "description": "Autre \u00e9l\u00e9ment conforme",
+        "type": "string"
+      },
+      "597": {
+        "description": "Other noncompliant element",
+        "type": "boolean"
+      },
+      "598": {
+        "description": "Autre \u00e9l\u00e9ment non conforme",
+        "type": "string"
+      },
+      "599": {
+        "description": "Unleaded gasoline",
+        "type": "boolean"
+      },
+      "600": {
+        "description": "Bulk lube or engine oil",
+        "type": "boolean"
+      },
+      "601": {
+        "description": "Alcohol blend gasoline (gasohol)",
+        "type": "boolean"
+      },
+      "602": {
+        "description": "Aviation gasoline (AV gas)",
+        "type": "boolean"
+      },
+      "603": {
+        "description": "Diesel",
+        "type": "boolean"
+      },
+      "604": {
+        "description": "Kerosene/jet fuel",
+        "type": "boolean"
+      },
+      "605": {
+        "description": "Organic chemicals, alcohols, benzene, toluene",
+        "type": "boolean"
+      },
+      "606": {
+        "description": "Diesel",
+        "type": "boolean"
+      },
+      "607": {
+        "description": "Internal Lining \u2022 Rev\u00eatement int\u00e9rieur Year of Tank Installation \u2022 Ann\u00e9e d\u2019installation du r\u00e9servoir",
+        "type": "boolean"
+      },
+      "608": {
+        "description": "YG(5025) F3 04/2003",
+        "type": "string"
+      },
+      "609": {
+        "description": "Bulk Tank Capacity \u2022 Capacit\u00e9 brute du r\u00e9servoir",
+        "type": "boolean"
+      },
+      "610": {
+        "description": "Imp. Gallons",
+        "type": "boolean"
+      },
+      "611": {
+        "description": "Gallons imp\u00e9riaux Gallons US",
+        "type": "boolean"
+      },
+      "612": {
+        "description": "Waste oil/used oil",
+        "type": "boolean"
+      },
+      "613": {
+        "description": "Yes \u2022 Oui",
+        "type": "boolean"
+      },
+      "614": {
+        "description": "US Gallons",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

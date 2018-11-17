@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "36": {
+        "description": "IN THE MATTER OF a contract bearing No.",
+        "type": "string"
+      },
+      "37": {
+        "description": "between the Government of the Yukon and",
+        "type": "string"
+      },
+      "38": {
+        "description": "(Insert full name of Contractor)",
+        "type": "string"
+      },
+      "39": {
+        "description": "(Description and location of work)",
+        "type": "string"
+      },
+      "40": {
+        "description": "dated the",
+        "type": "string"
+      },
+      "41": {
+        "description": "day of",
+        "type": "string"
+      },
+      "42": {
+        "description": "AND IN THE MATTER OF a Progress Claim covering work done thereunder up to the",
+        "type": "string"
+      },
+      "43": {
+        "description": "of",
+        "type": "string"
+      },
+      "44": {
+        "description": "20",
+        "type": "string"
+      },
+      "45": {
+        "description": "(Print or type full name of declarant)",
+        "type": "string"
+      },
+      "46": {
+        "description": "I,",
+        "type": "string"
+      },
+      "47": {
+        "description": "(Print or type Declarant\u2019s title or position with the Contractor or state that the Declarant is the Contractor)",
+        "type": "string"
+      },
+      "48": {
+        "description": "if made under oath and by virtue of the CANADA EVIDENCE ACT.",
+        "type": "string"
+      },
+      "49": {
+        "description": "(5)  This PROGRESS CLAIM is submitted under the terms of the CONTRACT in order to allow funds to be paid by the Government of the Yukon",
+        "type": "string"
+      },
+      "50": {
+        "description": "day of",
+        "type": "string"
+      },
+      "51": {
+        "description": "(Date of the immediately preceeding Progress Claim)",
+        "type": "string"
+      },
+      "52": {
+        "description": "have been paid.",
+        "type": "string"
+      },
+      "53": {
+        "description": "day of",
+        "type": "string"
+      },
+      "54": {
+        "description": "this",
+        "type": "string"
+      },
+      "55": {
+        "description": "(Signature of person before whom declaration is made)",
+        "type": "string"
+      },
+      "56": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "57": {
+        "description": "NOTICE",
+        "type": "boolean"
+      },
+      "60": {
+        "description": "If this Declaration is not complete in every detail, it will be returned for completion and payment will be delayed.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

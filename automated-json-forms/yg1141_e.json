@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "101": {
+        "description": "Registered Trade Name - if applicable (Doing Business As)",
+        "type": "string"
+      },
+      "102": {
+        "description": "Business Physical Location",
+        "type": "string"
+      },
+      "103": {
+        "description": "Mailing Address of Business",
+        "type": "string"
+      },
+      "104": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "105": {
+        "description": "Email",
+        "type": "string"
+      },
+      "106": {
+        "description": "Contact Person",
+        "type": "string"
+      },
+      "107": {
+        "description": "to act as a dealer in tobacco and to collect tobacco tax.",
+        "type": "string"
+      },
+      "108": {
+        "description": "I hereby make application for a permit under Section 5 of the Tobacco Tax Act,",
+        "type": "string"
+      },
+      "109": {
+        "description": "yes        no",
+        "type": "string"
+      },
+      "121": {
+        "description": "6.  Type of sales outlet? LIST ALL LOCATIONS in which tobacco is sold if different from above",
+        "type": "string"
+      },
+      "122": {
+        "description": "(give names and addresses, and attach an extra sheet of paper if necessary)",
+        "type": "string"
+      },
+      "123": {
+        "description": "1  Warehouse",
+        "type": "boolean"
+      },
+      "124": {
+        "description": "4  Others",
+        "type": "string"
+      },
+      "125": {
+        "description": "2  Retail store",
+        "type": "boolean"
+      },
+      "126": {
+        "description": "Section 9 of the Tobacco Tax Act \u2014 Inspection \u2014 It is understood that a person authorized by the Commissioner of the Yukon",
+        "type": "string"
+      },
+      "127": {
+        "description": "3  Vending machines",
+        "type": "boolean"
+      },
+      "128": {
+        "description": "may enter, at a reasonable time, the business premises where records are kept.",
+        "type": "string"
+      },
+      "129": {
+        "description": "The following questions must be answered:",
+        "type": "boolean"
+      },
+      "130": {
+        "description": "Certification",
+        "type": "string"
+      },
+      "131": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "132": {
+        "description": "a Corporation.)",
+        "type": "string"
+      },
+      "133": {
+        "description": "Signed",
+        "type": "string"
+      },
+      "134": {
+        "description": ",",
+        "type": "string"
+      },
+      "135": {
+        "description": "I hereby certify that the above statements are true to the best of my knowledge and belief, and I undertake to comply with the",
+        "type": "string"
+      },
+      "136": {
+        "description": "Title",
+        "type": "string"
+      },
+      "137": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Tobacco Tax Act.",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "Questions about the collection or use of this information can be directed to the Yukon Department of Finance, Box 2703, Whitehorse, Yukon, Y1A 2C6,",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

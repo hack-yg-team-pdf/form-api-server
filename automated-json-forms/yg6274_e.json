@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "PHYSICAL IMPACT",
+        "type": "string"
+      },
+      "34": {
+        "description": "Page 2",
+        "type": "string"
+      },
+      "35": {
+        "description": "FEARS FOR SECURITY",
+        "type": "string"
+      },
+      "36": {
+        "description": "Page 3",
+        "type": "string"
+      },
+      "37": {
+        "description": "The Canadian Victim Bill of Rights permits the victim to present their statement (in court or before the Review Board) by",
+        "type": "boolean"
+      },
+      "39": {
+        "description": "it outside the court room or behind a screen or other device that would allow the victim not to see the offender; or 4)",
+        "type": "string"
+      },
+      "42": {
+        "description": "day of",
+        "type": "string"
+      },
+      "43": {
+        "description": "Dated this",
+        "type": "string"
+      },
+      "44": {
+        "description": "Signature of declarant",
+        "type": "string"
+      },
+      "50": {
+        "description": "20         , at",
+        "type": "string"
+      },
+      "51": {
+        "description": "day of",
+        "type": "string"
+      },
+      "52": {
+        "description": "Dated this",
+        "type": "string"
+      },
+      "53": {
+        "description": "If you completed this statement on behalf of the victim, please indicate the reasons why you did so and the nature of",
+        "type": "string"
+      },
+      "54": {
+        "description": "Name (Please print)",
+        "type": "string"
+      },
+      "55": {
+        "description": "20         , at",
+        "type": "string"
+      },
+      "85": {
+        "description": "Offender:",
+        "type": "string"
+      },
+      "86": {
+        "description": "Court File #:",
+        "type": "string"
+      },
+      "87": {
+        "description": "Victim:",
+        "type": "string"
+      },
+      "88": {
+        "description": "may attach additional pages if you need more space.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

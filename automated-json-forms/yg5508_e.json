@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "34": {
+        "description": "2. What motivates them to share their love of Yukon with others?",
+        "type": "string"
+      },
+      "35": {
+        "description": "Attach additional pages if needed",
+        "type": "string"
+      },
+      "37": {
+        "description": "Tourism and Culture",
+        "type": "boolean"
+      },
+      "39": {
+        "description": "Description of your candidate\u2019s contribution to raising Yukon\u2019s profile according to the",
+        "type": "string"
+      },
+      "48": {
+        "description": "For more information, please call the department of Tourism and Culture at 667-5318 or visit",
+        "type": "boolean"
+      },
+      "90": {
+        "description": "Candidate mailing address",
+        "type": "string"
+      },
+      "91": {
+        "description": "Candidate name    phone #",
+        "type": "string"
+      },
+      "92": {
+        "description": "Your email address",
+        "type": "string"
+      },
+      "93": {
+        "description": "Nomination Info",
+        "type": "string"
+      },
+      "94": {
+        "description": "Your name   phone #",
+        "type": "string"
+      },
+      "95": {
+        "description": "Candidate email address",
+        "type": "string"
+      },
+      "96": {
+        "description": "YG(5508EQ)F2 Rev.04/2012",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "1874": {
+        "description": "Submit two (2) copies of application.",
+        "type": "boolean"
+      },
+      "1876": {
+        "description": "Failure to attach all information may result in the file being rejected by Yukon Media Development (YMD).",
+        "type": "boolean"
+      },
+      "1878": {
+        "description": "Cover letter \u2013 explain the purpose of recording, the artist or band accomplishments and the industry impact.",
+        "type": "boolean"
+      },
+      "1880": {
+        "description": "A. APPLICANT",
+        "type": "string"
+      },
+      "1881": {
+        "description": "Name of project",
+        "type": "string"
+      },
+      "1882": {
+        "description": "Applicant name",
+        "type": "string"
+      },
+      "1883": {
+        "description": "Day phone",
+        "type": "string"
+      },
+      "1884": {
+        "description": "Cell/Evening phone",
+        "type": "string"
+      },
+      "1885": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "1886": {
+        "description": "If a company, is it registered with Corporate Affairs in Yukon?",
+        "type": "string"
+      },
+      "1887": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "1888": {
+        "description": "Email",
+        "type": "string"
+      },
+      "1896": {
+        "description": "Previous funding awarded through the Yukon Sound Recording Program?",
+        "type": "string"
+      },
+      "1897": {
+        "description": "The above stated company/individual will be responsible for the contribution and for all reporting. The above will be named as Contribution Agreement \u201cRecipient\u201d.",
+        "type": "string"
+      },
+      "1898": {
+        "description": "B. ARTIST DISCOGRAPHY",
+        "type": "string"
+      },
+      "1899": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "1900": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "1901": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "1902": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "1903": {
+        "description": "information are managed in accordance with the ATIPP Act and all or part of this information may be made available to the public. For further information about the collection of",
+        "type": "string"
+      },
+      "1904": {
+        "description": "Privacy (ATIPP) Act for the purpose of carrying out a program and/or providing financial assistance to the applicant. The collection, use, and disclosure of your personal",
+        "type": "string"
+      },
+      "1905": {
+        "description": "Access to Information and Protection of Privacy Act: This information is collected for the purpose of administering an economic development program pursuant to s. 8 and 9",
+        "type": "string"
+      },
+      "1909": {
+        "description": "of the Economic Development Act, as amended. Personal information on this form is collected under the authority of Section 29(c) of the Access to Information & Protection of",
+        "type": "string"
+      },
+      "1910": {
+        "description": "this information, contact Manager, Yukon Media Development in writing at 303 Alexander Street, or by phone at 667-5400 or toll free at 1-800-661-0408 ext. 5400.",
+        "type": "string"
+      },
+      "1911": {
+        "description": "YG(5539EQ)F5 Rev.10/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

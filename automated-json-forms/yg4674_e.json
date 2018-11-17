@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "169": {
+        "description": "Please be advised that an Environmental Health Officer (EHO) was notified (prior to backfilling) that on",
+        "type": "string"
+      },
+      "170": {
+        "description": "Environmental Health Services \u2022 #2 Hospital Road, Whitehorse, Yukon  Y1A 3H8",
+        "type": "boolean"
+      },
+      "172": {
+        "description": "NOTIFICATION:",
+        "type": "string"
+      },
+      "173": {
+        "description": "Phone number:",
+        "type": "string"
+      },
+      "174": {
+        "description": "Name of installer:",
+        "type": "string"
+      },
+      "175": {
+        "description": "(legal description, municipal address, if applicable & plan number)",
+        "type": "string"
+      },
+      "176": {
+        "description": "and that said system was installed in accordance with the permit numbered",
+        "type": "string"
+      },
+      "177": {
+        "description": "at",
+        "type": "string"
+      },
+      "178": {
+        "description": "Print name:",
+        "type": "string"
+      },
+      "179": {
+        "description": "Address:   Postal Code:",
+        "type": "string"
+      },
+      "180": {
+        "description": "Print name:",
+        "type": "string"
+      },
+      "181": {
+        "description": "Signature of witness:",
+        "type": "string"
+      },
+      "182": {
+        "description": "Signature of owner:",
+        "type": "boolean"
+      },
+      "185": {
+        "description": "I agree that the health officer may carry out such inspection on the premises to determine compliance with",
+        "type": "boolean"
+      },
+      "187": {
+        "description": "YG(4674EQ)F2 Rev. 01/2008",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

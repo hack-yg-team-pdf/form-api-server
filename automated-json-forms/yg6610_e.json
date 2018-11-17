@@ -1,0 +1,91 @@
+{
+  "fields": {
+    "properties": {
+      "58": {
+        "description": "Date of birth Name",
+        "type": "string"
+      },
+      "59": {
+        "description": "makes application for the issuance of a registration for trapping concession area #",
+        "type": "string"
+      },
+      "60": {
+        "description": "HEREINAFTER called the \u201capplicant\u201d:",
+        "type": "string"
+      },
+      "61": {
+        "description": "e",
+        "type": "string"
+      },
+      "62": {
+        "description": "t",
+        "type": "string"
+      },
+      "63": {
+        "description": "YEAR",
+        "type": "string"
+      },
+      "64": {
+        "description": "MONTH",
+        "type": "string"
+      },
+      "65": {
+        "description": "The applicant, in accordance with Section 61 of the Wildlife Act, hereby",
+        "type": "string"
+      },
+      "66": {
+        "description": "All group members have previously held a Yukon Trapping Concession (area # )",
+        "type": "string"
+      },
+      "67": {
+        "description": "All group members are enrolled under one of the Yukon First Nation Final Agreements or are",
+        "type": "string"
+      },
+      "68": {
+        "description": "SECTION A: SPOKESPERSON INFORMATION",
+        "type": "boolean"
+      },
+      "70": {
+        "description": "beneficiaries of a Transboundary agreement as defined in the Umbrella Final Agreement.",
+        "type": "string"
+      },
+      "71": {
+        "description": "in good standing",
+        "type": "boolean"
+      },
+      "73": {
+        "description": "Only some group members are enrolled under one of the Yukon First Nation Final Agreements or",
+        "type": "boolean"
+      },
+      "75": {
+        "description": "are beneficiaries of a Transboundary agreement as defined in the Umbrella Final Agreement.",
+        "type": "string"
+      },
+      "76": {
+        "description": "(e.g., number of years",
+        "type": "string"
+      },
+      "77": {
+        "description": "(e.g., traps,",
+        "type": "string"
+      },
+      "78": {
+        "description": "(i.e., what are your",
+        "type": "string"
+      },
+      "79": {
+        "description": "(e.g., family history in",
+        "type": "string"
+      },
+      "80": {
+        "description": "Referral comments",
+        "type": "boolean"
+      },
+      "83": {
+        "description": "Authorized signature",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

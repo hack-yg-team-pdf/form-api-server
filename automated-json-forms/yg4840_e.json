@@ -1,0 +1,175 @@
+{
+  "fields": {
+    "properties": {
+      "110": {
+        "description": "Name",
+        "type": "string"
+      },
+      "111": {
+        "description": "urg",
+        "type": "string"
+      },
+      "112": {
+        "description": "a",
+        "type": "string"
+      },
+      "113": {
+        "description": "Yukon Health Care Number 00",
+        "type": "string"
+      },
+      "114": {
+        "description": "Departure date  Return date",
+        "type": "string"
+      },
+      "115": {
+        "description": "VERIFICATION SIGNATURE",
+        "type": "string"
+      },
+      "116": {
+        "description": "Doctor, Nurse, Technician",
+        "type": "string"
+      },
+      "117": {
+        "description": "YYYY/MM/DD",
+        "type": "string"
+      },
+      "122": {
+        "description": "D",
+        "type": "string"
+      },
+      "123": {
+        "description": "y s",
+        "type": "string"
+      },
+      "124": {
+        "description": "It is the responsibility of the patient to have this form completed and to obtain verification signatures.",
+        "type": "string"
+      },
+      "125": {
+        "description": "No subsidy can be paid without it. Please submit your claim for review when you return home.",
+        "type": "string"
+      },
+      "126": {
+        "description": "\u2713",
+        "type": "boolean"
+      },
+      "128": {
+        "description": "2016/01/20",
+        "type": "boolean"
+      },
+      "130": {
+        "description": "I declare that I am not covered under    WCB",
+        "type": "string"
+      },
+      "131": {
+        "description": "Address",
+        "type": "string"
+      },
+      "132": {
+        "description": "I verify that the information contained on this form is true to the best of my knowledge.",
+        "type": "string"
+      },
+      "133": {
+        "description": "Cheque should be made payable to",
+        "type": "string"
+      },
+      "134": {
+        "description": "Name    Telephone",
+        "type": "string"
+      },
+      "135": {
+        "description": "\u2713",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "St. Paul\u2019s Hospital",
+        "type": "boolean"
+      },
+      "139": {
+        "description": "Signature of patient or guardian",
+        "type": "string"
+      },
+      "140": {
+        "description": "RCMP",
+        "type": "string"
+      },
+      "141": {
+        "description": "Status",
+        "type": "string"
+      },
+      "142": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "143": {
+        "description": "29",
+        "type": "string"
+      },
+      "144": {
+        "description": "\u2713",
+        "type": "boolean"
+      },
+      "146": {
+        "description": "2016/01/27",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "30",
+        "type": "string"
+      },
+      "149": {
+        "description": "31",
+        "type": "string"
+      },
+      "150": {
+        "description": "Canada Post",
+        "type": "string"
+      },
+      "151": {
+        "description": "25",
+        "type": "string"
+      },
+      "152": {
+        "description": "Feds (ie DFO/Parks Canada)",
+        "type": "string"
+      },
+      "153": {
+        "description": "26",
+        "type": "string"
+      },
+      "154": {
+        "description": "Royal Columbian Hospital",
+        "type": "boolean"
+      },
+      "156": {
+        "description": "Signature",
+        "type": "boolean"
+      },
+      "158": {
+        "description": "CONFIRMATION OF MEDICAL SERVICES",
+        "type": "boolean"
+      },
+      "160": {
+        "description": "The purpose of subsidy is to assist patients with",
+        "type": "boolean"
+      },
+      "162": {
+        "description": "costs such as accommodation, meals, taxis while",
+        "type": "boolean"
+      },
+      "164": {
+        "description": "25",
+        "type": "string"
+      },
+      "165": {
+        "description": "Information contained in this form is collected, used and disclosed in accordance with Yukon\u2019s Health Information Privacy and Management Act and",
+        "type": "boolean"
+      },
+      "168": {
+        "description": "other applicable laws. A written statement of Health and Social Services information practices can viewed at www.hss.gov.yk.ca/healthprivacy.php or by",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

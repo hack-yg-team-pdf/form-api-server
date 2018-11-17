@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "62": {
+        "description": "ARTIST INFORMATION",
+        "type": "boolean"
+      },
+      "63": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "64": {
+        "description": "I am French or French speaking and I wish to have my listing appear in both languages",
+        "type": "string"
+      },
+      "66": {
+        "description": "Website",
+        "type": "boolean"
+      },
+      "68": {
+        "description": "Province/territory",
+        "type": "boolean"
+      },
+      "70": {
+        "description": "ART ADVENTURES ON YUKON TIME",
+        "type": "boolean"
+      },
+      "71": {
+        "description": "Email",
+        "type": "string"
+      },
+      "72": {
+        "description": "Artist bio (for website only, limit: 30-50 words)",
+        "type": "string"
+      },
+      "73": {
+        "description": "Physical location (if different than mailing address)",
+        "type": "string"
+      },
+      "74": {
+        "description": "Please publish on the Art Adventures website (check all that apply):",
+        "type": "string"
+      },
+      "75": {
+        "description": "Email",
+        "type": "string"
+      },
+      "76": {
+        "description": "Website",
+        "type": "string"
+      },
+      "78": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "79": {
+        "description": "City",
+        "type": "string"
+      },
+      "81": {
+        "description": "Mailing address",
+        "type": "string"
+      },
+      "85": {
+        "description": "your work but that the image is clear, bright, sharp and has enough contrast. The image will be viewed online.",
+        "type": "string"
+      },
+      "86": {
+        "description": "STUDIO INFORMATION",
+        "type": "string"
+      },
+      "89": {
+        "description": "Credit my image to (optional):",
+        "type": "string"
+      },
+      "90": {
+        "description": "Page 2 of 4",
+        "type": "string"
+      },
+      "91": {
+        "description": "Studio description (for printed guide and website, limit: 30-50 words)",
+        "type": "string"
+      },
+      "93": {
+        "description": "Physical location (We list the physical location of each studio. Provide clear directions, if required.)",
+        "type": "string"
+      },
+      "94": {
+        "description": "sign on next page to give your permission for its use. Ensure that the image you choose is not only a good example of",
+        "type": "string"
+      },
+      "95": {
+        "description": "Enclose one high quality (300 dpi) digital image of your work (or indicate that you will be emailing a digital image), and",
+        "type": "string"
+      },
+      "96": {
+        "description": "Image of work (for website only)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

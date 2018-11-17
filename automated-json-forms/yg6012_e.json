@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "179": {
+        "description": "Applicant (student) last name:",
+        "type": "string"
+      },
+      "182": {
+        "description": "First name:",
+        "type": "string"
+      },
+      "183": {
+        "description": "Parent/guardian last name:",
+        "type": "string"
+      },
+      "184": {
+        "description": "First name:",
+        "type": "string"
+      },
+      "185": {
+        "description": "Permanent mailing address:",
+        "type": "string"
+      },
+      "186": {
+        "description": "City:",
+        "type": "string"
+      },
+      "187": {
+        "description": "Prov/terr",
+        "type": "string"
+      },
+      "188": {
+        "description": "Postal code:",
+        "type": "string"
+      },
+      "189": {
+        "description": "No",
+        "type": "string"
+      },
+      "190": {
+        "description": "Telephone: (                )",
+        "type": "string"
+      },
+      "191": {
+        "description": "What is your relationship to the applicant?",
+        "type": "string"
+      },
+      "194": {
+        "description": "applicant may be required to repay any or all Yukon funding provided as a result of the information provided above.",
+        "type": "string"
+      },
+      "195": {
+        "description": "Collection and use of information: We are collecting your personal information for use only by the Student Financial Assistance Unit and, in case of an appeal, by the",
+        "type": "boolean"
+      },
+      "198": {
+        "description": "Student Financial Assistance Committee. Your information will not be disclosed to outside agencies or used for any purpose other than determining the applicant\u2019s eligibility",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

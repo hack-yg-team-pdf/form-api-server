@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "33": {
+        "description": "of",
+        "type": "string"
+      },
+      "34": {
+        "description": "Name of Applicant",
+        "type": "string"
+      },
+      "35": {
+        "description": "in the  ,",
+        "type": "string"
+      },
+      "36": {
+        "description": "1. That I am  ,",
+        "type": "string"
+      },
+      "37": {
+        "description": "Declared before me at  in  this  day of  20  .",
+        "type": "string"
+      },
+      "38": {
+        "description": "A notary Public, or a person duly authorized to take",
+        "type": "string"
+      },
+      "39": {
+        "description": "statutory declarations",
+        "type": "string"
+      },
+      "40": {
+        "description": "and Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "string"
+      },
+      "41": {
+        "description": "Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines",
+        "type": "string"
+      },
+      "42": {
+        "description": "Signature of permittee or agent",
+        "type": "string"
+      },
+      "43": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "boolean"
+      },
+      "46": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Territorial Coal Regulation.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

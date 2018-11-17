@@ -1,0 +1,79 @@
+{
+  "fields": {
+    "properties": {
+      "162": {
+        "description": "date of birth . I consent to Hearing Services obtaining this information for the purposes of providing",
+        "type": "string"
+      },
+      "163": {
+        "description": "I am requesting the personal health information of    ,",
+        "type": "string"
+      },
+      "164": {
+        "description": "health care. I consent to my information being obtained from:",
+        "type": "string"
+      },
+      "165": {
+        "description": "Contact Information",
+        "type": "string"
+      },
+      "166": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "167": {
+        "description": "I am the parent/guardian of the child listed above. I give this consent for the child\u2019s information to be obtained.",
+        "type": "string"
+      },
+      "170": {
+        "description": "Name of Parent/Guardian        Date",
+        "type": "string"
+      },
+      "171": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "172": {
+        "description": "FIRST NAME",
+        "type": "string"
+      },
+      "173": {
+        "description": "LAST NAME",
+        "type": "string"
+      },
+      "174": {
+        "description": "Signature of Parent/Guardian",
+        "type": "string"
+      },
+      "175": {
+        "description": "INTERNAL USE ONLY",
+        "type": "string"
+      },
+      "176": {
+        "description": "Note: This consent remains in effect unless revoked in writing.",
+        "type": "string"
+      },
+      "177": {
+        "description": "Signature        Date",
+        "type": "string"
+      },
+      "178": {
+        "description": "Fax: 867-667-5922",
+        "type": "string"
+      },
+      "179": {
+        "description": "Phone: 867-667-59132",
+        "type": "string"
+      },
+      "180": {
+        "description": "Information contained in this form is collected, used and disclosed in accordance with Yukon\u2019s Health Information Privacy and Management Act and other applicable laws. A",
+        "type": "boolean"
+      },
+      "183": {
+        "description": "written statement of Health and Social Services information practices can viewed at www.hss.gov.yk.ca/healthprivacy.php or by contacting the department\u2019s Privacy Officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

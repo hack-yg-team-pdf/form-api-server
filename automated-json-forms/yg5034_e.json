@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "42": {
+        "description": "Mining District",
+        "type": "string"
+      },
+      "43": {
+        "description": "of",
+        "type": "string"
+      },
+      "44": {
+        "description": ",",
+        "type": "string"
+      },
+      "45": {
+        "description": ",",
+        "type": "string"
+      },
+      "46": {
+        "description": "to explore for coal on the following lands.",
+        "type": "string"
+      },
+      "47": {
+        "description": "describe as (indicate in",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "NE Quarter",
+        "type": "boolean"
+      },
+      "50": {
+        "description": "NW Quarter",
+        "type": "boolean"
+      },
+      "51": {
+        "description": "SW Quarter",
+        "type": "boolean"
+      },
+      "52": {
+        "description": "To the best of my information and belief the said area is",
+        "type": "string"
+      },
+      "53": {
+        "description": ",",
+        "type": "string"
+      },
+      "54": {
+        "description": "Dated at this  day of  20  .",
+        "type": "string"
+      },
+      "55": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "56": {
+        "description": "Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines",
+        "type": "string"
+      },
+      "57": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "58": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Territorial Coal Regulation.",
+        "type": "boolean"
+      },
+      "61": {
+        "description": "and Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

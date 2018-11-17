@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "properties": {
+      "158": {
+        "description": "Municipality \u2022 Municipalit\u00e9",
+        "type": "string"
+      },
+      "161": {
+        "description": "Polling division number \u2022 No de la section de vote",
+        "type": "string"
+      },
+      "162": {
+        "description": "Date of poll \u2022 Date du scrutin",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

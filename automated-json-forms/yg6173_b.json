@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "304": {
+        "description": "Societies Act (Subsection 32(5)) Form 15",
+        "type": "string"
+      },
+      "305": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "306": {
+        "description": "3.  Current attorney for service / Fond\u00e9 de pouvoir aux fins de signification actuel :",
+        "type": "string"
+      },
+      "307": {
+        "description": "First Name / Pr\u00e9nom",
+        "type": "string"
+      },
+      "308": {
+        "description": "Nouvelle Adresse de livraison (Adresse physique)",
+        "type": "string"
+      },
+      "309": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "310": {
+        "description": "4.  Signature of attorney for service / Signature du fond\u00e9 de pouvoir aux fins de signification :",
+        "type": "string"
+      },
+      "311": {
+        "description": "Effective date of new addresses :",
+        "type": "string"
+      },
+      "312": {
+        "description": "Address / Adresse",
+        "type": "string"
+      },
+      "313": {
+        "description": "City / Ville",
+        "type": "string"
+      },
+      "314": {
+        "description": "Prov. or Terr. / Prov. ou Terr.",
+        "type": "string"
+      },
+      "315": {
+        "description": "Date d\u2019entr\u00e9e en vigueur des nouvelles adresses :",
+        "type": "string"
+      },
+      "316": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "317": {
+        "description": "1-800-661-0408, poste 7969.",
+        "type": "string"
+      },
+      "318": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "321": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

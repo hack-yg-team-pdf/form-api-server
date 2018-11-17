@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "192": {
+        "description": "Name of production",
+        "type": "string"
+      },
+      "195": {
+        "description": "I,  residing at",
+        "type": "string"
+      },
+      "196": {
+        "description": "DECLARANT\u2019S FULL LEGAL NAME",
+        "type": "string"
+      },
+      "197": {
+        "description": "do solemnly declare:",
+        "type": "string"
+      },
+      "198": {
+        "description": "2. That I have lived at this address since",
+        "type": "string"
+      },
+      "199": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "200": {
+        "description": "DATE RESIDENCY COMMENCED",
+        "type": "string"
+      },
+      "201": {
+        "description": "Signature of person before whom declaration is made",
+        "type": "boolean"
+      },
+      "204": {
+        "description": "A Notary Public, in and for the Yukon Territory (Please clearly state authority for receiving solemn declaration)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

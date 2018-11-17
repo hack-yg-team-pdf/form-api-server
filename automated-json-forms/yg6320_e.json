@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "309": {
+        "description": "1. Name and address of applicant",
+        "type": "string"
+      },
+      "310": {
+        "description": "Position title",
+        "type": "string"
+      },
+      "311": {
+        "description": "Email",
+        "type": "string"
+      },
+      "312": {
+        "description": "Phone #",
+        "type": "string"
+      },
+      "313": {
+        "description": "Business address",
+        "type": "string"
+      },
+      "314": {
+        "description": "Indicate which designated materials you are supplying or intend to supply into Yukon by ticking the box.",
+        "type": "string"
+      },
+      "315": {
+        "description": "Mailing address (if different from above)",
+        "type": "string"
+      },
+      "316": {
+        "description": "2. Supply of designated materials",
+        "type": "string"
+      },
+      "331": {
+        "description": "I, , am the authorized representative of ,",
+        "type": "string"
+      },
+      "332": {
+        "description": "PRINT NAME CLEARLY                                                                                                                                                                    CORPORATE NAME",
+        "type": "string"
+      },
+      "333": {
+        "description": "This information is being collected under the authority of Section 5 of the Designated Materials Regulation. For further information, contact the Environmental Programs",
+        "type": "boolean"
+      },
+      "336": {
+        "description": "Branch at 867-667-5683 or 1-800-661-0408 extension 5683.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "properties": {
+      "174": {
+        "description": "Print name(s)  1.",
+        "type": "string"
+      },
+      "177": {
+        "description": "2.",
+        "type": "string"
+      },
+      "178": {
+        "description": "I understand and agree that if I receive Yukon Grant or Student Training Allowance funding for online or distance",
+        "type": "boolean"
+      },
+      "180": {
+        "description": "I make this declaration conscientiously believing that the information in this application is true and correct, and",
+        "type": "boolean"
+      },
+      "183": {
+        "description": "X",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

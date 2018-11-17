@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "144": {
+        "description": "CUSTOMER NAME:                                                                 CONTACT#:",
+        "type": "string"
+      },
+      "145": {
+        "description": "ACCT#/PERMIT#:",
+        "type": "string"
+      },
+      "146": {
+        "description": "COMPTE/PERMIS No :",
+        "type": "string"
+      },
+      "147": {
+        "description": "CONTACT NAME:",
+        "type": "string"
+      },
+      "148": {
+        "description": "1",
+        "type": "string"
+      },
+      "149": {
+        "description": "6",
+        "type": "string"
+      },
+      "150": {
+        "description": "12",
+        "type": "string"
+      },
+      "151": {
+        "description": "23",
+        "type": "string"
+      },
+      "152": {
+        "description": "2",
+        "type": "string"
+      },
+      "153": {
+        "description": "7",
+        "type": "string"
+      },
+      "154": {
+        "description": "13",
+        "type": "string"
+      },
+      "155": {
+        "description": "24",
+        "type": "string"
+      },
+      "156": {
+        "description": "3",
+        "type": "string"
+      },
+      "157": {
+        "description": "8",
+        "type": "string"
+      },
+      "158": {
+        "description": "14",
+        "type": "string"
+      },
+      "159": {
+        "description": "Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "string"
+      },
+      "160": {
+        "description": "4",
+        "type": "string"
+      },
+      "161": {
+        "description": "10",
+        "type": "string"
+      },
+      "162": {
+        "description": "15",
+        "type": "string"
+      },
+      "163": {
+        "description": "YG(2485Q)F2 Rev 11/2016",
+        "type": "string"
+      },
+      "164": {
+        "description": "9",
+        "type": "string"
+      },
+      "165": {
+        "description": "11",
+        "type": "string"
+      },
+      "166": {
+        "description": "16",
+        "type": "string"
+      },
+      "167": {
+        "description": "25",
+        "type": "string"
+      },
+      "168": {
+        "description": "17",
+        "type": "string"
+      },
+      "169": {
+        "description": "18",
+        "type": "string"
+      },
+      "170": {
+        "description": "19",
+        "type": "string"
+      },
+      "171": {
+        "description": "20",
+        "type": "string"
+      },
+      "172": {
+        "description": "21",
+        "type": "string"
+      },
+      "173": {
+        "description": "22",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

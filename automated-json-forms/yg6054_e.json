@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "64": {
+        "description": "Number of participants",
+        "type": "string"
+      },
+      "65": {
+        "description": "Location",
+        "type": "string"
+      },
+      "68": {
+        "description": "Category (check one)",
+        "type": "string"
+      },
+      "71": {
+        "description": "YG(6054EQ)F3 Rev.11/2018",
+        "type": "string"
+      },
+      "75": {
+        "description": "Outcomes: How did you measure or evaluate the initiative?",
+        "type": "string"
+      },
+      "76": {
+        "description": "PROJECT DETAILS",
+        "type": "string"
+      },
+      "84": {
+        "description": "Was it successful? What results or impacts did you hope to achieve?",
+        "type": "string"
+      },
+      "121": {
+        "description": "Balance",
+        "type": "string"
+      },
+      "123": {
+        "description": "YSGB signature",
+        "type": "string"
+      },
+      "125": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "129": {
+        "description": "application. I alo understand that further documentation may be requested from Yukon Government at any given time",
+        "type": "string"
+      },
+      "130": {
+        "description": "Comments",
+        "type": "string"
+      },
+      "131": {
+        "description": "Description (i.e. travel, accomodations, professional fees, equipment, etc.):",
+        "type": "string"
+      },
+      "133": {
+        "description": "YRAC Grant \u2013 Project Report     Page 3 of 3",
+        "type": "string"
+      },
+      "135": {
+        "description": "Date",
+        "type": "string"
+      },
+      "136": {
+        "description": "Reviewed by",
+        "type": "string"
+      },
+      "137": {
+        "description": "AUTHORIZED REPRESENTATIVE",
+        "type": "string"
+      },
+      "138": {
+        "description": "Amount",
+        "type": "string"
+      },
+      "140": {
+        "description": "in respect to the YRAC grant.",
+        "type": "string"
+      },
+      "141": {
+        "description": "Total expenses",
+        "type": "string"
+      },
+      "142": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "143": {
+        "description": "OFFICE USE ONLY",
+        "type": "string"
+      },
+      "148": {
+        "description": "Date",
+        "type": "string"
+      },
+      "154": {
+        "description": "Name (print)",
+        "type": "string"
+      },
+      "157": {
+        "description": "Expenses \u2013 Note: Receipts may be requested for verification purposes.",
+        "type": "string"
+      },
+      "159": {
+        "description": "Position",
+        "type": "string"
+      },
+      "160": {
+        "description": "I certiy that the financial information described in this form was incurred and applied as set out in the approved funding",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

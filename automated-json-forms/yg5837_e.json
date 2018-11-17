@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "212": {
+        "description": "City / Postal code",
+        "type": "string"
+      },
+      "213": {
+        "description": "Street address",
+        "type": "string"
+      },
+      "214": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "215": {
+        "description": "INFORMATION ABOUT YOU, THE NOMINATOR",
+        "type": "string"
+      },
+      "216": {
+        "description": "Name",
+        "type": "string"
+      },
+      "217": {
+        "description": "Title / Organization",
+        "type": "string"
+      },
+      "218": {
+        "description": "City / Postal code",
+        "type": "string"
+      },
+      "219": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "220": {
+        "description": "Email",
+        "type": "string"
+      },
+      "221": {
+        "description": "YG(5837EQ)F2 Rev.09/2018",
+        "type": "string"
+      },
+      "222": {
+        "description": "Page 1 of 2",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

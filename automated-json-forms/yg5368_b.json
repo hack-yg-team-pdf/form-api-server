@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "182": {
+        "description": "(Name of Sponsoring Firm \u2022Nom de l\u2019entreprise parrain",
+        "type": "string"
+      },
+      "183": {
+        "description": "by \u2022 par",
+        "type": "string"
+      },
+      "194": {
+        "description": "I, the undersigned",
+        "type": "string"
+      },
+      "196": {
+        "description": "having been duly sworn do depose and say:",
+        "type": "string"
+      },
+      "197": {
+        "description": "Sworn before me at",
+        "type": "string"
+      },
+      "203": {
+        "description": "Please make your cheque payable to Government of Yukon, or,",
+        "type": "string"
+      },
+      "208": {
+        "description": "Veuillez faire votre ch\u00e8que \u00e0 l\u2019ordre du gouvernement du Yukon, ou fournir les renseignements demand\u00e9s ci-dessous remplissez",
+        "type": "string"
+      },
+      "209": {
+        "description": "Si vous avez des questions, veuillez communiquer avec les Accr\u00e9ditation professionnelle et affaires r\u00e9glementaires : par t\u00e9l\u00e9phone, au 867-667-5111;",
+        "type": "boolean"
+      },
+      "211": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609 or e-mail PLRA@gov.yk.ca for inquiries.",
+        "type": "boolean"
+      },
+      "1299": {
+        "description": "2. Business Address of Applicant:",
+        "type": "string"
+      },
+      "1300": {
+        "description": "Nom du demandeur :",
+        "type": "string"
+      },
+      "1302": {
+        "description": "Telephone #:                                                                  Email:",
+        "type": "string"
+      },
+      "1303": {
+        "description": "T\u00e9l\u00e9phone :      courriel :",
+        "type": "string"
+      },
+      "1304": {
+        "description": "3. Residential Address of Applicant:",
+        "type": "string"
+      },
+      "1306": {
+        "description": "Adresse personnelle du demandeur :",
+        "type": "string"
+      },
+      "1307": {
+        "description": "Telephone #:                                                                   Email:",
+        "type": "string"
+      },
+      "1317": {
+        "description": "1. UBC Real Estate Trading Services Licensing Course",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

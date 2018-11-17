@@ -1,0 +1,303 @@
+{
+  "fields": {
+    "properties": {
+      "375": {
+        "description": "C11 Seal Depth to:",
+        "type": "string"
+      },
+      "376": {
+        "description": "Electrical Conductivity:",
+        "type": "string"
+      },
+      "387": {
+        "description": "Dry",
+        "type": "string"
+      },
+      "418": {
+        "description": "F1 Well Water Level Drawdown/Recovery DATA",
+        "type": "string"
+      },
+      "424": {
+        "description": "I have read the above clause and",
+        "type": "string"
+      },
+      "432": {
+        "description": "Y      Y      Y      Y     M     M     D      D",
+        "type": "string"
+      },
+      "443": {
+        "description": "Y      Y      Y      Y     M     M     D      D",
+        "type": "string"
+      },
+      "452": {
+        "description": "I 4 Report Date:",
+        "type": "string"
+      },
+      "453": {
+        "description": "I 1 Company Name:",
+        "type": "string"
+      },
+      "462": {
+        "description": "Date Submitted to Dept. Of Environment",
+        "type": "string"
+      },
+      "465": {
+        "description": "( m / ft )                                        ( m / ft )",
+        "type": "string"
+      },
+      "470": {
+        "description": "(i.e. silica )",
+        "type": "string"
+      },
+      "482": {
+        "description": "understand the purpose for",
+        "type": "string"
+      },
+      "492": {
+        "description": "collection of personal information.",
+        "type": "string"
+      },
+      "496": {
+        "description": "I 2 Company Address:",
+        "type": "string"
+      },
+      "498": {
+        "description": "WELL CONTRACTOR",
+        "type": "string"
+      },
+      "504": {
+        "description": "Signature of Primary Driller",
+        "type": "string"
+      },
+      "509": {
+        "description": "pH:",
+        "type": "string"
+      },
+      "511": {
+        "description": "Y      Y      Y      Y     M     M     D      D",
+        "type": "string"
+      },
+      "512": {
+        "description": "H2 Name of Driller(s):",
+        "type": "string"
+      },
+      "514": {
+        "description": "Y      Y      Y      Y     M     M     D      D",
+        "type": "string"
+      },
+      "515": {
+        "description": "Pitless Adaptor Depth of adaptor:",
+        "type": "string"
+      },
+      "537": {
+        "description": "Y      Y      Y      Y     M     M     D      D",
+        "type": "string"
+      },
+      "552": {
+        "description": "Louver Screen",
+        "type": "string"
+      },
+      "572": {
+        "description": "C14 Outside            C15 Screen Material       C16 Screen Type",
+        "type": "string"
+      },
+      "577": {
+        "description": "Y      Y      Y      Y     M     M     D      D",
+        "type": "string"
+      },
+      "640": {
+        "description": "Y      Y      Y      Y     M     M     D      D",
+        "type": "string"
+      },
+      "656": {
+        "description": "Chemical Analysis of Water",
+        "type": "string"
+      },
+      "660": {
+        "description": "Was a sample taken?       YES        NO",
+        "type": "string"
+      },
+      "661": {
+        "description": "CONSULTANT (If applicable)",
+        "type": "string"
+      },
+      "662": {
+        "description": "(Use negative if below grade)  (Use negative if below grade)",
+        "type": "string"
+      },
+      "672": {
+        "description": "( m / ft )",
+        "type": "string"
+      },
+      "704": {
+        "description": "Briefly describe method of well disinfection.",
+        "type": "string"
+      },
+      "709": {
+        "description": "Static Water Level (SWL):",
+        "type": "string"
+      },
+      "719": {
+        "description": "( cm / in )",
+        "type": "string"
+      },
+      "738": {
+        "description": "C8 Seal Material Type:              C9 Diameter of Seal:",
+        "type": "string"
+      },
+      "751": {
+        "description": "Pump Intake Set at:",
+        "type": "string"
+      },
+      "989": {
+        "description": "the drilling contractor.",
+        "type": "string"
+      },
+      "993": {
+        "description": "4. Please print clearly in blue or black ink.",
+        "type": "string"
+      },
+      "995": {
+        "description": "A1 Well Name:",
+        "type": "string"
+      },
+      "996": {
+        "description": "Industrial",
+        "type": "string"
+      },
+      "997": {
+        "description": "A2 Drilled For:",
+        "type": "string"
+      },
+      "998": {
+        "description": "In sketch, indicate distances from property line,",
+        "type": "string"
+      },
+      "999": {
+        "description": "A6 Elevation of Top of Casing:                                        m / ft ASL",
+        "type": "string"
+      },
+      "1000": {
+        "description": "A4 Town / Village / Area / Lot #:",
+        "type": "string"
+      },
+      "1001": {
+        "description": "A5 UTM Coordinates (using handheld GPS):   NAD    8    3     Zone",
+        "type": "string"
+      },
+      "1002": {
+        "description": "A7 Accuracy of GPS:                                                +/- m / ft",
+        "type": "string"
+      },
+      "1003": {
+        "description": "Easting                                                                       Northing",
+        "type": "string"
+      },
+      "1004": {
+        "description": "A8 Purpose of Wells",
+        "type": "string"
+      },
+      "1007": {
+        "description": "Domestic               Test Well               Irrigation                                           Environmental (Quality)",
+        "type": "string"
+      },
+      "1010": {
+        "description": "A3 Street Address of Well Location:",
+        "type": "boolean"
+      },
+      "1012": {
+        "description": "1. Additional information is provided at the bottom of this form on page 2.",
+        "type": "boolean"
+      },
+      "1013": {
+        "description": "First Name                                             Last Name                                        Company / Department / Organization",
+        "type": "boolean"
+      },
+      "1014": {
+        "description": "Please include North arrow.",
+        "type": "boolean"
+      },
+      "1015": {
+        "description": "WELL LOCATION AND OWNER\u2019S INFORMATION",
+        "type": "boolean"
+      },
+      "1016": {
+        "description": "2. Question can be directed to Water Resources at 867 667-3171.",
+        "type": "boolean"
+      },
+      "1017": {
+        "description": "septic field, fuel tank(s) and building.",
+        "type": "boolean"
+      },
+      "1018": {
+        "description": "Sketch of Well Location",
+        "type": "boolean"
+      },
+      "1019": {
+        "description": "INSTRUCTIONS FOR COMPLETING THE FORM",
+        "type": "boolean"
+      },
+      "1020": {
+        "description": "Agricultural",
+        "type": "boolean"
+      },
+      "1021": {
+        "description": "Observation - Water Level               Other (please identify use)",
+        "type": "boolean"
+      },
+      "1022": {
+        "description": "Commercial          Municipal",
+        "type": "string"
+      },
+      "1119": {
+        "description": "B8 Permafrost Encountered:      NO         YES            If yes, indicated depth ( m / ft ): from:                        to:",
+        "type": "string"
+      },
+      "1120": {
+        "description": "Example:",
+        "type": "string"
+      },
+      "1121": {
+        "description": "Date Well",
+        "type": "string"
+      },
+      "1122": {
+        "description": "Y      Y      Y      Y     M     M     D      D",
+        "type": "string"
+      },
+      "1123": {
+        "description": "Other (please specify)",
+        "type": "string"
+      },
+      "1129": {
+        "description": "Auger (Hollow / Solid Stem)",
+        "type": "string"
+      },
+      "1130": {
+        "description": "C2 Well Type: In what geological material is the",
+        "type": "boolean"
+      },
+      "1131": {
+        "description": "water producing zone located?",
+        "type": "boolean"
+      },
+      "1135": {
+        "description": "Casing (depth below ground surface, please circle appropriate units)",
+        "type": "string"
+      },
+      "1139": {
+        "description": "C3 Outside",
+        "type": "string"
+      },
+      "1143": {
+        "description": "C6 Casing Depth to:",
+        "type": "string"
+      },
+      "1148": {
+        "description": "Steel",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

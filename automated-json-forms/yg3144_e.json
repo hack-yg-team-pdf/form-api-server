@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "properties": {
+      "40": {
+        "description": "File No.",
+        "type": "string"
+      },
+      "41": {
+        "description": "1.",
+        "type": "string"
+      },
+      "42": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "43": {
+        "description": "1.",
+        "type": "string"
+      },
+      "44": {
+        "description": "2.",
+        "type": "string"
+      },
+      "45": {
+        "description": "TO  THE  SHERIFF  and  other  peace  officers  in  Yukon  AND  TO  the  keepers  of  all  correctional  institutions  in",
+        "type": "string"
+      },
+      "46": {
+        "description": "was served with a summons to witness to give",
+        "type": "string"
+      },
+      "47": {
+        "description": "YOU ARE ORDERED TO ARREST and bring the witness (name)",
+        "type": "string"
+      },
+      "48": {
+        "description": "or other secure facility, to be admitted and",
+        "type": "string"
+      },
+      "49": {
+        "description": "Dated this  day of , 20",
+        "type": "string"
+      },
+      "50": {
+        "description": "at ,Yukon",
+        "type": "string"
+      },
+      "51": {
+        "description": "YG(3144QE)F2 REV. 07/2013",
+        "type": "string"
+      },
+      "52": {
+        "description": "Reference: Section 48 Small Claims Court Regulations",
+        "type": "string"
+      },
+      "53": {
+        "description": "detained there until the witness can be brought before the court.",
+        "type": "boolean"
+      },
+      "56": {
+        "description": "brought  immediately  before  the  court,  to  deliver  the  witness  to  the  (name  of  correctional  institution)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "360": {
+        "description": "Date of birth Name",
+        "type": "string"
+      },
+      "361": {
+        "description": "FIRST",
+        "type": "string"
+      },
+      "362": {
+        "description": "makes application for the re-issuance of a registration for trapping concession area # .",
+        "type": "string"
+      },
+      "363": {
+        "description": "e",
+        "type": "string"
+      },
+      "364": {
+        "description": "t",
+        "type": "string"
+      },
+      "365": {
+        "description": "YEAR",
+        "type": "string"
+      },
+      "366": {
+        "description": "MONTH",
+        "type": "string"
+      },
+      "367": {
+        "description": "DAY",
+        "type": "string"
+      },
+      "368": {
+        "description": "HEREINAFTER called the \u201capplicant\u201d:",
+        "type": "string"
+      },
+      "369": {
+        "description": "Provide a detailed description of any improvements or developments made on your concession over",
+        "type": "string"
+      },
+      "370": {
+        "description": "(e.g., cabins, trails, etc.)",
+        "type": "string"
+      },
+      "371": {
+        "description": "By signing here, the applicant declares that all information provided in sections A and B is complete",
+        "type": "string"
+      },
+      "372": {
+        "description": "Provide a detailed list of all fur harvest from your concession area over the most recent term:",
+        "type": "string"
+      },
+      "373": {
+        "description": "Harvest by you",
+        "type": "string"
+      },
+      "374": {
+        "description": "and correct.",
+        "type": "string"
+      },
+      "375": {
+        "description": "Species",
+        "type": "string"
+      },
+      "376": {
+        "description": "Harvest by assistant trapper(s)",
+        "type": "string"
+      },
+      "377": {
+        "description": "tion, contact the ATIPP Coordinator, Yukon Department of Environment, Box 2703, Whitehorse, Yukon, Y1A 2C6, (867) 667-5652 or 1-800-661-0408 ext. 5652 within Yukon.",
+        "type": "string"
+      },
+      "378": {
+        "description": "Species",
+        "type": "string"
+      },
+      "379": {
+        "description": "20 - 20  20 - 20 20 - 20 20 - 20 20 - 20",
+        "type": "string"
+      },
+      "380": {
+        "description": "Signature of applicant",
+        "type": "string"
+      },
+      "382": {
+        "description": "Provide any additional information related to the concession area and trapping activities on it over the",
+        "type": "string"
+      },
+      "383": {
+        "description": "most recent term:",
+        "type": "string"
+      },
+      "384": {
+        "description": "SECTION C: DECLARATION",
+        "type": "string"
+      },
+      "385": {
+        "description": "Sign below to legally declare that the information provided above is complete and correct.",
+        "type": "string"
+      },
+      "386": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "387": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for the administration",
+        "type": "string"
+      },
+      "388": {
+        "description": "and enforcement of the Wildlife Act and Regulations, for evaluation, research, statistical, and land management purposes. For further information on the collection of your informa-",
+        "type": "string"
+      },
+      "389": {
+        "description": "OFFICE USE",
+        "type": "string"
+      },
+      "390": {
+        "description": "Date received",
+        "type": "string"
+      },
+      "391": {
+        "description": "Receiver\u2019s signature",
+        "type": "string"
+      },
+      "392": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "393": {
+        "description": "Referral comments",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

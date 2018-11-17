@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "124": {
+        "description": "Name",
+        "type": "string"
+      },
+      "127": {
+        "description": "Territoire, province   Code postal",
+        "type": "string"
+      },
+      "128": {
+        "description": "Territory, Province",
+        "type": "string"
+      },
+      "129": {
+        "description": "Address",
+        "type": "string"
+      },
+      "130": {
+        "description": "Adresse   Ville, village",
+        "type": "string"
+      },
+      "131": {
+        "description": "(home)",
+        "type": "string"
+      },
+      "132": {
+        "description": "(domicile)",
+        "type": "string"
+      },
+      "133": {
+        "description": "(business)",
+        "type": "string"
+      },
+      "134": {
+        "description": "(travail)",
+        "type": "string"
+      },
+      "135": {
+        "description": "Driver\u2019s licence number",
+        "type": "string"
+      },
+      "136": {
+        "description": "Permis de conduire no     Classe de permis de conduire",
+        "type": "string"
+      },
+      "137": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "139": {
+        "description": "Company name",
+        "type": "string"
+      },
+      "140": {
+        "description": "Address",
+        "type": "string"
+      },
+      "141": {
+        "description": "City, town                                                                                                                        Territory, Province",
+        "type": "string"
+      },
+      "142": {
+        "description": "Ville, village   Territoire, province",
+        "type": "string"
+      },
+      "143": {
+        "description": "Telephone number",
+        "type": "string"
+      },
+      "144": {
+        "description": "The applicant is applying for:",
+        "type": "string"
+      },
+      "145": {
+        "description": "Postal code",
+        "type": "boolean"
+      },
+      "146": {
+        "description": "DA (Driver Apron I Only) = For personnel required to use the Apron I (one) only;",
+        "type": "boolean"
+      },
+      "147": {
+        "description": "DR (Driver Restricted) = For personnel required to use Apron I (one) and II (two), Taxiways Echo and Golf only",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "D (Unrestricted) = For personnel requiring access to all manoeuvring areas on the Airport - no restrictions.",
+        "type": "boolean"
+      },
+      "151": {
+        "description": "Upon request by the Aerodrome Operator or his/her delegate the AVOP holder MUST surrender their AVOP.",
+        "type": "string"
+      },
+      "152": {
+        "description": "I understand that it is my responsibility, as an AVOP holder, to keep my AVOP pre-requesites and AVOP holder requirements current.",
+        "type": "string"
+      },
+      "153": {
+        "description": "Je comprends qu\u2019il est de ma responsabilit\u00e9, \u00e0 titre de titulaire d\u2019un permis AVOP, de rester \u00e0 jour et en r\u00e8gle par rapport aux exigences relatives aux",
+        "type": "string"
+      },
+      "154": {
+        "description": "PERMIT #:",
+        "type": "boolean"
+      },
+      "157": {
+        "description": "Examiner\u2019s Signature:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

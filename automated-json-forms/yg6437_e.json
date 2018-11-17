@@ -1,0 +1,1411 @@
+{
+  "fields": {
+    "properties": {
+      "306": {
+        "description": "/",
+        "type": "string"
+      },
+      "307": {
+        "description": "D",
+        "type": "string"
+      },
+      "308": {
+        "description": "l",
+        "type": "string"
+      },
+      "309": {
+        "description": "F",
+        "type": "string"
+      },
+      "311": {
+        "description": "/",
+        "type": "string"
+      },
+      "314": {
+        "description": "D",
+        "type": "string"
+      },
+      "316": {
+        "description": "/",
+        "type": "string"
+      },
+      "330": {
+        "description": "/",
+        "type": "string"
+      },
+      "337": {
+        "description": "M",
+        "type": "string"
+      },
+      "338": {
+        "description": "D",
+        "type": "string"
+      },
+      "339": {
+        "description": "/",
+        "type": "string"
+      },
+      "340": {
+        "description": "M",
+        "type": "string"
+      },
+      "346": {
+        "description": "M",
+        "type": "string"
+      },
+      "347": {
+        "description": "n",
+        "type": "string"
+      },
+      "348": {
+        "description": "p",
+        "type": "string"
+      },
+      "349": {
+        "description": "/",
+        "type": "string"
+      },
+      "352": {
+        "description": "M",
+        "type": "string"
+      },
+      "356": {
+        "description": "/",
+        "type": "string"
+      },
+      "358": {
+        "description": "D",
+        "type": "string"
+      },
+      "365": {
+        "description": "/",
+        "type": "string"
+      },
+      "366": {
+        "description": "/",
+        "type": "string"
+      },
+      "368": {
+        "description": "M",
+        "type": "string"
+      },
+      "369": {
+        "description": "F",
+        "type": "string"
+      },
+      "370": {
+        "description": "u",
+        "type": "string"
+      },
+      "371": {
+        "description": "M",
+        "type": "string"
+      },
+      "372": {
+        "description": "(",
+        "type": "string"
+      },
+      "373": {
+        "description": "D",
+        "type": "string"
+      },
+      "374": {
+        "description": "e",
+        "type": "string"
+      },
+      "375": {
+        "description": "r",
+        "type": "string"
+      },
+      "376": {
+        "description": "D",
+        "type": "string"
+      },
+      "380": {
+        "description": "i",
+        "type": "string"
+      },
+      "382": {
+        "description": "/",
+        "type": "string"
+      },
+      "383": {
+        "description": "/",
+        "type": "string"
+      },
+      "385": {
+        "description": "a",
+        "type": "string"
+      },
+      "386": {
+        "description": "p",
+        "type": "string"
+      },
+      "387": {
+        "description": "D",
+        "type": "string"
+      },
+      "388": {
+        "description": "l",
+        "type": "string"
+      },
+      "389": {
+        "description": "o",
+        "type": "string"
+      },
+      "390": {
+        "description": "/",
+        "type": "string"
+      },
+      "391": {
+        "description": "o",
+        "type": "string"
+      },
+      "392": {
+        "description": "m",
+        "type": "boolean"
+      },
+      "393": {
+        "description": "M",
+        "type": "string"
+      },
+      "398": {
+        "description": "R",
+        "type": "string"
+      },
+      "399": {
+        "description": "M",
+        "type": "string"
+      },
+      "400": {
+        "description": "D",
+        "type": "string"
+      },
+      "402": {
+        "description": "p",
+        "type": "string"
+      },
+      "405": {
+        "description": "(",
+        "type": "string"
+      },
+      "406": {
+        "description": "f",
+        "type": "string"
+      },
+      "407": {
+        "description": "D",
+        "type": "string"
+      },
+      "409": {
+        "description": "(",
+        "type": "string"
+      },
+      "412": {
+        "description": "f",
+        "type": "string"
+      },
+      "413": {
+        "description": "R",
+        "type": "string"
+      },
+      "414": {
+        "description": "/",
+        "type": "string"
+      },
+      "415": {
+        "description": "n",
+        "type": "string"
+      },
+      "418": {
+        "description": "f",
+        "type": "string"
+      },
+      "420": {
+        "description": "T",
+        "type": "string"
+      },
+      "422": {
+        "description": "D",
+        "type": "string"
+      },
+      "424": {
+        "description": "r",
+        "type": "string"
+      },
+      "425": {
+        "description": "n",
+        "type": "string"
+      },
+      "426": {
+        "description": "P",
+        "type": "string"
+      },
+      "427": {
+        "description": "N",
+        "type": "string"
+      },
+      "428": {
+        "description": "n",
+        "type": "string"
+      },
+      "429": {
+        "description": "e",
+        "type": "string"
+      },
+      "430": {
+        "description": "D",
+        "type": "string"
+      },
+      "431": {
+        "description": "i",
+        "type": "string"
+      },
+      "433": {
+        "description": "D",
+        "type": "string"
+      },
+      "434": {
+        "description": "E",
+        "type": "string"
+      },
+      "435": {
+        "description": "d",
+        "type": "string"
+      },
+      "437": {
+        "description": "e",
+        "type": "string"
+      },
+      "441": {
+        "description": "S",
+        "type": "string"
+      },
+      "446": {
+        "description": "r",
+        "type": "string"
+      },
+      "452": {
+        "description": "a",
+        "type": "string"
+      },
+      "453": {
+        "description": "D",
+        "type": "string"
+      },
+      "465": {
+        "description": "M",
+        "type": "string"
+      },
+      "470": {
+        "description": "n",
+        "type": "string"
+      },
+      "471": {
+        "description": "Y",
+        "type": "string"
+      },
+      "472": {
+        "description": "M",
+        "type": "string"
+      },
+      "473": {
+        "description": "M",
+        "type": "string"
+      },
+      "474": {
+        "description": "Y",
+        "type": "string"
+      },
+      "475": {
+        "description": "/",
+        "type": "string"
+      },
+      "476": {
+        "description": "M",
+        "type": "string"
+      },
+      "477": {
+        "description": "M",
+        "type": "string"
+      },
+      "478": {
+        "description": "c",
+        "type": "string"
+      },
+      "479": {
+        "description": "M",
+        "type": "string"
+      },
+      "480": {
+        "description": "#",
+        "type": "string"
+      },
+      "481": {
+        "description": "Y",
+        "type": "string"
+      },
+      "482": {
+        "description": "Y",
+        "type": "string"
+      },
+      "483": {
+        "description": "t",
+        "type": "string"
+      },
+      "484": {
+        "description": "Y",
+        "type": "string"
+      },
+      "485": {
+        "description": "d",
+        "type": "string"
+      },
+      "486": {
+        "description": "Y",
+        "type": "string"
+      },
+      "487": {
+        "description": "Y",
+        "type": "string"
+      },
+      "488": {
+        "description": "M",
+        "type": "string"
+      },
+      "489": {
+        "description": "Y",
+        "type": "string"
+      },
+      "490": {
+        "description": "n",
+        "type": "string"
+      },
+      "491": {
+        "description": ")",
+        "type": "string"
+      },
+      "492": {
+        "description": "c",
+        "type": "string"
+      },
+      "493": {
+        "description": "t",
+        "type": "string"
+      },
+      "494": {
+        "description": "y",
+        "type": "string"
+      },
+      "495": {
+        "description": "Y",
+        "type": "string"
+      },
+      "518": {
+        "description": "D",
+        "type": "string"
+      },
+      "532": {
+        "description": "D",
+        "type": "string"
+      },
+      "538": {
+        "description": "D",
+        "type": "string"
+      },
+      "559": {
+        "description": "Y",
+        "type": "string"
+      },
+      "560": {
+        "description": "t",
+        "type": "string"
+      },
+      "561": {
+        "description": "Y",
+        "type": "string"
+      },
+      "562": {
+        "description": "Y",
+        "type": "string"
+      },
+      "563": {
+        "description": "/",
+        "type": "string"
+      },
+      "564": {
+        "description": "Y",
+        "type": "string"
+      },
+      "565": {
+        "description": "Y",
+        "type": "string"
+      },
+      "566": {
+        "description": "e",
+        "type": "string"
+      },
+      "567": {
+        "description": "M",
+        "type": "string"
+      },
+      "568": {
+        "description": "Y",
+        "type": "string"
+      },
+      "569": {
+        "description": "Y",
+        "type": "string"
+      },
+      "570": {
+        "description": "/",
+        "type": "string"
+      },
+      "571": {
+        "description": "M",
+        "type": "string"
+      },
+      "572": {
+        "description": "Y",
+        "type": "string"
+      },
+      "573": {
+        "description": "Y",
+        "type": "string"
+      },
+      "574": {
+        "description": "/",
+        "type": "string"
+      },
+      "575": {
+        "description": "Y",
+        "type": "string"
+      },
+      "576": {
+        "description": "e",
+        "type": "string"
+      },
+      "577": {
+        "description": "o",
+        "type": "string"
+      },
+      "578": {
+        "description": "M",
+        "type": "string"
+      },
+      "579": {
+        "description": "Y",
+        "type": "string"
+      },
+      "580": {
+        "description": "M",
+        "type": "string"
+      },
+      "581": {
+        "description": "D",
+        "type": "string"
+      },
+      "582": {
+        "description": "Y",
+        "type": "string"
+      },
+      "583": {
+        "description": "M",
+        "type": "string"
+      },
+      "584": {
+        "description": "n",
+        "type": "string"
+      },
+      "585": {
+        "description": "D",
+        "type": "string"
+      },
+      "586": {
+        "description": "Y",
+        "type": "string"
+      },
+      "587": {
+        "description": "Y",
+        "type": "string"
+      },
+      "588": {
+        "description": "Y",
+        "type": "string"
+      },
+      "589": {
+        "description": "Y",
+        "type": "string"
+      },
+      "590": {
+        "description": "M",
+        "type": "string"
+      },
+      "591": {
+        "description": "Y",
+        "type": "string"
+      },
+      "592": {
+        "description": "s",
+        "type": "string"
+      },
+      "593": {
+        "description": "a",
+        "type": "string"
+      },
+      "594": {
+        "description": "t",
+        "type": "string"
+      },
+      "595": {
+        "description": "M",
+        "type": "string"
+      },
+      "596": {
+        "description": "Y",
+        "type": "string"
+      },
+      "597": {
+        "description": "Y",
+        "type": "string"
+      },
+      "598": {
+        "description": "D",
+        "type": "string"
+      },
+      "599": {
+        "description": "Y",
+        "type": "string"
+      },
+      "600": {
+        "description": "Y",
+        "type": "string"
+      },
+      "601": {
+        "description": "M",
+        "type": "string"
+      },
+      "602": {
+        "description": "i",
+        "type": "string"
+      },
+      "603": {
+        "description": "Y",
+        "type": "string"
+      },
+      "604": {
+        "description": "D",
+        "type": "string"
+      },
+      "605": {
+        "description": "Y",
+        "type": "string"
+      },
+      "606": {
+        "description": "r",
+        "type": "string"
+      },
+      "607": {
+        "description": "Y",
+        "type": "string"
+      },
+      "608": {
+        "description": "Y",
+        "type": "string"
+      },
+      "609": {
+        "description": "L",
+        "type": "string"
+      },
+      "610": {
+        "description": "c",
+        "type": "string"
+      },
+      "611": {
+        "description": "M",
+        "type": "string"
+      },
+      "612": {
+        "description": "Y",
+        "type": "string"
+      },
+      "613": {
+        "description": "Y",
+        "type": "string"
+      },
+      "614": {
+        "description": "(",
+        "type": "string"
+      },
+      "615": {
+        "description": "D",
+        "type": "string"
+      },
+      "616": {
+        "description": ",",
+        "type": "string"
+      },
+      "617": {
+        "description": "M",
+        "type": "string"
+      },
+      "618": {
+        "description": "M",
+        "type": "string"
+      },
+      "619": {
+        "description": "M",
+        "type": "string"
+      },
+      "620": {
+        "description": "Y",
+        "type": "string"
+      },
+      "621": {
+        "description": "Y",
+        "type": "string"
+      },
+      "622": {
+        "description": "Y",
+        "type": "string"
+      },
+      "623": {
+        "description": "s",
+        "type": "string"
+      },
+      "624": {
+        "description": "Y",
+        "type": "string"
+      },
+      "625": {
+        "description": "M",
+        "type": "string"
+      },
+      "626": {
+        "description": "Y",
+        "type": "string"
+      },
+      "627": {
+        "description": "D",
+        "type": "string"
+      },
+      "628": {
+        "description": "D",
+        "type": "string"
+      },
+      "629": {
+        "description": "/",
+        "type": "string"
+      },
+      "630": {
+        "description": "D",
+        "type": "string"
+      },
+      "631": {
+        "description": "/",
+        "type": "string"
+      },
+      "632": {
+        "description": "M",
+        "type": "string"
+      },
+      "633": {
+        "description": "/",
+        "type": "string"
+      },
+      "634": {
+        "description": "Y",
+        "type": "string"
+      },
+      "635": {
+        "description": "/",
+        "type": "string"
+      },
+      "636": {
+        "description": "Y",
+        "type": "string"
+      },
+      "637": {
+        "description": "Y",
+        "type": "string"
+      },
+      "638": {
+        "description": "M",
+        "type": "string"
+      },
+      "639": {
+        "description": "D",
+        "type": "string"
+      },
+      "640": {
+        "description": "M",
+        "type": "string"
+      },
+      "641": {
+        "description": "Y",
+        "type": "string"
+      },
+      "642": {
+        "description": "M",
+        "type": "string"
+      },
+      "643": {
+        "description": "c",
+        "type": "string"
+      },
+      "644": {
+        "description": "/",
+        "type": "string"
+      },
+      "645": {
+        "description": "D",
+        "type": "string"
+      },
+      "646": {
+        "description": "Y",
+        "type": "string"
+      },
+      "647": {
+        "description": "M",
+        "type": "string"
+      },
+      "648": {
+        "description": "D",
+        "type": "string"
+      },
+      "649": {
+        "description": "/",
+        "type": "string"
+      },
+      "650": {
+        "description": "Y",
+        "type": "string"
+      },
+      "651": {
+        "description": "/",
+        "type": "string"
+      },
+      "652": {
+        "description": "M",
+        "type": "string"
+      },
+      "653": {
+        "description": "M",
+        "type": "string"
+      },
+      "654": {
+        "description": "M",
+        "type": "string"
+      },
+      "655": {
+        "description": "Y",
+        "type": "string"
+      },
+      "656": {
+        "description": "D",
+        "type": "string"
+      },
+      "657": {
+        "description": "/",
+        "type": "string"
+      },
+      "658": {
+        "description": "Y",
+        "type": "string"
+      },
+      "659": {
+        "description": "Y",
+        "type": "string"
+      },
+      "661": {
+        "description": "D",
+        "type": "string"
+      },
+      "662": {
+        "description": "/",
+        "type": "string"
+      },
+      "663": {
+        "description": "t",
+        "type": "string"
+      },
+      "664": {
+        "description": "Y",
+        "type": "string"
+      },
+      "665": {
+        "description": "Y",
+        "type": "string"
+      },
+      "666": {
+        "description": "/",
+        "type": "string"
+      },
+      "667": {
+        "description": "Y",
+        "type": "string"
+      },
+      "668": {
+        "description": "Y",
+        "type": "string"
+      },
+      "743": {
+        "description": ":",
+        "type": "string"
+      },
+      "748": {
+        "description": "h",
+        "type": "string"
+      },
+      "750": {
+        "description": ":",
+        "type": "string"
+      },
+      "751": {
+        "description": ",",
+        "type": "string"
+      },
+      "753": {
+        "description": "/",
+        "type": "string"
+      },
+      "756": {
+        "description": "r",
+        "type": "string"
+      },
+      "760": {
+        "description": ":",
+        "type": "string"
+      },
+      "761": {
+        "description": ":",
+        "type": "string"
+      },
+      "763": {
+        "description": ":",
+        "type": "string"
+      },
+      "770": {
+        "description": "$",
+        "type": "string"
+      },
+      "773": {
+        "description": "/",
+        "type": "string"
+      },
+      "798": {
+        "description": "Total cash balance available $",
+        "type": "string"
+      },
+      "799": {
+        "description": "$",
+        "type": "string"
+      },
+      "800": {
+        "description": "$",
+        "type": "string"
+      },
+      "803": {
+        "description": "Mortgage outstanding",
+        "type": "string"
+      },
+      "804": {
+        "description": "Street name",
+        "type": "string"
+      },
+      "805": {
+        "description": "application may be denied.",
+        "type": "string"
+      },
+      "806": {
+        "description": "Rental revenue $",
+        "type": "string"
+      },
+      "807": {
+        "description": "Recreational vehicles (incl. motor homes,",
+        "type": "string"
+      },
+      "809": {
+        "description": "$",
+        "type": "string"
+      },
+      "810": {
+        "description": "IMPORTANT - PLEASE READ THE FOLLOWING CAREFULLY, AND SIGN BELOW.",
+        "type": "string"
+      },
+      "811": {
+        "description": "$",
+        "type": "string"
+      },
+      "812": {
+        "description": "I/We have reported all assets currently owned by every member of the household.",
+        "type": "string"
+      },
+      "813": {
+        "description": "I/We understand once occupancy has been granted, if it is found that any assets were not disclosed prior to occupancy",
+        "type": "string"
+      },
+      "814": {
+        "description": "$",
+        "type": "string"
+      },
+      "815": {
+        "description": "$",
+        "type": "string"
+      },
+      "817": {
+        "description": "I/We understand that if it is found that information is missing, incorrect or otherwise inaccurate my/our housing",
+        "type": "string"
+      },
+      "818": {
+        "description": "$",
+        "type": "string"
+      },
+      "819": {
+        "description": "$",
+        "type": "string"
+      },
+      "820": {
+        "description": "Other (specify) $",
+        "type": "string"
+      },
+      "821": {
+        "description": "$",
+        "type": "string"
+      },
+      "822": {
+        "description": "$",
+        "type": "string"
+      },
+      "823": {
+        "description": "$",
+        "type": "string"
+      },
+      "824": {
+        "description": "ATVs, boats, aircraft, snowmobile, etc.)",
+        "type": "string"
+      },
+      "825": {
+        "description": "$",
+        "type": "string"
+      },
+      "826": {
+        "description": "$",
+        "type": "string"
+      },
+      "827": {
+        "description": "Business assets $",
+        "type": "string"
+      },
+      "828": {
+        "description": "$",
+        "type": "string"
+      },
+      "829": {
+        "description": "RRSPs or RRIFs $",
+        "type": "string"
+      },
+      "830": {
+        "description": "Applicant",
+        "type": "string"
+      },
+      "831": {
+        "description": "If yes, identify location for each (if more than one please add additional sheet)",
+        "type": "string"
+      },
+      "833": {
+        "description": "Investments $",
+        "type": "string"
+      },
+      "836": {
+        "description": "Additional household",
+        "type": "string"
+      },
+      "837": {
+        "description": "Street number",
+        "type": "string"
+      },
+      "838": {
+        "description": "Please provide dollar values (e.g. $1,$2,$3)",
+        "type": "string"
+      },
+      "839": {
+        "description": "$",
+        "type": "string"
+      },
+      "840": {
+        "description": "No",
+        "type": "string"
+      },
+      "841": {
+        "description": "Do you OWN additional homes or properties shared or otherwise?",
+        "type": "string"
+      },
+      "847": {
+        "description": "Corporation in support of my application for priority housing. I also consent to Yukon Housing Corporation indirectly",
+        "type": "string"
+      },
+      "848": {
+        "description": "Home phone",
+        "type": "string"
+      },
+      "852": {
+        "description": "Home phone",
+        "type": "string"
+      },
+      "854": {
+        "description": "Cell phone",
+        "type": "string"
+      },
+      "855": {
+        "description": "Email",
+        "type": "string"
+      },
+      "856": {
+        "description": "City",
+        "type": "string"
+      },
+      "857": {
+        "description": "collecting my personal information.",
+        "type": "string"
+      },
+      "858": {
+        "description": "I consent to the person named below [my third-party verifier] providing personal information to the Yukon Housing",
+        "type": "string"
+      },
+      "859": {
+        "description": "Email",
+        "type": "string"
+      },
+      "861": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "862": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "864": {
+        "description": "Work phone",
+        "type": "string"
+      },
+      "865": {
+        "description": "You will need two pieces of ID",
+        "type": "string"
+      },
+      "866": {
+        "description": "CONTACT INFORMATION",
+        "type": "string"
+      },
+      "867": {
+        "description": "Territory/province",
+        "type": "string"
+      },
+      "868": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "869": {
+        "description": "Cell phone",
+        "type": "string"
+      },
+      "870": {
+        "description": "Yukon Housing Corporation, in the community of , based on the Victims of Violence policy.",
+        "type": "string"
+      },
+      "871": {
+        "description": "Applicant\u2019s signature",
+        "type": "string"
+      },
+      "872": {
+        "description": "Third-party verifier\u2019s name",
+        "type": "string"
+      },
+      "873": {
+        "description": "Third-party\u2019s organization",
+        "type": "string"
+      },
+      "874": {
+        "description": "Please provide a telephone number and/or address where we may contact you that will not further jeopardize your safety.",
+        "type": "string"
+      },
+      "875": {
+        "description": "I, , am seeking  priority consideration of my application for housing with the",
+        "type": "string"
+      },
+      "878": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "879": {
+        "description": "I declare that I have reviewed the information provided by the applicant and myself, and it is accurate to the best of my knowledge.",
+        "type": "string"
+      },
+      "882": {
+        "description": "To the best of my knowledge, this applicant qualifies for priority housing because of their continued",
+        "type": "string"
+      },
+      "883": {
+        "description": "Yes",
+        "type": "boolean"
+      },
+      "884": {
+        "description": "If yes, what support would you or your organization be able to provide:",
+        "type": "string"
+      },
+      "886": {
+        "description": "Position/job title",
+        "type": "string"
+      },
+      "894": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "903": {
+        "description": "If the applicant was offered housing by YHC, in your opinion, would they require support services to be",
+        "type": "string"
+      },
+      "904": {
+        "description": "fear of violence from the perpetrator.",
+        "type": "string"
+      },
+      "905": {
+        "description": "Please describe any supports that you are aware of that the applicant is currently receiving, for",
+        "type": "string"
+      },
+      "906": {
+        "description": "If obtainable, please attach all other supplemental documentation verifying abuse, such as a court document",
+        "type": "string"
+      },
+      "907": {
+        "description": "about why we are collecting this personal information please contact Housing Operations, Yukon Housing Corporation at (867) 667-5712.",
+        "type": "string"
+      },
+      "908": {
+        "description": "Verifier\u2019s signature",
+        "type": "string"
+      },
+      "913": {
+        "description": "with a severe, chronic or acute medical/health problem which requires prolonged or recurring treatment, care and/or",
+        "type": "string"
+      },
+      "914": {
+        "description": "* Health care provider for the purposes of this document is defined as a physician or a community nurse practitioner.",
+        "type": "string"
+      },
+      "916": {
+        "description": "I am currently residing in the community of",
+        "type": "string"
+      },
+      "917": {
+        "description": "Applicant signature",
+        "type": "string"
+      },
+      "918": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "919": {
+        "description": "determining eligibility and priority for housing and to assist in the identification of support services that may benefit me.",
+        "type": "string"
+      },
+      "921": {
+        "description": "recurring treatment, care and/or support that is not available in their present residential location or community.",
+        "type": "string"
+      },
+      "924": {
+        "description": "Provider\u2019s printed name/position",
+        "type": "string"
+      },
+      "925": {
+        "description": "I hereby authorize the information requested below to be released to Yukon Housing Corporation for the purpose of",
+        "type": "string"
+      },
+      "928": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "930": {
+        "description": "I am requesting a relocation to the community of",
+        "type": "string"
+      },
+      "932": {
+        "description": "Provider\u2019s signature",
+        "type": "string"
+      },
+      "934": {
+        "description": "Treatment/care or support required which is NOT available in their home community:",
+        "type": "string"
+      },
+      "936": {
+        "description": "Applicant name        Date of birth",
+        "type": "string"
+      },
+      "938": {
+        "description": "Print name                                                                Date",
+        "type": "string"
+      },
+      "939": {
+        "description": "I hereby verify that the applicant has a severe, chronic or acute medical/health problem which requires prolonged or",
+        "type": "string"
+      },
+      "940": {
+        "description": "Date",
+        "type": "string"
+      },
+      "941": {
+        "description": "support that is not available in their present residential location or community.",
+        "type": "string"
+      },
+      "950": {
+        "description": "Walker",
+        "type": "string"
+      },
+      "952": {
+        "description": "Date",
+        "type": "string"
+      },
+      "956": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "957": {
+        "description": "Provider\u2019s signature",
+        "type": "string"
+      },
+      "958": {
+        "description": "* Health care provider for the purposes of this document is defined as a physician or a community nurse practitioner.",
+        "type": "string"
+      },
+      "959": {
+        "description": "Expected duration of the mobility challenge:",
+        "type": "string"
+      },
+      "969": {
+        "description": "nature and for which the required use of stairs by the mobility-challenged person to access the home or to function",
+        "type": "string"
+      },
+      "971": {
+        "description": "I hereby authorize the information requested below to be released to Yukon Housing Corporation for the purpose of",
+        "type": "string"
+      },
+      "972": {
+        "description": "I am requesting housing in the the community of",
+        "type": "string"
+      },
+      "975": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "976": {
+        "description": "Applicant signature",
+        "type": "string"
+      },
+      "978": {
+        "description": "independently in the home would present a major health risk or impediment.",
+        "type": "string"
+      },
+      "979": {
+        "description": "determining eligibility and priority for housing and to assist in the identification of support services that may benefit me.",
+        "type": "string"
+      },
+      "981": {
+        "description": "Applicant name        Date of birth",
+        "type": "string"
+      },
+      "982": {
+        "description": "Print name                                                                Date",
+        "type": "string"
+      },
+      "993": {
+        "description": "Legal authority",
+        "type": "boolean"
+      },
+      "995": {
+        "description": "Witness",
+        "type": "string"
+      },
+      "997": {
+        "description": "release/exchange information with:",
+        "type": "string"
+      },
+      "998": {
+        "description": "Agency/representative/occupation",
+        "type": "string"
+      },
+      "999": {
+        "description": "Community",
+        "type": "string"
+      },
+      "1000": {
+        "description": "I am aware that I may cancel or amend this consent in writing at any time.",
+        "type": "string"
+      },
+      "1001": {
+        "description": "Signature of applicant / personal representative",
+        "type": "string"
+      },
+      "1002": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "1003": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "1005": {
+        "description": "Address (house # / box # and street)",
+        "type": "string"
+      },
+      "1007": {
+        "description": "I, , give permission for Yukon Housing Corporation (YHC) to",
+        "type": "string"
+      },
+      "1008": {
+        "description": "Agency/representative/occupation",
+        "type": "string"
+      },
+      "1009": {
+        "description": "Agency/representative/occupation",
+        "type": "string"
+      },
+      "1010": {
+        "description": "Phone",
+        "type": "boolean"
+      },
+      "1012": {
+        "description": "Date of birth",
+        "type": "string"
+      },
+      "1081": {
+        "description": "CHECKLIST",
+        "type": "boolean"
+      },
+      "1083": {
+        "description": "To ensure your application package is complete, please include the following:",
+        "type": "boolean"
+      },
+      "1085": {
+        "description": "One government issued identification for all persons 18 years old and under",
+        "type": "boolean"
+      },
+      "1087": {
+        "description": "Application form completed and signed",
+        "type": "boolean"
+      },
+      "1089": {
+        "description": "Priority consideration for applicants",
+        "type": "boolean"
+      },
+      "1091": {
+        "description": "Confirmation Form",
+        "type": "boolean"
+      },
+      "1093": {
+        "description": "Verification Form completed by a physician or community nurse practitioner.",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

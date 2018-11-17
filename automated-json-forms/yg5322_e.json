@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "45": {
+        "description": "Attached",
+        "type": "boolean"
+      },
+      "47": {
+        "description": "Attached",
+        "type": "boolean"
+      },
+      "48": {
+        "description": "Questions? Visit www.insurancelicensingyukon.ca or contact Professional Licensing and Regulatory Affairs at",
+        "type": "boolean"
+      },
+      "51": {
+        "description": "Attached",
+        "type": "boolean"
+      },
+      "53": {
+        "description": "Applicant name (print)                                         Applicant signature                                           Date",
+        "type": "boolean"
+      },
+      "55": {
+        "description": "Attached",
+        "type": "boolean"
+      },
+      "148": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "149": {
+        "description": "First name",
+        "type": "string"
+      },
+      "150": {
+        "description": "Prov/Terr",
+        "type": "string"
+      },
+      "151": {
+        "description": "Brokerage address",
+        "type": "string"
+      },
+      "154": {
+        "description": "Business phone",
+        "type": "string"
+      },
+      "155": {
+        "description": "City",
+        "type": "string"
+      },
+      "156": {
+        "description": "City",
+        "type": "string"
+      },
+      "157": {
+        "description": "Prov/Terr",
+        "type": "string"
+      },
+      "158": {
+        "description": "Home phone",
+        "type": "string"
+      },
+      "159": {
+        "description": "Business email",
+        "type": "string"
+      },
+      "160": {
+        "description": "Home address",
+        "type": "string"
+      },
+      "161": {
+        "description": "Cell phone",
+        "type": "string"
+      },
+      "162": {
+        "description": "Personal email",
+        "type": "string"
+      },
+      "163": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "164": {
+        "description": "If yes, has your licence ever been suspended or otherwise terminated?",
+        "type": "string"
+      },
+      "165": {
+        "description": "If yes, see Renewal Checklist (page 2) for additional documents required.",
+        "type": "string"
+      },
+      "166": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "171": {
+        "description": "If yes, by whom, and for what reason?",
+        "type": "string"
+      },
+      "172": {
+        "description": "2. Have you ever been refused a licence as an insurance agent or broker in Yukon or elsewhere?",
+        "type": "string"
+      },
+      "173": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "178": {
+        "description": "3. If this renewal application is granted, do you propose to engage in any business other than that of an insurance",
+        "type": "string"
+      },
+      "179": {
+        "description": "(c) The portion of your time you intend to devote to insurance",
+        "type": "string"
+      },
+      "180": {
+        "description": "4. What previous experience have you had in the insurance business?",
+        "type": "string"
+      },
+      "181": {
+        "description": "Personal information contained on this form is collected under the Insurance Act and will be used for the purpose of administering the Act. For further information, contact",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

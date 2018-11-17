@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "274": {
+        "description": "APPLICANT INFORMATION",
+        "type": "string"
+      },
+      "275": {
+        "description": "Since your original application, have you purchased or leased specialized harvest equipment?",
+        "type": "string"
+      },
+      "276": {
+        "description": "Contact",
+        "type": "string"
+      },
+      "277": {
+        "description": "Application type:",
+        "type": "string"
+      },
+      "278": {
+        "description": "Additional cutting permit",
+        "type": "string"
+      },
+      "281": {
+        "description": "Amendment",
+        "type": "boolean"
+      },
+      "283": {
+        "description": "Renewal",
+        "type": "boolean"
+      },
+      "285": {
+        "description": "If yes, list the specialized harvest equipment:",
+        "type": "boolean"
+      },
+      "287": {
+        "description": "Licence",
+        "type": "boolean"
+      },
+      "289": {
+        "description": "Cutting permit",
+        "type": "boolean"
+      },
+      "291": {
+        "description": "Client requested termination of:",
+        "type": "string"
+      },
+      "292": {
+        "description": "OU/block",
+        "type": "string"
+      },
+      "293": {
+        "description": "Term:  yrs  OR",
+        "type": "string"
+      },
+      "294": {
+        "description": "Volume:  m3 OR",
+        "type": "string"
+      },
+      "295": {
+        "description": "Full term per CTHAP",
+        "type": "boolean"
+      },
+      "297": {
+        "description": "Full volume per CTHAP",
+        "type": "boolean"
+      },
+      "299": {
+        "description": "public as part of the review process per the Forest Resources Act section (18)(1). For further information, contact the Department",
+        "type": "string"
+      },
+      "300": {
+        "description": "Signature:   Print name:  Date:",
+        "type": "boolean"
+      },
+      "303": {
+        "description": "SIGNATURE \u2013 APPLICANT CONSENT",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

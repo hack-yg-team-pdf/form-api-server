@@ -1,0 +1,131 @@
+{
+  "fields": {
+    "properties": {
+      "94": {
+        "description": "Legal first name",
+        "type": "string"
+      },
+      "95": {
+        "description": "Email",
+        "type": "string"
+      },
+      "96": {
+        "description": "I am interested in serving on the following boards or committees:",
+        "type": "string"
+      },
+      "97": {
+        "description": "wish to serve.",
+        "type": "string"
+      },
+      "98": {
+        "description": "Phone (day)",
+        "type": "string"
+      },
+      "99": {
+        "description": "Yukon society, including gender, age, First Nations people, youth, visible minorities and people with disabilities. Your responses",
+        "type": "string"
+      },
+      "100": {
+        "description": "2.  5.",
+        "type": "string"
+      },
+      "103": {
+        "description": "1.  4.",
+        "type": "string"
+      },
+      "104": {
+        "description": "3.  6.",
+        "type": "string"
+      },
+      "105": {
+        "description": "See our webpage for a list of boards and committees www.eco.gov.yk.ca/boards-committees.html",
+        "type": "string"
+      },
+      "106": {
+        "description": "R\u00e9sum\u00e9: Provide a brief r\u00e9sum\u00e9 that contains information that is relevant to the boards and committees on which you",
+        "type": "string"
+      },
+      "107": {
+        "description": "to these questions will help us meet this commitment. Your responses to these self-identification questions are voluntary.",
+        "type": "string"
+      },
+      "113": {
+        "description": "35-49",
+        "type": "string"
+      },
+      "114": {
+        "description": "Gender (may differ from sex assigned at birth) Languages spoken (other than English)",
+        "type": "string"
+      },
+      "115": {
+        "description": "Age:",
+        "type": "boolean"
+      },
+      "116": {
+        "description": "Inuit",
+        "type": "boolean"
+      },
+      "117": {
+        "description": "Self-identification: The Yukon government is committed to membership on boards and committees that is representative of",
+        "type": "boolean"
+      },
+      "118": {
+        "description": "Metis",
+        "type": "boolean"
+      },
+      "119": {
+        "description": "A Yukon First Nations person?",
+        "type": "boolean"
+      },
+      "120": {
+        "description": "Name of Yukon First Nation:",
+        "type": "string"
+      },
+      "121": {
+        "description": "A person with a disability?",
+        "type": "boolean"
+      },
+      "122": {
+        "description": "A member of a visible minority group?",
+        "type": "boolean"
+      },
+      "123": {
+        "description": "Which group?",
+        "type": "string"
+      },
+      "124": {
+        "description": "A member of an ethnic or cultural minority group? Which group?",
+        "type": "boolean"
+      },
+      "125": {
+        "description": "Information and Protection of Privacy Act. If you have any questions about the use, collection and disclosure of your personal information, please contact the Boards and",
+        "type": "string"
+      },
+      "126": {
+        "description": "A member of Yukon\u2019s francophone community?",
+        "type": "boolean"
+      },
+      "127": {
+        "description": "YG(3538EQ)F1 Rev.07/2018",
+        "type": "string"
+      },
+      "128": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "129": {
+        "description": "Signature of applicant*:",
+        "type": "boolean"
+      },
+      "132": {
+        "description": "*If submitting electronically, type your full name on the line above. This will be accepted in lieu of a signature.",
+        "type": "boolean"
+      },
+      "135": {
+        "description": "I understand and consent to the use of my personal information for the above-noted purposes. I also consent to named",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

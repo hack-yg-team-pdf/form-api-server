@@ -1,0 +1,139 @@
+{
+  "fields": {
+    "properties": {
+      "71": {
+        "description": "i,",
+        "type": "string"
+      },
+      "72": {
+        "description": "duly authorized agent for    in the",
+        "type": "string"
+      },
+      "73": {
+        "description": "mining District",
+        "type": "string"
+      },
+      "74": {
+        "description": "1.",
+        "type": "string"
+      },
+      "75": {
+        "description": "is the recorded holder and is in undisputed possession of the",
+        "type": "string"
+      },
+      "76": {
+        "description": "in the   mining District",
+        "type": "string"
+      },
+      "77": {
+        "description": "Please provide client i.D. number:",
+        "type": "string"
+      },
+      "78": {
+        "description": "and/or",
+        "type": "string"
+      },
+      "79": {
+        "description": "its predecessors in title have done or caused to be done work on the said claim in developing a mine or made",
+        "type": "string"
+      },
+      "80": {
+        "description": "\u201cschedule a\u201d. (note: Particulars must be exclusive of all houses and other like improvements)",
+        "type": "string"
+      },
+      "81": {
+        "description": "3.",
+        "type": "string"
+      },
+      "82": {
+        "description": "4.  the claim was surveyed by",
+        "type": "string"
+      },
+      "83": {
+        "description": "placed one plan on a conspicuous",
+        "type": "string"
+      },
+      "84": {
+        "description": "5.",
+        "type": "string"
+      },
+      "85": {
+        "description": "part of the land embraced in the plan on the",
+        "type": "string"
+      },
+      "86": {
+        "description": "6.",
+        "type": "string"
+      },
+      "87": {
+        "description": "and marked \u201cschedule B\u201d at the same place as said plan was posted on the   ,",
+        "type": "string"
+      },
+      "88": {
+        "description": "and\tanother\tcopy\tin\tthe\tmining\trecorder\u2019s\toffice,\tat\t  on the    which said notice",
+        "type": "string"
+      },
+      "89": {
+        "description": "and plan have been posted and have remained posted for at least sixty days concurrently with the publication",
+        "type": "string"
+      },
+      "90": {
+        "description": "of the said notice in the  .",
+        "type": "string"
+      },
+      "91": {
+        "description": "7.",
+        "type": "string"
+      },
+      "92": {
+        "description": ", a canadian paper published in and circulating in the",
+        "type": "string"
+      },
+      "93": {
+        "description": "deposited a copy of the plan in the",
+        "type": "string"
+      },
+      "94": {
+        "description": "8.",
+        "type": "string"
+      },
+      "95": {
+        "description": "mining\trecorder\u2019s\toffice\tat\tWhitehorse,\ton\tthe",
+        "type": "string"
+      },
+      "96": {
+        "description": "notary Public",
+        "type": "string"
+      },
+      "97": {
+        "description": "sworn before me at    this    day of    20  .",
+        "type": "string"
+      },
+      "98": {
+        "description": "owner or authorized agent",
+        "type": "string"
+      },
+      "99": {
+        "description": "Questions about the collection and use of this information can be directed to the Mining Recorders Office, Mineral Resources, Department of Energy, Mines",
+        "type": "string"
+      },
+      "100": {
+        "description": "Access to Information and Protection of Privacy Act",
+        "type": "string"
+      },
+      "101": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Quartz Mining Act.",
+        "type": "string"
+      },
+      "102": {
+        "description": "and Resources, Yukon Government, Box 2703, Whitehorse, Yukon Territory, Y1A 2C6 (867) 667-3190",
+        "type": "boolean"
+      },
+      "105": {
+        "description": "and it remained there for reference for sixty days concurrently with the publication of the said notice in the",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

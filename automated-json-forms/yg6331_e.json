@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "Applicant\u2019s Name:",
+        "type": "string"
+      },
+      "42": {
+        "description": "From:          /         /          (yyyy-mm-dd) to          /         /          (yyyy-mm-dd)",
+        "type": "string"
+      },
+      "43": {
+        "description": "I solemnly declare that my spouse:",
+        "type": "string"
+      },
+      "44": {
+        "description": "1.  Will not have an income from any source of more than $104.00 per week during the period of funding",
+        "type": "string"
+      },
+      "45": {
+        "description": "period noted above; and",
+        "type": "string"
+      },
+      "46": {
+        "description": "Financial Assistance unit.",
+        "type": "string"
+      },
+      "47": {
+        "description": "In the event that my spouse starts to have an income from any source of more than $104.00 per week",
+        "type": "string"
+      },
+      "48": {
+        "description": "during the funding period noted above, I will immediately inform the Department of Education, Student",
+        "type": "string"
+      },
+      "49": {
+        "description": "For more information, please visit www.yukonstudentaid.com or email the Student Financial Assistance office at sfa@gov.yk.ca,",
+        "type": "string"
+      },
+      "50": {
+        "description": "Collection and Use of Information: We are collecting this personal information to determine and verify the applicant\u2019s eligibility for financial assistance",
+        "type": "boolean"
+      },
+      "53": {
+        "description": "in accordance with the Student Training Allowance Regulations (Yukon). The collection, use and disclosure of personal information is done under",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

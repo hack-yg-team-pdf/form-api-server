@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "1087": {
+        "description": "CO-APPLICANT",
+        "type": "string"
+      },
+      "1088": {
+        "description": "APPLICANT",
+        "type": "string"
+      },
+      "1089": {
+        "description": "First name:                                                  Last name:                                                    Date of Birth:",
+        "type": "string"
+      },
+      "1090": {
+        "description": "Who and how should we contact to discuss your application?",
+        "type": "string"
+      },
+      "1091": {
+        "description": "First name:                                                  Last name:                                                    Date of Birth:",
+        "type": "string"
+      },
+      "1092": {
+        "description": "Co-applicant",
+        "type": "string"
+      },
+      "1097": {
+        "description": "Daytime contact number:                                                        Alternate phone number:",
+        "type": "string"
+      },
+      "1098": {
+        "description": "Livable floor area of dwelling:                                   ft2                     Number of bedrooms",
+        "type": "string"
+      },
+      "1099": {
+        "description": "Home Phone:",
+        "type": "string"
+      },
+      "1100": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "1101": {
+        "description": "Mailing address:",
+        "type": "string"
+      },
+      "1102": {
+        "description": "City:",
+        "type": "string"
+      },
+      "1103": {
+        "description": "How long have you lived at the present location?                            How long have you lived in Yukon?",
+        "type": "string"
+      },
+      "1104": {
+        "description": "Physical location of property (if different from above) :",
+        "type": "string"
+      },
+      "1105": {
+        "description": "2. ADDITIONAL HOUSEHOLD MEMBERS (Not mentioned above)",
+        "type": "string"
+      },
+      "1106": {
+        "description": "Please note: Spouses or other persons on title are considered to be co-applicants.",
+        "type": "string"
+      },
+      "1107": {
+        "description": "Name (first/last)",
+        "type": "string"
+      },
+      "1108": {
+        "description": "Date of Birth",
+        "type": "string"
+      },
+      "1109": {
+        "description": "3. EMPLOYMENT INFORMATION",
+        "type": "string"
+      },
+      "1110": {
+        "description": "(Written Verification of Employment form for each applicant from all current sources of employment is required)",
+        "type": "string"
+      },
+      "1111": {
+        "description": "Occupation:   Work phone:                                    Length of employment:",
+        "type": "string"
+      },
+      "1112": {
+        "description": "Applicant\u2019s employer:",
+        "type": "string"
+      },
+      "1113": {
+        "description": "Occupation:   Work phone:                                    Length of employment:",
+        "type": "string"
+      },
+      "1114": {
+        "description": "Co-applicant\u2019s employer:",
+        "type": "string"
+      },
+      "1115": {
+        "description": "Occupation:   Work phone:                                    Length of employment:",
+        "type": "string"
+      },
+      "1116": {
+        "description": "Previous employer (If less than 1 year):",
+        "type": "string"
+      },
+      "1117": {
+        "description": "Occupation:   Work phone:                                    Length of employment:",
+        "type": "string"
+      },
+      "1118": {
+        "description": "YG(6309EQ)F4 Rev.09/2017",
+        "type": "string"
+      },
+      "1119": {
+        "description": "Previous employer (If less than 1 year):",
+        "type": "string"
+      },
+      "1120": {
+        "description": "Page 1 of 4",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

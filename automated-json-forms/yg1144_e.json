@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "182": {
+        "description": "Dealer Name",
+        "type": "string"
+      },
+      "183": {
+        "description": "Permit #",
+        "type": "string"
+      },
+      "184": {
+        "description": "Cigarettes",
+        "type": "string"
+      },
+      "185": {
+        "description": "TAXES CALCULATED AND SUBMITTED",
+        "type": "string"
+      },
+      "186": {
+        "description": "Tobacco",
+        "type": "string"
+      },
+      "187": {
+        "description": "Cigarettes",
+        "type": "string"
+      },
+      "188": {
+        "description": "Tax adjustments \u2013 Attach notice forwarded from",
+        "type": "string"
+      },
+      "189": {
+        "description": "Tobacco",
+        "type": "string"
+      },
+      "190": {
+        "description": "Cigars",
+        "type": "string"
+      },
+      "191": {
+        "description": "Taxation Section (may not be used for any other purpose)",
+        "type": "string"
+      },
+      "192": {
+        "description": "060603",
+        "type": "string"
+      },
+      "193": {
+        "description": "060601",
+        "type": "string"
+      },
+      "194": {
+        "description": "INSPECTION AND AUTHORIZATION",
+        "type": "string"
+      },
+      "195": {
+        "description": "Section 9 of the Tobacco Tax Act \u2013 Inspection \u2013 It is understood that a person authorized by the Commissioner of the",
+        "type": "string"
+      },
+      "196": {
+        "description": "060602",
+        "type": "string"
+      },
+      "197": {
+        "description": "Yukon may enter, at a reasonable time, the business premises where records are kept.",
+        "type": "string"
+      },
+      "198": {
+        "description": "I hereby certify that the above statements are true to the best of my knowledge and belief, and I undertake to comply",
+        "type": "string"
+      },
+      "199": {
+        "description": "with the provisions of the Tobacco Tax Act, and the regulations made thereunder.",
+        "type": "string"
+      },
+      "200": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "201": {
+        "description": "Dated at",
+        "type": "string"
+      },
+      "202": {
+        "description": "Title",
+        "type": "string"
+      },
+      "203": {
+        "description": ", 20.",
+        "type": "string"
+      },
+      "204": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "205": {
+        "description": "Phone: 867-667-5345",
+        "type": "string"
+      },
+      "206": {
+        "description": "Whitehorse, Yukon Y1A 2C6",
+        "type": "string"
+      },
+      "207": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "208": {
+        "description": "Email",
+        "type": "string"
+      },
+      "209": {
+        "description": "The personal information requested on this form is collected under the authority of and used for the purpose of administering the Tobacco Tax Act. Questions",
+        "type": "string"
+      },
+      "210": {
+        "description": "about the collection or use of this information can be directed to the Yukon Department of Finance, Box 2703, Whitehorse, Yukon, Y1A 2C6, 867-667-5343.",
+        "type": "boolean"
+      },
+      "213": {
+        "description": "GOVERNMENT OF YUKON",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

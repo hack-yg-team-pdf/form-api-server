@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "126": {
+        "description": "myself.",
+        "type": "string"
+      },
+      "127": {
+        "description": "agree that if such prize or prizes are not paid by the licensee, I will pay it, or them",
+        "type": "string"
+      },
+      "128": {
+        "description": "I: , of",
+        "type": "string"
+      },
+      "129": {
+        "description": "hereby guarantee the payment of the prize or prizes described in the licence, and",
+        "type": "string"
+      },
+      "130": {
+        "description": "a lottery licence covering the following date(s):",
+        "type": "string"
+      },
+      "131": {
+        "description": "5. This guarantee is to remain in force concurrently with the licence and terminates",
+        "type": "string"
+      },
+      "132": {
+        "description": "4. I represent that I am a financially responsible person.",
+        "type": "string"
+      },
+      "133": {
+        "description": "Signed in witness whereof, at the City of Whitehorse, in Yukon, this",
+        "type": "string"
+      },
+      "134": {
+        "description": "day of , 20.",
+        "type": "string"
+      },
+      "135": {
+        "description": "Signature of Guarantor",
+        "type": "string"
+      },
+      "136": {
+        "description": "(Print Name)",
+        "type": "string"
+      },
+      "137": {
+        "description": "YG(5712Q)F1 08/2010",
+        "type": "string"
+      },
+      "138": {
+        "description": "Signature of Witness",
+        "type": "boolean"
+      },
+      "141": {
+        "description": "Personal information contained on this form is collected under the Lottery Licensing Act and will be used for the purpose",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

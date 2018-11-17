@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "properties": {
+      "71": {
+        "description": "Manufacturer\tApplicant:",
+        "type": "string"
+      },
+      "72": {
+        "description": "Project\tName:",
+        "type": "string"
+      },
+      "73": {
+        "description": "Contract\tNo.:",
+        "type": "string"
+      },
+      "224": {
+        "description": "Dated:",
+        "type": "string"
+      },
+      "225": {
+        "description": "Total:",
+        "type": "string"
+      },
+      "226": {
+        "description": "BIP\tApproval:",
+        "type": "boolean"
+      },
+      "229": {
+        "description": "Date:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "fields": {
+    "properties": {
+      "100": {
+        "description": "APPENDIX \u2013 APPENDICE",
+        "type": "string"
+      },
+      "104": {
+        "description": "Contractor Address:",
+        "type": "string"
+      },
+      "105": {
+        "description": "Subdivision Community",
+        "type": "string"
+      },
+      "106": {
+        "description": "Contractor Name:",
+        "type": "string"
+      },
+      "107": {
+        "description": "T\u00e9l\u00e9phone :",
+        "type": "string"
+      },
+      "108": {
+        "description": "Cell:",
+        "type": "string"
+      },
+      "109": {
+        "description": "Lot #                       Block/Quad                           Plan #",
+        "type": "string"
+      },
+      "110": {
+        "description": "Lot no",
+        "type": "string"
+      },
+      "111": {
+        "description": "Plan no",
+        "type": "string"
+      },
+      "112": {
+        "description": "Work Site Address:",
+        "type": "string"
+      },
+      "113": {
+        "description": "Mailing Address:",
+        "type": "string"
+      },
+      "114": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "115": {
+        "description": "Cell:",
+        "type": "string"
+      },
+      "116": {
+        "description": "PLEASE PRINT CLEARLY (cid:127) \u00c9CRIRE EN LETTRE D\u00c9TACH\u00c9ES",
+        "type": "string"
+      },
+      "117": {
+        "description": "Type of Work",
+        "type": "string"
+      },
+      "122": {
+        "description": "Others",
+        "type": "string"
+      },
+      "123": {
+        "description": "Autres",
+        "type": "string"
+      },
+      "124": {
+        "description": "INSTALLATIONS NOT LISTED ABOVE:",
+        "type": "string"
+      },
+      "125": {
+        "description": "Sous-sol",
+        "type": "string"
+      },
+      "126": {
+        "description": "Type de b\u00e2timent :",
+        "type": "string"
+      },
+      "127": {
+        "description": "TOTAL NO. OF TANKS",
+        "type": "string"
+      },
+      "128": {
+        "description": "TANK SIZE",
+        "type": "string"
+      },
+      "129": {
+        "description": "Rigid",
+        "type": "string"
+      },
+      "130": {
+        "description": "PIPING",
+        "type": "string"
+      },
+      "131": {
+        "description": "Canalisations         Rigides         Flexibles",
+        "type": "string"
+      },
+      "132": {
+        "description": "1",
+        "type": "string"
+      },
+      "133": {
+        "description": "2",
+        "type": "string"
+      },
+      "134": {
+        "description": "Basm",
+        "type": "string"
+      },
+      "135": {
+        "description": "Cuisini\u00e8re",
+        "type": "string"
+      },
+      "136": {
+        "description": "Range",
+        "type": "string"
+      },
+      "137": {
+        "description": "NEC n",
+        "type": "string"
+      },
+      "138": {
+        "description": "Nbre TOTAL DE R\u00c9SERVOIRS              CAPACIT\u00c9",
+        "type": "string"
+      },
+      "139": {
+        "description": "SIGNATURE:",
+        "type": "string"
+      },
+      "140": {
+        "description": "Tubing",
+        "type": "string"
+      },
+      "141": {
+        "description": "Main Supply Size",
+        "type": "string"
+      },
+      "142": {
+        "description": "Niveau",
+        "type": "string"
+      },
+      "143": {
+        "description": "Story",
+        "type": "string"
+      },
+      "144": {
+        "description": "o",
+        "type": "string"
+      },
+      "145": {
+        "description": "PROPANE TANK",
+        "type": "string"
+      },
+      "146": {
+        "description": "APPAREILS NON INCLUS DANS LA LISTE CI-DESSUS :",
+        "type": "string"
+      },
+      "147": {
+        "description": "pr\u00e9sent formulaire, veuillez communiquer avec l\u2019inspecteur du gaz au 1-800-661-0408, poste 5845 ou au 667-5845.",
+        "type": "string"
+      },
+      "148": {
+        "description": "Loi sur les appareils \u00e0 gaz. Si vous avez des questions relatives \u00e0 la collecte de vos renseignements personnels dans le",
+        "type": "string"
+      },
+      "149": {
+        "description": "L\u2019information personnelle que vous fournissez dans le pr\u00e9sent formulaire est recueillie aux fins de l'application de la",
+        "type": "string"
+      },
+      "150": {
+        "description": "Taille de la conduite",
+        "type": "string"
+      },
+      "151": {
+        "description": "principale",
+        "type": "string"
+      },
+      "152": {
+        "description": "R\u00c9SERVOIR \u00c0 PROPANE CRN #",
+        "type": "string"
+      },
+      "153": {
+        "description": "please contact the Gas Inspector at 1-800-661-0408. Ext. 5845 or 667-5845",
+        "type": "string"
+      },
+      "154": {
+        "description": "Gas Burning Devices Act.  If you have any questions regarding the collection of your personal information on this form",
+        "type": "string"
+      },
+      "155": {
+        "description": "Personal information you supply on this form is being collected because it is required for the administration of the",
+        "type": "string"
+      },
+      "156": {
+        "description": "NAME: (print)",
+        "type": "string"
+      },
+      "157": {
+        "description": "Nom : (en lettres d\u00e9tach\u00e9es)   SIGNATURE :",
+        "type": "string"
+      },
+      "158": {
+        "description": "Cash",
+        "type": "string"
+      },
+      "159": {
+        "description": "FOR OFFICE ADMINISTRATION USE ONLY",
+        "type": "string"
+      },
+      "160": {
+        "description": "Chq.",
+        "type": "string"
+      },
+      "161": {
+        "description": "Debit",
+        "type": "string"
+      },
+      "162": {
+        "description": "Credit Card",
+        "type": "string"
+      },
+      "163": {
+        "description": "DATE RECEIVED:",
+        "type": "string"
+      },
+      "164": {
+        "description": "PAY\u00c9 PAR  :",
+        "type": "string"
+      },
+      "168": {
+        "description": "DATE DE R\u00c9CEPTION :",
+        "type": "string"
+      },
+      "169": {
+        "description": "PERMIT FEE:",
+        "type": "string"
+      },
+      "175": {
+        "description": "esp\u00e8ces          ch\u00e8que          carte d\u00e9bit          carte cr\u00e9dit         autre",
+        "type": "string"
+      },
+      "176": {
+        "description": "DROITS DE PERMIS :",
+        "type": "string"
+      },
+      "177": {
+        "description": "Dans le pr\u00e9sent document, les expressions d\u00e9signant des personnes visent \u00e0 la fois les hommes et les femmes.",
+        "type": "boolean"
+      },
+      "180": {
+        "description": "Other",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

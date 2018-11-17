@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "properties": {
+      "175": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "176": {
+        "description": "First name",
+        "type": "string"
+      },
+      "177": {
+        "description": "Initial",
+        "type": "string"
+      },
+      "178": {
+        "description": "Y Y Y Y / M M/ D D",
+        "type": "string"
+      },
+      "179": {
+        "description": "DELIVERY INSTRUCTIONS",
+        "type": "string"
+      },
+      "180": {
+        "description": "Licencing agency requesting letter of confirmation:",
+        "type": "string"
+      },
+      "181": {
+        "description": "Yukon driver\u2019s licence no. (if known)",
+        "type": "string"
+      },
+      "182": {
+        "description": "Agency fax no.",
+        "type": "string"
+      },
+      "183": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "184": {
+        "description": "Agency phone no.",
+        "type": "string"
+      },
+      "185": {
+        "description": "Yukon Motor Vehicles will only provide the above letter of confirmation/experience to a provincial/territorial",
+        "type": "string"
+      },
+      "186": {
+        "description": "Agency email",
+        "type": "string"
+      },
+      "189": {
+        "description": "Mail request to:",
+        "type": "boolean"
+      },
+      "192": {
+        "description": "Yukon Motor Vehicles",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

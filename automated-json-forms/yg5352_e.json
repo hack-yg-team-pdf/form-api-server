@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "properties": {
+      "540": {
+        "description": "This application is for students interested in summer work with the Yukon Youth Conservation Corps (Y2C2) or the",
+        "type": "boolean"
+      },
+      "542": {
+        "description": "Conservation Action Team (CAT) programs. Please attach a resume. It is highly recommended you look at the Job",
+        "type": "boolean"
+      },
+      "543": {
+        "description": "Descriptions available online at www.env.gov.yk.ca/environment-you/y2c2.php. You cannot hold the same Y2C2 position",
+        "type": "boolean"
+      },
+      "544": {
+        "description": "Green Team Steward",
+        "type": "boolean"
+      },
+      "545": {
+        "description": "Conservation Camp Assistant",
+        "type": "boolean"
+      },
+      "560": {
+        "description": "First Choice:      Second Choice:       Third Choice:",
+        "type": "string"
+      },
+      "561": {
+        "description": "EDUCATION",
+        "type": "string"
+      },
+      "562": {
+        "description": "Status as a \u201cYukon Student\u201d",
+        "type": "string"
+      },
+      "565": {
+        "description": "Schools Attended (Please start with most recent)",
+        "type": "string"
+      },
+      "572": {
+        "description": "Other Special Courses, Certificates (highlight outdoor experience)",
+        "type": "string"
+      },
+      "573": {
+        "description": "Special courses, certificates or accreditations (e.g.: first aid, outdoor ed, CAT, ACES, ES)",
+        "type": "string"
+      },
+      "574": {
+        "description": "Do you have a Yukon Driver\u2019s License?",
+        "type": "string"
+      },
+      "575": {
+        "description": "Yes: class",
+        "type": "string"
+      },
+      "576": {
+        "description": "Date Received",
+        "type": "string"
+      },
+      "577": {
+        "description": "YG(5352EQ)F2 Rev.03/2018",
+        "type": "string"
+      },
+      "578": {
+        "description": "No",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

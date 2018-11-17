@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "134": {
+        "description": "Page 2 of 3",
+        "type": "string"
+      },
+      "135": {
+        "description": "7a)  Do you make sure nominee(s) are aware of specific health and safety procedures for their",
+        "type": "string"
+      },
+      "137": {
+        "description": "6a)  Are you providing health insurance benefits for the nominee until they become eligible for",
+        "type": "string"
+      },
+      "141": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "154": {
+        "description": "4) For employers with nominees traveling from overseas to work in the Yukon:",
+        "type": "string"
+      },
+      "165": {
+        "description": "7c)  Have you ensured that nominee(s) know of their rights as workers? Check all that apply:",
+        "type": "boolean"
+      },
+      "169": {
+        "description": "Monitor follow-up / comments",
+        "type": "string"
+      },
+      "171": {
+        "description": "When submitting this form by email, follow the instructions on your screen.",
+        "type": "boolean"
+      },
+      "173": {
+        "description": "Yukon Human Rights Act",
+        "type": "boolean"
+      },
+      "175": {
+        "description": "Yukon Occupational Health and Safety Act and Regulations",
+        "type": "boolean"
+      },
+      "181": {
+        "description": "8)",
+        "type": "string"
+      },
+      "185": {
+        "description": "Yukon Employment Standards",
+        "type": "boolean"
+      },
+      "186": {
+        "description": "Working in Yukon \u2013 A guide for foreign workers \u2013 Employment rights and responsibilities",
+        "type": "boolean"
+      },
+      "188": {
+        "description": "7d)  Have you ensured that nominee(s) know of settlement services available? (i.e.: English classes,",
+        "type": "string"
+      },
+      "189": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "697": {
+        "description": "\u2022 To improve the program.",
+        "type": "string"
+      },
+      "698": {
+        "description": "This form is in fillable PDF format which can be sent electronically, or alternatively, printed and filled in manually.",
+        "type": "string"
+      },
+      "699": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "700": {
+        "description": "Date:                                        YNP file:",
+        "type": "string"
+      },
+      "701": {
+        "description": "Offer) of the original and approved YNP application form?",
+        "type": "string"
+      },
+      "702": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "703": {
+        "description": "Have you made additional arrangements outside your TPA?",
+        "type": "string"
+      },
+      "704": {
+        "description": "Comments:",
+        "type": "string"
+      },
+      "705": {
+        "description": "No",
+        "type": "string"
+      },
+      "706": {
+        "description": "1) Do the duties and tasks of the nominee match those in section 2 (Guaranteed Employment",
+        "type": "string"
+      },
+      "707": {
+        "description": "Signature of the employer or the legal signing authority for the business",
+        "type": "string"
+      },
+      "708": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "709": {
+        "description": "Date",
+        "type": "string"
+      },
+      "711": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "715": {
+        "description": "YG(6020EQ)F3 Rev.10/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

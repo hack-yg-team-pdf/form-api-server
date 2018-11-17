@@ -1,0 +1,199 @@
+{
+  "fields": {
+    "properties": {
+      "62": {
+        "description": "6.  CHECKLIST",
+        "type": "string"
+      },
+      "63": {
+        "description": "Start Time:",
+        "type": "string"
+      },
+      "64": {
+        "description": "\u2610 NO        \u2610 YES \u2013 minimum purchase is    .",
+        "type": "string"
+      },
+      "65": {
+        "description": "institution form online)",
+        "type": "boolean"
+      },
+      "67": {
+        "description": "Cost of Cards:  6pack: $    9pack: $ 12 pack: $ 15 pack: $",
+        "type": "string"
+      },
+      "69": {
+        "description": "End Time:",
+        "type": "string"
+      },
+      "70": {
+        "description": "Dates of Bingo(s):",
+        "type": "string"
+      },
+      "71": {
+        "description": "\u2610 Game Schedule(s) outlining games, prizes, intermissions and door prizes",
+        "type": "boolean"
+      },
+      "72": {
+        "description": "4.  ESTIMATED COSTS ASSOCIATED WITH OPERATION OF BINGO:",
+        "type": "string"
+      },
+      "73": {
+        "description": "(You are required to keep all receipts for auditing purposes)",
+        "type": "string"
+      },
+      "75": {
+        "description": "\u2610 Travel Itinerary Form - required if proceeds are to be used for travel (form online)",
+        "type": "boolean"
+      },
+      "76": {
+        "description": "nity at large. Please be as specific as possible.",
+        "type": "string"
+      },
+      "78": {
+        "description": "If proceeds are to be used for travel, a completed travel itinerary form must be included with your application.",
+        "type": "boolean"
+      },
+      "80": {
+        "description": "NOTE: Gaming proceeds shall not be applied to programs that are funded by government: i.e. grants. If there are terms and",
+        "type": "string"
+      },
+      "83": {
+        "description": "\u2610 Copy of Meeting Motion authorizing the event",
+        "type": "boolean"
+      },
+      "84": {
+        "description": "\u2610 House Rules governing bingo (including early bird and bonanza rules)",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "\u2610 Prize Guarantee is required if the total retail value of the prizes for each bingo exceed $5,000 (individual or banking",
+        "type": "string"
+      },
+      "86": {
+        "description": "Bingo Supplies:",
+        "type": "string"
+      },
+      "88": {
+        "description": "YG(5091QE)F3 Rev.06/2014",
+        "type": "boolean"
+      },
+      "89": {
+        "description": "Minimum Purchase Required?",
+        "type": "string"
+      },
+      "90": {
+        "description": "Advertising:",
+        "type": "string"
+      },
+      "92": {
+        "description": "conditions for the use of these government funds, please provide the information with this application for review.",
+        "type": "string"
+      },
+      "93": {
+        "description": "Others $    Early Bird Cards $  Bonanza Cards $",
+        "type": "string"
+      },
+      "94": {
+        "description": "3.  EVENT DETAILS",
+        "type": "string"
+      },
+      "95": {
+        "description": "Facility Rental:",
+        "type": "string"
+      },
+      "96": {
+        "description": "Cost of Prizes for Regular Games:",
+        "type": "string"
+      },
+      "97": {
+        "description": "Proceeds must be used for a charitable or religious purpose that advances a program or activity which will benefit the commu-",
+        "type": "string"
+      },
+      "99": {
+        "description": "5.  PROPOSED USE OF PROCEEDS",
+        "type": "string"
+      },
+      "101": {
+        "description": "Location:",
+        "type": "string"
+      },
+      "103": {
+        "description": "\u2610 Copy of facility rental agreement",
+        "type": "boolean"
+      },
+      "106": {
+        "description": "Important Note: Professional Licensing and Regulatory Affairs will NOT accept payment by email or fax.",
+        "type": "string"
+      },
+      "107": {
+        "description": "Business Number",
+        "type": "string"
+      },
+      "108": {
+        "description": "or",
+        "type": "boolean"
+      },
+      "109": {
+        "description": "Please make your cheque payable to Government of Yukon, or,",
+        "type": "string"
+      },
+      "110": {
+        "description": "Residence Number",
+        "type": "string"
+      },
+      "111": {
+        "description": "Treasurer (Please Print)",
+        "type": "string"
+      },
+      "112": {
+        "description": "Business Number",
+        "type": "string"
+      },
+      "118": {
+        "description": "Please contact Professional Licensing and Regulatory Affairs at 867-667-5111 or fax 867-667-3609",
+        "type": "boolean"
+      },
+      "120": {
+        "description": "President (Please Print)",
+        "type": "string"
+      },
+      "179": {
+        "description": "All organizations applying for the first time must complete a questionnaire to determine charitable status for the purpose of",
+        "type": "string"
+      },
+      "180": {
+        "description": "Is your Society registered with Corporate Affairs?                              \u2610 Yes or   \u2610 No",
+        "type": "string"
+      },
+      "181": {
+        "description": "\u2610 Forward licence by mail                or                  \u2610 Hold licence for pickup",
+        "type": "string"
+      },
+      "182": {
+        "description": "Phone:  Email:",
+        "type": "string"
+      },
+      "183": {
+        "description": "Member Organizing this bingo:",
+        "type": "string"
+      },
+      "184": {
+        "description": "Postal Code:",
+        "type": "string"
+      },
+      "185": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "194": {
+        "description": "Financial Institution:   Bank Account Number:",
+        "type": "string"
+      },
+      "195": {
+        "description": "Total revenue must be deposited to bank account of the society and payment of all expenses and disbursements must be",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

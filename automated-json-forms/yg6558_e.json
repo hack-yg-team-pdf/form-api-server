@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "properties": {
+      "109": {
+        "description": "Resource access",
+        "type": "boolean"
+      },
+      "110": {
+        "description": "Lot no.",
+        "type": "boolean"
+      },
+      "115": {
+        "description": "Agricultural access",
+        "type": "boolean"
+      },
+      "119": {
+        "description": "Permanent",
+        "type": "boolean"
+      },
+      "121": {
+        "description": "Privately owned (titled)",
+        "type": "string"
+      },
+      "123": {
+        "description": "Leased from:      Type:",
+        "type": "string"
+      },
+      "124": {
+        "description": "Description of property being accessed from highway. (Note: If the applicant is not the land owner, the applicant must",
+        "type": "boolean"
+      },
+      "128": {
+        "description": "Right/left side is determined when",
+        "type": "boolean"
+      },
+      "129": {
+        "description": "provide proof in writing that they have authorization from the land owner to apply for the permit.)",
+        "type": "boolean"
+      },
+      "131": {
+        "description": "Project no.",
+        "type": "string"
+      },
+      "132": {
+        "description": "Name of registered land owner",
+        "type": "string"
+      },
+      "134": {
+        "description": "YG(6558EQ)F4 10/2018",
+        "type": "string"
+      },
+      "135": {
+        "description": "If ownership of the property being accessed is different from that of the applicant, provide complete mailing address",
+        "type": "string"
+      },
+      "137": {
+        "description": "Land set aside:",
+        "type": "boolean"
+      },
+      "138": {
+        "description": "Fax number",
+        "type": "string"
+      },
+      "139": {
+        "description": "Under land use permit number:    Application date:   Expiry date:",
+        "type": "boolean"
+      },
+      "143": {
+        "description": "Email",
+        "type": "string"
+      },
+      "145": {
+        "description": "of land owner.",
+        "type": "string"
+      },
+      "146": {
+        "description": "Agreement for sale with:",
+        "type": "boolean"
+      },
+      "149": {
+        "description": "Other:",
+        "type": "boolean"
+      },
+      "151": {
+        "description": "Phone number",
+        "type": "string"
+      },
+      "153": {
+        "description": "Complete mailing address",
+        "type": "string"
+      },
+      "154": {
+        "description": "Page 3 of 4",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

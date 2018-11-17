@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "49": {
+        "description": "Date:",
+        "type": "string"
+      },
+      "50": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "51": {
+        "description": "8.   Describe Local Support for the Project:",
+        "type": "string"
+      },
+      "52": {
+        "description": "(Please attach sketches, maps, photographs or cost estimates, if available)",
+        "type": "string"
+      },
+      "53": {
+        "description": "Public Land",
+        "type": "string"
+      },
+      "54": {
+        "description": "Private Land",
+        "type": "string"
+      },
+      "55": {
+        "description": "First Nation Land",
+        "type": "string"
+      },
+      "56": {
+        "description": "7.   List any contribution toward the project by road users or residents (refer to the Program Guidelines):",
+        "type": "string"
+      },
+      "61": {
+        "description": "6.   Applicant(s):",
+        "type": "string"
+      },
+      "62": {
+        "description": "9.  Will road maintenance by YG be requested?",
+        "type": "string"
+      },
+      "63": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "64": {
+        "description": "5.   Primary users of the Road and Contact Names: (Attach additional sheet if required)",
+        "type": "string"
+      },
+      "65": {
+        "description": "4.   Status of land where road is located:",
+        "type": "string"
+      },
+      "66": {
+        "description": "3.   General description and location of work being requested:",
+        "type": "string"
+      },
+      "67": {
+        "description": "No",
+        "type": "string"
+      },
+      "68": {
+        "description": "2.  Location:",
+        "type": "string"
+      },
+      "69": {
+        "description": "461 Range Road",
+        "type": "string"
+      },
+      "70": {
+        "description": "1.  Name of Road:",
+        "type": "string"
+      },
+      "71": {
+        "description": "Date:                                                           Signature:",
+        "type": "string"
+      },
+      "72": {
+        "description": "PLEASE ATTACH ADDITIONAL SHEETS IF NEEDED",
+        "type": "string"
+      },
+      "73": {
+        "description": "If you require assistance to complete this form, please phone 667-8820 or 1-800-661-0408 (Ext. 8820).",
+        "type": "string"
+      },
+      "74": {
+        "description": "Submit this form to:",
+        "type": "string"
+      },
+      "75": {
+        "description": "Government of Yukon, Engineering (W-13)",
+        "type": "string"
+      },
+      "78": {
+        "description": "YG(6117Q)F1 04/2015",
+        "type": "string"
+      },
+      "79": {
+        "description": "Whitehorse, Yukon Y1A 3A4",
+        "type": "boolean"
+      },
+      "82": {
+        "description": "Email: roadprograms@gov.yk.ca",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

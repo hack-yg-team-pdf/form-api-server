@@ -1,0 +1,119 @@
+{
+  "fields": {
+    "properties": {
+      "49": {
+        "description": "in",
+        "type": "string"
+      },
+      "50": {
+        "description": "3.  THAT I am capable of financing the expenditure necessary to thoroughly prospect the said lands in",
+        "type": "string"
+      },
+      "51": {
+        "description": "3.  THAT the said instrument was duly executed at",
+        "type": "string"
+      },
+      "53": {
+        "description": "2.  THAT I know the said Assignor(s) and am satisfied that he is (they are each) of the full age of eighteen years;",
+        "type": "string"
+      },
+      "54": {
+        "description": "the Assignee hereto;",
+        "type": "string"
+      },
+      "55": {
+        "description": "Witness",
+        "type": "string"
+      },
+      "56": {
+        "description": "I,   of",
+        "type": "string"
+      },
+      "57": {
+        "description": "Notary Public",
+        "type": "string"
+      },
+      "58": {
+        "description": "2.  THAT I know the said Assignee(s) and am satisfied that he is (they are each) of the full age of eighteen years;",
+        "type": "string"
+      },
+      "60": {
+        "description": "I,   of",
+        "type": "string"
+      },
+      "61": {
+        "description": "Notary Public",
+        "type": "string"
+      },
+      "62": {
+        "description": "Sworn before me at  this   day of     20  .",
+        "type": "string"
+      },
+      "63": {
+        "description": "Witness",
+        "type": "string"
+      },
+      "65": {
+        "description": "1.  THAT I was personally present and did see the within instrument duly signed, sealed and executed by",
+        "type": "string"
+      },
+      "67": {
+        "description": "in   ; and",
+        "type": "string"
+      },
+      "69": {
+        "description": "AFFIDAVIT OF WITNESS FOR ASSIGNOR",
+        "type": "string"
+      },
+      "70": {
+        "description": "AFFIDAVIT OF WITNESS FOR ASSIGNEE",
+        "type": "string"
+      },
+      "71": {
+        "description": "1.  THAT I was personally present and did see the within instrument duly signed, sealed and executed by",
+        "type": "string"
+      },
+      "72": {
+        "description": "in   ; and",
+        "type": "string"
+      },
+      "76": {
+        "description": "2.  THAT it is my intention to thoroughly prospect the lands described in the said Prospecting Lease number",
+        "type": "string"
+      },
+      "77": {
+        "description": "Notary Public",
+        "type": "string"
+      },
+      "78": {
+        "description": "in  make oath and say:",
+        "type": "string"
+      },
+      "81": {
+        "description": "the Assignor(s) hereto;",
+        "type": "string"
+      },
+      "82": {
+        "description": "Assignee",
+        "type": "string"
+      },
+      "83": {
+        "description": "in  make oath and say:",
+        "type": "string"
+      },
+      "84": {
+        "description": "Sworn before me at  this   day of     20  .",
+        "type": "string"
+      },
+      "85": {
+        "description": "4.  THAT I am subscribing witness to the said instrument.",
+        "type": "string"
+      },
+      "88": {
+        "description": "I,   of",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

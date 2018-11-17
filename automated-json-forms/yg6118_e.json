@@ -1,0 +1,107 @@
+{
+  "fields": {
+    "properties": {
+      "120": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "121": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "122": {
+        "description": "12.  Spokesperson:",
+        "type": "string"
+      },
+      "123": {
+        "description": "11.  Other comments:",
+        "type": "string"
+      },
+      "124": {
+        "description": "10. Are you requesting year-round or summer maintenance?",
+        "type": "string"
+      },
+      "125": {
+        "description": "9.   Describe any commercial/institutional use:",
+        "type": "string"
+      },
+      "126": {
+        "description": "8.  Will you be requesting school bus service?",
+        "type": "string"
+      },
+      "127": {
+        "description": "7.  Total number of school-aged children:",
+        "type": "string"
+      },
+      "128": {
+        "description": "6.   Total number of permanent adult residents:",
+        "type": "string"
+      },
+      "129": {
+        "description": "5.   Number of recreational cottages (Please mark approximate location on map or sketch if possible):",
+        "type": "string"
+      },
+      "130": {
+        "description": "4.   Number of permanent residences (Please mark approximate location on map or sketch if possible):",
+        "type": "string"
+      },
+      "131": {
+        "description": "Please attach a list of names, including their signatures, of users and or property owners",
+        "type": "string"
+      },
+      "132": {
+        "description": "3.   Length of road to be maintained:",
+        "type": "string"
+      },
+      "133": {
+        "description": "2.  Location: (Include map or sketch)",
+        "type": "string"
+      },
+      "134": {
+        "description": "1.  Name of Road: (The road in question must be a public road)",
+        "type": "string"
+      },
+      "135": {
+        "description": "PLEASE ATTACH ADDITIONAL SHEETS IF NEEDED",
+        "type": "string"
+      },
+      "136": {
+        "description": "YG(6118Q)F2 04/2015",
+        "type": "string"
+      },
+      "137": {
+        "description": "located along the road in question for whom you represent.",
+        "type": "string"
+      },
+      "138": {
+        "description": "If you require assistance to complete this form, please phone 667-5644 or 1-800-661-0408 (Ext. 5644).",
+        "type": "string"
+      },
+      "139": {
+        "description": "Submit this form to:",
+        "type": "string"
+      },
+      "140": {
+        "description": "Government of Yukon, Transportation Maintenance (W-12)",
+        "type": "string"
+      },
+      "141": {
+        "description": "Central Workshop \u2013 Building 275, 9029 Quartz Road",
+        "type": "string"
+      },
+      "142": {
+        "description": "Whitehorse, Yukon Y1A 4P9",
+        "type": "string"
+      },
+      "143": {
+        "description": "Fax No: 667-3608",
+        "type": "string"
+      },
+      "144": {
+        "description": "Date:                                                         Signature:",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

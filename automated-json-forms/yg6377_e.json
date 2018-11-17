@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "20": {
+        "description": "Inspector Mobile Phone",
+        "type": "string"
+      },
+      "21": {
+        "description": "Signature                                                                                          Date Signed (YYYY/MM/DD)",
+        "type": "string"
+      },
+      "22": {
+        "description": "I hereby certify that I am authorized to conduct this well inspection and I certify that on the basis of personal knowledge",
+        "type": "string"
+      },
+      "23": {
+        "description": "regulations, the Yukon Oil and Gas Act and its regulations prevail.",
+        "type": "string"
+      },
+      "26": {
+        "description": "If there is any conflict or inconsistency between this form and any provision of the Yukon Oil and Gas Act or its",
+        "type": "boolean"
+      },
+      "27": {
+        "description": "E. INSPECTOR INFORMATION",
+        "type": "string"
+      },
+      "28": {
+        "description": "F. DISCLAIMER",
+        "type": "boolean"
+      },
+      "620": {
+        "description": "B. WELL INFORMATION",
+        "type": "string"
+      },
+      "621": {
+        "description": "Date of Inspection:                 /           /",
+        "type": "string"
+      },
+      "622": {
+        "description": "Y Y Y Y                   M M                   D D",
+        "type": "string"
+      },
+      "623": {
+        "description": "C. EVALUATION",
+        "type": "string"
+      },
+      "624": {
+        "description": "Status of Well (indicate one only)",
+        "type": "string"
+      },
+      "625": {
+        "description": "Suspended",
+        "type": "string"
+      },
+      "626": {
+        "description": "Full Legal Name of Licensee",
+        "type": "string"
+      },
+      "627": {
+        "description": "File",
+        "type": "string"
+      },
+      "628": {
+        "description": "WID",
+        "type": "string"
+      },
+      "635": {
+        "description": "Other (specify)",
+        "type": "string"
+      },
+      "660": {
+        "description": "13. Shut in production casing pressure:  kPa",
+        "type": "string"
+      },
+      "661": {
+        "description": "14. Shut in intermediate casing pressure:  kPa",
+        "type": "string"
+      },
+      "662": {
+        "description": "15. Shut in production tubing pressure:  kPa",
+        "type": "string"
+      },
+      "663": {
+        "description": "16. Shut in surface casing pressure:  kPa",
+        "type": "string"
+      },
+      "666": {
+        "description": "(Clearly label schematic and include information on type, size, and",
+        "type": "string"
+      },
+      "667": {
+        "description": "22. Is wellhead schematic attached?",
+        "type": "string"
+      },
+      "668": {
+        "description": "21. Are there any environmental concerns?",
+        "type": "string"
+      },
+      "669": {
+        "description": "20. Drilling sump condition is:",
+        "type": "string"
+      },
+      "670": {
+        "description": "YES",
+        "type": "string"
+      },
+      "681": {
+        "description": "Personal information on this form is collected under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

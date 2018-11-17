@@ -1,0 +1,47 @@
+{
+  "fields": {
+    "properties": {
+      "212": {
+        "description": "B. REASON FOR NOTICE",
+        "type": "string"
+      },
+      "213": {
+        "description": "Replacement of representative",
+        "type": "string"
+      },
+      "223": {
+        "description": "Branch File #:   Date Received:              /         /",
+        "type": "string"
+      },
+      "224": {
+        "description": "Time Received:",
+        "type": "string"
+      },
+      "225": {
+        "description": "This Notice is submitted pursuant to the Oil and Gas Act S.8 and S.21 and the Oil and Gas Disposition Regulations S. 13 and 14. Personal information",
+        "type": "string"
+      },
+      "226": {
+        "description": "on this form is collected under the authority of section 29 of the Access to Information and Protection of Privacy Act.",
+        "type": "string"
+      },
+      "227": {
+        "description": "Registration #:",
+        "type": "string"
+      },
+      "228": {
+        "description": "YG(5349EQ)F1 Rev.06/2017",
+        "type": "string"
+      },
+      "229": {
+        "description": "Date Registered:            /        /",
+        "type": "string"
+      },
+      "230": {
+        "description": "YYYY       MM       DD",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "67": {
+        "description": "Model",
+        "type": "string"
+      },
+      "69": {
+        "description": "Yukon licence plate number",
+        "type": "string"
+      },
+      "71": {
+        "description": "Make",
+        "type": "string"
+      },
+      "76": {
+        "description": "TRAILER(S)",
+        "type": "string"
+      },
+      "77": {
+        "description": "Year",
+        "type": "string"
+      },
+      "625": {
+        "description": "PERMIT NUMBER: YT-NTCP-",
+        "type": "string"
+      },
+      "626": {
+        "description": "I, , representing",
+        "type": "string"
+      },
+      "627": {
+        "description": "NAME OF COMPANY OWNER OR LESSEE",
+        "type": "string"
+      },
+      "630": {
+        "description": "MAILING ADDRESS",
+        "type": "string"
+      },
+      "631": {
+        "description": "hereby make application to the Minister of Highways and Public Works for a special Non-TAC Configuration Permit",
+        "type": "string"
+      },
+      "632": {
+        "description": "PHONE NUMBER",
+        "type": "string"
+      },
+      "633": {
+        "description": "A special NON-TAC Configuration Permit is hereby issued to  (\u201cPermit Holder\u201d)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

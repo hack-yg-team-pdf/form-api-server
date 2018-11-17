@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "properties": {
+      "343": {
+        "description": "Student name:",
+        "type": "string"
+      },
+      "344": {
+        "description": "EDUCATIONAL INSTITUTION AND STUDENT\u2019S PROGRAM INFORMATION",
+        "type": "string"
+      },
+      "345": {
+        "description": "Institution name:",
+        "type": "string"
+      },
+      "346": {
+        "description": "Program name:",
+        "type": "string"
+      },
+      "347": {
+        "description": "This student is entering year",
+        "type": "string"
+      },
+      "348": {
+        "description": "of a",
+        "type": "string"
+      },
+      "355": {
+        "description": "Under-graduate",
+        "type": "string"
+      },
+      "356": {
+        "description": "Start date:",
+        "type": "string"
+      },
+      "357": {
+        "description": "may be required to pay back some or all of their funding.",
+        "type": "string"
+      },
+      "358": {
+        "description": "Note: If the student requests an extension you must contact our office. An extension may affect their eligibility and they",
+        "type": "string"
+      },
+      "359": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "360": {
+        "description": "End date:",
+        "type": "string"
+      },
+      "361": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "362": {
+        "description": "Tuition and fees: $",
+        "type": "string"
+      },
+      "363": {
+        "description": "Books/supplies: $",
+        "type": "string"
+      },
+      "375": {
+        "description": "If yes, please provide your institution code:",
+        "type": "string"
+      },
+      "380": {
+        "description": "Is your institution designated for Title IV/FAFSA purposes?",
+        "type": "string"
+      },
+      "383": {
+        "description": "Name (print):",
+        "type": "string"
+      },
+      "384": {
+        "description": "Title (print):",
+        "type": "string"
+      },
+      "385": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "386": {
+        "description": "Telephone number:",
+        "type": "string"
+      },
+      "387": {
+        "description": "ATIPP Coordinator at 867-667-8326.",
+        "type": "string"
+      },
+      "388": {
+        "description": "Collection and use of information: We are collecting this personal information to determine the eligibility for a student\u2019s financial assistance funding in accordance with the",
+        "type": "boolean"
+      },
+      "391": {
+        "description": "Student Financial Assistance Act (Yukon) the Canada Student loans Act and the Canada Student Financial Assistance Act. The collection, use and disclosure of the student\u2019s",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "41": {
+        "description": "1.",
+        "type": "string"
+      },
+      "42": {
+        "description": "Defendant(s):",
+        "type": "string"
+      },
+      "43": {
+        "description": "1.",
+        "type": "string"
+      },
+      "44": {
+        "description": "2.",
+        "type": "string"
+      },
+      "45": {
+        "description": "TO WITNESS   of",
+        "type": "string"
+      },
+      "46": {
+        "description": "YOU ARE REQUIRED TO ATTEND IN SMALL CLAIMS COURT AT THE TRIAL OF THIS ACTION TO GIVE",
+        "type": "string"
+      },
+      "47": {
+        "description": "EVIDENCE ON BEHALF OF",
+        "type": "string"
+      },
+      "48": {
+        "description": "TIME:",
+        "type": "string"
+      },
+      "49": {
+        "description": "LOCATION OF COURT:",
+        "type": "string"
+      },
+      "50": {
+        "description": "AND to remain until your attendance is no longer required.",
+        "type": "string"
+      },
+      "51": {
+        "description": "IF YOU FAIL TO ATTEND AS REQUIRED BY THIS SUMMONS, A WARRANT MAY BE ISSUED FOR YOUR",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "470": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "471": {
+        "description": "Email",
+        "type": "string"
+      },
+      "472": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "473": {
+        "description": "Date when hazard identified",
+        "type": "string"
+      },
+      "474": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "475": {
+        "description": "Are you the animal owner?",
+        "type": "string"
+      },
+      "476": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "482": {
+        "description": "ANIMAL INFORMATION \u2022 ANIMAL INFORMATION",
+        "type": "string"
+      },
+      "483": {
+        "description": "Species",
+        "type": "string"
+      },
+      "484": {
+        "description": "Animal ID (e.g. name, tag #, microchip, pen ID)",
+        "type": "string"
+      },
+      "485": {
+        "description": "Sex",
+        "type": "string"
+      },
+      "488": {
+        "description": "Where the animal is located (e.g. address, legal land description or landmark)",
+        "type": "string"
+      },
+      "489": {
+        "description": "Premise ID# (if applicable)",
+        "type": "string"
+      },
+      "490": {
+        "description": "the collection of your information, contact the Chief Veterinary Officer, Environment Yukon, Box 2703, Whitehorse, Yukon, Y1A 2C6, 867-456-5582.",
+        "type": "string"
+      },
+      "491": {
+        "description": "Your personal information is being collected under the authority of section 29(c) of the Access to Information and Protection of Privacy Act and will be used for",
+        "type": "string"
+      },
+      "492": {
+        "description": "the administration and enforcement of the Animal Health Act and Regulations, and for evaluation, research and statistical purposes. For further information on",
+        "type": "string"
+      },
+      "493": {
+        "description": "YG(6661EQ)F2 11/2018",
+        "type": "string"
+      },
+      "494": {
+        "description": "Page 1 of 2",
+        "type": "boolean"
+      },
+      "497": {
+        "description": "Suspected",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

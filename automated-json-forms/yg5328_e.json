@@ -1,0 +1,111 @@
+{
+  "fields": {
+    "properties": {
+      "84": {
+        "description": "of good quality/easy to read?",
+        "type": "string"
+      },
+      "85": {
+        "description": "12.  Do you find the maps currently on the site to be",
+        "type": "string"
+      },
+      "95": {
+        "description": "No",
+        "type": "string"
+      },
+      "98": {
+        "description": "\u274d",
+        "type": "string"
+      },
+      "101": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "105": {
+        "description": "18.    What information do you usually look for on",
+        "type": "boolean"
+      },
+      "106": {
+        "description": "\u274d",
+        "type": "boolean"
+      },
+      "107": {
+        "description": "General information",
+        "type": "boolean"
+      },
+      "108": {
+        "description": "Contact information",
+        "type": "boolean"
+      },
+      "109": {
+        "description": "19.   Would you like any additional links or",
+        "type": "string"
+      },
+      "110": {
+        "description": "16.  Did you find the website information current?",
+        "type": "string"
+      },
+      "111": {
+        "description": "15.   Do you find the website easy to navigate?",
+        "type": "string"
+      },
+      "112": {
+        "description": "14.  Is the contact information clearly displayed?",
+        "type": "string"
+      },
+      "113": {
+        "description": "Optional:",
+        "type": "string"
+      },
+      "114": {
+        "description": "Name:",
+        "type": "string"
+      },
+      "115": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "116": {
+        "description": "No",
+        "type": "string"
+      },
+      "117": {
+        "description": "Telephone:",
+        "type": "string"
+      },
+      "118": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "119": {
+        "description": "\u274d",
+        "type": "string"
+      },
+      "120": {
+        "description": "Email:",
+        "type": "boolean"
+      },
+      "123": {
+        "description": "material added to the website?",
+        "type": "boolean"
+      },
+      "124": {
+        "description": "13.  Would it be useful to have maps of lots for sale?",
+        "type": "string"
+      },
+      "281": {
+        "description": "Through the Yukon government site",
+        "type": "string"
+      },
+      "284": {
+        "description": "4.  Do you print off information from our website?",
+        "type": "string"
+      },
+      "285": {
+        "description": "\u274d",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

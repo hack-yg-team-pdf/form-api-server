@@ -1,0 +1,127 @@
+{
+  "fields": {
+    "properties": {
+      "113": {
+        "description": "NON YUKON GOVERNMENT POSITION ONLY",
+        "type": "string"
+      },
+      "114": {
+        "description": "STEP-G",
+        "type": "string"
+      },
+      "121": {
+        "description": "If you are not from a preference group, you can still apply on any STEP position you meet the requirements for. In the",
+        "type": "string"
+      },
+      "122": {
+        "description": "Phone Number:      Birth Date (YYYY-MM-DD):",
+        "type": "string"
+      },
+      "124": {
+        "description": "event no one from the preference group applies or meets the screening criteria outlined in this competition your",
+        "type": "string"
+      },
+      "125": {
+        "description": "First Name:      Last Name:      Initial:",
+        "type": "string"
+      },
+      "126": {
+        "description": "I am a person of Yukon First Nation Aboriginal ancestry",
+        "type": "string"
+      },
+      "132": {
+        "description": "JOB TITLE",
+        "type": "string"
+      },
+      "137": {
+        "description": "I am a person of Aboriginal ancestry",
+        "type": "string"
+      },
+      "138": {
+        "description": "EMPLOYER",
+        "type": "string"
+      },
+      "140": {
+        "description": "POSTION #",
+        "type": "string"
+      },
+      "145": {
+        "description": "STEP-G",
+        "type": "string"
+      },
+      "146": {
+        "description": "STEP-G",
+        "type": "string"
+      },
+      "152": {
+        "description": "YG(6279EQ)F3 12/2015",
+        "type": "string"
+      },
+      "153": {
+        "description": "STEP-P",
+        "type": "string"
+      },
+      "155": {
+        "description": "STEP-P",
+        "type": "string"
+      },
+      "156": {
+        "description": "STEP-P",
+        "type": "string"
+      },
+      "157": {
+        "description": "Email address:      Expected date of return to Yukon (YYYY-MM-DD):",
+        "type": "string"
+      },
+      "163": {
+        "description": "STEP-G",
+        "type": "string"
+      },
+      "165": {
+        "description": "If you require additional space, please use a separate piece of paper or include it in the body of your email.",
+        "type": "string"
+      },
+      "168": {
+        "description": "STEP-G",
+        "type": "string"
+      },
+      "170": {
+        "description": "STEP-P",
+        "type": "string"
+      },
+      "171": {
+        "description": "STEP-P",
+        "type": "string"
+      },
+      "172": {
+        "description": "STEP-P",
+        "type": "string"
+      },
+      "173": {
+        "description": "STEP-G",
+        "type": "string"
+      },
+      "179": {
+        "description": "Permanent Yukon Address:      Postal Code:",
+        "type": "string"
+      },
+      "180": {
+        "description": "STEP-P",
+        "type": "string"
+      },
+      "181": {
+        "description": "STEP-G",
+        "type": "string"
+      },
+      "184": {
+        "description": "STEP-P",
+        "type": "string"
+      },
+      "185": {
+        "description": "application WILL BE considered. We encourage all interested individuals to apply regardless of the preference!",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

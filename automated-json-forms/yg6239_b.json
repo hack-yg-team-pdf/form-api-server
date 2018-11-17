@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "37": {
+        "description": "Name and address of the owner of property to be charged / Nom et adresse du propri\u00e9taire du bien qui doit \u00eatre grev\u00e9 :",
+        "type": "string"
+      },
+      "38": {
+        "description": "Name and address of the person for whom work was done:",
+        "type": "string"
+      },
+      "39": {
+        "description": "Time or period within which the work was or was to be done:",
+        "type": "string"
+      },
+      "40": {
+        "description": "P\u00e9riode au cours de laquelle les travaux ont \u00e9t\u00e9 ex\u00e9cut\u00e9s ou auraient d\u00fb l\u2019\u00eatre :",
+        "type": "string"
+      },
+      "41": {
+        "description": "Describe the work done / Description des travaux ex\u00e9cut\u00e9s :",
+        "type": "string"
+      },
+      "42": {
+        "description": "Total amount of wages claimed as due or to become due [also set out wages owning in respect of each claimant]:",
+        "type": "string"
+      },
+      "43": {
+        "description": "If credit has been given by the claimant, the date that the period of credit will expire or expired:",
+        "type": "string"
+      },
+      "44": {
+        "description": "en caract\u00e8res d\u2019imprimerie)",
+        "type": "string"
+      },
+      "45": {
+        "description": "YG(6239Q)F1 06/2015",
+        "type": "string"
+      },
+      "46": {
+        "description": "Date of witnessing / Date de l\u2019attestation  :",
+        "type": "boolean"
+      },
+      "49": {
+        "description": "YYYY/AAAA   MM/MM   DD/JJ",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "fields": {
+    "properties": {
+      "219": {
+        "description": "available\t\r \u00a0to\t\r \u00a0the\t\r \u00a0public\t\r \u00a0in\t\r \u00a0accordance\t\r \u00a0with\t\r \u00a0the\t\r \u00a0Access\t\r \u00a0to\t\r \u00a0Information\t\r \u00a0and\t\r \u00a0Protection\t\r \u00a0of\t\r \u00a0Privacy\t\r \u00a0Act.\t\r \u00a0We\t\r \u00a0declare\t\r \u00a0that\t\r \u00a0we\t\r \u00a0owe\t\r \u00a0no\t\r \u00a0debts\t\r \u00a0to\t\r \u00a0the\t\r \u00a0Government\t\r \u00a0of",
+        "type": "string"
+      },
+      "220": {
+        "description": "Government\t\r \u00a0of\t\r \u00a0the\t\r \u00a0Yukon\t\r \u00a0access\t\r \u00a0to\t\r \u00a0the\t\r \u00a0site\t\r \u00a0and\t\r \u00a0premises\t\r \u00a0of\t\r \u00a0the\t\r \u00a0project\t\r \u00a0described\t\r \u00a0in\t\r \u00a0this\t\r \u00a0application,\t\r \u00a0to\t\r \u00a0inspect\t\r \u00a0the\t\r \u00a0books\t\r \u00a0and\t\r \u00a0records,\t\r \u00a0to\t\r \u00a0make\t\r \u00a0inquiries\t\r \u00a0and",
+        "type": "string"
+      },
+      "229": {
+        "description": "credit\t\r \u00a0checks,\t\r \u00a0and\t\r \u00a0to\t\r \u00a0obtain\t\r \u00a0all\t\r \u00a0pertinent\t\r \u00a0information\t\r \u00a0necessary\t\r \u00a0to\t\r \u00a0evaluate\t\r \u00a0this\t\r \u00a0application.\t\r \u00a0\t\r \u00a0We\t\r \u00a0understand\t\r \u00a0that\t\r \u00a0all\t\r \u00a0or\t\r \u00a0part\t\r \u00a0of\t\r \u00a0this\t\r \u00a0application\t\r \u00a0may\t\r \u00a0be\t\r \u00a0made",
+        "type": "string"
+      },
+      "234": {
+        "description": "Project\t\r \u00a0start\t\r \u00a0date\t\r \u00a0\t\r \u00a0Project\t\r \u00a0end\t\r \u00a0date",
+        "type": "string"
+      },
+      "235": {
+        "description": "Amount\t\r \u00a0of\t\r \u00a0funding\t\r \u00a0requested\t\r \u00a0$\t\r \u00a0Total\t\r \u00a0budget\t\r \u00a0of\t\r \u00a0project\t\r \u00a0$",
+        "type": "string"
+      },
+      "236": {
+        "description": "Telephone\t\r \u00a0\t\r \u00a0Email",
+        "type": "string"
+      },
+      "237": {
+        "description": "Declaration\t\r \u00a0of\t\r \u00a0applicant:",
+        "type": "string"
+      },
+      "238": {
+        "description": "Physical\t\r \u00a0Address\t\r \u00a0(if\t\r \u00a0different\t\r \u00a0from\t\r \u00a0mailing\t\r \u00a0address)",
+        "type": "string"
+      },
+      "242": {
+        "description": "proposed\t\r \u00a0project\t\r \u00a0will\t\r \u00a0be\t\r \u00a0in\t\r \u00a0compliance\t\r \u00a0with\t\r \u00a0existing\t\r \u00a0municipal,\t\r \u00a0territorial\t\r \u00a0and\t\r \u00a0federal\t\r \u00a0codes,\t\r \u00a0guidelines\t\r \u00a0and\t\r \u00a0laws.\t\r \u00a0We\t\r \u00a0agree\t\r \u00a0to\t\r \u00a0allow\t\r \u00a0representatives\t\r \u00a0of\t\r \u00a0the",
+        "type": "string"
+      },
+      "243": {
+        "description": "We\t\r \u00a0are\t\r \u00a0submitting\t\r \u00a0this\t\r \u00a0application\t\r \u00a0for\t\r \u00a0the\t\r \u00a0purpose\t\r \u00a0of\t\r \u00a0obtaining\t\r \u00a0financial\t\r \u00a0assistance\t\r \u00a0from\t\r \u00a0the\t\r \u00a0Government\t\r \u00a0of\t\r \u00a0Yukon.\t\r \u00a0The\t\r \u00a0statements\t\r \u00a0herein\t\r \u00a0and\t\r \u00a0in\t\r \u00a0all\t\r \u00a0further",
+        "type": "string"
+      },
+      "244": {
+        "description": "Yukon.",
+        "type": "string"
+      },
+      "245": {
+        "description": "Town/City\t\r \u00a0\t\r \u00a0Postal\t\r \u00a0Code",
+        "type": "string"
+      },
+      "246": {
+        "description": "submissions\t\r \u00a0in\t\r \u00a0regard\t\r \u00a0to\t\r \u00a0this\t\r \u00a0application\t\r \u00a0are,\t\r \u00a0to\t\r \u00a0the\t\r \u00a0best\t\r \u00a0of\t\r \u00a0our\t\r \u00a0knowledge,\t\r \u00a0true\t\r \u00a0and\t\r \u00a0correct.\t\r \u00a0\t\r \u00a0We\t\r \u00a0submit\t\r \u00a0that,\t\r \u00a0to\t\r \u00a0the\t\r \u00a0best\t\r \u00a0of\t\r \u00a0our\t\r \u00a0knowledge,\t\r \u00a0all\t\r \u00a0aspects\t\r \u00a0of\t\r \u00a0this",
+        "type": "string"
+      },
+      "247": {
+        "description": "Mailing\t\r \u00a0Address",
+        "type": "string"
+      },
+      "261": {
+        "description": "Project\t\r \u00a0Name",
+        "type": "string"
+      },
+      "296": {
+        "description": "Number\t\r \u00a0of\t\r \u00a0events\t\r \u00a0or\t\r \u00a0activities",
+        "type": "string"
+      },
+      "297": {
+        "description": "Audience/public\t\r \u00a0attendance/participation",
+        "type": "string"
+      },
+      "323": {
+        "description": "Employment\t\r \u00a0(#\t\r \u00a0of\t\r \u00a0hours\t\r \u00a0of\t\r \u00a0employment)",
+        "type": "string"
+      },
+      "324": {
+        "description": "Number\t\r \u00a0of\t\r \u00a0volunteers",
+        "type": "string"
+      },
+      "325": {
+        "description": "Total\t\r \u00a0number\t\r \u00a0of\t\r \u00a0volunteer\t\r \u00a0hours",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

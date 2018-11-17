@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "128": {
+        "description": "Licence plate number:",
+        "type": "string"
+      },
+      "131": {
+        "description": "Vehicle make:",
+        "type": "string"
+      },
+      "132": {
+        "description": "Year:",
+        "type": "string"
+      },
+      "133": {
+        "description": "which I may be engaged. This vehicle may be used for pleasure purposes.",
+        "type": "string"
+      },
+      "134": {
+        "description": "Serial number:",
+        "type": "string"
+      },
+      "135": {
+        "description": "Name of registered owner:",
+        "type": "string"
+      },
+      "136": {
+        "description": "I am a farmer, rancher or market gardener and use the vehicle described in this application solely in connection with a",
+        "type": "string"
+      },
+      "137": {
+        "description": "farm, ranch or market garden operation for commercial purposes, but not in connection with any other line of business in",
+        "type": "string"
+      },
+      "138": {
+        "description": "DECLARATION",
+        "type": "string"
+      },
+      "139": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "boolean"
+      },
+      "142": {
+        "description": "Y Y Y Y / M M/ D D",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

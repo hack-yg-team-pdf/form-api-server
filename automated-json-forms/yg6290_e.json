@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "properties": {
+      "26": {
+        "description": "CANADA-YUKON JOB GRANT (CJG) \u2013 PARTICIPANT APPLICATION    |    2",
+        "type": "string"
+      },
+      "108": {
+        "description": "Prov/Terr",
+        "type": "string"
+      },
+      "109": {
+        "description": "Postal Code",
+        "type": "string"
+      },
+      "110": {
+        "description": "PERSONAL INFORMATION",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

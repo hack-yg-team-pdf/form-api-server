@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "182": {
+        "description": "Name of applicant",
+        "type": "string"
+      },
+      "183": {
+        "description": "Email",
+        "type": "string"
+      },
+      "184": {
+        "description": "Yes",
+        "type": "string"
+      },
+      "185": {
+        "description": "No          Note: Applicant must be a Canadian citizen or a permanent resident of Canada and",
+        "type": "string"
+      },
+      "186": {
+        "description": "Yukon resident",
+        "type": "string"
+      },
+      "189": {
+        "description": "Previous film experience and training (attach resume)",
+        "type": "string"
+      },
+      "190": {
+        "description": "Description of educational program (Attach a copy of official course literature and certificate of acceptance)",
+        "type": "string"
+      },
+      "191": {
+        "description": "Explain how this program will develop your skills and further your career",
+        "type": "string"
+      },
+      "192": {
+        "description": "Attach a budget for the full cost of your educational project. Include tuition, texts and any required",
+        "type": "string"
+      },
+      "193": {
+        "description": "consumable materials as line items, and show the basis for these figures (e.g. course literature).",
+        "type": "string"
+      },
+      "194": {
+        "description": "Access to Information and Protection of Privacy Act: This information is collected for the purpose of administering an economic development program pursuant to s. 8 and 9",
+        "type": "boolean"
+      },
+      "197": {
+        "description": "of the Economic Development Act, as amended. Personal information on this form is collected under the authority of Section 29(c) of the Access to Information & Protection of",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

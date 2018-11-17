@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "42": {
+        "description": "Date of request:",
+        "type": "string"
+      },
+      "43": {
+        "description": "Requestor Information",
+        "type": "string"
+      },
+      "44": {
+        "description": "Organization/affiliation (if any):",
+        "type": "string"
+      },
+      "45": {
+        "description": "Address:",
+        "type": "string"
+      },
+      "46": {
+        "description": "Phone:",
+        "type": "string"
+      },
+      "47": {
+        "description": "Email:",
+        "type": "string"
+      },
+      "48": {
+        "description": "Information Requested",
+        "type": "string"
+      },
+      "49": {
+        "description": "General location in Yukon:",
+        "type": "string"
+      },
+      "53": {
+        "description": "YG(6066EQ)F1 01/2015",
+        "type": "string"
+      },
+      "59": {
+        "description": "Reason for Request",
+        "type": "boolean"
+      },
+      "62": {
+        "description": "What do you intend to do with the information provided:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

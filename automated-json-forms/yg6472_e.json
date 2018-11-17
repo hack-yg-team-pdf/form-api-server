@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "52": {
+        "description": "Page 2 of 2",
+        "type": "boolean"
+      },
+      "137": {
+        "description": "Address",
+        "type": "string"
+      },
+      "140": {
+        "description": "Date",
+        "type": "string"
+      },
+      "141": {
+        "description": "Map attached of the area of interest for the current/proposed land use activity",
+        "type": "string"
+      },
+      "142": {
+        "description": "accordance with section 36 of that Act.  It cannot be released if the concession holder has requested that this information be kept confidential.",
+        "type": "string"
+      },
+      "143": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "144": {
+        "description": "ON BEHALF OF",
+        "type": "string"
+      },
+      "145": {
+        "description": "Development Company / Agency / Client Name",
+        "type": "string"
+      },
+      "146": {
+        "description": "Project Name",
+        "type": "string"
+      },
+      "147": {
+        "description": "Use of this information is to be strictly limited to the purpose(s) as identified within this request. This contact information",
+        "type": "string"
+      },
+      "148": {
+        "description": "Please indicate in the first column below which Trapping Concession Area(s) (TCA(s)) overlap with your project area.",
+        "type": "string"
+      },
+      "149": {
+        "description": "Concession holder contact information is protected under the Access to Information and Protection of Privacy Act (ATIPP) but can be released in",
+        "type": "string"
+      },
+      "151": {
+        "description": "will be used for the following specific purpose(s) only:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

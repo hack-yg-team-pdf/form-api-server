@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "properties": {
+      "610": {
+        "description": "returned or rejected.  Appropriate registration and annual licence fees must be enclosed.",
+        "type": "string"
+      },
+      "613": {
+        "description": "Name in full:  Gender:   \u2610 F    \u2610 M",
+        "type": "string"
+      },
+      "616": {
+        "description": "Maiden name (if applicable):",
+        "type": "string"
+      },
+      "618": {
+        "description": "Date of birth:  Location",
+        "type": "string"
+      },
+      "623": {
+        "description": "Email address:",
+        "type": "string"
+      },
+      "626": {
+        "description": "6.     Clinic Address:",
+        "type": "string"
+      },
+      "627": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "629": {
+        "description": "Clinic telephone number",
+        "type": "string"
+      },
+      "632": {
+        "description": "If yes, where?",
+        "type": "string"
+      },
+      "636": {
+        "description": "Personal information contained on this form is collected under the Dental Profession Act and will be used for the purpose of administering the Act. For further",
+        "type": "string"
+      },
+      "637": {
+        "description": "information, contact the Director of Director of Professional Licensing and Regulatory Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "638": {
+        "description": "YG(5769EQ)F3 Rev.3/2014",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

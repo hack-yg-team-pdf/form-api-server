@@ -1,0 +1,59 @@
+{
+  "fields": {
+    "properties": {
+      "341": {
+        "description": "BREF DE SAISIE-ARR\u00caT",
+        "type": "string"
+      },
+      "342": {
+        "description": "Cour",
+        "type": "string"
+      },
+      "343": {
+        "description": "Plaintiff",
+        "type": "string"
+      },
+      "344": {
+        "description": "Name and residence",
+        "type": "string"
+      },
+      "345": {
+        "description": "Name and residence",
+        "type": "string"
+      },
+      "346": {
+        "description": "Name and residence",
+        "type": "string"
+      },
+      "347": {
+        "description": "$",
+        "type": "string"
+      },
+      "348": {
+        "description": "of this Writ, not more than $25 each.)",
+        "type": "string"
+      },
+      "349": {
+        "description": "ISSUED the                                 day of",
+        "type": "string"
+      },
+      "350": {
+        "description": "D\u00c9LIVR\u00c9 le   jour de/d\u2019 20 ,",
+        "type": "string"
+      },
+      "351": {
+        "description": "to the Clerk for issuance.",
+        "type": "string"
+      },
+      "352": {
+        "description": "DIRECTIVES",
+        "type": "boolean"
+      },
+      "355": {
+        "description": "Le DEMANDEUR/la DEMANDERESSE doit remplir ce",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

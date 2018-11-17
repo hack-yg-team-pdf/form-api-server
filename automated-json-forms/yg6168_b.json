@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "properties": {
+      "299": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "300": {
+        "description": "1.  Name of society / D\u00e9nomination sociale de la soci\u00e9t\u00e9 :",
+        "type": "string"
+      },
+      "301": {
+        "description": "MM/MM                     DD/JJ",
+        "type": "string"
+      },
+      "302": {
+        "description": "5.  Name of individual signing /  Nom du signataire :",
+        "type": "string"
+      },
+      "303": {
+        "description": "Effective date of change / Date de prise d\u2019effet du changement :",
+        "type": "string"
+      },
+      "304": {
+        "description": "4.  If fiscal year-end has changed / Si la date de fin d\u2019exercice a chang\u00e9 :",
+        "type": "string"
+      },
+      "305": {
+        "description": "Previous fiscal year-end / Ancienne date de fin d\u2019exercice :",
+        "type": "string"
+      },
+      "306": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "307": {
+        "description": "8.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "308": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "311": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

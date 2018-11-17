@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "32": {
+        "description": "is appointed to the position of",
+        "type": "string"
+      },
+      "33": {
+        "description": "for the municipality of",
+        "type": "string"
+      },
+      "34": {
+        "description": "for the election on",
+        "type": "string"
+      },
+      "35": {
+        "description": "Date",
+        "type": "string"
+      },
+      "36": {
+        "description": "Name",
+        "type": "string"
+      },
+      "37": {
+        "description": "for the municipality of",
+        "type": "string"
+      },
+      "38": {
+        "description": "Municipality",
+        "type": "string"
+      },
+      "39": {
+        "description": "X",
+        "type": "boolean"
+      },
+      "42": {
+        "description": "Notary public, returning officer or designated municipal officer",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "fields": {
+    "properties": {
+      "140": {
+        "description": "Cell:",
+        "type": "string"
+      },
+      "141": {
+        "description": "Nota:  Veuillez joindre en annexe tout renseignement suppl\u00e9mentaire, au besoin.",
+        "type": "string"
+      },
+      "142": {
+        "description": "2.     The installation of the device meets all the requirements of the applicable codes and regulations.",
+        "type": "string"
+      },
+      "146": {
+        "description": "1.     This elevating device has been installed according to the registered design/drawings.",
+        "type": "string"
+      },
+      "147": {
+        "description": "Signature of Company Officer",
+        "type": "string"
+      },
+      "148": {
+        "description": "Fax:",
+        "type": "string"
+      },
+      "149": {
+        "description": "Fax: 867.393.6249",
+        "type": "string"
+      },
+      "150": {
+        "description": "Whitehorse, YT  Y1A 2C6",
+        "type": "string"
+      },
+      "151": {
+        "description": "Building Safety (C-8)",
+        "type": "string"
+      },
+      "152": {
+        "description": "parties de la Loi sur les ascenseurs et les transporteurs fixes et des r\u00e8glements d\u2019application concernant l\u2019occupation",
+        "type": "string"
+      },
+      "153": {
+        "description": "Les renseignements personnels fournis aux pr\u00e9sentes seront utilis\u00e9s uniquement aux fins d\u2019administration de certaines",
+        "type": "string"
+      },
+      "155": {
+        "description": "Signature du dirigeant de l\u2019entreprise :",
+        "type": "string"
+      },
+      "156": {
+        "description": "Name & Title of Company Officer",
+        "type": "string"
+      },
+      "161": {
+        "description": "All collected information will be managed in accordance with the Access to Information and Protection of Privacy Act. For",
+        "type": "string"
+      },
+      "162": {
+        "description": "The personal information gathered on this form will be used for the purposes of administering portions of the Elevator",
+        "type": "string"
+      },
+      "203": {
+        "description": "City:",
+        "type": "string"
+      },
+      "204": {
+        "description": "Building Name:",
+        "type": "boolean"
+      },
+      "212": {
+        "description": "Nom du b\u00e2timent :",
+        "type": "boolean"
+      },
+      "219": {
+        "description": "Where there is a conflict between this Guideline and the Act & Regulations, the regulations shall prevail.",
+        "type": "string"
+      },
+      "220": {
+        "description": "En cas de divergence entre les pr\u00e9sentes directives et la Loi et ses r\u00e8glements d\u2019application, les r\u00e8glements ont pr\u00e9s\u00e9ance.",
+        "type": "string"
+      },
+      "221": {
+        "description": "Elevator Contractor:",
+        "type": "string"
+      },
+      "224": {
+        "description": "Contrat no (cell.) :",
+        "type": "string"
+      },
+      "225": {
+        "description": "Localit\u00e9 :",
+        "type": "string"
+      },
+      "226": {
+        "description": "Date :",
+        "type": "string"
+      },
+      "227": {
+        "description": "Adresse :",
+        "type": "string"
+      },
+      "339": {
+        "description": "Signature of Company Officer:",
+        "type": "string"
+      },
+      "344": {
+        "description": "Name & Title of Company Officer:",
+        "type": "string"
+      },
+      "345": {
+        "description": "E-mail:",
+        "type": "string"
+      },
+      "346": {
+        "description": "T\u00e9l\u00e9phone :       Cellulaire :         T\u00e9l\u00e9copieur :",
+        "type": "string"
+      },
+      "365": {
+        "description": "Type of Inspection:",
+        "type": "string"
+      },
+      "366": {
+        "description": "Cell:",
+        "type": "string"
+      },
+      "367": {
+        "description": "Fax:",
+        "type": "string"
+      },
+      "368": {
+        "description": "Adresse des lieux :",
+        "type": "string"
+      },
+      "369": {
+        "description": "Nom du b\u00e2timent :",
+        "type": "string"
+      },
+      "370": {
+        "description": "Num\u00e9ro d\u2019identification de l\u2019ascenseur :",
+        "type": "string"
+      },
+      "371": {
+        "description": "Appareils r\u00e9gis par les codes de s\u00e9curit\u00e9 CSA B-44",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

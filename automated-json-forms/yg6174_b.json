@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "properties": {
+      "270": {
+        "description": "Societies Regulations (Subsection 13(2)) Form 18",
+        "type": "string"
+      },
+      "271": {
+        "description": "Attach additional page(s) if necessary / Annexer des feuilles suppl\u00e9mentaires au besoin",
+        "type": "string"
+      },
+      "272": {
+        "description": "YYYY/AAAA           MM/MM           DD/JJ",
+        "type": "string"
+      },
+      "273": {
+        "description": "5.  Name of individual signing / Nom du signataire :",
+        "type": "string"
+      },
+      "274": {
+        "description": "Last Name / Nom de famille",
+        "type": "string"
+      },
+      "275": {
+        "description": "Director, officer, or authorized agent / Administrateur, dirigeant ou mandataire autoris\u00e9",
+        "type": "string"
+      },
+      "276": {
+        "description": "8.  Date of signature / Date de signature :",
+        "type": "string"
+      },
+      "277": {
+        "description": "Your personal information contained in this form is collected under the authority of the Societies Act RSY 2002, c.206. It will be used for the purposes",
+        "type": "boolean"
+      },
+      "280": {
+        "description": "of that Act and its regulations and for other lawful purposes. This includes the compilation of a public registry. Any person is entitled to examine the",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

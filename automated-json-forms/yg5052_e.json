@@ -1,0 +1,155 @@
+{
+  "fields": {
+    "properties": {
+      "278": {
+        "description": "Mining district:",
+        "type": "string"
+      },
+      "279": {
+        "description": "I, ,",
+        "type": "string"
+      },
+      "280": {
+        "description": "of ,",
+        "type": "string"
+      },
+      "281": {
+        "description": "phone",
+        "type": "string"
+      },
+      "282": {
+        "description": "agent for",
+        "type": "string"
+      },
+      "283": {
+        "description": "hereby apply under the provisions of the Placer Mining Act for a lease to prospect",
+        "type": "string"
+      },
+      "284": {
+        "description": "mile portion of  on map sheet no.",
+        "type": "string"
+      },
+      "285": {
+        "description": "Optional:",
+        "type": "string"
+      },
+      "288": {
+        "description": "Post no. 1 GPS coordinates      Latitude: \u00b0  \u201d  \u2019  N       Longtitude: \u00b0  \u201d  \u2019  W",
+        "type": "string"
+      },
+      "289": {
+        "description": "Post no. 1 inscription:",
+        "type": "string"
+      },
+      "290": {
+        "description": "and I make Oath and say that",
+        "type": "string"
+      },
+      "291": {
+        "description": "Post no. 2 GPS coordinates      Latitude: \u00b0  \u201d  \u2019  N       Longtitude: \u00b0  \u201d  \u2019  W",
+        "type": "string"
+      },
+      "292": {
+        "description": "1. To the best of my knowledge and belief the land is such as may be located for prospecting purposes under the",
+        "type": "string"
+      },
+      "293": {
+        "description": "2. That I did on the  day of , 20 mark out on the ground in accordance",
+        "type": "string"
+      },
+      "294": {
+        "description": "in every particular with the said Act the location for which I make this application.",
+        "type": "string"
+      },
+      "295": {
+        "description": "said Act.",
+        "type": "string"
+      },
+      "296": {
+        "description": "3. The length of the location, as nearly as I could measure it is,  feet, and that the description above",
+        "type": "string"
+      },
+      "297": {
+        "description": "given in detail sets forth to the best of my knowledge and ability its position.",
+        "type": "string"
+      },
+      "298": {
+        "description": "4. I staked out the location by planting two legal posts, numbered 1 and 2, respectively, and that the no.1 post is the",
+        "type": "string"
+      },
+      "299": {
+        "description": "stream post of the location and the line between posts is well cut out (Placer Mining Act, Section 24(3)).",
+        "type": "string"
+      },
+      "300": {
+        "description": "UP/DOWN",
+        "type": "string"
+      },
+      "301": {
+        "description": "5. That no placer mining claims are now recorded on the tract applied for, and that no placer mining operations are",
+        "type": "string"
+      },
+      "302": {
+        "description": "now being conducted thereon.",
+        "type": "string"
+      },
+      "303": {
+        "description": "6. I make this application in good faith to acquire a prospecting lease for the sole purpose of prospecting and",
+        "type": "string"
+      },
+      "304": {
+        "description": "exploration to be prosecuted by myself, or by myself and associates, or by my assigns.",
+        "type": "string"
+      },
+      "305": {
+        "description": "7. I have the financial ability and/or resources available to myself, and my assigns, to carry out recognized",
+        "type": "string"
+      },
+      "306": {
+        "description": "prospecting operations required by the Act to keep the lease in good standing once approved by the mining recorder.",
+        "type": "string"
+      },
+      "307": {
+        "description": "SWORN before me at , , on this  day of , 20.",
+        "type": "string"
+      },
+      "308": {
+        "description": "Signature of notary public",
+        "type": "string"
+      },
+      "309": {
+        "description": "Signature of applicant",
+        "type": "string"
+      },
+      "310": {
+        "description": "Notary public\u2019s stamped or printed name",
+        "type": "string"
+      },
+      "311": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "312": {
+        "description": "My notary public enrollment expires on",
+        "type": "string"
+      },
+      "313": {
+        "description": "Access to Information and Protection of Privacy Act: I acknowledge that the information is being collected under the authority of sections 7, 9 and 92 of the Placer Mining Act",
+        "type": "string"
+      },
+      "314": {
+        "description": "and section 29(c) Access to Information and Protection of Privacy Act for the purpose of administrating prospecting lease applications. This application may be made available to the",
+        "type": "string"
+      },
+      "315": {
+        "description": "public. For further information, contact the Department of Energy, Mines and Resources, Mining Lands Office at 867-667-3190 or toll free at 1-800-661-0408 extension 3190.",
+        "type": "string"
+      },
+      "316": {
+        "description": "Post no. 2 inscription:",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

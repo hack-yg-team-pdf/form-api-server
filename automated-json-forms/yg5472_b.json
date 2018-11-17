@@ -1,0 +1,115 @@
+{
+  "fields": {
+    "properties": {
+      "316": {
+        "description": "This is to certify that",
+        "type": "string"
+      },
+      "319": {
+        "description": "Taught in the school (s) operated by:",
+        "type": "string"
+      },
+      "320": {
+        "description": "NAME AND ADDRESS OF SCHOOL BOARD \u2022 NOM ET ADRESSE DE LA COMMISSION SCOLAIRE",
+        "type": "string"
+      },
+      "321": {
+        "description": "Full/part time (%) \u2022 Temps plein/partiel (%)",
+        "type": "string"
+      },
+      "322": {
+        "description": "For a total period of",
+        "type": "string"
+      },
+      "323": {
+        "description": "to",
+        "type": "string"
+      },
+      "324": {
+        "description": "de      \u00e0",
+        "type": "string"
+      },
+      "325": {
+        "description": "From",
+        "type": "string"
+      },
+      "326": {
+        "description": "de      \u00e0",
+        "type": "string"
+      },
+      "327": {
+        "description": "From",
+        "type": "string"
+      },
+      "328": {
+        "description": "to",
+        "type": "string"
+      },
+      "329": {
+        "description": "de      \u00e0",
+        "type": "string"
+      },
+      "330": {
+        "description": "months.",
+        "type": "string"
+      },
+      "331": {
+        "description": "From                                                   to",
+        "type": "string"
+      },
+      "332": {
+        "description": "1.  A valid teaching certificate issued by the",
+        "type": "string"
+      },
+      "333": {
+        "description": "Please confirm the following:",
+        "type": "string"
+      },
+      "334": {
+        "description": "years",
+        "type": "string"
+      },
+      "335": {
+        "description": "une exigence d\u2019emploi.",
+        "type": "string"
+      },
+      "336": {
+        "description": "d\u2019une exp\u00e9rience acquise \u00e0 l\u2019ext\u00e9rieur du Canada) \u00e9tait",
+        "type": "string"
+      },
+      "337": {
+        "description": "requirement for employment.",
+        "type": "string"
+      },
+      "338": {
+        "description": "par une autre instance gouvernementale dans le cas",
+        "type": "string"
+      },
+      "348": {
+        "description": "PRINT NAME \u2022 NOM EN LETTRES D\u00c9TACH\u00c9ES                                                                               AUTHORIZED SIGNATURE \u2022 SIGNATAIRE AUTORIS\u00c9",
+        "type": "string"
+      },
+      "349": {
+        "description": "TITLE \u2022 TITRE",
+        "type": "string"
+      },
+      "350": {
+        "description": "YG(5472Q)F1 Rev.04/2018",
+        "type": "string"
+      },
+      "351": {
+        "description": "TELEPHONE \u2022 T\u00c9L\u00c9PHONE",
+        "type": "string"
+      },
+      "352": {
+        "description": "institution in which the curriculum was accredited",
+        "type": "boolean"
+      },
+      "355": {
+        "description": "Oui",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

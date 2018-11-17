@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "302": {
+        "description": "5. Phone number:",
+        "type": "string"
+      },
+      "303": {
+        "description": "Principale activit\u00e9 de l\u2019entreprise :",
+        "type": "string"
+      },
+      "304": {
+        "description": "4. Business Speciality:",
+        "type": "string"
+      },
+      "305": {
+        "description": "3. Business address:",
+        "type": "string"
+      },
+      "306": {
+        "description": "Adresse commerciale :",
+        "type": "string"
+      },
+      "307": {
+        "description": "City \u2022 Ville",
+        "type": "string"
+      },
+      "308": {
+        "description": "Nom du propri\u00e9taire ou de l\u2019administrateur :",
+        "type": "string"
+      },
+      "309": {
+        "description": "1. Business Name:                                                                                                                                                             License Number",
+        "type": "string"
+      },
+      "310": {
+        "description": "The undersigned hereby certify that the foregoing statements are true and correct to the best of my knowledge.  I hereby undertake to notify",
+        "type": "string"
+      },
+      "311": {
+        "description": "the Government of  Yukon in writing of any change.",
+        "type": "string"
+      },
+      "312": {
+        "description": "Je soussign\u00e9 certifie par les pr\u00e9sentes que les informations fournies ci-dessus sont autant que je sache v\u00e9ridiques et exactes.  Il est entendu",
+        "type": "string"
+      },
+      "313": {
+        "description": "que si des changements doivent \u00eatre apport\u00e9s, j\u2019aviserai le gouvernement du Yukon par \u00e9crit sans tarder.",
+        "type": "string"
+      },
+      "314": {
+        "description": "Les demandes accompagn\u00e9es des droits doivent parvenir au plus tard le 31 mars pour que le permis soit renouvel\u00e9 aux :",
+        "type": "string"
+      },
+      "315": {
+        "description": "Your completed application and fees are due and payable on or before March 31. Please forward your application and fees to:",
+        "type": "boolean"
+      },
+      "317": {
+        "description": "Secondhand Dealer       $10.00",
+        "type": "boolean"
+      },
+      "318": {
+        "description": "Veuillez faire votre ch\u00e8que \u00e0 l\u2019ordre du gouvernement du Yukon, ou fournir les renseignements demand\u00e9s ci-dessous remplissez",
+        "type": "string"
+      },
+      "319": {
+        "description": "complete payment information form YG5924 at: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "320": {
+        "description": "Les renseignements personnels demand\u00e9s dans les pr\u00e9sentes sont recueillis en",
+        "type": "boolean"
+      },
+      "323": {
+        "description": "vertude la Loi sur les pr\u00eateurs sur gages et les revendeurs et serviront exclusivement",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

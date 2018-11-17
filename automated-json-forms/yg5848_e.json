@@ -1,0 +1,171 @@
+{
+  "fields": {
+    "properties": {
+      "494": {
+        "description": "CONGENITAL ANOMALIES SUPPORT YUKON (CASY)",
+        "type": "boolean"
+      },
+      "496": {
+        "description": "I am reporting this birth defect",
+        "type": "boolean"
+      },
+      "498": {
+        "description": "Name of medical facility",
+        "type": "string"
+      },
+      "499": {
+        "description": "Form completion date",
+        "type": "string"
+      },
+      "500": {
+        "description": "YYYY / MM /  DD",
+        "type": "string"
+      },
+      "501": {
+        "description": "Yukon health care number",
+        "type": "string"
+      },
+      "502": {
+        "description": "AFFECTED FETUS / INDIVIDUAL  Please fill in one form per affected fetus/individual.",
+        "type": "string"
+      },
+      "503": {
+        "description": "Name (Last, First, Middle)",
+        "type": "string"
+      },
+      "504": {
+        "description": "Birth length",
+        "type": "string"
+      },
+      "505": {
+        "description": "Date of birth/termination Date of death",
+        "type": "string"
+      },
+      "506": {
+        "description": "Head circumference at birth",
+        "type": "string"
+      },
+      "507": {
+        "description": "YYYY / MM / DD YYYY / MM / DD",
+        "type": "string"
+      },
+      "508": {
+        "description": "Primary care doctor           Name:",
+        "type": "string"
+      },
+      "509": {
+        "description": "Maternity care doctor        Name:",
+        "type": "string"
+      },
+      "510": {
+        "description": "Biological mother\u2019s full name (Last, First, Middle)",
+        "type": "string"
+      },
+      "511": {
+        "description": "Address",
+        "type": "string"
+      },
+      "512": {
+        "description": "Termination at  wks gestation",
+        "type": "string"
+      },
+      "513": {
+        "description": "Birth weight",
+        "type": "string"
+      },
+      "514": {
+        "description": "Mother\u2019s date of birth",
+        "type": "string"
+      },
+      "515": {
+        "description": "YYYY / MM /  DD",
+        "type": "string"
+      },
+      "516": {
+        "description": "REPORTING / REFERRAL INFORMATION   Include congenital anomalies identified/strongly suspected for any terminated pregnancy, mis-",
+        "type": "boolean"
+      },
+      "518": {
+        "description": "Postal code",
+        "type": "string"
+      },
+      "519": {
+        "description": "carriage or any child 5 years of age or under. There is no age limit for FASD and autism reporting.",
+        "type": "boolean"
+      },
+      "521": {
+        "description": "Telephone (daytime) if this is a referral",
+        "type": "string"
+      },
+      "522": {
+        "description": "Unknown",
+        "type": "string"
+      },
+      "523": {
+        "description": "Male",
+        "type": "string"
+      },
+      "524": {
+        "description": "Female",
+        "type": "string"
+      },
+      "525": {
+        "description": "Ambiguous genitalia (Indeterminate)",
+        "type": "string"
+      },
+      "526": {
+        "description": "Livebirth",
+        "type": "string"
+      },
+      "527": {
+        "description": "Spontaneous abortion (<20 wks)",
+        "type": "string"
+      },
+      "528": {
+        "description": "Unknown",
+        "type": "string"
+      },
+      "539": {
+        "description": "Hospital where delivery/termination occurred:",
+        "type": "string"
+      },
+      "542": {
+        "description": "Gestational age at birth:",
+        "type": "string"
+      },
+      "555": {
+        "description": "Multiple: one of",
+        "type": "string"
+      },
+      "558": {
+        "description": "Based on U/S <26 wks",
+        "type": "string"
+      },
+      "559": {
+        "description": "Stillbirth (\u226520 wks)",
+        "type": "boolean"
+      },
+      "567": {
+        "description": "1 min:   5 min:   10 min:",
+        "type": "string"
+      },
+      "568": {
+        "description": "Father\u2019s age at baby\u2019s birth",
+        "type": "string"
+      },
+      "569": {
+        "description": "CASEID: (administrative use only)",
+        "type": "string"
+      },
+      "570": {
+        "description": "documentation when available (hospital discharge summary, radiology, pathology, surgical / autopsy reports, cytogenetic,",
+        "type": "string"
+      },
+      "571": {
+        "description": "YG(5848EQ)F2 Rev.03/2018",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "fields": {
+    "properties": {
+      "39": {
+        "description": "Page 2",
+        "type": "string"
+      },
+      "40": {
+        "description": "PHYSICAL IMPACT",
+        "type": "string"
+      },
+      "41": {
+        "description": "FEARS FOR SECURITY",
+        "type": "string"
+      },
+      "42": {
+        "description": "Page 3",
+        "type": "string"
+      },
+      "43": {
+        "description": "20         , at",
+        "type": "boolean"
+      },
+      "44": {
+        "description": "If you completed this statement on behalf of the victim, please indicate the reasons why you did so and the nature of",
+        "type": "string"
+      },
+      "45": {
+        "description": "your relationship with the victim:",
+        "type": "string"
+      },
+      "46": {
+        "description": "20         , at",
+        "type": "string"
+      },
+      "47": {
+        "description": "Dated this",
+        "type": "string"
+      },
+      "48": {
+        "description": "Name (Please print)",
+        "type": "string"
+      },
+      "50": {
+        "description": "day of",
+        "type": "string"
+      },
+      "51": {
+        "description": "Signature of declarant",
+        "type": "string"
+      },
+      "53": {
+        "description": "day of",
+        "type": "boolean"
+      },
+      "62": {
+        "description": "The Canadian Victim Bill of Rights permits the victim to present their statement in court by 1) reading it; 2) reading it in",
+        "type": "boolean"
+      },
+      "64": {
+        "description": "Dated this",
+        "type": "string"
+      },
+      "89": {
+        "description": "Accused:",
+        "type": "string"
+      },
+      "90": {
+        "description": "Court File #:",
+        "type": "string"
+      },
+      "91": {
+        "description": "Victim:",
+        "type": "string"
+      },
+      "92": {
+        "description": "you. You may attach additional pages if you need more space.",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

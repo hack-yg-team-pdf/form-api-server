@@ -1,0 +1,39 @@
+{
+  "fields": {
+    "properties": {
+      "42": {
+        "description": "Signature of Applicant",
+        "type": "string"
+      },
+      "44": {
+        "description": "Phone: 867.667.8391 or 1.800.661.0408 ext. 8391;  Fax: 867.667.8322",
+        "type": "boolean"
+      },
+      "45": {
+        "description": "Page 3 of 3",
+        "type": "boolean"
+      },
+      "124": {
+        "description": "The Sewage Disposal Systems Regulation requires a photographic record of the stages of installation to be submitted",
+        "type": "boolean"
+      },
+      "126": {
+        "description": "to a Health Officer within 30 days of installation of the sewage disposal system. When the regular procedure has not",
+        "type": "boolean"
+      },
+      "128": {
+        "description": "2. Certification marking or label on septic tank or sewage holding tank (e.g., CAN/CSA B66).",
+        "type": "boolean"
+      },
+      "134": {
+        "description": "**Note: If a receipt including a serial number that can be linked to tank design specifications is provided, this may be",
+        "type": "boolean"
+      },
+      "140": {
+        "description": "If a sewage holding tank was installed in a location with high ground water or that is prone to flooding, submit a picture",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

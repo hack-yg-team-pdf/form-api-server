@@ -1,0 +1,135 @@
+{
+  "fields": {
+    "properties": {
+      "231": {
+        "description": "Trade",
+        "type": "string"
+      },
+      "234": {
+        "description": "Date of birth (required)",
+        "type": "string"
+      },
+      "235": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "236": {
+        "description": "Level requested",
+        "type": "string"
+      },
+      "237": {
+        "description": "Apprentice\u2019s address",
+        "type": "string"
+      },
+      "238": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "239": {
+        "description": "Employer\u2019s name and address",
+        "type": "string"
+      },
+      "240": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "241": {
+        "description": "Phone",
+        "type": "string"
+      },
+      "242": {
+        "description": "CLASS REQUESTED (refer to enclosed Apprenticeship Technical Training Schedule)",
+        "type": "string"
+      },
+      "243": {
+        "description": "Fax",
+        "type": "string"
+      },
+      "244": {
+        "description": "First choice:  Institute/college   Level",
+        "type": "string"
+      },
+      "245": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "246": {
+        "description": "Second choice:  Institute/college   Level",
+        "type": "string"
+      },
+      "247": {
+        "description": "five days before applying for the next level. If you are planning on attending your final level of schooling, you must have",
+        "type": "string"
+      },
+      "248": {
+        "description": "Apprentice\u2019s signature",
+        "type": "string"
+      },
+      "249": {
+        "description": "Note to employer: by signing this form, you are approving the training dates indicated and confirming that the apprentice",
+        "type": "string"
+      },
+      "250": {
+        "description": "Class start date:     Class end date:     Class code",
+        "type": "string"
+      },
+      "251": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "252": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "253": {
+        "description": "hours into your final level prior to submitting an enrolment form.",
+        "type": "string"
+      },
+      "254": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "255": {
+        "description": "Class start date:     Class end date:     Class code",
+        "type": "string"
+      },
+      "256": {
+        "description": "is ready to attend this level of training.",
+        "type": "string"
+      },
+      "257": {
+        "description": "Supervisor\u2019s signature",
+        "type": "string"
+      },
+      "258": {
+        "description": "OFFICE USE ONLY: ITC REMARKS",
+        "type": "string"
+      },
+      "259": {
+        "description": "Industrial training consultant",
+        "type": "string"
+      },
+      "260": {
+        "description": "Supervisor\u2019s name (print)",
+        "type": "string"
+      },
+      "261": {
+        "description": "Y Y Y Y/ M M/ D D",
+        "type": "string"
+      },
+      "262": {
+        "description": "NOTE: If you are planning on attending back-to-back training, you must wait until you have been in your first class for",
+        "type": "string"
+      },
+      "263": {
+        "description": "Date",
+        "type": "boolean"
+      },
+      "266": {
+        "description": "Date",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}

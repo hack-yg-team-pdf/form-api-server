@@ -1,0 +1,167 @@
+{
+  "fields": {
+    "properties": {
+      "76": {
+        "description": "The fee schedule is as follows:",
+        "type": "boolean"
+      },
+      "81": {
+        "description": "Annual licence fee     $100.",
+        "type": "boolean"
+      },
+      "82": {
+        "description": "Resident Denturist",
+        "type": "boolean"
+      },
+      "83": {
+        "description": "Registration fee         $200.                                                              Registration fee          $100.",
+        "type": "boolean"
+      },
+      "85": {
+        "description": "Have you ever been the subject of an inquiry?             \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "86": {
+        "description": "form YG5924 at: http://www.gov.yk.ca/forms/cs.html#cs1",
+        "type": "string"
+      },
+      "90": {
+        "description": "13.  Have you ever been convicted of any criminal offence?       \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "92": {
+        "description": "hereby make application for registration and licensure in Yukon in accordance with the Denturists Act.",
+        "type": "string"
+      },
+      "95": {
+        "description": "and I make this solemn declaration conscientiously believing it to be true.",
+        "type": "boolean"
+      },
+      "98": {
+        "description": "of",
+        "type": "string"
+      },
+      "99": {
+        "description": "Province/Territory",
+        "type": "boolean"
+      },
+      "100": {
+        "description": "in",
+        "type": "string"
+      },
+      "101": {
+        "description": "in the province/territory of",
+        "type": "string"
+      },
+      "102": {
+        "description": "Signature & Seal of Notary Public",
+        "type": "string"
+      },
+      "103": {
+        "description": "Declared before me at",
+        "type": "string"
+      },
+      "104": {
+        "description": "this   day of",
+        "type": "string"
+      },
+      "106": {
+        "description": "In the matter of my application for registration and licensure with Yukon, I",
+        "type": "string"
+      },
+      "111": {
+        "description": ", 20",
+        "type": "string"
+      },
+      "616": {
+        "description": "Please allow 30 days for processing.",
+        "type": "string"
+      },
+      "621": {
+        "description": "All information requested in this application must be provided.  If application is not complete it will be",
+        "type": "string"
+      },
+      "622": {
+        "description": "Province/Territory         Postal code",
+        "type": "string"
+      },
+      "623": {
+        "description": "3.  Date of birth:  Location:",
+        "type": "string"
+      },
+      "624": {
+        "description": "dd/mm/yyyy",
+        "type": "string"
+      },
+      "625": {
+        "description": "4.   Clinic name:",
+        "type": "string"
+      },
+      "626": {
+        "description": "returned or rejected.  Appropriate registration and annual licence fees must be enclosed.",
+        "type": "boolean"
+      },
+      "628": {
+        "description": "5.  Clinic address:   Mail to Clinic \u2610",
+        "type": "string"
+      },
+      "629": {
+        "description": "Email address:",
+        "type": "string"
+      },
+      "630": {
+        "description": "6.   Home address:",
+        "type": "string"
+      },
+      "631": {
+        "description": "Province/Territory",
+        "type": "string"
+      },
+      "632": {
+        "description": "I expect to practise in:   starting on:",
+        "type": "string"
+      },
+      "633": {
+        "description": "If yes, where?",
+        "type": "string"
+      },
+      "636": {
+        "description": "Are you presently licensed to practise in another jurisdiction?       \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "639": {
+        "description": "Limitations, restrictions or conditions on this licence:                      \u2610 No         \u2610 Yes",
+        "type": "string"
+      },
+      "640": {
+        "description": "8.   Place of Graduation:",
+        "type": "string"
+      },
+      "641": {
+        "description": "9.  Year of Graduation:",
+        "type": "string"
+      },
+      "644": {
+        "description": "10.\tAre\tyou\tqualified\tto\tpractise\tdenturism\twith\tpartial\tdentures?\t\t\t\t\t\t\t\t\u2610 No           \u2610 Yes",
+        "type": "string"
+      },
+      "645": {
+        "description": "11.  Give addresses of all locations and dates in which you have practised as a denturist for the three years preceding",
+        "type": "string"
+      },
+      "646": {
+        "description": "Personal information contained on this form is collected under the Denturists Act and will be used for the purpose of administering the Act. For further information,",
+        "type": "string"
+      },
+      "647": {
+        "description": "contact the Director of Professional Licensing and Regulatory Affairs at (867) 667-5111, toll free within Yukon 1-800-661-0408, ext. 5111.",
+        "type": "string"
+      },
+      "648": {
+        "description": "YG(5098EQ)F3 Rev.3/2014",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

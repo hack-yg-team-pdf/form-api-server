@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "properties": {
+      "18": {
+        "description": "Watson Lake Weigh Station",
+        "type": "boolean"
+      },
+      "23": {
+        "description": "weight of the vehicle described in",
+        "type": "string"
+      },
+      "25": {
+        "description": "Whitehorse Weigh Station W-18",
+        "type": "boolean"
+      },
+      "354": {
+        "description": "I,  , representing",
+        "type": "string"
+      },
+      "355": {
+        "description": "PERMIT NUMBER YT -FAOP-",
+        "type": "string"
+      },
+      "356": {
+        "description": "NAME OF COMPANY OWNER OR LEASEE",
+        "type": "string"
+      },
+      "359": {
+        "description": "MAILING ADDRESS                                                                                                                                                                                       PHONE NUMBER",
+        "type": "string"
+      },
+      "360": {
+        "description": "hereby make application to the Minister of Highways and Public Works for a Special Front Axle Permit",
+        "type": "string"
+      },
+      "361": {
+        "description": "(\u201cPermit\u201d) to operate:",
+        "type": "string"
+      },
+      "362": {
+        "description": "YEAR                       MAKE                                                          MODEL                                                                            SERIAL NUMBER OF VEHICLE",
+        "type": "string"
+      },
+      "363": {
+        "description": "Yukon licence plate #, with a front axle weight equal to the manufacturer\u2019s rating for",
+        "type": "string"
+      },
+      "364": {
+        "description": "that axle of kg and a manufacturer\u2019s tire rating of kg, and agree to comply with the",
+        "type": "string"
+      },
+      "365": {
+        "description": "permit\u2019s terms and conditions, as well as the Yukon Highways Act and Regulations.",
+        "type": "string"
+      },
+      "366": {
+        "description": "DAY                                         MONTH                           YEAR                          Name of Company (please print)",
+        "type": "string"
+      },
+      "367": {
+        "description": "Witness                                                                                         Signature of Company Owner",
+        "type": "string"
+      },
+      "368": {
+        "description": "that axle, subject to the Terms and Conditions on the following page.",
+        "type": "string"
+      },
+      "369": {
+        "description": "A Special Front Axle Overload Permit is hereby issued to (\u201cPermit Holder\u201d)",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  }
+}

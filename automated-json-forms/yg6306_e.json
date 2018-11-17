@@ -1,0 +1,243 @@
+{
+  "fields": {
+    "properties": {
+      "55": {
+        "description": "to act as my agent in the matter of an Amendment to my current Mining Land Use Approval as indicated on",
+        "type": "string"
+      },
+      "56": {
+        "description": "I,                                                                                   have authorized",
+        "type": "string"
+      },
+      "57": {
+        "description": "page one (1) of this form.",
+        "type": "string"
+      },
+      "60": {
+        "description": "ACTIVITY BASED",
+        "type": "string"
+      },
+      "63": {
+        "description": "Current Operating Season:                                          Requested Operating Season:",
+        "type": "string"
+      },
+      "72": {
+        "description": "Position / Title",
+        "type": "string"
+      },
+      "74": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "81": {
+        "description": "By signing below, I certify I have the authority to sign on behalf of the business, company or corporation.",
+        "type": "string"
+      },
+      "82": {
+        "description": "6. RECORD OF AGENT AGREEMENT (IF APPLICABLE)",
+        "type": "string"
+      },
+      "89": {
+        "description": "Additional Details:",
+        "type": "string"
+      },
+      "90": {
+        "description": "# of Claims in original Approval:                # of Claims to be in Amended Approval:",
+        "type": "string"
+      },
+      "92": {
+        "description": "Change to approved Operating Season start or end date",
+        "type": "string"
+      },
+      "97": {
+        "description": "Addition Requested",
+        "type": "string"
+      },
+      "100": {
+        "description": "Current Expiry Date:                                                     Requested Expiry Date:",
+        "type": "string"
+      },
+      "101": {
+        "description": "7. SIGNING AUTHORITY (IF APPLICABLE)",
+        "type": "string"
+      },
+      "102": {
+        "description": "Date of Signing (YYYY-MM-DD)",
+        "type": "string"
+      },
+      "103": {
+        "description": "Claims Added",
+        "type": "string"
+      },
+      "109": {
+        "description": "OTHER (i.e. Change in equipment/technology used. Please attach additional pages if required)",
+        "type": "string"
+      },
+      "112": {
+        "description": "Signature",
+        "type": "string"
+      },
+      "251": {
+        "description": "1. APPLICANT INFORMATION (CORPORATE APPLICANT)",
+        "type": "string"
+      },
+      "252": {
+        "description": "First Name",
+        "type": "string"
+      },
+      "253": {
+        "description": "Mailing Address",
+        "type": "string"
+      },
+      "254": {
+        "description": "City/Town",
+        "type": "string"
+      },
+      "255": {
+        "description": "Street Name",
+        "type": "string"
+      },
+      "256": {
+        "description": "PO Box",
+        "type": "string"
+      },
+      "257": {
+        "description": "Country",
+        "type": "string"
+      },
+      "258": {
+        "description": "Province/Territory/State",
+        "type": "string"
+      },
+      "259": {
+        "description": "Postal Code/Zip Code",
+        "type": "string"
+      },
+      "260": {
+        "description": "Email Address",
+        "type": "string"
+      },
+      "261": {
+        "description": "If an agent is submitting on behalf of the operator, please check this box and complete Section 6.",
+        "type": "string"
+      },
+      "262": {
+        "description": "Fax Number",
+        "type": "string"
+      },
+      "263": {
+        "description": "If submitting on behalf of a business, company or corporation, please check this box and complete Section 7.",
+        "type": "string"
+      },
+      "264": {
+        "description": "Dawson",
+        "type": "string"
+      },
+      "265": {
+        "description": "Whitehorse",
+        "type": "string"
+      },
+      "272": {
+        "description": "2. PROJECT DETAILS",
+        "type": "string"
+      },
+      "273": {
+        "description": "NTS #(s)",
+        "type": "string"
+      },
+      "274": {
+        "description": "Existing Approval #",
+        "type": "string"
+      },
+      "275": {
+        "description": "YESAB File #",
+        "type": "string"
+      },
+      "276": {
+        "description": "Na-Cho Nyak D\u00fcn FN",
+        "type": "string"
+      },
+      "277": {
+        "description": "MINING DISTRICT:",
+        "type": "boolean"
+      },
+      "278": {
+        "description": "Mayo",
+        "type": "boolean"
+      },
+      "279": {
+        "description": "Watson Lake",
+        "type": "boolean"
+      },
+      "280": {
+        "description": "Water License #",
+        "type": "boolean"
+      },
+      "281": {
+        "description": "Selkirk FN",
+        "type": "boolean"
+      },
+      "282": {
+        "description": "Vuntut Gwitchin FN",
+        "type": "boolean"
+      },
+      "283": {
+        "description": "Company/Corp. Name",
+        "type": "boolean"
+      },
+      "284": {
+        "description": "Please attach a Claim Status Report generated by a district office or from http://apps.gov.yk.ca/ymcs",
+        "type": "boolean"
+      },
+      "285": {
+        "description": "Liard FN",
+        "type": "boolean"
+      },
+      "286": {
+        "description": "Ta\u2019an Kw\u00e4ch\u2019\u00e4n Council",
+        "type": "boolean"
+      },
+      "287": {
+        "description": "White River FN",
+        "type": "boolean"
+      },
+      "288": {
+        "description": "Kwanlin D\u00fcn FN",
+        "type": "boolean"
+      },
+      "289": {
+        "description": "3. FIRST NATION (FN) TRADITIONAL TERRITORY - PLEASE CHECK ALL THAT APPLY",
+        "type": "boolean"
+      },
+      "290": {
+        "description": "Carcross/Tagish FN",
+        "type": "boolean"
+      },
+      "291": {
+        "description": "Gwich\u2019in Tribal Council/Tetlit Gwich\u2019in Tribal Council",
+        "type": "boolean"
+      },
+      "292": {
+        "description": "Tahltan Cental Council",
+        "type": "boolean"
+      },
+      "293": {
+        "description": "Ross River Dena Council",
+        "type": "boolean"
+      },
+      "294": {
+        "description": "4. TRANS-BOUNDARY FIRST NATIONS (FN) TRADITIONAL TERRITORY - PLEASE CHECK ALL THAT APPLY",
+        "type": "boolean"
+      },
+      "295": {
+        "description": "Kaska Dena Council",
+        "type": "boolean"
+      },
+      "296": {
+        "description": "Acho Dene Koe FN (Dene/Metis of NWT)",
+        "type": "boolean"
+      }
+    },
+    "type": "object"
+  }
+}
