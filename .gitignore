@@ -67,3 +67,4 @@ fabric.properties
 .nfs*
 
 /node_modules/
+/sample-db/
