@@ -1,6 +1,9 @@
 {
-  "fields": {
+  "title": "Request for access to records",
+  "description": "access to information and protection of privacy",
+  "group": {
     "type": "object",
+    "name": "applicant",
     "properties": {
       "name": {
         "type": "string",
@@ -37,13 +40,19 @@
       "fax": {
         "type": "string",
         "format": "telephone"
-      },
+      }
+    },
+    "group": {
+    "type": "object",
+    "name": "Requested information",
+    "properties": {
       "name-of-public-body": {
         "type": "string",
-        "description": "(department,-corporation-or-agency)-Please-complete-a-seperate-form-for-each-public-body)"
+        "description": "Name of public body (department,-corporation-or-agency)-Please-complete-a-seperate-form-for-each-public-body)"
       },
       "information-requested": {
-        "type": "string"
+        "type": "string",
+        "description": "Please list dates, events, agencies involved, file numbers, and any other details which will help the Public Body locate the records."
       },
       "preferred-method-of-access-to-records": {
         "type": "string",
@@ -58,19 +67,27 @@
       "date-signed": {
         "type": "string",
         "format": "date"
-      },
+      }
+    },
+    "group": {
+    "type": "object",
+    "name": "For ATIPP office use only",
+    "properties": {
       "request-no": {
-        "type": "integer"
+        "type": "integer",
+        "description": "Request no A-"
       },
       "date-received": {
         "type": "string",
-        "format": "date"
+        "format": "date",
+        "description": "date recieved"
       },
       "records-manager": {
         "type": "string"
       },
       "time-limit-for-response-to-application:": {
-        "type": "string"
+        "type": "string",
+        "description": "time limit for response to application"
       }
     }
   },
@@ -87,4 +104,6 @@
       }
     ]
   }
+}
+}
 }
