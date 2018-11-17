@@ -4,6 +4,8 @@ const server = jsonServer.create();
 const router = jsonServer.router(path.join(__dirname, 'db.json'));
 const middlewares = jsonServer.defaults();
 const fs = require('fs');
+const util = require('util');
+const readdir = util.promisify(fs.readdir);
 
 const FORM_PATHS = [
     {
@@ -18,6 +20,8 @@ const FORM_PATHS = [
 
 server.use(middlewares);
 
+
+
 // Returns the request for debugging purposes. TODO: Remove me from production
 server.get('/echo', (req, res, next) => {
     res.jsonp(req.query);
@@ -26,6 +30,32 @@ server.get('/echo', (req, res, next) => {
 
 server.get('/forms', (req, res) => {
    let out = {};
+
+    let promises = FORM_PATHS.map( (p) => {
+        new Promise( (resolve, reject) => {
+            fs.readdir(p.path, (err, files) => {
+                if (err) {
+                    reject({
+                        message: `An error occured reading path ${p.path}`,
+                        err: err
+                    });
+                    // res.status(500).jsonp({error: `An error occured reading path ${p.path}`});
+                }
+
+                resolve( {
+                    path_name: p.name,
+                    files: files
+                } );
+            });
+        });
+    });
+
+    Promise.all(promises).then( (values) => {
+        res.jsonp(values);
+    }).catch(error => {
+        res.status(500).jsonp({error: error});
+    });
+
 
 });
 
@@ -49,13 +79,31 @@ server.get('/forms/:id', (req, res, next) => {
         else {
             data = JSON.parse(data);
             res.jsonp(data);
-            next();
+            //next();
         }
     });
 });
 
+// TODO: This is never called. Expected result is to filter French forms. Moving on to next issue.
+router.use((req, res, next) => {
+    if (req.method === 'GET' && req.url.contains('/form-categories')) {
+        let stop;
+
+        files = files.filter( (f) => {
+            let stop;
+            return ! f.fname.includes('_f');
+        })
+
+    }
+    // Continue to JSON Server router
+    next()
+})
+
 
 server.use(router);
+
+
+
 server.listen(3500, () => {
     console.log('JSON Server is running');
 });
