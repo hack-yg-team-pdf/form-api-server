@@ -1,0 +1,12 @@
+{
+  "name": "form-api-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/hack-yg-team-pdf/form-api-server.git",
+  "author": "Thimothé Lamoureux <aparadox@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "json-server": "^0.14.0"
+  }
+}
