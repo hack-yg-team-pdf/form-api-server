@@ -1,6 +1,9 @@
 {
-  "fields": {
+  "title": "Spring Litter Campaign",
+  "description": "Application Information Sheet",
+  "group": {
     "type": "object",
+    "name": "applicant-information",
     "properties": {
       "intro-text": {
         "type": "string"
@@ -53,33 +56,67 @@
           "Email",
           "Mail"
         ]
-      },
-      "section-number": "string",
-      "week-preference": "string",
-      "special-conditions": "string",
-      "description": "ie young children"
+      }
     },
-    "section-number": "string",
-    "week-preference": "string",
-    "special-conditions": "string",
-    "description": "ie young children"
-  },
-  "additional-section": {
-    "type": "string",
-    "enum": [
-      "yes",
-      "no"
-    ]
-  },
-  "declaration": {
-    "type": "string",
-    "description": "Agree to having read the attached instructions and conditions and agree to perform the work outlined"
-  },
-  "signature": {
-    "type": "string"
-  },
-  "date-signed": {
-    "type": "string",
-    "format": "date"
+    "group": {
+      "type": "object",
+      "name": "clean-up-sections",
+      "properties": {
+        "choice-1":{
+          "type": "string",
+          "section-number": "string",
+          "week-preference": "string",
+          "special-conditions": "string",
+          "description": "ie young children"
+        },
+        "choice-2":{
+          "type": "string",
+          "section-number": "string",
+          "week-preference": "string",
+          "special-conditions": "string",
+          "description": "ie young children"
+        },
+        "comment-1":{
+          "type": "string",
+          "description": "If additional sections are available, is your group willing to do an extra section? "
+        },
+        "choice-3":{
+          "type": "string",
+          "enum": [
+            "yes",
+            "no"
+          ]
+        },
+        "comment-2":{
+          "type": "string",
+          "description": "Note: Transportation Maintenance will attempt to schedule the Spring Litter program and area assignment with consideration to the preferences identified here, however operational constraints will take precedence and applications will be given priority on a first come/first serve basis."
+        }
+    },
+    "group": {
+          "type": "object",
+          "name": "declaration",
+          "properties": {
+              "person": {
+              "type": "text",
+              "description": "I"
+              },
+             "declaration": {
+                "type": "string",
+                "description": "Agree to having read the attached instructions and conditions and agree to perform the work outlined"
+              },
+              "comment-d": {
+                "type": "string",
+                "description": "(group supervisor, print name), have read the attached instructions and conditions and agree to perform the work outlined. By signing this application, our organization agrees to indemnify and save harmless the Government of Yukon from and against all claims, demands, loss, costs, damages, action suits or other proceedings resulting from activities carried out under this agreement. In recognition of this service, Transportation Maintenance will provide a $250.00 donation to the named organization for each section cleaned."
+              },
+              "signature": {
+                  "type": "string"
+              },
+              "date-signed": {
+                "type": "string",
+                "format": "date"
+                }
+            }
+          }
+        }
   }
 }

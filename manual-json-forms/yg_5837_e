@@ -1,0 +1,98 @@
+{
+  "title": "Minister of Justice",
+  "description": "community safety awards nomination",
+  "group": {
+    "type": "object",
+    "name": "information about the individual or program",
+    "properties": {
+      "intro-text": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string",
+        "description": "name of nominee"
+      },
+      "title": {
+      	"type": "string",
+        "description": "description of nomineem"
+      },
+      "address": {
+      	"type":"string",
+        "description": "street address of nominee"
+      },
+      "city-postal": {
+        "type": "string",
+        "description": "city and postal code of nominee"
+       },
+       "telephone": {
+        	"type": "string", 
+        	"format": "telephone",
+        	"description": "telephone number of nominee"
+      },
+      "email": {
+      	"type": "string",
+        "description": "email of nominee"
+      }
+  },
+  "group": {
+    "type": "object",
+    "name": "information about you, the nominator",
+    "properties": {
+      "name-nom": {
+        "type": "string",
+        "description": "name of nominator"
+      },
+      "title-nom": {
+        "type": "string",
+        "description": "description of nominator"
+      },
+      "address-nom": {
+        "type":"string",
+        "description": "street address of nominator"
+      },
+      "city-postal-nom": {
+        "type": "string",
+        "description": "city and postal code of nominator"
+       },
+       "telephone-nom": {
+          "type": "string", 
+          "format": "telephone",
+          "description": "telephone number of nominator"
+      },
+      "email-nom": {
+        "type": "string",
+        "description": "email of nominator"
+      }
+  },
+  "group": {
+    "type": "object",
+    "name": "justification for nomination",
+    "properties": {
+      "comment": {
+        "type": "string",
+        "description": "Please describe how the nominee or program’s contribution to community safety is worthy of recognition. Award selection will be based on the information provided by the nominator. Please do not assume that the panel will know anything about the nominee. Include any attributes / accomplishments of the nominee that you believe the selection committee should be aware of."
+      },
+      "description": {
+        "type": "string",
+        "description": "Desciption should not exceed 300 words. (please indicate if you will provide photographs of the nominee or program)",
+        "more": "description of nominees contribution to community safety"
+      }
+  },
+  "group": {
+    "type": "object",
+    "name": "Thank you",
+    "description": "Thank you for completing this nomination form",
+    "properties": {    
+      },
+      "contact-request": {
+      	"type": "string",
+        "enum": [
+        	"yes", 
+        	"no"
+        ]
+        }
+      }
+    }
+  }
+}
+}
