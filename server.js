@@ -62,31 +62,25 @@ server.get('/forms', (req, res) => {
 // Returns a JSON file as the response
 server.get('/forms/:id', (req, res, next) => {
     console.log(`Fetching ${req.params.id}`)
-    // TODO: Cheating, using the _e at all times! :)
 
-    let fileName = `${req.params.id}_e.json`;
+    const potentialPaths = [
+        `${FORM_PATHS[1].path}${req.params.id}_b.json`, // manual bilingual
+        `${FORM_PATHS[1].path}${req.params.id}_e.json`, // manual english
+        `${FORM_PATHS[0].path}${req.params.id}_b.json`, // manual bilingual
+        `${FORM_PATHS[0].path}${req.params.id}_e.json`, // manual english
+    ]
 
-    // TODO: Optimize me... use loops and promises
-    fs.readFile(`${FORM_PATHS[0].path}${fileName}`, (err, data) => {
-        if (err) {
-            fs.readFile(`${FORM_PATHS[1].path}${fileName}`, (err, data) => {
-               if (err) {
-                   res.status(404).jsonp({error: 'Form not found'});
-                   next(err);
-               }
-               else {
-                   data = JSON.parse(data);
-                   res.jsonp(data);
-                   next();
-               }
-            });
-        }
-        else {
-            data = JSON.parse(data);
-            res.jsonp(data);
-            //next();
-        }
-    });
+    const existingPaths = potentialPaths.filter(p => fs.existsSync(p))
+
+    if (existingPaths.length == 0) {
+        res.status(404).jsonp({error: 'Form not found'})
+        return
+    }
+
+    fs.readFile(existingPaths[0], (err, data) => {
+        data = JSON.parse(data)
+        res.jsonp(data)
+    })
 });
 
 // TODO: This is never called. Expected result is to filter French forms. Moving on to next issue.
